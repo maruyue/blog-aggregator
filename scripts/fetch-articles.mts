@@ -56,86 +56,75 @@ async function fetchHN(): Promise<Article[]> {
 // ─── Reddit ──────────────────────────────────────────────────
 
 async function fetchReddit(): Promise<Article[]> {
-  const subreddits = ["programming", "technology", "MachineLearning"];
-  
-  for (const sub of subreddits) {
+  // Use RSS feeds which are less likely to be blocked than JSON API
+  const feeds = [
+    "https://www.reddit.com/r/programming/.rss",
+    "https://www.reddit.com/r/programming/hot/.rss",
+    "https://old.reddit.com/r/programming/.rss",
+  ];
+
+  for (const feed of feeds) {
     try {
-      const res = await fetch(
-        `https://www.reddit.com/r/${sub}/hot.json?limit=15&raw_json=1`,
-        {
-          headers: {
-            "User-Agent": "Mozilla/5.0 (compatible; blog-aggregator/1.0; +https://github.com/maruyue/blog-aggregator)",
-            "Accept": "application/json",
-          },
-        }
-      );
+      console.log(`Trying Reddit RSS: ${feed}`);
+      const res = await fetch(feed, {
+        headers: {
+          "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+        },
+      });
 
       if (!res.ok) {
-        console.error(`Reddit r/${sub} failed: ${res.status}`);
+        console.error(`Reddit RSS ${feed}: ${res.status}`);
         continue;
       }
 
-      const text = await res.text();
-      // Reddit sometimes wraps in a weird way
-      const data = JSON.parse(text);
-      const posts = data.data?.children || [];
+      const xml = await res.text();
 
-      const articles = posts
-        .filter((p: any) => !p.data?.stickied && p.data?.url)
-        .slice(0, 10)
-        .map((p: any) => ({
-          id: `reddit-${p.data.id}`,
-          title: p.data.title,
-          url: p.data.url.startsWith("http")
-            ? p.data.url
-            : `https://reddit.com${p.data.permalink}`,
-          source: "Reddit" as const,
-          score: p.data.score,
-          comments: p.data.num_comments,
-          date: new Date(p.data.created_utc * 1000).toISOString(),
-        }));
+      // Parse RSS XML to extract entries
+      const entryRegex = /<entry>([\s\S]*?)<\/entry>/g;
+      const articles: Article[] = [];
+      let match;
+
+      while ((match = entryRegex.exec(xml)) !== null) {
+        const entry = match[1];
+        const titleMatch = entry.match(/<title>(.*?)<\/title>/);
+        // Reddit RSS uses <link href="..."/> for the external URL
+        const linkMatch = entry.match(/<link\s+href="([^"]+)"/);
+        const updatedMatch = entry.match(/<updated>(.*?)<\/updated>/);
+
+        if (titleMatch && linkMatch) {
+          const title = titleMatch[1]
+            .replace(/&amp;/g, "&")
+            .replace(/&lt;/g, "<")
+            .replace(/&gt;/g, ">")
+            .replace(/&quot;/g, '"')
+            .replace(/&#x27;/g, "'")
+            .replace(/&#39;/g, "'")
+            .trim();
+
+          // Skip sticky/internal Reddit links
+          if (title.startsWith("[mod]") || title.startsWith("[sticky]")) continue;
+
+          articles.push({
+            id: `reddit-${Buffer.from(linkMatch[1]).toString("base64").slice(0, 12)}`,
+            title,
+            url: linkMatch[1],
+            source: "Reddit" as const,
+            date: updatedMatch
+              ? new Date(updatedMatch[1]).toISOString()
+              : new Date().toISOString(),
+          });
+
+          if (articles.length >= 10) break;
+        }
+      }
 
       if (articles.length > 0) {
-        console.log(`Reddit r/${sub}: ${articles.length} articles`);
+        console.log(`Reddit: ${articles.length} articles from ${feed}`);
         return articles;
       }
     } catch (err) {
-      console.error(`Reddit r/${sub} error:`, err);
+      console.error(`Reddit RSS error:`, err);
     }
-  }
-
-  // Fallback: try old.reddit.com
-  try {
-    const res = await fetch(
-      "https://old.reddit.com/r/programming/top.json?limit=15&t=day",
-      {
-        headers: {
-          "User-Agent": "Mozilla/5.0 (compatible; blog-aggregator/1.0)",
-        },
-      }
-    );
-    if (res.ok) {
-      const data = await res.json();
-      const posts = data.data?.children || [];
-      const articles = posts
-        .filter((p: any) => !p.data?.stickied && p.data?.url)
-        .slice(0, 10)
-        .map((p: any) => ({
-          id: `reddit-${p.data.id}`,
-          title: p.data.title,
-          url: p.data.url.startsWith("http")
-            ? p.data.url
-            : `https://reddit.com${p.data.permalink}`,
-          source: "Reddit" as const,
-          score: p.data.score,
-          comments: p.data.num_comments,
-          date: new Date(p.data.created_utc * 1000).toISOString(),
-        }));
-      console.log(`Reddit old: ${articles.length} articles`);
-      return articles;
-    }
-  } catch (err) {
-    console.error("Reddit old error:", err);
   }
 
   console.error("All Reddit sources failed");
