@@ -1,76 +1,183 @@
 {
-  "updatedAt": "2026-04-29T12:36:14.508Z",
+  "updatedAt": "2026-04-29T23:57:39.088Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Terraform &amp; OpenAPI for ClickPipes is now Generally Available",
+      "url": "https://clickhouse.com/blog/terraform-ga",
+      "source": "ClickHouse",
+      "date": "2026-04-29T23:57:38.941Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "EngineeringComparing ClickHouse versions with clickhousectlWe use clickhousectl to spin up multiple ClickHouse versions side by side and benchmark two recent performance improvements.Mark NeedhamApr 29, 2026 · 11 minutes read",
       "url": "https://clickhouse.com/blog/clickhousectl-compare-versions",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:36:14.465Z"
+      "date": "2026-04-29T23:57:38.940Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse at Google Cloud Next &#x27;26",
       "url": "https://clickhouse.com/blog/google-next-2026-recap",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:36:14.465Z"
+      "date": "2026-04-29T23:57:38.940Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s New in pg_clickhouse - JSONB Support, SQL value functions, Streaming, and more",
       "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-april-2026",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:36:14.465Z"
+      "date": "2026-04-29T23:57:38.940Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Do you still need Elasticsearch for log analytics? ClickHouse says no.",
       "url": "https://clickhouse.com/blog/elasticsearch-log-analytics-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:36:14.465Z"
+      "date": "2026-04-29T23:57:38.940Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Using the ClickHouse MCP server with Google Antigravity",
       "url": "https://clickhouse.com/blog/google-antigravity",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:36:14.465Z"
+      "date": "2026-04-29T23:57:38.940Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse integrates with Lakehouse Runtime Catalog",
       "url": "https://clickhouse.com/blog/google-lakehouse-runtime",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:36:14.465Z"
+      "date": "2026-04-29T23:57:38.940Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud on Google Cloud Now Powered by Google Axion Processors: 30–55% Faster Queries, ~15% Fewer Compute Credits",
       "url": "https://clickhouse.com/blog/google-axion",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:36:14.465Z"
+      "date": "2026-04-29T23:57:38.940Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse expands strategic collaboration with Google Cloud, bringing deeper integration, cloud flexibility, and next-generation performance",
       "url": "https://clickhouse.com/blog/clickhouse-expands-strategic-collaboration-with-google-cloud",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:36:14.465Z"
+      "date": "2026-04-29T23:57:38.940Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Index sharding in ClickHouse Cloud: Petabyte-scale data needs petabyte-scale indexing",
       "url": "https://clickhouse.com/blog/index-sharding-clickhouse-cloud-petabyte-scale-indexing",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:36:14.465Z"
+      "date": "2026-04-29T23:57:38.940Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Terraform &amp; OpenAPI for ClickPipes is now Generally Available",
-      "url": "https://clickhouse.com/blog/terraform-ga",
-      "source": "ClickHouse",
-      "date": "2026-04-29T12:36:14.465Z"
+      "id": "hn-47955297",
+      "title": "Germany has become the largest ammunition producer in the world",
+      "url": "https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/",
+      "source": "HackerNews",
+      "score": 92,
+      "comments": 57,
+      "date": "2026-04-29T21:58:46.000Z"
+    },
+    {
+      "id": "hn-47955226",
+      "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
+      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
+      "source": "HackerNews",
+      "score": 1,
+      "comments": 0,
+      "date": "2026-04-29T21:50:57.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Rate Limiters Are System Boundaries",
+      "url": "https://www.reddit.com/r/programming/comments/1szcly2/rate_limiters_are_system_boundaries/",
+      "source": "Reddit",
+      "date": "2026-04-29T21:42:28.000Z"
+    },
+    {
+      "id": "hn-47953541",
+      "title": "OpenTrafficMap",
+      "url": "https://opentrafficmap.org/",
+      "source": "HackerNews",
+      "score": 122,
+      "comments": 26,
+      "date": "2026-04-29T19:49:30.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The PERFECT Code Review: How to Reduce Cognitive Load While Improving Quality",
+      "url": "https://www.reddit.com/r/programming/comments/1sz97hf/the_perfect_code_review_how_to_reduce_cognitive/",
+      "source": "Reddit",
+      "date": "2026-04-29T19:36:23.000Z"
+    },
+    {
+      "id": "hn-47952722",
+      "title": "HERMES.md in commit messages causes requests to route to extra usage billing",
+      "url": "https://github.com/anthropics/claude-code/issues/53262",
+      "source": "HackerNews",
+      "score": 931,
+      "comments": 377,
+      "date": "2026-04-29T18:54:31.000Z"
+    },
+    {
+      "id": "hn-47952181",
+      "title": "Copy Fail – CVE-2026-31431",
+      "url": "https://copy.fail/",
+      "source": "HackerNews",
+      "score": 471,
+      "comments": 220,
+      "date": "2026-04-29T18:13:53.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies",
+      "url": "https://www.reddit.com/r/programming/comments/1sz6j93/fastcgi_30_years_old_and_still_the_better/",
+      "source": "Reddit",
+      "date": "2026-04-29T18:03:04.000Z"
+    },
+    {
+      "id": "hn-47950510",
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+      "source": "HackerNews",
+      "score": 221,
+      "comments": 49,
+      "date": "2026-04-29T16:16:39.000Z"
+    },
+    {
+      "id": "hn-47949939",
+      "title": "Cursor Camp",
+      "url": "https://neal.fun/cursor-camp/",
+      "source": "HackerNews",
+      "score": 529,
+      "comments": 95,
+      "date": "2026-04-29T15:39:43.000Z"
+    },
+    {
+      "id": "hn-47949027",
+      "title": "Zed 1.0",
+      "url": "https://zed.dev/blog/zed-1-0",
+      "source": "HackerNews",
+      "score": 1446,
+      "comments": 456,
+      "date": "2026-04-29T14:34:19.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Someone compromised SAP's npm packages and used the CI pipeline against itself",
+      "url": "https://www.reddit.com/r/programming/comments/1sz094x/someone_compromised_saps_npm_packages_and_used/",
+      "source": "Reddit",
+      "date": "2026-04-29T14:21:04.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Learn concurrency - a deep dive into multithreading with Python",
+      "url": "https://www.reddit.com/r/programming/comments/1syzsbq/learn_concurrency_a_deep_dive_into_multithreading/",
+      "source": "Reddit",
+      "date": "2026-04-29T14:04:11.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -80,54 +187,13 @@
       "date": "2026-04-29T12:24:52.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Blessed Syntax and Ergonomics",
-      "url": "https://www.reddit.com/r/programming/comments/1syx8io/blessed_syntax_and_ergonomics/",
-      "source": "Reddit",
-      "date": "2026-04-29T12:22:50.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "96% of GitHub repos have high severity issues in their Action workflows",
-      "url": "https://www.reddit.com/r/programming/comments/1syx77t/96_of_github_repos_have_high_severity_issues_in/",
-      "source": "Reddit",
-      "date": "2026-04-29T12:21:16.000Z"
-    },
-    {
-      "id": "hn-47947125",
-      "title": "Stardex Is Hiring a Founding Customer Success Lead",
-      "url": "https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead",
+      "id": "hn-47945707",
+      "title": "Why I still reach for Lisp and Scheme instead of Haskell",
+      "url": "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html",
       "source": "HackerNews",
-      "score": 1,
-      "comments": 0,
-      "date": "2026-04-29T12:00:17.000Z"
-    },
-    {
-      "id": "hn-47946958",
-      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
-      "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
-      "source": "HackerNews",
-      "score": 68,
-      "comments": 15,
-      "date": "2026-04-29T11:42:46.000Z"
-    },
-    {
-      "id": "hn-47945918",
-      "title": "Soft launch of open-source code platform for government",
-      "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-      "source": "HackerNews",
-      "score": 214,
-      "comments": 74,
-      "date": "2026-04-29T09:14:37.000Z"
-    },
-    {
-      "id": "hn-47945861",
-      "title": "Why Law Is Law-Shaped",
-      "url": "https://lawvm.org/why-law-is-law-shaped/",
-      "source": "HackerNews",
-      "score": 53,
-      "comments": 23,
-      "date": "2026-04-29T09:03:31.000Z"
+      "score": 149,
+      "comments": 43,
+      "date": "2026-04-29T08:43:17.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -137,49 +203,6 @@
       "date": "2026-04-29T07:12:36.000Z"
     },
     {
-      "id": "hn-47944864",
-      "title": "HardenedBSD Is Now Officially on Radicle",
-      "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
-      "source": "HackerNews",
-      "score": 93,
-      "comments": 22,
-      "date": "2026-04-29T06:38:44.000Z"
-    },
-    {
-      "id": "hn-47943499",
-      "title": "Bugs Rust won't catch",
-      "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-      "source": "HackerNews",
-      "score": 384,
-      "comments": 189,
-      "date": "2026-04-29T02:19:11.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "pip v26.1 adds support for relative dependency cooldowns",
-      "url": "https://www.reddit.com/r/programming/comments/1sylm66/pip_v261_adds_support_for_relative_dependency/",
-      "source": "Reddit",
-      "date": "2026-04-29T02:16:56.000Z"
-    },
-    {
-      "id": "hn-47942437",
-      "title": "How ChatGPT serves ads",
-      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-      "source": "HackerNews",
-      "score": 389,
-      "comments": 258,
-      "date": "2026-04-28T23:54:14.000Z"
-    },
-    {
-      "id": "hn-47940921",
-      "title": "Before GitHub",
-      "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-      "source": "HackerNews",
-      "score": 521,
-      "comments": 160,
-      "date": "2026-04-28T21:17:40.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "Ghostty Is Leaving GitHub",
       "url": "https://www.reddit.com/r/programming/comments/1sye8fc/ghostty_is_leaving_github/",
@@ -187,36 +210,13 @@
       "date": "2026-04-28T21:04:10.000Z"
     },
     {
-      "id": "hn-47939579",
-      "title": "Ghostty is leaving GitHub",
-      "url": "https://mitchellh.com/writing/ghostty-leaving-github",
+      "id": "hn-47933359",
+      "title": "DRAM Crunch: Lessons for System Design",
+      "url": "https://www.eetimes.com/what-the-dram-crunch-teaches-us-about-system-design/",
       "source": "HackerNews",
-      "score": 2806,
-      "comments": 831,
-      "date": "2026-04-28T19:44:52.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Researchers Find RCE Vulnerability in GitHub.com (CVE-2026-3854)",
-      "url": "https://www.reddit.com/r/programming/comments/1syaqsc/researchers_find_rce_vulnerability_in_githubcom/",
-      "source": "Reddit",
-      "date": "2026-04-28T18:58:54.000Z"
-    },
-    {
-      "id": "hn-47935246",
-      "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
-      "url": "https://github.com/rocky-data/rocky",
-      "source": "HackerNews",
-      "score": 72,
-      "comments": 11,
-      "date": "2026-04-28T14:35:59.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "An update on GitHub availability",
-      "url": "https://www.reddit.com/r/programming/comments/1sy00b7/an_update_on_github_availability/",
-      "source": "Reddit",
-      "date": "2026-04-28T12:30:09.000Z"
+      "score": 16,
+      "comments": 0,
+      "date": "2026-04-28T12:07:55.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
