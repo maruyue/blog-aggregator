@@ -56,37 +56,90 @@ async function fetchHN(): Promise<Article[]> {
 // ─── Reddit ──────────────────────────────────────────────────
 
 async function fetchReddit(): Promise<Article[]> {
-  // Use r/programming as a good general tech source
   const subreddits = ["programming", "technology", "MachineLearning"];
-  const sub = subreddits[Math.floor(Math.random() * subreddits.length)];
+  
+  for (const sub of subreddits) {
+    try {
+      const res = await fetch(
+        `https://www.reddit.com/r/${sub}/hot.json?limit=15&raw_json=1`,
+        {
+          headers: {
+            "User-Agent": "Mozilla/5.0 (compatible; blog-aggregator/1.0; +https://github.com/maruyue/blog-aggregator)",
+            "Accept": "application/json",
+          },
+        }
+      );
 
-  const res = await fetch(
-    `https://www.reddit.com/r/${sub}/hot.json?limit=15`,
-    { headers: { "User-Agent": "blog-aggregator/1.0" } }
-  );
+      if (!res.ok) {
+        console.error(`Reddit r/${sub} failed: ${res.status}`);
+        continue;
+      }
 
-  if (!res.ok) {
-    console.error(`Reddit fetch failed: ${res.status}`);
-    return [];
+      const text = await res.text();
+      // Reddit sometimes wraps in a weird way
+      const data = JSON.parse(text);
+      const posts = data.data?.children || [];
+
+      const articles = posts
+        .filter((p: any) => !p.data?.stickied && p.data?.url)
+        .slice(0, 10)
+        .map((p: any) => ({
+          id: `reddit-${p.data.id}`,
+          title: p.data.title,
+          url: p.data.url.startsWith("http")
+            ? p.data.url
+            : `https://reddit.com${p.data.permalink}`,
+          source: "Reddit" as const,
+          score: p.data.score,
+          comments: p.data.num_comments,
+          date: new Date(p.data.created_utc * 1000).toISOString(),
+        }));
+
+      if (articles.length > 0) {
+        console.log(`Reddit r/${sub}: ${articles.length} articles`);
+        return articles;
+      }
+    } catch (err) {
+      console.error(`Reddit r/${sub} error:`, err);
+    }
   }
 
-  const data = await res.json();
-  const posts = data.data.children;
+  // Fallback: try old.reddit.com
+  try {
+    const res = await fetch(
+      "https://old.reddit.com/r/programming/top.json?limit=15&t=day",
+      {
+        headers: {
+          "User-Agent": "Mozilla/5.0 (compatible; blog-aggregator/1.0)",
+        },
+      }
+    );
+    if (res.ok) {
+      const data = await res.json();
+      const posts = data.data?.children || [];
+      const articles = posts
+        .filter((p: any) => !p.data?.stickied && p.data?.url)
+        .slice(0, 10)
+        .map((p: any) => ({
+          id: `reddit-${p.data.id}`,
+          title: p.data.title,
+          url: p.data.url.startsWith("http")
+            ? p.data.url
+            : `https://reddit.com${p.data.permalink}`,
+          source: "Reddit" as const,
+          score: p.data.score,
+          comments: p.data.num_comments,
+          date: new Date(p.data.created_utc * 1000).toISOString(),
+        }));
+      console.log(`Reddit old: ${articles.length} articles`);
+      return articles;
+    }
+  } catch (err) {
+    console.error("Reddit old error:", err);
+  }
 
-  return posts
-    .filter((p: any) => !p.data.stickied && p.data.url)
-    .slice(0, 10)
-    .map((p: any) => ({
-      id: `reddit-${p.data.id}`,
-      title: p.data.title,
-      url: p.data.url.startsWith("http")
-        ? p.data.url
-        : `https://reddit.com${p.data.permalink}`,
-      source: "Reddit" as const,
-      score: p.data.score,
-      comments: p.data.num_comments,
-      date: new Date(p.data.created_utc * 1000).toISOString(),
-    }));
+  console.error("All Reddit sources failed");
+  return [];
 }
 
 // ─── ClickHouse Blog ─────────────────────────────────────────
