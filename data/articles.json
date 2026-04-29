@@ -1,76 +1,97 @@
 {
-  "updatedAt": "2026-04-29T12:33:56.692Z",
-  "total": 20,
+  "updatedAt": "2026-04-29T12:36:14.508Z",
+  "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "EngineeringComparing ClickHouse versions with clickhousectlWe use clickhousectl to spin up multiple ClickHouse versions side by side and benchmark two recent performance improvements.Mark NeedhamApr 29, 2026 · 11 minutes read",
       "url": "https://clickhouse.com/blog/clickhousectl-compare-versions",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:33:56.691Z"
+      "date": "2026-04-29T12:36:14.465Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse at Google Cloud Next &#x27;26",
       "url": "https://clickhouse.com/blog/google-next-2026-recap",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:33:56.691Z"
+      "date": "2026-04-29T12:36:14.465Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s New in pg_clickhouse - JSONB Support, SQL value functions, Streaming, and more",
       "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-april-2026",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:33:56.691Z"
+      "date": "2026-04-29T12:36:14.465Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Do you still need Elasticsearch for log analytics? ClickHouse says no.",
       "url": "https://clickhouse.com/blog/elasticsearch-log-analytics-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:33:56.691Z"
+      "date": "2026-04-29T12:36:14.465Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Using the ClickHouse MCP server with Google Antigravity",
       "url": "https://clickhouse.com/blog/google-antigravity",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:33:56.691Z"
+      "date": "2026-04-29T12:36:14.465Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse integrates with Lakehouse Runtime Catalog",
       "url": "https://clickhouse.com/blog/google-lakehouse-runtime",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:33:56.691Z"
+      "date": "2026-04-29T12:36:14.465Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud on Google Cloud Now Powered by Google Axion Processors: 30–55% Faster Queries, ~15% Fewer Compute Credits",
       "url": "https://clickhouse.com/blog/google-axion",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:33:56.691Z"
+      "date": "2026-04-29T12:36:14.465Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse expands strategic collaboration with Google Cloud, bringing deeper integration, cloud flexibility, and next-generation performance",
       "url": "https://clickhouse.com/blog/clickhouse-expands-strategic-collaboration-with-google-cloud",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:33:56.691Z"
+      "date": "2026-04-29T12:36:14.465Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Index sharding in ClickHouse Cloud: Petabyte-scale data needs petabyte-scale indexing",
       "url": "https://clickhouse.com/blog/index-sharding-clickhouse-cloud-petabyte-scale-indexing",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:33:56.691Z"
+      "date": "2026-04-29T12:36:14.465Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Terraform &amp; OpenAPI for ClickPipes is now Generally Available",
       "url": "https://clickhouse.com/blog/terraform-ga",
       "source": "ClickHouse",
-      "date": "2026-04-29T12:33:56.691Z"
+      "date": "2026-04-29T12:36:14.465Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Replacing Neovim's terminal with tmux's display-popup",
+      "url": "https://www.reddit.com/r/programming/comments/1syxa7y/replacing_neovims_terminal_with_tmuxs_displaypopup/",
+      "source": "Reddit",
+      "date": "2026-04-29T12:24:52.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Blessed Syntax and Ergonomics",
+      "url": "https://www.reddit.com/r/programming/comments/1syx8io/blessed_syntax_and_ergonomics/",
+      "source": "Reddit",
+      "date": "2026-04-29T12:22:50.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "96% of GitHub repos have high severity issues in their Action workflows",
+      "url": "https://www.reddit.com/r/programming/comments/1syx77t/96_of_github_repos_have_high_severity_issues_in/",
+      "source": "Reddit",
+      "date": "2026-04-29T12:21:16.000Z"
     },
     {
       "id": "hn-47947125",
@@ -86,8 +107,8 @@
       "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
       "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/",
       "source": "HackerNews",
-      "score": 64,
-      "comments": 13,
+      "score": 68,
+      "comments": 15,
       "date": "2026-04-29T11:42:46.000Z"
     },
     {
@@ -95,7 +116,7 @@
       "title": "Soft launch of open-source code platform for government",
       "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
       "source": "HackerNews",
-      "score": 211,
+      "score": 214,
       "comments": 74,
       "date": "2026-04-29T09:14:37.000Z"
     },
@@ -105,8 +126,15 @@
       "url": "https://lawvm.org/why-law-is-law-shaped/",
       "source": "HackerNews",
       "score": 53,
-      "comments": 22,
+      "comments": 23,
       "date": "2026-04-29T09:03:31.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Bugs Rust Won't Catch",
+      "url": "https://www.reddit.com/r/programming/comments/1syrgku/bugs_rust_wont_catch/",
+      "source": "Reddit",
+      "date": "2026-04-29T07:12:36.000Z"
     },
     {
       "id": "hn-47944864",
@@ -127,12 +155,19 @@
       "date": "2026-04-29T02:19:11.000Z"
     },
     {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "pip v26.1 adds support for relative dependency cooldowns",
+      "url": "https://www.reddit.com/r/programming/comments/1sylm66/pip_v261_adds_support_for_relative_dependency/",
+      "source": "Reddit",
+      "date": "2026-04-29T02:16:56.000Z"
+    },
+    {
       "id": "hn-47942437",
       "title": "How ChatGPT serves ads",
       "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
       "source": "HackerNews",
       "score": 389,
-      "comments": 256,
+      "comments": 258,
       "date": "2026-04-28T23:54:14.000Z"
     },
     {
@@ -141,26 +176,61 @@
       "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
       "source": "HackerNews",
       "score": 521,
-      "comments": 159,
+      "comments": 160,
       "date": "2026-04-28T21:17:40.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Ghostty Is Leaving GitHub",
+      "url": "https://www.reddit.com/r/programming/comments/1sye8fc/ghostty_is_leaving_github/",
+      "source": "Reddit",
+      "date": "2026-04-28T21:04:10.000Z"
     },
     {
       "id": "hn-47939579",
       "title": "Ghostty is leaving GitHub",
       "url": "https://mitchellh.com/writing/ghostty-leaving-github",
       "source": "HackerNews",
-      "score": 2802,
-      "comments": 830,
+      "score": 2806,
+      "comments": 831,
       "date": "2026-04-28T19:44:52.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Researchers Find RCE Vulnerability in GitHub.com (CVE-2026-3854)",
+      "url": "https://www.reddit.com/r/programming/comments/1syaqsc/researchers_find_rce_vulnerability_in_githubcom/",
+      "source": "Reddit",
+      "date": "2026-04-28T18:58:54.000Z"
     },
     {
       "id": "hn-47935246",
       "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
       "url": "https://github.com/rocky-data/rocky",
       "source": "HackerNews",
-      "score": 71,
+      "score": 72,
       "comments": 11,
       "date": "2026-04-28T14:35:59.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "An update on GitHub availability",
+      "url": "https://www.reddit.com/r/programming/comments/1sy00b7/an_update_on_github_availability/",
+      "source": "Reddit",
+      "date": "2026-04-28T12:30:09.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Announcement: Temporary LLM Content Ban",
+      "url": "https://www.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
+      "source": "Reddit",
+      "date": "2026-04-01T12:48:20.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "State of the Subreddit (January 2027): Mods applications and rules updates",
+      "url": "https://www.reddit.com/r/programming/comments/1qoxwdt/state_of_the_subreddit_january_2027_mods/",
+      "source": "Reddit",
+      "date": "2026-01-28T01:54:14.000Z"
     }
   ]
 }
