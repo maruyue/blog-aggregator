@@ -1,0 +1,76 @@
+{
+  "updatedAt": "2026-04-29T10:07:09.322Z",
+  "total": 10,
+  "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Do you still need Elasticsearch for log analytics? ClickHouse says no.",
+      "url": "https://clickhouse.com/blog/elasticsearch-log-analytics-clickhouse",
+      "source": "ClickHouse",
+      "date": "2026-04-29T10:06:50.507Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Using the ClickHouse MCP server with Google Antigravity",
+      "url": "https://clickhouse.com/blog/google-antigravity",
+      "source": "ClickHouse",
+      "date": "2026-04-29T10:06:50.507Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse integrates with Lakehouse Runtime Catalog",
+      "url": "https://clickhouse.com/blog/google-lakehouse-runtime",
+      "source": "ClickHouse",
+      "date": "2026-04-29T10:06:50.507Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse Cloud on Google Cloud Now Powered by Google Axion Processors: 30–55% Faster Queries, ~15% Fewer Compute Credits",
+      "url": "https://clickhouse.com/blog/google-axion",
+      "source": "ClickHouse",
+      "date": "2026-04-29T10:06:50.507Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse expands strategic collaboration with Google Cloud, bringing deeper integration, cloud flexibility, and next-generation performance",
+      "url": "https://clickhouse.com/blog/clickhouse-expands-strategic-collaboration-with-google-cloud",
+      "source": "ClickHouse",
+      "date": "2026-04-29T10:06:50.507Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Index sharding in ClickHouse Cloud: Petabyte-scale data needs petabyte-scale indexing",
+      "url": "https://clickhouse.com/blog/index-sharding-clickhouse-cloud-petabyte-scale-indexing",
+      "source": "ClickHouse",
+      "date": "2026-04-29T10:06:50.507Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Terraform &amp; OpenAPI for ClickPipes is now Generally Available",
+      "url": "https://clickhouse.com/blog/terraform-ga",
+      "source": "ClickHouse",
+      "date": "2026-04-29T10:06:50.507Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "EngineeringComparing ClickHouse versions with clickhousectlWe use clickhousectl to spin up multiple ClickHouse versions side by side and benchmark two recent performance improvements.Mark NeedhamApr 29, 2026 · 11 minutes read",
+      "url": "https://clickhouse.com/blog/clickhousectl-compare-versions",
+      "source": "ClickHouse",
+      "date": "2026-04-29T10:06:50.506Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse at Google Cloud Next &#x27;26",
+      "url": "https://clickhouse.com/blog/google-next-2026-recap",
+      "source": "ClickHouse",
+      "date": "2026-04-29T10:06:50.506Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What&#x27;s New in pg_clickhouse - JSONB Support, SQL value functions, Streaming, and more",
+      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-april-2026",
+      "source": "ClickHouse",
+      "date": "2026-04-29T10:06:50.506Z"
+    }
+  ]
+}
