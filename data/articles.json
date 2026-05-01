@@ -1,126 +1,197 @@
 {
-  "updatedAt": "2026-04-30T23:55:11.981Z",
+  "updatedAt": "2026-05-01T23:55:13.291Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "EngineeringComparing ClickHouse versions with clickhousectlWe use clickhousectl to spin up multiple ClickHouse versions side by side and benchmark two recent performance improvements.Mark NeedhamApr 29, 2026 · 11 minutes read",
+      "title": "User storiesGoodbye limitations, hello data: How Qonto is rethinking observability with ClickHouse CloudHow Qonto uses ClickHouse Cloud to power observability at scale — replacing sampling and hour-capped queries with two-week query windows, 99.84% compression on high-cardinality data, and an AI incident companion built on the ClickHouse MCP server.May 1, 2026 · 11 minutes read",
+      "url": "https://clickhouse.com/blog/qonto",
+      "source": "ClickHouse",
+      "date": "2026-05-01T23:55:13.290Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Comparing ClickHouse versions with clickhousectl",
       "url": "https://clickhouse.com/blog/clickhousectl-compare-versions",
       "source": "ClickHouse",
-      "date": "2026-04-30T23:55:11.917Z"
+      "date": "2026-05-01T23:55:13.290Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse at Google Cloud Next &#x27;26",
       "url": "https://clickhouse.com/blog/google-next-2026-recap",
       "source": "ClickHouse",
-      "date": "2026-04-30T23:55:11.917Z"
+      "date": "2026-05-01T23:55:13.290Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s New in pg_clickhouse - JSONB Support, SQL value functions, Streaming, and more",
       "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-april-2026",
       "source": "ClickHouse",
-      "date": "2026-04-30T23:55:11.917Z"
+      "date": "2026-05-01T23:55:13.290Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Do you still need Elasticsearch for log analytics? ClickHouse says no.",
       "url": "https://clickhouse.com/blog/elasticsearch-log-analytics-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-04-30T23:55:11.917Z"
+      "date": "2026-05-01T23:55:13.290Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Using the ClickHouse MCP server with Google Antigravity",
       "url": "https://clickhouse.com/blog/google-antigravity",
       "source": "ClickHouse",
-      "date": "2026-04-30T23:55:11.917Z"
+      "date": "2026-05-01T23:55:13.290Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse integrates with Lakehouse Runtime Catalog",
       "url": "https://clickhouse.com/blog/google-lakehouse-runtime",
       "source": "ClickHouse",
-      "date": "2026-04-30T23:55:11.917Z"
+      "date": "2026-05-01T23:55:13.290Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud on Google Cloud Now Powered by Google Axion Processors: 30–55% Faster Queries, ~15% Fewer Compute Credits",
       "url": "https://clickhouse.com/blog/google-axion",
       "source": "ClickHouse",
-      "date": "2026-04-30T23:55:11.917Z"
+      "date": "2026-05-01T23:55:13.290Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse expands strategic collaboration with Google Cloud, bringing deeper integration, cloud flexibility, and next-generation performance",
       "url": "https://clickhouse.com/blog/clickhouse-expands-strategic-collaboration-with-google-cloud",
       "source": "ClickHouse",
-      "date": "2026-04-30T23:55:11.917Z"
+      "date": "2026-05-01T23:55:13.290Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Index sharding in ClickHouse Cloud: Petabyte-scale data needs petabyte-scale indexing",
       "url": "https://clickhouse.com/blog/index-sharding-clickhouse-cloud-petabyte-scale-indexing",
       "source": "ClickHouse",
-      "date": "2026-04-30T23:55:11.917Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Terraform &amp; OpenAPI for ClickPipes is now Generally Available",
-      "url": "https://clickhouse.com/blog/terraform-ga",
-      "source": "ClickHouse",
-      "date": "2026-04-30T23:55:11.917Z"
-    },
-    {
-      "id": "hn-47968982",
-      "title": "Snowball Earth may hide a far stranger climate cycle than anyone expected",
-      "url": "https://sciencex.com/news/2026-04-snowball-earth-stranger-climate.html",
-      "source": "HackerNews",
-      "score": 17,
-      "comments": 1,
-      "date": "2026-04-30T22:18:57.000Z"
-    },
-    {
-      "id": "hn-47968112",
-      "title": "Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell",
-      "url": "https://pu.dev/",
-      "source": "HackerNews",
-      "score": 58,
-      "comments": 16,
-      "date": "2026-04-30T20:55:12.000Z"
+      "date": "2026-05-01T23:55:13.290Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "osu's 2016 source code was re-leaked by an ORC user (this time it's the full git)",
-      "url": "https://www.reddit.com/r/programming/comments/1t08106/osus_2016_source_code_was_releaked_by_an_orc_user/",
+      "title": "stackless coroutines for gamedev in ~200 lines of C++",
+      "url": "https://www.reddit.com/r/programming/comments/1t171xr/stackless_coroutines_for_gamedev_in_200_lines_of_c/",
       "source": "Reddit",
-      "date": "2026-04-30T20:28:34.000Z"
+      "date": "2026-05-01T21:48:36.000Z"
     },
     {
-      "id": "hn-47967786",
-      "title": "Rivian allows you to disable all internet connectivity",
-      "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+      "id": "hn-47979839",
+      "title": "Credit cards are vulnerable to brute force kind attacks",
+      "url": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
       "source": "HackerNews",
-      "score": 376,
-      "comments": 147,
-      "date": "2026-04-30T20:27:22.000Z"
+      "score": 173,
+      "comments": 142,
+      "date": "2026-05-01T20:26:24.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Reverse Engineering SimTower",
-      "url": "https://www.reddit.com/r/programming/comments/1t07fwr/reverse_engineering_simtower/",
+      "title": "GitHub Enshittification",
+      "url": "https://www.reddit.com/r/programming/comments/1t14sgu/github_enshittification/",
       "source": "Reddit",
-      "date": "2026-04-30T20:08:03.000Z"
+      "date": "2026-05-01T20:21:35.000Z"
     },
     {
-      "id": "hn-47967262",
-      "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
-      "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
+      "id": "hn-47979583",
+      "title": "Ti-84 Evo",
+      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
       "source": "HackerNews",
-      "score": 346,
-      "comments": 146,
-      "date": "2026-04-30T19:40:20.000Z"
+      "score": 210,
+      "comments": 225,
+      "date": "2026-05-01T20:06:59.000Z"
+    },
+    {
+      "id": "hn-47979190",
+      "title": "Whimsical Animations Course Open House",
+      "url": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
+      "source": "HackerNews",
+      "score": 52,
+      "comments": 7,
+      "date": "2026-05-01T19:35:39.000Z"
+    },
+    {
+      "id": "hn-47978834",
+      "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
+      "url": "https://github.com/microsoft/lib0xc",
+      "source": "HackerNews",
+      "score": 47,
+      "comments": 17,
+      "date": "2026-05-01T19:10:56.000Z"
+    },
+    {
+      "id": "hn-47978370",
+      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
+      "url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
+      "source": "HackerNews",
+      "score": 262,
+      "comments": 81,
+      "date": "2026-05-01T18:37:47.000Z"
+    },
+    {
+      "id": "hn-47977748",
+      "title": "New research suggests people can communicate and practice skills while dreaming",
+      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
+      "source": "HackerNews",
+      "score": 196,
+      "comments": 107,
+      "date": "2026-05-01T17:47:42.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How Containers Work: Building a Docker-like Container From Scratch",
+      "url": "https://www.reddit.com/r/programming/comments/1t0w811/how_containers_work_building_a_dockerlike/",
+      "source": "Reddit",
+      "date": "2026-05-01T15:12:52.000Z"
+    },
+    {
+      "id": "hn-47975592",
+      "title": "Whohas – Command-line utility for cross-distro, cross-repository package search",
+      "url": "https://github.com/whohas/whohas",
+      "source": "HackerNews",
+      "score": 119,
+      "comments": 26,
+      "date": "2026-05-01T15:01:08.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Three Durable Function Forms",
+      "url": "https://www.reddit.com/r/programming/comments/1t0tsow/the_three_durable_function_forms/",
+      "source": "Reddit",
+      "date": "2026-05-01T13:42:01.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Tiny UDP Cannon: An Android VPN Bypass [uses an optimization for QUIC]",
+      "url": "https://www.reddit.com/r/programming/comments/1t0rc9t/the_tiny_udp_cannon_an_android_vpn_bypass_uses_an/",
+      "source": "Reddit",
+      "date": "2026-05-01T11:57:57.000Z"
+    },
+    {
+      "id": "hn-47973547",
+      "title": "SpaceX rocket set for unintentional moon landing – well, a piece of it anyway",
+      "url": "https://www.theregister.com/2026/05/01/spacex_debris_landing/",
+      "source": "HackerNews",
+      "score": 35,
+      "comments": 17,
+      "date": "2026-05-01T11:31:52.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "GitHub does not have to be your only forge",
+      "url": "https://www.reddit.com/r/programming/comments/1t0on62/github_does_not_have_to_be_your_only_forge/",
+      "source": "Reddit",
+      "date": "2026-05-01T09:38:46.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+      "url": "https://www.reddit.com/r/programming/comments/1t0m1pn/for_linux_kernel_vulnerabilities_there_is_no/",
+      "source": "Reddit",
+      "date": "2026-05-01T07:08:15.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -130,93 +201,22 @@
       "date": "2026-04-30T18:48:35.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "HA pipelines without Kafka",
-      "url": "https://www.reddit.com/r/programming/comments/1t04cxo/ha_pipelines_without_kafka/",
-      "source": "Reddit",
-      "date": "2026-04-30T18:16:44.000Z"
-    },
-    {
-      "id": "hn-47965503",
-      "title": "I built a Game Boy emulator in F#",
-      "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+      "id": "hn-47955789",
+      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
+      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
       "source": "HackerNews",
-      "score": 185,
-      "comments": 46,
-      "date": "2026-04-30T17:14:21.000Z"
+      "score": 68,
+      "comments": 72,
+      "date": "2026-04-29T22:56:10.000Z"
     },
     {
-      "id": "hn-47965108",
-      "title": "CopyFail was not disclosed to distro developers?",
-      "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+      "id": "hn-47950070",
+      "title": "The smelly baby problem",
+      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
       "source": "HackerNews",
-      "score": 329,
-      "comments": 269,
-      "date": "2026-04-30T16:43:47.000Z"
-    },
-    {
-      "id": "hn-47965060",
-      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-      "source": "HackerNews",
-      "score": 391,
-      "comments": 116,
-      "date": "2026-04-30T16:41:00.000Z"
-    },
-    {
-      "id": "hn-47964617",
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-      "source": "HackerNews",
-      "score": 305,
-      "comments": 99,
-      "date": "2026-04-30T16:09:26.000Z"
-    },
-    {
-      "id": "hn-47963204",
-      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "url": "https://twitter.com/theo/status/2049645973350363168",
-      "source": "HackerNews",
-      "score": 897,
-      "comments": 509,
-      "date": "2026-04-30T14:36:58.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator",
-      "url": "https://www.reddit.com/r/programming/comments/1szxsk7/no_really_bash_is_not_enough_why_largescale_ci/",
-      "source": "Reddit",
-      "date": "2026-04-30T14:32:35.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Copy Fail: an exploit for all Linux distributions since 2017",
-      "url": "https://www.reddit.com/r/programming/comments/1szrkre/copy_fail_an_exploit_for_all_linux_distributions/",
-      "source": "Reddit",
-      "date": "2026-04-30T09:55:21.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Amber-Lang 0.6.0 - New release (Bash transpiler)",
-      "url": "https://www.reddit.com/r/programming/comments/1szqpxo/amberlang_060_new_release_bash_transpiler/",
-      "source": "Reddit",
-      "date": "2026-04-30T09:05:34.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Learn Algorithms for Interviews, Forget Them for Work",
-      "url": "https://www.reddit.com/r/programming/comments/1szmnmb/learn_algorithms_for_interviews_forget_them_for/",
-      "source": "Reddit",
-      "date": "2026-04-30T05:14:43.000Z"
-    },
-    {
-      "id": "hn-47951295",
-      "title": "Opus 4.7 knows the real Kelsey",
-      "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-      "source": "HackerNews",
-      "score": 93,
-      "comments": 42,
-      "date": "2026-04-29T17:09:03.000Z"
+      "score": 58,
+      "comments": 22,
+      "date": "2026-04-29T15:48:18.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
