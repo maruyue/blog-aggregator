@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T23:55:13.291Z",
+  "updatedAt": "2026-05-02T23:50:14.265Z",
   "total": 30,
   "articles": [
     {
@@ -7,70 +7,186 @@
       "title": "User storiesGoodbye limitations, hello data: How Qonto is rethinking observability with ClickHouse CloudHow Qonto uses ClickHouse Cloud to power observability at scale — replacing sampling and hour-capped queries with two-week query windows, 99.84% compression on high-cardinality data, and an AI incident companion built on the ClickHouse MCP server.May 1, 2026 · 11 minutes read",
       "url": "https://clickhouse.com/blog/qonto",
       "source": "ClickHouse",
-      "date": "2026-05-01T23:55:13.290Z"
+      "date": "2026-05-02T23:50:14.264Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Comparing ClickHouse versions with clickhousectl",
       "url": "https://clickhouse.com/blog/clickhousectl-compare-versions",
       "source": "ClickHouse",
-      "date": "2026-05-01T23:55:13.290Z"
+      "date": "2026-05-02T23:50:14.264Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse at Google Cloud Next &#x27;26",
       "url": "https://clickhouse.com/blog/google-next-2026-recap",
       "source": "ClickHouse",
-      "date": "2026-05-01T23:55:13.290Z"
+      "date": "2026-05-02T23:50:14.264Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s New in pg_clickhouse - JSONB Support, SQL value functions, Streaming, and more",
       "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-april-2026",
       "source": "ClickHouse",
-      "date": "2026-05-01T23:55:13.290Z"
+      "date": "2026-05-02T23:50:14.264Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Do you still need Elasticsearch for log analytics? ClickHouse says no.",
       "url": "https://clickhouse.com/blog/elasticsearch-log-analytics-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-05-01T23:55:13.290Z"
+      "date": "2026-05-02T23:50:14.264Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Using the ClickHouse MCP server with Google Antigravity",
       "url": "https://clickhouse.com/blog/google-antigravity",
       "source": "ClickHouse",
-      "date": "2026-05-01T23:55:13.290Z"
+      "date": "2026-05-02T23:50:14.264Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse integrates with Lakehouse Runtime Catalog",
       "url": "https://clickhouse.com/blog/google-lakehouse-runtime",
       "source": "ClickHouse",
-      "date": "2026-05-01T23:55:13.290Z"
+      "date": "2026-05-02T23:50:14.264Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud on Google Cloud Now Powered by Google Axion Processors: 30–55% Faster Queries, ~15% Fewer Compute Credits",
       "url": "https://clickhouse.com/blog/google-axion",
       "source": "ClickHouse",
-      "date": "2026-05-01T23:55:13.290Z"
+      "date": "2026-05-02T23:50:14.264Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse expands strategic collaboration with Google Cloud, bringing deeper integration, cloud flexibility, and next-generation performance",
       "url": "https://clickhouse.com/blog/clickhouse-expands-strategic-collaboration-with-google-cloud",
       "source": "ClickHouse",
-      "date": "2026-05-01T23:55:13.290Z"
+      "date": "2026-05-02T23:50:14.264Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Index sharding in ClickHouse Cloud: Petabyte-scale data needs petabyte-scale indexing",
       "url": "https://clickhouse.com/blog/index-sharding-clickhouse-cloud-petabyte-scale-indexing",
       "source": "ClickHouse",
-      "date": "2026-05-01T23:55:13.290Z"
+      "date": "2026-05-02T23:50:14.264Z"
+    },
+    {
+      "id": "hn-47991350",
+      "title": "Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him",
+      "url": "https://electrek.co/2026/05/02/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/",
+      "source": "HackerNews",
+      "score": 45,
+      "comments": 3,
+      "date": "2026-05-02T22:45:23.000Z"
+    },
+    {
+      "id": "hn-47990789",
+      "title": "Clojurists Together – Q2 2026 Open Source Funding Announcement",
+      "url": "https://www.clojuriststogether.org/news/q2-2026-funding-announcement/",
+      "source": "HackerNews",
+      "score": 21,
+      "comments": 4,
+      "date": "2026-05-02T21:34:49.000Z"
+    },
+    {
+      "id": "hn-47990675",
+      "title": "The agent harness belongs outside the sandbox",
+      "url": "https://www.mendral.com/blog/agent-harness-belongs-outside-sandbox",
+      "source": "HackerNews",
+      "score": 44,
+      "comments": 33,
+      "date": "2026-05-02T21:21:27.000Z"
+    },
+    {
+      "id": "hn-47990606",
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+      "source": "HackerNews",
+      "score": 113,
+      "comments": 19,
+      "date": "2026-05-02T21:14:29.000Z"
+    },
+    {
+      "id": "hn-47990318",
+      "title": "This Month in Ladybird - April 2026",
+      "url": "https://ladybird.org/newsletter/2026-04-30/",
+      "source": "HackerNews",
+      "score": 97,
+      "comments": 16,
+      "date": "2026-05-02T20:46:30.000Z"
+    },
+    {
+      "id": "hn-47990284",
+      "title": "Neanderthals ran 'fat factories' 125,000 years ago",
+      "url": "https://www.universiteitleiden.nl/en/news/2025/07/neanderthals-ran-fat-factories-125000-years-ago",
+      "source": "HackerNews",
+      "score": 69,
+      "comments": 16,
+      "date": "2026-05-02T20:42:20.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Unsigned sizes: a five year mistake",
+      "url": "https://www.reddit.com/r/programming/comments/1t20rdz/unsigned_sizes_a_five_year_mistake/",
+      "source": "Reddit",
+      "date": "2026-05-02T20:25:00.000Z"
+    },
+    {
+      "id": "hn-47989883",
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "url": "https://github.com/microsoft/vscode/pull/310226",
+      "source": "HackerNews",
+      "score": 554,
+      "comments": 242,
+      "date": "2026-05-02T19:57:26.000Z"
+    },
+    {
+      "id": "hn-47988592",
+      "title": "Do_not_track",
+      "url": "https://donottrack.sh/",
+      "source": "HackerNews",
+      "score": 166,
+      "comments": 56,
+      "date": "2026-05-02T17:40:55.000Z"
+    },
+    {
+      "id": "hn-47988504",
+      "title": "Dav2d",
+      "url": "https://code.videolan.org/videolan/dav2d",
+      "source": "HackerNews",
+      "score": 295,
+      "comments": 99,
+      "date": "2026-05-02T17:32:29.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Approaching zero bugs? - Daniel Stenberg",
+      "url": "https://www.reddit.com/r/programming/comments/1t1uplj/approaching_zero_bugs_daniel_stenberg/",
+      "source": "Reddit",
+      "date": "2026-05-02T16:35:29.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Continuing the story of early DOS development",
+      "url": "https://www.reddit.com/r/programming/comments/1t1mri9/continuing_the_story_of_early_dos_development/",
+      "source": "Reddit",
+      "date": "2026-05-02T10:59:23.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Have your Iceberg Cubed, Not Sorted: Meet Qbeast, the OTree Spatial Index",
+      "url": "https://www.reddit.com/r/programming/comments/1t1le4k/have_your_iceberg_cubed_not_sorted_meet_qbeast/",
+      "source": "Reddit",
+      "date": "2026-05-02T09:42:00.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Mathieu Ropert: The Performance Mindset",
+      "url": "https://www.reddit.com/r/programming/comments/1t1kd32/mathieu_ropert_the_performance_mindset/",
+      "source": "Reddit",
+      "date": "2026-05-02T08:42:36.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -80,81 +196,11 @@
       "date": "2026-05-01T21:48:36.000Z"
     },
     {
-      "id": "hn-47979839",
-      "title": "Credit cards are vulnerable to brute force kind attacks",
-      "url": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
-      "source": "HackerNews",
-      "score": 173,
-      "comments": 142,
-      "date": "2026-05-01T20:26:24.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "GitHub Enshittification",
-      "url": "https://www.reddit.com/r/programming/comments/1t14sgu/github_enshittification/",
-      "source": "Reddit",
-      "date": "2026-05-01T20:21:35.000Z"
-    },
-    {
-      "id": "hn-47979583",
-      "title": "Ti-84 Evo",
-      "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-      "source": "HackerNews",
-      "score": 210,
-      "comments": 225,
-      "date": "2026-05-01T20:06:59.000Z"
-    },
-    {
-      "id": "hn-47979190",
-      "title": "Whimsical Animations Course Open House",
-      "url": "https://courses.joshwcomeau.com/wham/open-house/00-introduction",
-      "source": "HackerNews",
-      "score": 52,
-      "comments": 7,
-      "date": "2026-05-01T19:35:39.000Z"
-    },
-    {
-      "id": "hn-47978834",
-      "title": "Lib0xc: A set of C standard library-adjacent APIs for safer systems programming",
-      "url": "https://github.com/microsoft/lib0xc",
-      "source": "HackerNews",
-      "score": 47,
-      "comments": 17,
-      "date": "2026-05-01T19:10:56.000Z"
-    },
-    {
-      "id": "hn-47978370",
-      "title": "City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo",
-      "url": "https://www.404media.co/city-learns-flock-accessed-cameras-in-childrens-gymnastics-room-as-a-sales-pitch-demo-renews-contract-anyway/",
-      "source": "HackerNews",
-      "score": 262,
-      "comments": 81,
-      "date": "2026-05-01T18:37:47.000Z"
-    },
-    {
-      "id": "hn-47977748",
-      "title": "New research suggests people can communicate and practice skills while dreaming",
-      "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-      "source": "HackerNews",
-      "score": 196,
-      "comments": 107,
-      "date": "2026-05-01T17:47:42.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "How Containers Work: Building a Docker-like Container From Scratch",
       "url": "https://www.reddit.com/r/programming/comments/1t0w811/how_containers_work_building_a_dockerlike/",
       "source": "Reddit",
       "date": "2026-05-01T15:12:52.000Z"
-    },
-    {
-      "id": "hn-47975592",
-      "title": "Whohas – Command-line utility for cross-distro, cross-repository package search",
-      "url": "https://github.com/whohas/whohas",
-      "source": "HackerNews",
-      "score": 119,
-      "comments": 26,
-      "date": "2026-05-01T15:01:08.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -164,59 +210,13 @@
       "date": "2026-05-01T13:42:01.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The Tiny UDP Cannon: An Android VPN Bypass [uses an optimization for QUIC]",
-      "url": "https://www.reddit.com/r/programming/comments/1t0rc9t/the_tiny_udp_cannon_an_android_vpn_bypass_uses_an/",
-      "source": "Reddit",
-      "date": "2026-05-01T11:57:57.000Z"
-    },
-    {
-      "id": "hn-47973547",
-      "title": "SpaceX rocket set for unintentional moon landing – well, a piece of it anyway",
-      "url": "https://www.theregister.com/2026/05/01/spacex_debris_landing/",
+      "id": "hn-47960015",
+      "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
+      "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
       "source": "HackerNews",
-      "score": 35,
-      "comments": 17,
-      "date": "2026-05-01T11:31:52.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "GitHub does not have to be your only forge",
-      "url": "https://www.reddit.com/r/programming/comments/1t0on62/github_does_not_have_to_be_your_only_forge/",
-      "source": "Reddit",
-      "date": "2026-05-01T09:38:46.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "url": "https://www.reddit.com/r/programming/comments/1t0m1pn/for_linux_kernel_vulnerabilities_there_is_no/",
-      "source": "Reddit",
-      "date": "2026-05-01T07:08:15.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "url": "https://www.reddit.com/r/programming/comments/1t058mu/microsoft_opensources_the_earliest_dos_source/",
-      "source": "Reddit",
-      "date": "2026-04-30T18:48:35.000Z"
-    },
-    {
-      "id": "hn-47955789",
-      "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-      "source": "HackerNews",
-      "score": 68,
-      "comments": 72,
-      "date": "2026-04-29T22:56:10.000Z"
-    },
-    {
-      "id": "hn-47950070",
-      "title": "The smelly baby problem",
-      "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
-      "source": "HackerNews",
-      "score": 58,
-      "comments": 22,
-      "date": "2026-04-29T15:48:18.000Z"
+      "score": 138,
+      "comments": 6,
+      "date": "2026-04-30T09:12:23.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
