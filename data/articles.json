@@ -1,222 +1,222 @@
 {
-  "updatedAt": "2026-05-03T23:52:03.507Z",
+  "updatedAt": "2026-05-04T23:57:03.438Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "User storiesGoodbye limitations, hello data: How Qonto is rethinking observability with ClickHouse CloudHow Qonto uses ClickHouse Cloud to power observability at scale — replacing sampling and hour-capped queries with two-week query windows, 99.84% compression on high-cardinality data, and an AI incident companion built on the ClickHouse MCP server.May 1, 2026 · 11 minutes read",
+      "title": "User storiesGala supercharges analytics performance with ClickHouse on AWSLearn how Gala migrated to the ClickHouse Cloud data platform on AWS to improve analytics performance and cut costsClickHouseMay 4, 2026 · 6 minutes read",
+      "url": "https://clickhouse.com/blog/gala",
+      "source": "ClickHouse",
+      "date": "2026-05-04T23:57:03.261Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Goodbye limitations, hello data: How Qonto is rethinking observability with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/qonto",
       "source": "ClickHouse",
-      "date": "2026-05-03T23:52:03.506Z"
+      "date": "2026-05-04T23:57:03.261Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Comparing ClickHouse versions with clickhousectl",
       "url": "https://clickhouse.com/blog/clickhousectl-compare-versions",
       "source": "ClickHouse",
-      "date": "2026-05-03T23:52:03.506Z"
+      "date": "2026-05-04T23:57:03.261Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse at Google Cloud Next &#x27;26",
       "url": "https://clickhouse.com/blog/google-next-2026-recap",
       "source": "ClickHouse",
-      "date": "2026-05-03T23:52:03.506Z"
+      "date": "2026-05-04T23:57:03.261Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s New in pg_clickhouse - JSONB Support, SQL value functions, Streaming, and more",
       "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-april-2026",
       "source": "ClickHouse",
-      "date": "2026-05-03T23:52:03.506Z"
+      "date": "2026-05-04T23:57:03.261Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Do you still need Elasticsearch for log analytics? ClickHouse says no.",
       "url": "https://clickhouse.com/blog/elasticsearch-log-analytics-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-05-03T23:52:03.506Z"
+      "date": "2026-05-04T23:57:03.261Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Using the ClickHouse MCP server with Google Antigravity",
       "url": "https://clickhouse.com/blog/google-antigravity",
       "source": "ClickHouse",
-      "date": "2026-05-03T23:52:03.506Z"
+      "date": "2026-05-04T23:57:03.261Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse integrates with Lakehouse Runtime Catalog",
       "url": "https://clickhouse.com/blog/google-lakehouse-runtime",
       "source": "ClickHouse",
-      "date": "2026-05-03T23:52:03.506Z"
+      "date": "2026-05-04T23:57:03.261Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud on Google Cloud Now Powered by Google Axion Processors: 30–55% Faster Queries, ~15% Fewer Compute Credits",
       "url": "https://clickhouse.com/blog/google-axion",
       "source": "ClickHouse",
-      "date": "2026-05-03T23:52:03.506Z"
+      "date": "2026-05-04T23:57:03.261Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse expands strategic collaboration with Google Cloud, bringing deeper integration, cloud flexibility, and next-generation performance",
       "url": "https://clickhouse.com/blog/clickhouse-expands-strategic-collaboration-with-google-cloud",
       "source": "ClickHouse",
-      "date": "2026-05-03T23:52:03.506Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Index sharding in ClickHouse Cloud: Petabyte-scale data needs petabyte-scale indexing",
-      "url": "https://clickhouse.com/blog/index-sharding-clickhouse-cloud-petabyte-scale-indexing",
-      "source": "ClickHouse",
-      "date": "2026-05-03T23:52:03.506Z"
+      "date": "2026-05-04T23:57:03.261Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Decomposing a Payment Gateway Integration — sys.log",
-      "url": "https://www.reddit.com/r/programming/comments/1t30ob2/decomposing_a_payment_gateway_integration_syslog/",
+      "title": "I migrated a 40-year-old Clipper ERP. The orphan invoice rows weren't a bug.",
+      "url": "https://www.reddit.com/r/programming/comments/1t3x4jv/i_migrated_a_40yearold_clipper_erp_the_orphan/",
       "source": "Reddit",
-      "date": "2026-05-03T23:14:35.000Z"
+      "date": "2026-05-04T22:37:28.000Z"
     },
     {
-      "id": "hn-48002607",
-      "title": "The 'Hidden' Costs of Great Abstractions",
-      "url": "https://jdgr.net/the-hidden-costs-of-great-abstractions",
+      "id": "hn-48015397",
+      "title": "Agent Skills",
+      "url": "https://addyosmani.com/blog/agent-skills/",
       "source": "HackerNews",
-      "score": 17,
-      "comments": 3,
-      "date": "2026-05-03T23:12:02.000Z"
+      "score": 47,
+      "comments": 8,
+      "date": "2026-05-04T21:40:42.000Z"
     },
     {
-      "id": "hn-48002136",
-      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
-      "url": "https://github.com/aattaran/deepclaude",
+      "id": "hn-48015097",
+      "title": "Pulitzer Prize Winners 2026",
+      "url": "https://www.pulitzer.org/prize-winners-by-year/2026",
       "source": "HackerNews",
-      "score": 80,
-      "comments": 31,
-      "date": "2026-05-03T22:13:20.000Z"
+      "score": 51,
+      "comments": 19,
+      "date": "2026-05-04T21:14:38.000Z"
     },
     {
-      "id": "hn-48002089",
-      "title": "Introduction to Atom",
-      "url": "https://validator.w3.org/feed/docs/atom.html",
+      "id": "hn-48013919",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
       "source": "HackerNews",
-      "score": 14,
-      "comments": 4,
-      "date": "2026-05-03T22:08:47.000Z"
+      "score": 215,
+      "comments": 85,
+      "date": "2026-05-04T19:42:47.000Z"
+    },
+    {
+      "id": "hn-48012735",
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "source": "HackerNews",
+      "score": 361,
+      "comments": 139,
+      "date": "2026-05-04T18:22:42.000Z"
+    },
+    {
+      "id": "hn-48012162",
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "source": "HackerNews",
+      "score": 154,
+      "comments": 70,
+      "date": "2026-05-04T17:46:32.000Z"
+    },
+    {
+      "id": "hn-48011184",
+      "title": "I am worried about Bun",
+      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "source": "HackerNews",
+      "score": 370,
+      "comments": 251,
+      "date": "2026-05-04T16:45:00.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "The Most Confusing C++ Behavior",
-      "url": "https://www.reddit.com/r/programming/comments/1t2xe26/the_most_confusing_c_behavior/",
+      "title": "The Complexity of Simplicity",
+      "url": "https://www.reddit.com/r/programming/comments/1t3m0su/the_complexity_of_simplicity/",
       "source": "Reddit",
-      "date": "2026-05-03T20:59:17.000Z"
+      "date": "2026-05-04T16:03:16.000Z"
     },
     {
-      "id": "hn-48000507",
-      "title": "Make your own microforest (2025)",
-      "url": "https://ambrook.com/offrange/environment/a-forest-in-your-pocket",
+      "id": "hn-48009983",
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "url": "https://www.nber.org/papers/w35117",
       "source": "HackerNews",
-      "score": 48,
-      "comments": 11,
-      "date": "2026-05-03T19:31:35.000Z"
+      "score": 186,
+      "comments": 176,
+      "date": "2026-05-04T15:32:46.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "A Tale of Three WebAssembly Runtimes",
-      "url": "https://www.reddit.com/r/programming/comments/1t2ud6x/a_tale_of_three_webassembly_runtimes/",
+      "title": "Fast Fourier Transforms Part 3: Bluestein's Algorithm",
+      "url": "https://www.reddit.com/r/programming/comments/1t3k4zq/fast_fourier_transforms_part_3_bluesteins/",
       "source": "Reddit",
-      "date": "2026-05-03T19:05:17.000Z"
-    },
-    {
-      "id": "hn-48000152",
-      "title": "New statue in London, attributed to Banksy, of a suited man, blinded by a flag",
-      "url": "https://www.smithsonianmag.com/smart-news/attributed-to-banksy-a-new-statue-of-a-suited-man-blinded-by-a-flag-and-walking-off-a-ledge-appeared-in-central-london-180988662/",
-      "source": "HackerNews",
-      "score": 230,
-      "comments": 237,
-      "date": "2026-05-03T18:54:28.000Z"
-    },
-    {
-      "id": "hn-47999636",
-      "title": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-      "url": "https://partyon.xyz/@nullagent/116499715071759135",
-      "source": "HackerNews",
-      "score": 219,
-      "comments": 73,
-      "date": "2026-05-03T18:03:14.000Z"
-    },
-    {
-      "id": "hn-47998946",
-      "title": "Southwest Headquarters Tour",
-      "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
-      "source": "HackerNews",
-      "score": 168,
-      "comments": 50,
-      "date": "2026-05-03T17:02:13.000Z"
-    },
-    {
-      "id": "hn-47997947",
-      "title": "A desktop made for one",
-      "url": "https://isene.org/2026/05/Audience-of-One.html",
-      "source": "HackerNews",
-      "score": 211,
-      "comments": 79,
-      "date": "2026-05-03T15:32:05.000Z"
+      "date": "2026-05-04T14:57:23.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Reading Algorithms Like an Engineer: Implementing ANN",
-      "url": "https://www.reddit.com/r/programming/comments/1t2hjka/reading_algorithms_like_an_engineer_implementing/",
+      "title": "What is Distributed Tracing? A Practical Guide",
+      "url": "https://www.reddit.com/r/programming/comments/1t3ilr7/what_is_distributed_tracing_a_practical_guide/",
       "source": "Reddit",
-      "date": "2026-05-03T10:13:51.000Z"
+      "date": "2026-05-04T14:01:41.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "A more efficient implementation of Shor's algorithm",
-      "url": "https://www.reddit.com/r/programming/comments/1t2gg8x/a_more_efficient_implementation_of_shors_algorithm/",
+      "title": "When 'if' slows you down, avoid it",
+      "url": "https://www.reddit.com/r/programming/comments/1t3glxw/when_if_slows_you_down_avoid_it/",
       "source": "Reddit",
-      "date": "2026-05-03T09:09:39.000Z"
+      "date": "2026-05-04T12:43:48.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Enabling ai co author by default by cwebster-99 · Pull Request #310226 · microsoft/vscode",
-      "url": "https://www.reddit.com/r/programming/comments/1t2f3h5/enabling_ai_co_author_by_default_by_cwebster99/",
+      "title": "When Too Many Maps Overlap on One Person",
+      "url": "https://www.reddit.com/r/programming/comments/1t3fjmj/when_too_many_maps_overlap_on_one_person/",
       "source": "Reddit",
-      "date": "2026-05-03T07:50:09.000Z"
+      "date": "2026-05-04T11:57:56.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Dependencies are Replacing Knowledge",
-      "url": "https://www.reddit.com/r/programming/comments/1t2dzdo/dependencies_are_replacing_knowledge/",
-      "source": "Reddit",
-      "date": "2026-05-03T06:47:28.000Z"
-    },
-    {
-      "id": "hn-47991981",
-      "title": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "id": "hn-48007438",
+      "title": "Talking to strangers at the gym",
+      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
       "source": "HackerNews",
-      "score": 243,
-      "comments": 195,
-      "date": "2026-05-03T00:30:50.000Z"
+      "score": 1076,
+      "comments": 512,
+      "date": "2026-05-04T11:41:02.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Unsigned sizes: a five year mistake",
-      "url": "https://www.reddit.com/r/programming/comments/1t20rdz/unsigned_sizes_a_five_year_mistake/",
+      "title": "One Map Key, One Lookup",
+      "url": "https://www.reddit.com/r/programming/comments/1t3eyd0/one_map_key_one_lookup/",
       "source": "Reddit",
-      "date": "2026-05-02T20:25:00.000Z"
+      "date": "2026-05-04T11:29:55.000Z"
     },
     {
-      "id": "hn-47974682",
-      "title": "US–Indian space mission maps extreme subsidence in Mexico City",
-      "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
+      "id": "hn-48006402",
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
       "source": "HackerNews",
-      "score": 69,
-      "comments": 34,
-      "date": "2026-05-01T13:38:27.000Z"
+      "score": 624,
+      "comments": 587,
+      "date": "2026-05-04T09:31:12.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Game Boy Advance Dev: Link Cable Networking",
+      "url": "https://www.reddit.com/r/programming/comments/1t365w1/game_boy_advance_dev_link_cable_networking/",
+      "source": "Reddit",
+      "date": "2026-05-04T03:24:48.000Z"
+    },
+    {
+      "id": "hn-47998158",
+      "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
+      "url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
+      "source": "HackerNews",
+      "score": 39,
+      "comments": 7,
+      "date": "2026-05-03T15:49:33.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
