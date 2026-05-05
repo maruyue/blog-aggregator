@@ -1,236 +1,236 @@
 {
-  "updatedAt": "2026-05-04T23:57:03.438Z",
+  "updatedAt": "2026-05-05T23:51:23.799Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "User storiesGala supercharges analytics performance with ClickHouse on AWSLearn how Gala migrated to the ClickHouse Cloud data platform on AWS to improve analytics performance and cut costsClickHouseMay 4, 2026 · 6 minutes read",
+      "title": "CommunityStop guessing in production: Full fidelity tracing at scale with ClickHouse and OdigosHow ClickStack and Odigos eliminate observability gaps with zero-code eBPF instrumentation and full-fidelity distributed tracing at scale.Will SearleMay 7, 2026 · 9 minutes read",
+      "url": "https://clickhouse.com/blog/odigos-full-fidelity-tracing",
+      "source": "ClickHouse",
+      "date": "2026-05-05T23:51:23.799Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Gala supercharges analytics performance with ClickHouse on AWS",
       "url": "https://clickhouse.com/blog/gala",
       "source": "ClickHouse",
-      "date": "2026-05-04T23:57:03.261Z"
+      "date": "2026-05-05T23:51:23.799Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Goodbye limitations, hello data: How Qonto is rethinking observability with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/qonto",
       "source": "ClickHouse",
-      "date": "2026-05-04T23:57:03.261Z"
+      "date": "2026-05-05T23:51:23.799Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Comparing ClickHouse versions with clickhousectl",
       "url": "https://clickhouse.com/blog/clickhousectl-compare-versions",
       "source": "ClickHouse",
-      "date": "2026-05-04T23:57:03.261Z"
+      "date": "2026-05-05T23:51:23.799Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse at Google Cloud Next &#x27;26",
       "url": "https://clickhouse.com/blog/google-next-2026-recap",
       "source": "ClickHouse",
-      "date": "2026-05-04T23:57:03.261Z"
+      "date": "2026-05-05T23:51:23.799Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s New in pg_clickhouse - JSONB Support, SQL value functions, Streaming, and more",
       "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-april-2026",
       "source": "ClickHouse",
-      "date": "2026-05-04T23:57:03.261Z"
+      "date": "2026-05-05T23:51:23.799Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Do you still need Elasticsearch for log analytics? ClickHouse says no.",
       "url": "https://clickhouse.com/blog/elasticsearch-log-analytics-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-05-04T23:57:03.261Z"
+      "date": "2026-05-05T23:51:23.799Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Using the ClickHouse MCP server with Google Antigravity",
       "url": "https://clickhouse.com/blog/google-antigravity",
       "source": "ClickHouse",
-      "date": "2026-05-04T23:57:03.261Z"
+      "date": "2026-05-05T23:51:23.799Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse integrates with Lakehouse Runtime Catalog",
       "url": "https://clickhouse.com/blog/google-lakehouse-runtime",
       "source": "ClickHouse",
-      "date": "2026-05-04T23:57:03.261Z"
+      "date": "2026-05-05T23:51:23.799Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud on Google Cloud Now Powered by Google Axion Processors: 30–55% Faster Queries, ~15% Fewer Compute Credits",
       "url": "https://clickhouse.com/blog/google-axion",
       "source": "ClickHouse",
-      "date": "2026-05-04T23:57:03.261Z"
+      "date": "2026-05-05T23:51:23.799Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse expands strategic collaboration with Google Cloud, bringing deeper integration, cloud flexibility, and next-generation performance",
-      "url": "https://clickhouse.com/blog/clickhouse-expands-strategic-collaboration-with-google-cloud",
-      "source": "ClickHouse",
-      "date": "2026-05-04T23:57:03.261Z"
+      "id": "hn-48029114",
+      "title": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
+      "url": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
+      "source": "HackerNews",
+      "score": 113,
+      "comments": 48,
+      "date": "2026-05-05T21:50:21.000Z"
+    },
+    {
+      "id": "hn-48028842",
+      "title": "Write some software, give it away for free",
+      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "source": "HackerNews",
+      "score": 89,
+      "comments": 63,
+      "date": "2026-05-05T21:26:50.000Z"
+    },
+    {
+      "id": "hn-48028546",
+      "title": "Why most product tours get skipped",
+      "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+      "source": "HackerNews",
+      "score": 41,
+      "comments": 33,
+      "date": "2026-05-05T21:05:19.000Z"
+    },
+    {
+      "id": "hn-48027897",
+      "title": ".de TLD offline due to DNSSEC?",
+      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+      "source": "HackerNews",
+      "score": 482,
+      "comments": 211,
+      "date": "2026-05-05T20:16:35.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "I migrated a 40-year-old Clipper ERP. The orphan invoice rows weren't a bug.",
-      "url": "https://www.reddit.com/r/programming/comments/1t3x4jv/i_migrated_a_40yearold_clipper_erp_the_orphan/",
+      "title": "Looking for feedback on AI content in r/programming and the April no-AI trial",
+      "url": "https://www.reddit.com/r/programming/comments/1t4odyl/looking_for_feedback_on_ai_content_in/",
       "source": "Reddit",
-      "date": "2026-05-04T22:37:28.000Z"
+      "date": "2026-05-05T18:41:19.000Z"
     },
     {
-      "id": "hn-48015397",
-      "title": "Agent Skills",
-      "url": "https://addyosmani.com/blog/agent-skills/",
+      "id": "hn-48026342",
+      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "url": "https://paletteinspiration.com/",
       "source": "HackerNews",
-      "score": 47,
-      "comments": 8,
-      "date": "2026-05-04T21:40:42.000Z"
+      "score": 88,
+      "comments": 35,
+      "date": "2026-05-05T18:13:14.000Z"
     },
     {
-      "id": "hn-48015097",
-      "title": "Pulitzer Prize Winners 2026",
-      "url": "https://www.pulitzer.org/prize-winners-by-year/2026",
+      "id": "hn-48026021",
+      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
+      "url": "https://arxiv.org/abs/2604.26752",
       "source": "HackerNews",
-      "score": 51,
-      "comments": 19,
-      "date": "2026-05-04T21:14:38.000Z"
-    },
-    {
-      "id": "hn-48013919",
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-      "source": "HackerNews",
-      "score": 215,
-      "comments": 85,
-      "date": "2026-05-04T19:42:47.000Z"
-    },
-    {
-      "id": "hn-48012735",
-      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
-      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
-      "source": "HackerNews",
-      "score": 361,
-      "comments": 139,
-      "date": "2026-05-04T18:22:42.000Z"
-    },
-    {
-      "id": "hn-48012162",
-      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
-      "source": "HackerNews",
-      "score": 154,
-      "comments": 70,
-      "date": "2026-05-04T17:46:32.000Z"
-    },
-    {
-      "id": "hn-48011184",
-      "title": "I am worried about Bun",
-      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
-      "source": "HackerNews",
-      "score": 370,
-      "comments": 251,
-      "date": "2026-05-04T16:45:00.000Z"
+      "score": 102,
+      "comments": 22,
+      "date": "2026-05-05T17:52:31.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "The Complexity of Simplicity",
-      "url": "https://www.reddit.com/r/programming/comments/1t3m0su/the_complexity_of_simplicity/",
+      "title": "Code coverage tells you what you didn't test — not whether your tests are good",
+      "url": "https://www.reddit.com/r/programming/comments/1t4luwo/code_coverage_tells_you_what_you_didnt_test_not/",
       "source": "Reddit",
-      "date": "2026-05-04T16:03:16.000Z"
+      "date": "2026-05-05T17:14:37.000Z"
     },
     {
-      "id": "hn-48009983",
-      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
-      "url": "https://www.nber.org/papers/w35117",
+      "id": "hn-48024859",
+      "title": "Computer Use is 45x more expensive than structured APIs",
+      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
       "source": "HackerNews",
-      "score": 186,
-      "comments": 176,
-      "date": "2026-05-04T15:32:46.000Z"
+      "score": 281,
+      "comments": 141,
+      "date": "2026-05-05T16:34:48.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Fast Fourier Transforms Part 3: Bluestein's Algorithm",
-      "url": "https://www.reddit.com/r/programming/comments/1t3k4zq/fast_fourier_transforms_part_3_bluesteins/",
-      "source": "Reddit",
-      "date": "2026-05-04T14:57:23.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "What is Distributed Tracing? A Practical Guide",
-      "url": "https://www.reddit.com/r/programming/comments/1t3ilr7/what_is_distributed_tracing_a_practical_guide/",
-      "source": "Reddit",
-      "date": "2026-05-04T14:01:41.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "When 'if' slows you down, avoid it",
-      "url": "https://www.reddit.com/r/programming/comments/1t3glxw/when_if_slows_you_down_avoid_it/",
-      "source": "Reddit",
-      "date": "2026-05-04T12:43:48.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "When Too Many Maps Overlap on One Person",
-      "url": "https://www.reddit.com/r/programming/comments/1t3fjmj/when_too_many_maps_overlap_on_one_person/",
-      "source": "Reddit",
-      "date": "2026-05-04T11:57:56.000Z"
-    },
-    {
-      "id": "hn-48007438",
-      "title": "Talking to strangers at the gym",
-      "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+      "id": "hn-48024540",
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
       "source": "HackerNews",
-      "score": 1076,
-      "comments": 512,
-      "date": "2026-05-04T11:41:02.000Z"
+      "score": 412,
+      "comments": 185,
+      "date": "2026-05-05T16:14:17.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "One Map Key, One Lookup",
-      "url": "https://www.reddit.com/r/programming/comments/1t3eyd0/one_map_key_one_lookup/",
-      "source": "Reddit",
-      "date": "2026-05-04T11:29:55.000Z"
-    },
-    {
-      "id": "hn-48006402",
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+      "id": "hn-48024129",
+      "title": "EEVblog: The 555 Timer is 55 years old [video]",
+      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
       "source": "HackerNews",
-      "score": 624,
-      "comments": 587,
-      "date": "2026-05-04T09:31:12.000Z"
+      "score": 200,
+      "comments": 45,
+      "date": "2026-05-05T15:47:18.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Game Boy Advance Dev: Link Cable Networking",
-      "url": "https://www.reddit.com/r/programming/comments/1t365w1/game_boy_advance_dev_link_cable_networking/",
-      "source": "Reddit",
-      "date": "2026-05-04T03:24:48.000Z"
-    },
-    {
-      "id": "hn-47998158",
-      "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
-      "url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
+      "id": "hn-48023861",
+      "title": "Three Inverse Laws of AI",
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
       "source": "HackerNews",
-      "score": 39,
-      "comments": 7,
-      "date": "2026-05-03T15:49:33.000Z"
+      "score": 335,
+      "comments": 237,
+      "date": "2026-05-05T15:27:18.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Announcement: Temporary LLM Content Ban",
-      "url": "https://www.reddit.com/r/programming/comments/1s9jkzi/announcement_temporary_llm_content_ban/",
+      "title": "Building Websites With Lots of Little HTML Pages",
+      "url": "https://www.reddit.com/r/programming/comments/1t4gubp/building_websites_with_lots_of_little_html_pages/",
       "source": "Reddit",
-      "date": "2026-04-01T12:48:20.000Z"
+      "date": "2026-05-05T14:18:44.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "State of the Subreddit (January 2027): Mods applications and rules updates",
-      "url": "https://www.reddit.com/r/programming/comments/1qoxwdt/state_of_the_subreddit_january_2027_mods/",
+      "title": "OpenCL 3.1 is Here",
+      "url": "https://www.reddit.com/r/programming/comments/1t4dws2/opencl_31_is_here/",
       "source": "Reddit",
-      "date": "2026-01-28T01:54:14.000Z"
+      "date": "2026-05-05T12:24:38.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Par, a session-typed language with automatic concurrency, and no panics or deadlocks",
+      "url": "https://www.reddit.com/r/programming/comments/1t4bg2q/par_a_sessiontyped_language_with_automatic/",
+      "source": "Reddit",
+      "date": "2026-05-05T10:28:48.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Popular DAEMON Tools software infected – supply chain attack ongoing since April 8, 2026",
+      "url": "https://www.reddit.com/r/programming/comments/1t4aiw5/popular_daemon_tools_software_infected_supply/",
+      "source": "Reddit",
+      "date": "2026-05-05T09:38:27.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Update on \"Co-authored-by: Copilot\" in commit messages · Issue #314311 · microsoft/vscode",
+      "url": "https://www.reddit.com/r/programming/comments/1t49srb/update_on_coauthoredby_copilot_in_commit_messages/",
+      "source": "Reddit",
+      "date": "2026-05-05T08:56:22.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Why you can't allocate a human-readable ID before the record exists",
+      "url": "https://www.reddit.com/r/programming/comments/1t49351/why_you_cant_allocate_a_humanreadable_id_before/",
+      "source": "Reddit",
+      "date": "2026-05-05T08:13:09.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Bun is being rewritten to Rust",
+      "url": "https://www.reddit.com/r/programming/comments/1t480nm/bun_is_being_rewritten_to_rust/",
+      "source": "Reddit",
+      "date": "2026-05-05T07:08:20.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Formatting an entire 25 million line codebase overnight: the rubyfmt story",
+      "url": "https://www.reddit.com/r/programming/comments/1t47018/formatting_an_entire_25_million_line_codebase/",
+      "source": "Reddit",
+      "date": "2026-05-05T06:09:54.000Z"
     }
   ]
 }
