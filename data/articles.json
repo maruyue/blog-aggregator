@@ -1,236 +1,236 @@
 {
-  "updatedAt": "2026-05-06T23:54:01.322Z",
+  "updatedAt": "2026-05-07T23:55:35.370Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "EngineeringAgentic analytics starts with query-ready data: the write-side cost of Snowflake vs. ClickHouseAgentic analytics makes query-readiness a write-side cost problem. This post compares Snowflake and ClickHouse under continuous ingest, showing how ClickHouse obtains query-ready data at 22× lower cost and delivers 31× better write-side cost-performance.Tom Schreiber and Lionel PalacinMay 6, 2026 · 22 minutes read",
+      "title": "EngineeringIntroducing Postgres Query Insights in ClickHouse CloudQuery Insights is now in preview for ClickHouse Cloud Managed Postgres: every query pattern your database runs, ranked by impact, with    the diagnostic picture of why each one is slow.Amog IskaMay 7, 2026 · 10 minutes read",
+      "url": "https://clickhouse.com/blog/postgres-query-insights-clickhouse-cloud",
+      "source": "ClickHouse",
+      "date": "2026-05-07T23:55:35.291Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Agentic analytics starts with query-ready data: the write-side cost of Snowflake vs. ClickHouse",
       "url": "https://clickhouse.com/blog/write-side-cost-performance-snowflake-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-05-06T23:54:01.321Z"
+      "date": "2026-05-07T23:55:35.291Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Stop guessing in production: Full fidelity tracing at scale with ClickHouse and Odigos",
       "url": "https://clickhouse.com/blog/odigos-full-fidelity-tracing",
       "source": "ClickHouse",
-      "date": "2026-05-06T23:54:01.321Z"
+      "date": "2026-05-07T23:55:35.291Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Gala supercharges analytics performance with ClickHouse on AWS",
       "url": "https://clickhouse.com/blog/gala",
       "source": "ClickHouse",
-      "date": "2026-05-06T23:54:01.321Z"
+      "date": "2026-05-07T23:55:35.291Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Goodbye limitations, hello data: How Qonto is rethinking observability with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/qonto",
       "source": "ClickHouse",
-      "date": "2026-05-06T23:54:01.321Z"
+      "date": "2026-05-07T23:55:35.291Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Comparing ClickHouse versions with clickhousectl",
       "url": "https://clickhouse.com/blog/clickhousectl-compare-versions",
       "source": "ClickHouse",
-      "date": "2026-05-06T23:54:01.321Z"
+      "date": "2026-05-07T23:55:35.291Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse at Google Cloud Next &#x27;26",
       "url": "https://clickhouse.com/blog/google-next-2026-recap",
       "source": "ClickHouse",
-      "date": "2026-05-06T23:54:01.321Z"
+      "date": "2026-05-07T23:55:35.291Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s New in pg_clickhouse - JSONB Support, SQL value functions, Streaming, and more",
       "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-april-2026",
       "source": "ClickHouse",
-      "date": "2026-05-06T23:54:01.321Z"
+      "date": "2026-05-07T23:55:35.291Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Do you still need Elasticsearch for log analytics? ClickHouse says no.",
       "url": "https://clickhouse.com/blog/elasticsearch-log-analytics-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-05-06T23:54:01.321Z"
+      "date": "2026-05-07T23:55:35.291Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Using the ClickHouse MCP server with Google Antigravity",
       "url": "https://clickhouse.com/blog/google-antigravity",
       "source": "ClickHouse",
-      "date": "2026-05-06T23:54:01.321Z"
+      "date": "2026-05-07T23:55:35.291Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse integrates with Lakehouse Runtime Catalog",
-      "url": "https://clickhouse.com/blog/google-lakehouse-runtime",
-      "source": "ClickHouse",
-      "date": "2026-05-06T23:54:01.321Z"
-    },
-    {
-      "id": "hn-48042918",
-      "title": "UK businesses brace for jet fuel rationing",
-      "url": "https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/",
-      "source": "HackerNews",
-      "score": 58,
-      "comments": 36,
-      "date": "2026-05-06T22:48:11.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Nginx Complete Guide and Cheatsheet",
-      "url": "https://www.reddit.com/r/programming/comments/1t5qpf2/nginx_complete_guide_and_cheatsheet/",
+      "id": "reddit-aHR0cHM6Ly9v",
+      "title": "Using Equivalence Classes to Accelerate Solving the Discrete Logarithm Problem in a Short Interval",
+      "url": "https://old.reddit.com/r/programming/comments/1t6rfzq/using_equivalence_classes_to_accelerate_solving/",
       "source": "Reddit",
-      "date": "2026-05-06T21:35:55.000Z"
+      "date": "2026-05-07T23:45:58.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Last Mile Routing 1M delivery stops in 20 minutes on a laptop: a systems architecture approach to large-scale VRP",
-      "url": "https://www.reddit.com/r/programming/comments/1t5oxd5/last_mile_routing_1m_delivery_stops_in_20_minutes/",
-      "source": "Reddit",
-      "date": "2026-05-06T20:30:33.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Going Full Time on Open Source",
-      "url": "https://www.reddit.com/r/programming/comments/1t5ok5q/going_full_time_on_open_source/",
-      "source": "Reddit",
-      "date": "2026-05-06T20:17:34.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Signed By Default Camp",
-      "url": "https://www.reddit.com/r/programming/comments/1t5nik6/signed_by_default_camp/",
-      "source": "Reddit",
-      "date": "2026-05-06T19:40:47.000Z"
-    },
-    {
-      "id": "hn-48040622",
-      "title": "Inkscape 1.4.4",
-      "url": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
+      "id": "hn-48056227",
+      "title": "Maybe you shouldn't install new software for a bit",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
       "source": "HackerNews",
-      "score": 179,
-      "comments": 44,
-      "date": "2026-05-06T19:33:25.000Z"
+      "score": 24,
+      "comments": 3,
+      "date": "2026-05-07T23:02:11.000Z"
     },
     {
-      "id": "hn-48040002",
-      "title": "Learning the Integral of a Diffusion Model",
-      "url": "https://sander.ai/2026/05/06/flow-maps.html",
+      "id": "hn-48055913",
+      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
       "source": "HackerNews",
-      "score": 76,
-      "comments": 17,
-      "date": "2026-05-06T18:46:27.000Z"
+      "score": 73,
+      "comments": 2,
+      "date": "2026-05-07T22:22:21.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Faster timeseries aggregations",
-      "url": "https://www.reddit.com/r/programming/comments/1t5lh79/faster_timeseries_aggregations/",
+      "id": "hn-48054423",
+      "title": "Building for the Future",
+      "url": "https://blog.cloudflare.com/building-for-the-future/",
+      "source": "HackerNews",
+      "score": 192,
+      "comments": 112,
+      "date": "2026-05-07T20:23:37.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly9v",
+      "title": "Containers Aren’t Just Linux Processes",
+      "url": "https://old.reddit.com/r/programming/comments/1t6l9kw/containers_arent_just_linux_processes/",
       "source": "Reddit",
-      "date": "2026-05-06T18:28:47.000Z"
+      "date": "2026-05-07T19:46:01.000Z"
     },
     {
-      "id": "hn-48039362",
-      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-      "source": "HackerNews",
-      "score": 179,
-      "comments": 176,
-      "date": "2026-05-06T17:59:33.000Z"
-    },
-    {
-      "id": "hn-48038827",
-      "title": "From Supabase to Clerk to Better Auth",
-      "url": "https://blog.val.town/better-auth",
-      "source": "HackerNews",
-      "score": 183,
-      "comments": 109,
-      "date": "2026-05-06T17:19:34.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Multi-stroke text effect in CSS",
-      "url": "https://www.reddit.com/r/programming/comments/1t5is63/multistroke_text_effect_in_css/",
+      "id": "reddit-aHR0cHM6Ly9v",
+      "title": "OpenAI's WebRTC Problem",
+      "url": "https://old.reddit.com/r/programming/comments/1t6l7mj/openais_webrtc_problem/",
       "source": "Reddit",
-      "date": "2026-05-06T16:57:39.000Z"
+      "date": "2026-05-07T19:44:05.000Z"
     },
     {
-      "id": "hn-48038001",
-      "title": "Appearing productive in the workplace",
-      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+      "id": "hn-48053623",
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
       "source": "HackerNews",
-      "score": 617,
-      "comments": 245,
-      "date": "2026-05-06T16:18:29.000Z"
+      "score": 338,
+      "comments": 161,
+      "date": "2026-05-07T19:21:32.000Z"
     },
     {
-      "id": "hn-48037724",
-      "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
-      "url": "https://tilde.run/",
+      "id": "hn-48053203",
+      "title": "AI slop is killing online communities",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
       "source": "HackerNews",
-      "score": 118,
-      "comments": 89,
-      "date": "2026-05-06T15:58:34.000Z"
+      "score": 383,
+      "comments": 374,
+      "date": "2026-05-07T18:46:25.000Z"
     },
     {
-      "id": "hn-48037555",
-      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+      "id": "hn-48052537",
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
       "source": "HackerNews",
-      "score": 960,
-      "comments": 323,
-      "date": "2026-05-06T15:44:13.000Z"
+      "score": 167,
+      "comments": 55,
+      "date": "2026-05-07T17:54:02.000Z"
     },
     {
-      "id": "hn-48037128",
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-      "source": "HackerNews",
-      "score": 334,
-      "comments": 361,
-      "date": "2026-05-06T15:06:37.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Simple and safe implicit async programming model for imperative (JS/Python-like) languages",
-      "url": "https://www.reddit.com/r/programming/comments/1t5d19t/simple_and_safe_implicit_async_programming_model/",
+      "id": "reddit-aHR0cHM6Ly9v",
+      "title": "HYML Sanitizer API",
+      "url": "https://old.reddit.com/r/programming/comments/1t6hynd/hyml_sanitizer_api/",
       "source": "Reddit",
-      "date": "2026-05-06T13:31:34.000Z"
+      "date": "2026-05-07T17:49:53.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How Programmers Spend Their Time | Probably Dance",
-      "url": "https://www.reddit.com/r/programming/comments/1t56i1y/how_programmers_spend_their_time_probably_dance/",
+      "id": "hn-48051562",
+      "title": "Agents need control flow, not more prompts",
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "source": "HackerNews",
+      "score": 288,
+      "comments": 155,
+      "date": "2026-05-07T16:43:35.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly9v",
+      "title": "Use Protocols, Not Services",
+      "url": "https://old.reddit.com/r/programming/comments/1t6fx7a/use_protocols_not_services/",
       "source": "Reddit",
-      "date": "2026-05-06T08:09:06.000Z"
+      "date": "2026-05-07T16:39:33.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Performance trick: optimistic vs pessimistic checks",
-      "url": "https://www.reddit.com/r/programming/comments/1t520id/performance_trick_optimistic_vs_pessimistic_checks/",
+      "id": "hn-48050751",
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "url": "https://github.com/antirez/ds4",
+      "source": "HackerNews",
+      "score": 259,
+      "comments": 81,
+      "date": "2026-05-07T15:40:24.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly9v",
+      "title": "The PHP License Is Dead; Long Live the BSD 3-Clause",
+      "url": "https://old.reddit.com/r/programming/comments/1t6dspe/the_php_license_is_dead_long_live_the_bsd_3clause/",
       "source": "Reddit",
-      "date": "2026-05-06T04:00:50.000Z"
+      "date": "2026-05-07T15:25:08.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
+      "id": "reddit-aHR0cHM6Ly9v",
+      "title": "Applying formal grammars in a custom programming language",
+      "url": "https://old.reddit.com/r/programming/comments/1t6dqn3/applying_formal_grammars_in_a_custom_programming/",
+      "source": "Reddit",
+      "date": "2026-05-07T15:23:09.000Z"
+    },
+    {
+      "id": "hn-48050278",
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "source": "HackerNews",
+      "score": 236,
+      "comments": 91,
+      "date": "2026-05-07T15:02:20.000Z"
+    },
+    {
+      "id": "hn-48049653",
+      "title": "The Burning Man MOOP Map",
+      "url": "https://www.not-ship.com/burning-man-moop/",
+      "source": "HackerNews",
+      "score": 508,
+      "comments": 272,
+      "date": "2026-05-07T14:06:10.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly9v",
+      "title": "How Michael Abrash doubled Quake framerate",
+      "url": "https://old.reddit.com/r/programming/comments/1t6axgh/how_michael_abrash_doubled_quake_framerate/",
+      "source": "Reddit",
+      "date": "2026-05-07T13:42:00.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly9v",
+      "title": "Coding Adventure: Solving the Rubik's Cube",
+      "url": "https://old.reddit.com/r/programming/comments/1t666dw/coding_adventure_solving_the_rubiks_cube/",
+      "source": "Reddit",
+      "date": "2026-05-07T10:11:31.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly9v",
       "title": "Looking for feedback on AI content in r/programming and the April no-AI trial",
-      "url": "https://www.reddit.com/r/programming/comments/1t4odyl/looking_for_feedback_on_ai_content_in/",
+      "url": "https://old.reddit.com/r/programming/comments/1t4odyl/looking_for_feedback_on_ai_content_in/",
       "source": "Reddit",
       "date": "2026-05-05T18:41:19.000Z"
-    },
-    {
-      "id": "hn-48006967",
-      "title": "The bottleneck was never the code",
-      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
-      "source": "HackerNews",
-      "score": 480,
-      "comments": 312,
-      "date": "2026-05-04T10:46:15.000Z"
     }
   ]
 }
