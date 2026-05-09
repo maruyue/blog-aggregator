@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T23:58:08.384Z",
+  "updatedAt": "2026-05-09T23:53:23.016Z",
   "total": 30,
   "articles": [
     {
@@ -7,79 +7,175 @@
       "title": "EngineeringClickHouse Release 26.4ClickHouse 26.4 is here! In this release, more features become SQL compatible, COUNT DISTINCT gets faster, EXPLAIN gets even prettier, and moreClickHouseMay 8, 2026 · 13 minutes read",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-04",
       "source": "ClickHouse",
-      "date": "2026-05-08T23:58:08.383Z"
+      "date": "2026-05-09T23:53:23.015Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing Postgres Query Insights in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/postgres-query-insights-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-05-08T23:58:08.383Z"
+      "date": "2026-05-09T23:53:23.015Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Agentic analytics starts with query-ready data: the write-side cost of Snowflake vs. ClickHouse",
       "url": "https://clickhouse.com/blog/write-side-cost-performance-snowflake-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-05-08T23:58:08.383Z"
+      "date": "2026-05-09T23:53:23.015Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Stop guessing in production: Full fidelity tracing at scale with ClickHouse and Odigos",
       "url": "https://clickhouse.com/blog/odigos-full-fidelity-tracing",
       "source": "ClickHouse",
-      "date": "2026-05-08T23:58:08.383Z"
+      "date": "2026-05-09T23:53:23.015Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Gala supercharges analytics performance with ClickHouse on AWS",
       "url": "https://clickhouse.com/blog/gala",
       "source": "ClickHouse",
-      "date": "2026-05-08T23:58:08.383Z"
+      "date": "2026-05-09T23:53:23.015Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Goodbye limitations, hello data: How Qonto is rethinking observability with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/qonto",
       "source": "ClickHouse",
-      "date": "2026-05-08T23:58:08.383Z"
+      "date": "2026-05-09T23:53:23.015Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Comparing ClickHouse versions with clickhousectl",
       "url": "https://clickhouse.com/blog/clickhousectl-compare-versions",
       "source": "ClickHouse",
-      "date": "2026-05-08T23:58:08.383Z"
+      "date": "2026-05-09T23:53:23.015Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse at Google Cloud Next &#x27;26",
       "url": "https://clickhouse.com/blog/google-next-2026-recap",
       "source": "ClickHouse",
-      "date": "2026-05-08T23:58:08.383Z"
+      "date": "2026-05-09T23:53:23.015Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s New in pg_clickhouse - JSONB Support, SQL value functions, Streaming, and more",
       "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-april-2026",
       "source": "ClickHouse",
-      "date": "2026-05-08T23:58:08.383Z"
+      "date": "2026-05-09T23:53:23.015Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Do you still need Elasticsearch for log analytics? ClickHouse says no.",
       "url": "https://clickhouse.com/blog/elasticsearch-log-analytics-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-05-08T23:58:08.383Z"
+      "date": "2026-05-09T23:53:23.015Z"
     },
     {
-      "id": "hn-48070115",
-      "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
-      "url": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Against Query Based Compilers",
+      "url": "https://www.reddit.com/r/programming/comments/1t8oq9k/against_query_based_compilers/",
+      "source": "Reddit",
+      "date": "2026-05-09T22:13:54.000Z"
+    },
+    {
+      "id": "hn-48078575",
+      "title": "Rust but Lisp",
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
       "source": "HackerNews",
-      "score": 11,
-      "comments": 0,
-      "date": "2026-05-08T23:37:55.000Z"
+      "score": 33,
+      "comments": 14,
+      "date": "2026-05-09T21:46:27.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Bun’s rewrite from Zig to Rust passes 99.8% of testsuite",
+      "url": "https://www.reddit.com/r/programming/comments/1t8n0vl/buns_rewrite_from_zig_to_rust_passes_998_of/",
+      "source": "Reddit",
+      "date": "2026-05-09T21:04:12.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Zig 0.16 Reinvented Async I/O That Sidesteps Function Coloring",
+      "url": "https://www.reddit.com/r/programming/comments/1t8m67e/zig_016_reinvented_async_io_that_sidesteps/",
+      "source": "Reddit",
+      "date": "2026-05-09T20:47:54.000Z"
+    },
+    {
+      "id": "hn-48076815",
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "url": "https://github.com/nooga/let-go",
+      "source": "HackerNews",
+      "score": 61,
+      "comments": 12,
+      "date": "2026-05-09T17:52:13.000Z"
+    },
+    {
+      "id": "hn-48076651",
+      "title": "Zed Editor Theme-Builder",
+      "url": "https://zed.dev/theme-builder",
+      "source": "HackerNews",
+      "score": 136,
+      "comments": 41,
+      "date": "2026-05-09T17:30:39.000Z"
+    },
+    {
+      "id": "hn-48076465",
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+      "source": "HackerNews",
+      "score": 98,
+      "comments": 53,
+      "date": "2026-05-09T17:06:46.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "JavaScript specified tail call optimization in ES2015. Most engines never implemented it, and your tail-recursive code can still blow the stack.",
+      "url": "https://www.reddit.com/r/programming/comments/1t89woz/javascript_specified_tail_call_optimization_in/",
+      "source": "Reddit",
+      "date": "2026-05-09T16:39:58.000Z"
+    },
+    {
+      "id": "hn-48076173",
+      "title": "I’ve banned query strings",
+      "url": "https://chrismorgan.info/no-query-strings",
+      "source": "HackerNews",
+      "score": 233,
+      "comments": 125,
+      "date": "2026-05-09T16:28:36.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Docker images are hundreds of MB; a full game engine compiles to 35MB WASM",
+      "url": "https://www.reddit.com/r/programming/comments/1t885cp/docker_images_are_hundreds_of_mb_a_full_game/",
+      "source": "Reddit",
+      "date": "2026-05-09T15:32:24.000Z"
+    },
+    {
+      "id": "hn-48074265",
+      "title": "Internet Archive Switzerland",
+      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+      "source": "HackerNews",
+      "score": 510,
+      "comments": 74,
+      "date": "2026-05-09T12:00:30.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "You should read Programming as Theory Building",
+      "url": "https://www.reddit.com/r/programming/comments/1t81wbu/you_should_read_programming_as_theory_building/",
+      "source": "Reddit",
+      "date": "2026-05-09T11:02:01.000Z"
+    },
+    {
+      "id": "hn-48073680",
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+      "source": "HackerNews",
+      "score": 352,
+      "comments": 345,
+      "date": "2026-05-09T10:12:55.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -90,69 +186,19 @@
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "How Discord Automates ScyllaDB Clusters at Scale",
-      "url": "https://www.reddit.com/r/programming/comments/1t7lwwp/how_discord_automates_scylladb_clusters_at_scale/",
-      "source": "Reddit",
-      "date": "2026-05-08T21:53:12.000Z"
-    },
-    {
-      "id": "hn-48069088",
-      "title": "AWS data center outage hits trading on Fanduel, Coinbase",
-      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-      "source": "HackerNews",
-      "score": 37,
-      "comments": 9,
-      "date": "2026-05-08T21:37:45.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
       "title": "Mozilla: Behind the Scenes Hardening Firefox",
       "url": "https://www.reddit.com/r/programming/comments/1t7it4t/mozilla_behind_the_scenes_hardening_firefox/",
       "source": "Reddit",
       "date": "2026-05-08T19:56:46.000Z"
     },
     {
-      "id": "hn-48067734",
-      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "url": "https://ze3tar.github.io/post-zcrx.html",
+      "id": "hn-48067786",
+      "title": "Production engineering when trading billions of dollars a day [video]",
+      "url": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
       "source": "HackerNews",
-      "score": 107,
-      "comments": 67,
-      "date": "2026-05-08T19:40:39.000Z"
-    },
-    {
-      "id": "hn-48067119",
-      "title": "Google broke reCAPTCHA for de-googled Android users",
-      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-      "source": "HackerNews",
-      "score": 458,
-      "comments": 153,
-      "date": "2026-05-08T18:45:58.000Z"
-    },
-    {
-      "id": "hn-48066524",
-      "title": "AI is breaking two vulnerability cultures",
-      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-      "source": "HackerNews",
-      "score": 196,
-      "comments": 83,
-      "date": "2026-05-08T17:55:08.000Z"
-    },
-    {
-      "id": "hn-48065360",
-      "title": "Cartoon Network Flash Games",
-      "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
-      "source": "HackerNews",
-      "score": 260,
-      "comments": 89,
-      "date": "2026-05-08T16:29:52.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Your Onboarding Is a Hazing Ritual and You Call It Agile",
-      "url": "https://www.reddit.com/r/programming/comments/1t7bxls/your_onboarding_is_a_hazing_ritual_and_you_call/",
-      "source": "Reddit",
-      "date": "2026-05-08T15:51:57.000Z"
+      "score": 72,
+      "comments": 15,
+      "date": "2026-05-08T19:45:21.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -162,68 +208,22 @@
       "date": "2026-05-08T15:15:33.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "NVIDIA releases CUDA-Oxide 0.1 for experimental Rust-to-CUDA compiler",
-      "url": "https://www.reddit.com/r/programming/comments/1t7a8f0/nvidia_releases_cudaoxide_01_for_experimental/",
-      "source": "Reddit",
-      "date": "2026-05-08T14:51:34.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Google Cloud Fraud Defence is just WEI repackaged",
-      "url": "https://www.reddit.com/r/programming/comments/1t78cgt/google_cloud_fraud_defence_is_just_wei_repackaged/",
-      "source": "Reddit",
-      "date": "2026-05-08T13:42:23.000Z"
-    },
-    {
-      "id": "hn-48061884",
-      "title": "David Attenborough's 100th Birthday",
-      "url": "https://www.bbc.com/news/articles/cp3pww9g0p5o",
+      "id": "hn-48049828",
+      "title": "The Serial TTL connector we deserve",
+      "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
       "source": "HackerNews",
-      "score": 399,
-      "comments": 80,
-      "date": "2026-05-08T12:03:26.000Z"
+      "score": 15,
+      "comments": 5,
+      "date": "2026-05-07T14:19:55.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How we made Notion available offline",
-      "url": "https://www.reddit.com/r/programming/comments/1t6y6o1/how_we_made_notion_available_offline/",
-      "source": "Reddit",
-      "date": "2026-05-08T05:07:09.000Z"
-    },
-    {
-      "id": "hn-48058197",
-      "title": "AWS says data center overheating in North Virginia disrupts services",
-      "url": "https://www.reuters.com/business/retail-consumer/amazon-cloud-unit-says-data-center-overheating-north-virginia-disrupts-services-2026-05-08/",
+      "id": "hn-48048902",
+      "title": "Making your own programming language is easier than you think (but also harder)",
+      "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
       "source": "HackerNews",
-      "score": 85,
-      "comments": 38,
-      "date": "2026-05-08T03:31:58.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "OpenAI's WebRTC Problem",
-      "url": "https://www.reddit.com/r/programming/comments/1t6l7mj/openais_webrtc_problem/",
-      "source": "Reddit",
-      "date": "2026-05-07T19:44:05.000Z"
-    },
-    {
-      "id": "hn-48049014",
-      "title": "Looking at the data behind prediction markets",
-      "url": "https://asteriskmag.com/issues/14/are-prediction-markets-good-for-anything",
-      "source": "HackerNews",
-      "score": 42,
-      "comments": 17,
-      "date": "2026-05-07T13:12:39.000Z"
-    },
-    {
-      "id": "hn-48037760",
-      "title": "Wi is Fi: Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/AC/ax/be/bn)",
-      "url": "https://www.wiisfi.com/",
-      "source": "HackerNews",
-      "score": 34,
-      "comments": 6,
-      "date": "2026-05-06T16:01:50.000Z"
+      "score": 27,
+      "comments": 5,
+      "date": "2026-05-07T13:01:21.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
