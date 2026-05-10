@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-09T23:53:23.016Z",
+  "updatedAt": "2026-05-10T23:55:40.479Z",
   "total": 30,
   "articles": [
     {
@@ -7,86 +7,198 @@
       "title": "EngineeringClickHouse Release 26.4ClickHouse 26.4 is here! In this release, more features become SQL compatible, COUNT DISTINCT gets faster, EXPLAIN gets even prettier, and moreClickHouseMay 8, 2026 · 13 minutes read",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-04",
       "source": "ClickHouse",
-      "date": "2026-05-09T23:53:23.015Z"
+      "date": "2026-05-10T23:55:40.470Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing Postgres Query Insights in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/postgres-query-insights-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-05-09T23:53:23.015Z"
+      "date": "2026-05-10T23:55:40.470Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Agentic analytics starts with query-ready data: the write-side cost of Snowflake vs. ClickHouse",
       "url": "https://clickhouse.com/blog/write-side-cost-performance-snowflake-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-05-09T23:53:23.015Z"
+      "date": "2026-05-10T23:55:40.470Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Stop guessing in production: Full fidelity tracing at scale with ClickHouse and Odigos",
       "url": "https://clickhouse.com/blog/odigos-full-fidelity-tracing",
       "source": "ClickHouse",
-      "date": "2026-05-09T23:53:23.015Z"
+      "date": "2026-05-10T23:55:40.470Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Gala supercharges analytics performance with ClickHouse on AWS",
       "url": "https://clickhouse.com/blog/gala",
       "source": "ClickHouse",
-      "date": "2026-05-09T23:53:23.015Z"
+      "date": "2026-05-10T23:55:40.470Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Goodbye limitations, hello data: How Qonto is rethinking observability with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/qonto",
       "source": "ClickHouse",
-      "date": "2026-05-09T23:53:23.015Z"
+      "date": "2026-05-10T23:55:40.470Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Comparing ClickHouse versions with clickhousectl",
       "url": "https://clickhouse.com/blog/clickhousectl-compare-versions",
       "source": "ClickHouse",
-      "date": "2026-05-09T23:53:23.015Z"
+      "date": "2026-05-10T23:55:40.470Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse at Google Cloud Next &#x27;26",
       "url": "https://clickhouse.com/blog/google-next-2026-recap",
       "source": "ClickHouse",
-      "date": "2026-05-09T23:53:23.015Z"
+      "date": "2026-05-10T23:55:40.470Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s New in pg_clickhouse - JSONB Support, SQL value functions, Streaming, and more",
       "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-april-2026",
       "source": "ClickHouse",
-      "date": "2026-05-09T23:53:23.015Z"
+      "date": "2026-05-10T23:55:40.470Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Do you still need Elasticsearch for log analytics? ClickHouse says no.",
       "url": "https://clickhouse.com/blog/elasticsearch-log-analytics-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-05-09T23:53:23.015Z"
+      "date": "2026-05-10T23:55:40.470Z"
+    },
+    {
+      "id": "hn-48089091",
+      "title": "Running local models on an M4 with 24GB memory",
+      "url": "https://jola.dev/posts/running-local-models-on-m4",
+      "source": "HackerNews",
+      "score": 21,
+      "comments": 3,
+      "date": "2026-05-10T23:09:10.000Z"
+    },
+    {
+      "id": "hn-48088576",
+      "title": "Obsidian plugin was abused to deploy a remote access trojan",
+      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+      "source": "HackerNews",
+      "score": 30,
+      "comments": 14,
+      "date": "2026-05-10T22:02:43.000Z"
+    },
+    {
+      "id": "hn-48088343",
+      "title": "Why modern parents feel more sleep deprived than our ancestors did",
+      "url": "https://www.bbc.com/future/article/20260508-parents-in-ancient-times-felt-less-sleep-deprived-what-our-ancestors-did-differently-on-baby-sleep",
+      "source": "HackerNews",
+      "score": 57,
+      "comments": 33,
+      "date": "2026-05-10T21:36:52.000Z"
+    },
+    {
+      "id": "hn-48088151",
+      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+      "source": "HackerNews",
+      "score": 93,
+      "comments": 29,
+      "date": "2026-05-10T21:16:58.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Against Query Based Compilers",
-      "url": "https://www.reddit.com/r/programming/comments/1t8oq9k/against_query_based_compilers/",
+      "title": "An Interactive Intro to CRDTs",
+      "url": "https://www.reddit.com/r/programming/comments/1t9gfcj/an_interactive_intro_to_crdts/",
       "source": "Reddit",
-      "date": "2026-05-09T22:13:54.000Z"
+      "date": "2026-05-10T19:28:59.000Z"
     },
     {
-      "id": "hn-48078575",
-      "title": "Rust but Lisp",
-      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "id": "hn-48086190",
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
       "source": "HackerNews",
-      "score": 33,
-      "comments": 14,
-      "date": "2026-05-09T21:46:27.000Z"
+      "score": 744,
+      "comments": 277,
+      "date": "2026-05-10T17:54:02.000Z"
+    },
+    {
+      "id": "hn-48086082",
+      "title": "Incident Report: CVE-2024-YIKES",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "source": "HackerNews",
+      "score": 342,
+      "comments": 84,
+      "date": "2026-05-10T17:43:10.000Z"
+    },
+    {
+      "id": "hn-48085821",
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "source": "HackerNews",
+      "score": 428,
+      "comments": 216,
+      "date": "2026-05-10T17:19:28.000Z"
+    },
+    {
+      "id": "hn-48085782",
+      "title": "Traces Of Humanity",
+      "url": "https://tracesofhumanity.org/hello-world/",
+      "source": "HackerNews",
+      "score": 119,
+      "comments": 19,
+      "date": "2026-05-10T17:15:10.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Robot Dogs Are A Security Nightmare - Benn Jordan [23:53]",
+      "url": "https://www.reddit.com/r/programming/comments/1t9ax1s/robot_dogs_are_a_security_nightmare_benn_jordan/",
+      "source": "Reddit",
+      "date": "2026-05-10T16:03:54.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Reproducible Builds, a very brief summary of the last 12 years and a glimpse into the future",
+      "url": "https://www.reddit.com/r/programming/comments/1t9afv9/reproducible_builds_a_very_brief_summary_of_the/",
+      "source": "Reddit",
+      "date": "2026-05-10T15:45:59.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Replacing a 3 GB SQLite database with a 10 MB FST",
+      "url": "https://www.reddit.com/r/programming/comments/1t98wxr/replacing_a_3_gb_sqlite_database_with_a_10_mb_fst/",
+      "source": "Reddit",
+      "date": "2026-05-10T14:47:23.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Idempotency Is Easy Until the Second Request Is Different",
+      "url": "https://www.reddit.com/r/programming/comments/1t98whm/idempotency_is_easy_until_the_second_request_is/",
+      "source": "Reddit",
+      "date": "2026-05-10T14:46:53.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Making your own programming language is easier than you think (but also harder)",
+      "url": "https://www.reddit.com/r/programming/comments/1t98rno/making_your_own_programming_language_is_easier/",
+      "source": "Reddit",
+      "date": "2026-05-10T14:41:32.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "COBOL is the Asbestos of Programming Languages",
+      "url": "https://www.reddit.com/r/programming/comments/1t98jcn/cobol_is_the_asbestos_of_programming_languages/",
+      "source": "Reddit",
+      "date": "2026-05-10T14:32:35.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "snakes.run: rendering 100M pixels a second over ssh · eieio.games",
+      "url": "https://www.reddit.com/r/programming/comments/1t93crv/snakesrun_rendering_100m_pixels_a_second_over_ssh/",
+      "source": "Reddit",
+      "date": "2026-05-10T10:32:56.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -96,134 +208,22 @@
       "date": "2026-05-09T21:04:12.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Zig 0.16 Reinvented Async I/O That Sidesteps Function Coloring",
-      "url": "https://www.reddit.com/r/programming/comments/1t8m67e/zig_016_reinvented_async_io_that_sidesteps/",
-      "source": "Reddit",
-      "date": "2026-05-09T20:47:54.000Z"
-    },
-    {
-      "id": "hn-48076815",
-      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-      "url": "https://github.com/nooga/let-go",
+      "id": "hn-48067698",
+      "title": "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
+      "url": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
       "source": "HackerNews",
-      "score": 61,
-      "comments": 12,
-      "date": "2026-05-09T17:52:13.000Z"
+      "score": 22,
+      "comments": 6,
+      "date": "2026-05-08T19:36:45.000Z"
     },
     {
-      "id": "hn-48076651",
-      "title": "Zed Editor Theme-Builder",
-      "url": "https://zed.dev/theme-builder",
+      "id": "hn-48050666",
+      "title": "First tunnel element of the Fehmarnbelt Tunnel immersed",
+      "url": "https://www.arup.com/en-us/news/first-fehmarnbelt-tunnel-element-lowered/",
       "source": "HackerNews",
-      "score": 136,
-      "comments": 41,
-      "date": "2026-05-09T17:30:39.000Z"
-    },
-    {
-      "id": "hn-48076465",
-      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-      "source": "HackerNews",
-      "score": 98,
-      "comments": 53,
-      "date": "2026-05-09T17:06:46.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "JavaScript specified tail call optimization in ES2015. Most engines never implemented it, and your tail-recursive code can still blow the stack.",
-      "url": "https://www.reddit.com/r/programming/comments/1t89woz/javascript_specified_tail_call_optimization_in/",
-      "source": "Reddit",
-      "date": "2026-05-09T16:39:58.000Z"
-    },
-    {
-      "id": "hn-48076173",
-      "title": "I’ve banned query strings",
-      "url": "https://chrismorgan.info/no-query-strings",
-      "source": "HackerNews",
-      "score": 233,
-      "comments": 125,
-      "date": "2026-05-09T16:28:36.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Docker images are hundreds of MB; a full game engine compiles to 35MB WASM",
-      "url": "https://www.reddit.com/r/programming/comments/1t885cp/docker_images_are_hundreds_of_mb_a_full_game/",
-      "source": "Reddit",
-      "date": "2026-05-09T15:32:24.000Z"
-    },
-    {
-      "id": "hn-48074265",
-      "title": "Internet Archive Switzerland",
-      "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-      "source": "HackerNews",
-      "score": 510,
-      "comments": 74,
-      "date": "2026-05-09T12:00:30.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "You should read Programming as Theory Building",
-      "url": "https://www.reddit.com/r/programming/comments/1t81wbu/you_should_read_programming_as_theory_building/",
-      "source": "Reddit",
-      "date": "2026-05-09T11:02:01.000Z"
-    },
-    {
-      "id": "hn-48073680",
-      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-      "source": "HackerNews",
-      "score": 352,
-      "comments": 345,
-      "date": "2026-05-09T10:12:55.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Dirty Frag: Yet Another Universal Linux Kernel Privilege Escalation Vulnerability Active Since 2017, Unaffected By \"Copy Fail\" Mitigations",
-      "url": "https://www.reddit.com/r/programming/comments/1t7nej7/dirty_frag_yet_another_universal_linux_kernel/",
-      "source": "Reddit",
-      "date": "2026-05-08T22:53:32.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Mozilla: Behind the Scenes Hardening Firefox",
-      "url": "https://www.reddit.com/r/programming/comments/1t7it4t/mozilla_behind_the_scenes_hardening_firefox/",
-      "source": "Reddit",
-      "date": "2026-05-08T19:56:46.000Z"
-    },
-    {
-      "id": "hn-48067786",
-      "title": "Production engineering when trading billions of dollars a day [video]",
-      "url": "https://www.youtube.com/watch?v=zR9PpXWsKFQ",
-      "source": "HackerNews",
-      "score": 72,
-      "comments": 15,
-      "date": "2026-05-08T19:45:21.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Bjarne Stroustrup: How do I deal with memory leaks? By writing code that doesn't have any.",
-      "url": "https://www.reddit.com/r/programming/comments/1t7ax31/bjarne_stroustrup_how_do_i_deal_with_memory_leaks/",
-      "source": "Reddit",
-      "date": "2026-05-08T15:15:33.000Z"
-    },
-    {
-      "id": "hn-48049828",
-      "title": "The Serial TTL connector we deserve",
-      "url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
-      "source": "HackerNews",
-      "score": 15,
-      "comments": 5,
-      "date": "2026-05-07T14:19:55.000Z"
-    },
-    {
-      "id": "hn-48048902",
-      "title": "Making your own programming language is easier than you think (but also harder)",
-      "url": "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html",
-      "source": "HackerNews",
-      "score": 27,
-      "comments": 5,
-      "date": "2026-05-07T13:01:21.000Z"
+      "score": 26,
+      "comments": 6,
+      "date": "2026-05-07T15:34:04.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
