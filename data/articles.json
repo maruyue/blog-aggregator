@@ -1,229 +1,229 @@
 {
-  "updatedAt": "2026-05-12T00:00:55.753Z",
+  "updatedAt": "2026-05-13T00:02:27.452Z",
   "total": 30,
   "articles": [
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "User storiesPowering self-driving vehicle analytics at Avride with ClickHouse CloudAvride replaced Apache Iceberg with ClickHouse Cloud, cutting index lookup latency from 20 seconds to under 100ms and ingestion from hours to seconds.ClickHouseMay 11, 2026 · 11 minutes read",
-      "url": "https://clickhouse.com/blog/avride",
-      "source": "ClickHouse",
-      "date": "2026-05-12T00:00:55.753Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse Release 26.4",
-      "url": "https://clickhouse.com/blog/clickhouse-release-26-04",
-      "source": "ClickHouse",
-      "date": "2026-05-12T00:00:55.753Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Introducing Postgres Query Insights in ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/postgres-query-insights-clickhouse-cloud",
-      "source": "ClickHouse",
-      "date": "2026-05-12T00:00:55.753Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Agentic analytics starts with query-ready data: the write-side cost of Snowflake vs. ClickHouse",
-      "url": "https://clickhouse.com/blog/write-side-cost-performance-snowflake-clickhouse",
-      "source": "ClickHouse",
-      "date": "2026-05-12T00:00:55.753Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Stop guessing in production: Full fidelity tracing at scale with ClickHouse and Odigos",
-      "url": "https://clickhouse.com/blog/odigos-full-fidelity-tracing",
-      "source": "ClickHouse",
-      "date": "2026-05-12T00:00:55.753Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Gala supercharges analytics performance with ClickHouse on AWS",
-      "url": "https://clickhouse.com/blog/gala",
-      "source": "ClickHouse",
-      "date": "2026-05-12T00:00:55.753Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Goodbye limitations, hello data: How Qonto is rethinking observability with ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/qonto",
-      "source": "ClickHouse",
-      "date": "2026-05-12T00:00:55.753Z"
-    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Comparing ClickHouse versions with clickhousectl",
       "url": "https://clickhouse.com/blog/clickhousectl-compare-versions",
       "source": "ClickHouse",
-      "date": "2026-05-12T00:00:55.753Z"
+      "date": "2026-05-13T00:02:26.707Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse at Google Cloud Next &#x27;26",
       "url": "https://clickhouse.com/blog/google-next-2026-recap",
       "source": "ClickHouse",
-      "date": "2026-05-12T00:00:55.753Z"
+      "date": "2026-05-13T00:02:26.707Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "What&#x27;s New in pg_clickhouse - JSONB Support, SQL value functions, Streaming, and more",
-      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-april-2026",
+      "title": "EngineeringClickHouse Cloud: Fast, Updatable Lookups with the Join Table EngineLearn how ClickHouse Cloud&#x27;s Join table engine enables fast, updatable in-memory lookups for dimensional modeling — with automatic upserts, deduplication, and data compaction powered by ReplacingMergeTree under the hood.Hellmar BeckerMay 12, 2026 · 8 minutes read",
+      "url": "https://clickhouse.com/blog/join-table-engine",
       "source": "ClickHouse",
-      "date": "2026-05-12T00:00:55.753Z"
+      "date": "2026-05-13T00:02:26.706Z"
     },
     {
-      "id": "hn-48100970",
-      "title": "Griffin PowerMate driver for modern macOS",
-      "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
-      "source": "HackerNews",
-      "score": 17,
-      "comments": 5,
-      "date": "2026-05-11T21:35:38.000Z"
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Powering self-driving vehicle analytics at Avride with ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/avride",
+      "source": "ClickHouse",
+      "date": "2026-05-13T00:02:26.706Z"
     },
     {
-      "id": "hn-48100706",
-      "title": "TanStack NPM Packages Compromised",
-      "url": "https://github.com/TanStack/router/issues/7383",
-      "source": "HackerNews",
-      "score": 410,
-      "comments": 125,
-      "date": "2026-05-11T21:08:25.000Z"
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse Release 26.4",
+      "url": "https://clickhouse.com/blog/clickhouse-release-26-04",
+      "source": "ClickHouse",
+      "date": "2026-05-13T00:02:26.706Z"
     },
     {
-      "id": "hn-48100500",
-      "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
-      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-      "source": "HackerNews",
-      "score": 240,
-      "comments": 208,
-      "date": "2026-05-11T20:51:57.000Z"
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Introducing Postgres Query Insights in ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/postgres-query-insights-clickhouse-cloud",
+      "source": "ClickHouse",
+      "date": "2026-05-13T00:02:26.706Z"
     },
     {
-      "id": "hn-48099616",
-      "title": "Library for fast mapping of Java records to native memory",
-      "url": "https://github.com/mamba-studio/TypedMemory",
-      "source": "HackerNews",
-      "score": 92,
-      "comments": 23,
-      "date": "2026-05-11T19:33:31.000Z"
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Agentic analytics starts with query-ready data: the write-side cost of Snowflake vs. ClickHouse",
+      "url": "https://clickhouse.com/blog/write-side-cost-performance-snowflake-clickhouse",
+      "source": "ClickHouse",
+      "date": "2026-05-13T00:02:26.706Z"
     },
     {
-      "id": "hn-48098537",
-      "title": "Can someone please explain whether Cloudflare blackmailed Canonical?",
-      "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
-      "source": "HackerNews",
-      "score": 230,
-      "comments": 136,
-      "date": "2026-05-11T18:12:38.000Z"
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Stop guessing in production: Full fidelity tracing at scale with ClickHouse and Odigos",
+      "url": "https://clickhouse.com/blog/odigos-full-fidelity-tracing",
+      "source": "ClickHouse",
+      "date": "2026-05-13T00:02:26.706Z"
     },
     {
-      "id": "hn-48098261",
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Gala supercharges analytics performance with ClickHouse on AWS",
+      "url": "https://clickhouse.com/blog/gala",
+      "source": "ClickHouse",
+      "date": "2026-05-13T00:02:26.706Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Goodbye limitations, hello data: How Qonto is rethinking observability with ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/qonto",
+      "source": "ClickHouse",
+      "date": "2026-05-13T00:02:26.706Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Popular Go Library fsnotify Raises Supply Chain Alarms After Maintainer Access Changes",
+      "url": "https://www.reddit.com/r/programming/comments/1tbi8at/popular_go_library_fsnotify_raises_supply_chain/",
+      "source": "Reddit",
+      "date": "2026-05-12T23:22:19.000Z"
+    },
+    {
+      "id": "hn-48115823",
+      "title": "Kraftwerk's radical 1976 track",
+      "url": "https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem",
       "source": "HackerNews",
-      "score": 172,
+      "score": 31,
+      "comments": 2,
+      "date": "2026-05-12T23:13:01.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Choosing the Right Duplicate Detection Strategy",
+      "url": "https://www.reddit.com/r/programming/comments/1tbg6qw/choosing_the_right_duplicate_detection_strategy/",
+      "source": "Reddit",
+      "date": "2026-05-12T21:59:59.000Z"
+    },
+    {
+      "id": "hn-48115127",
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab",
+      "source": "HackerNews",
+      "score": 86,
       "comments": 33,
-      "date": "2026-05-11T17:53:08.000Z"
+      "date": "2026-05-12T21:55:21.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Froot Loops and a graphics card: reflecting on twenty years of programming",
-      "url": "https://www.reddit.com/r/programming/comments/1ta83gf/froot_loops_and_a_graphics_card_reflecting_on/",
-      "source": "Reddit",
-      "date": "2026-05-11T16:17:45.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Be careful with your Git: Investigating malware spreading through Git repositories",
-      "url": "https://www.reddit.com/r/programming/comments/1ta7ulb/be_careful_with_your_git_investigating_malware/",
-      "source": "Reddit",
-      "date": "2026-05-11T16:09:04.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "8317277: Java language implementation of value classes and objects by MrSimms · Pull Request #31120 · openjdk/jdk",
-      "url": "https://www.reddit.com/r/programming/comments/1ta5dax/8317277_java_language_implementation_of_value/",
-      "source": "Reddit",
-      "date": "2026-05-11T14:42:57.000Z"
-    },
-    {
-      "id": "hn-48094641",
-      "title": "Google says criminal hackers used AI to find a major software flaw",
-      "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+      "id": "hn-48113895",
+      "title": "How to make your text look futuristic (2016)",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
       "source": "HackerNews",
-      "score": 96,
-      "comments": 68,
-      "date": "2026-05-11T13:20:14.000Z"
+      "score": 177,
+      "comments": 20,
+      "date": "2026-05-12T20:16:26.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Branch-Avoidant Quicksort in C - faster than std::sort and pdqsort",
-      "url": "https://www.reddit.com/r/programming/comments/1ta25is/branchavoidant_quicksort_in_c_faster_than_stdsort/",
+      "title": "Curl lead developer Daniel Stenberg provides insightful feedbacks from Mythos analysis results",
+      "url": "https://www.reddit.com/r/programming/comments/1tbcj3x/curl_lead_developer_daniel_stenberg_provides/",
       "source": "Reddit",
-      "date": "2026-05-11T12:41:52.000Z"
+      "date": "2026-05-12T19:46:32.000Z"
     },
     {
-      "id": "hn-48093100",
-      "title": "Ratty – A terminal emulator with inline 3D graphics",
-      "url": "https://ratty-term.org/",
+      "id": "hn-48112042",
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
       "source": "HackerNews",
-      "score": 595,
-      "comments": 192,
-      "date": "2026-05-11T10:13:04.000Z"
+      "score": 211,
+      "comments": 98,
+      "date": "2026-05-12T18:12:28.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Package Manager CWEs",
-      "url": "https://www.reddit.com/r/programming/comments/1t9wmeq/package_manager_cwes/",
+      "title": "Google Threat Intelligence Group: First Large Scale Weaponized Use of AI Zero Days Observed In The Wild",
+      "url": "https://www.reddit.com/r/programming/comments/1tb9quz/google_threat_intelligence_group_first_large/",
       "source": "Reddit",
-      "date": "2026-05-11T07:59:18.000Z"
+      "date": "2026-05-12T18:10:52.000Z"
     },
     {
-      "id": "hn-48092028",
-      "title": "Gmail registration now requires scanning a QR code and sending a text message",
-      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "id": "hn-48111896",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
       "source": "HackerNews",
-      "score": 541,
-      "comments": 387,
-      "date": "2026-05-11T07:26:54.000Z"
+      "score": 242,
+      "comments": 87,
+      "date": "2026-05-12T18:03:11.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The FreeBSD vulnerability \"discovered\" by Mythos was already in its training data.",
-      "url": "https://www.reddit.com/r/programming/comments/1t9rl27/the_freebsd_vulnerability_discovered_by_mythos/",
-      "source": "Reddit",
-      "date": "2026-05-11T03:30:43.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "An Interactive Intro to CRDTs",
-      "url": "https://www.reddit.com/r/programming/comments/1t9gfcj/an_interactive_intro_to_crdts/",
-      "source": "Reddit",
-      "date": "2026-05-10T19:28:59.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Replacing a 3 GB SQLite database with a 10 MB FST",
-      "url": "https://www.reddit.com/r/programming/comments/1t98wxr/replacing_a_3_gb_sqlite_database_with_a_10_mb_fst/",
-      "source": "Reddit",
-      "date": "2026-05-10T14:47:23.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "COBOL is the Asbestos of Programming Languages",
-      "url": "https://www.reddit.com/r/programming/comments/1t98jcn/cobol_is_the_asbestos_of_programming_languages/",
-      "source": "Reddit",
-      "date": "2026-05-10T14:32:35.000Z"
-    },
-    {
-      "id": "hn-48060077",
-      "title": "Nullsoft, 1997-2004 (2004)",
-      "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+      "id": "hn-48111765",
+      "title": "Quack: The DuckDB Client-Server Protocol",
+      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
       "source": "HackerNews",
-      "score": 210,
-      "comments": 69,
-      "date": "2026-05-08T08:00:44.000Z"
+      "score": 162,
+      "comments": 33,
+      "date": "2026-05-12T17:54:12.000Z"
+    },
+    {
+      "id": "hn-48111581",
+      "title": "Reimagining the mouse pointer for the AI era",
+      "url": "https://deepmind.google/blog/ai-pointer/",
+      "source": "HackerNews",
+      "score": 118,
+      "comments": 95,
+      "date": "2026-05-12T17:40:13.000Z"
+    },
+    {
+      "id": "hn-48111545",
+      "title": "Googlebook",
+      "url": "https://googlebook.google/",
+      "source": "HackerNews",
+      "score": 555,
+      "comments": 892,
+      "date": "2026-05-12T17:37:36.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "I built a world record exact solver for the minimum line cover of prime points after watching a Numberphile video. It turned the previous 282-hour record into 22 minutes, then kept going to prove 20 new awkward primes never certified before.",
+      "url": "https://www.reddit.com/r/programming/comments/1tb8gv6/i_built_a_world_record_exact_solver_for_the/",
+      "source": "Reddit",
+      "date": "2026-05-12T17:27:29.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "cost of enum-to-string: C++26 reflection vs the old ways",
+      "url": "https://www.reddit.com/r/programming/comments/1tb89rx/cost_of_enumtostring_c26_reflection_vs_the_old/",
+      "source": "Reddit",
+      "date": "2026-05-12T17:20:42.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Discovering Dennis Ritchie’s Lost Dissertation",
+      "url": "https://www.reddit.com/r/programming/comments/1tb4jtk/discovering_dennis_ritchies_lost_dissertation/",
+      "source": "Reddit",
+      "date": "2026-05-12T15:12:39.000Z"
+    },
+    {
+      "id": "hn-48109460",
+      "title": "Why senior developers fail to communicate their expertise",
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "source": "HackerNews",
+      "score": 340,
+      "comments": 162,
+      "date": "2026-05-12T15:08:40.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Tom's Namespaces: An Odin Fanfic",
+      "url": "https://www.reddit.com/r/programming/comments/1tb2kos/toms_namespaces_an_odin_fanfic/",
+      "source": "Reddit",
+      "date": "2026-05-12T14:02:09.000Z"
+    },
+    {
+      "id": "hn-48107997",
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+      "source": "HackerNews",
+      "score": 392,
+      "comments": 34,
+      "date": "2026-05-12T13:26:46.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Mass npm Supply Chain Attack Hits TanStack, Mistral AI, and 170+ Packages",
+      "url": "https://www.reddit.com/r/programming/comments/1tapmvi/mass_npm_supply_chain_attack_hits_tanstack/",
+      "source": "Reddit",
+      "date": "2026-05-12T03:29:29.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
