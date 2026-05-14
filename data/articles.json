@@ -1,229 +1,229 @@
 {
-  "updatedAt": "2026-05-14T00:03:28.397Z",
+  "updatedAt": "2026-05-14T23:59:34.310Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "EngineeringClickStack SQL Charting and AlertingLearn how ClickStack’s new SQL-powered charting and alerting unlock anomaly detection, rolling baselines, and advanced observability workflows directly on top of ClickHouse, without relying on external tooling.Drew Davis and Dale McDiarmidMay 13, 2026 · 11 minutes read",
+      "title": "EngineeringPostgres FDW: Pushdown is a negotiationA deep dive into how pg_clickhouse&#x27;s Foreign Data Wrapper decides what SQL to push down to ClickHouse versus execute locally in Postgres .Kaushik Iska, David Wheeler and Philip DubéMay 14, 2026 · 20 minutes read",
+      "url": "https://clickhouse.com/blog/postgres-fdw-pushdown-negotiation",
+      "source": "ClickHouse",
+      "date": "2026-05-14T23:59:34.310Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse vs Prometheus for High Cardinality, Part 1: Understanding the Problem",
+      "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-p1-understanding-the-problem",
+      "source": "ClickHouse",
+      "date": "2026-05-14T23:59:34.310Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickStack SQL Charting and Alerting",
       "url": "https://clickhouse.com/blog/clickstack-sql-charting-and-alerting",
       "source": "ClickHouse",
-      "date": "2026-05-14T00:03:28.397Z"
+      "date": "2026-05-14T23:59:34.310Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud: Fast, Updatable Lookups with the Join Table Engine",
       "url": "https://clickhouse.com/blog/join-table-engine",
       "source": "ClickHouse",
-      "date": "2026-05-14T00:03:28.397Z"
+      "date": "2026-05-14T23:59:34.310Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Powering self-driving vehicle analytics at Avride with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/avride",
       "source": "ClickHouse",
-      "date": "2026-05-14T00:03:28.397Z"
+      "date": "2026-05-14T23:59:34.310Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.4",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-04",
       "source": "ClickHouse",
-      "date": "2026-05-14T00:03:28.397Z"
+      "date": "2026-05-14T23:59:34.310Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing Postgres Query Insights in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/postgres-query-insights-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-05-14T00:03:28.397Z"
+      "date": "2026-05-14T23:59:34.310Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Agentic analytics starts with query-ready data: the write-side cost of Snowflake vs. ClickHouse",
       "url": "https://clickhouse.com/blog/write-side-cost-performance-snowflake-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-05-14T00:03:28.397Z"
+      "date": "2026-05-14T23:59:34.310Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Stop guessing in production: Full fidelity tracing at scale with ClickHouse and Odigos",
       "url": "https://clickhouse.com/blog/odigos-full-fidelity-tracing",
       "source": "ClickHouse",
-      "date": "2026-05-14T00:03:28.397Z"
+      "date": "2026-05-14T23:59:34.310Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Gala supercharges analytics performance with ClickHouse on AWS",
       "url": "https://clickhouse.com/blog/gala",
       "source": "ClickHouse",
-      "date": "2026-05-14T00:03:28.397Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Goodbye limitations, hello data: How Qonto is rethinking observability with ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/qonto",
-      "source": "ClickHouse",
-      "date": "2026-05-14T00:03:28.397Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Comparing ClickHouse versions with clickhousectl",
-      "url": "https://clickhouse.com/blog/clickhousectl-compare-versions",
-      "source": "ClickHouse",
-      "date": "2026-05-14T00:03:28.397Z"
+      "date": "2026-05-14T23:59:34.310Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "USAF just launched their AMS GRA and A-GRA reference architectures to the public.",
-      "url": "https://www.reddit.com/r/programming/comments/1tchf5u/usaf_just_launched_their_ams_gra_and_agra/",
+      "title": "mimalloc: A new, high-performance, scalable memory allocator for the modern era",
+      "url": "https://www.reddit.com/r/programming/comments/1tdecay/mimalloc_a_new_highperformance_scalable_memory/",
       "source": "Reddit",
-      "date": "2026-05-14T00:01:08.000Z"
+      "date": "2026-05-14T23:04:53.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Fragnesia: Another Linux Kernel Zero Day",
-      "url": "https://www.reddit.com/r/programming/comments/1tcgtdh/fragnesia_another_linux_kernel_zero_day/",
-      "source": "Reddit",
-      "date": "2026-05-13T23:36:32.000Z"
-    },
-    {
-      "id": "hn-48126848",
-      "title": "Princeton mandates proctoring for in-person exams, upending 133 year precedent",
-      "url": "https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent",
+      "id": "hn-48142251",
+      "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
+      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
       "source": "HackerNews",
-      "score": 208,
-      "comments": 276,
-      "date": "2026-05-13T20:12:16.000Z"
+      "score": 66,
+      "comments": 17,
+      "date": "2026-05-14T22:44:16.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How we made WINDOW JOIN parallel and vectorized",
-      "url": "https://www.reddit.com/r/programming/comments/1tc62n4/how_we_made_window_join_parallel_and_vectorized/",
-      "source": "Reddit",
-      "date": "2026-05-13T17:11:29.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Intellectual Control vs Statistical Control",
-      "url": "https://www.reddit.com/r/programming/comments/1tc628z/intellectual_control_vs_statistical_control/",
-      "source": "Reddit",
-      "date": "2026-05-13T17:11:08.000Z"
-    },
-    {
-      "id": "hn-48124436",
-      "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
-      "url": "https://www.tryardent.com/",
+      "id": "hn-48142193",
+      "title": "More than half of U.S. faces worst drought in decades",
+      "url": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
       "source": "HackerNews",
-      "score": 61,
-      "comments": 22,
-      "date": "2026-05-13T16:54:03.000Z"
+      "score": 39,
+      "comments": 5,
+      "date": "2026-05-14T22:38:18.000Z"
     },
     {
-      "id": "hn-48123546",
-      "title": "S-100 Virtual Workbench",
-      "url": "https://grantmestrength.github.io/S100/",
-      "source": "HackerNews",
-      "score": 95,
-      "comments": 20,
-      "date": "2026-05-13T15:52:00.000Z"
-    },
-    {
-      "id": "hn-48122635",
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "url": "https://fredchan.org/blog/locality-domains-guide/",
-      "source": "HackerNews",
-      "score": 461,
-      "comments": 149,
-      "date": "2026-05-13T14:45:18.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Quack: The DuckDB Client-Server Protocol",
-      "url": "https://www.reddit.com/r/programming/comments/1tc182n/quack_the_duckdb_clientserver_protocol/",
-      "source": "Reddit",
-      "date": "2026-05-13T14:24:58.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "5 Years and $5M Later: Inventing a New Programming Language for Web Development Was a Mistake",
-      "url": "https://www.reddit.com/r/programming/comments/1tc02h0/5_years_and_5m_later_inventing_a_new_programming/",
-      "source": "Reddit",
-      "date": "2026-05-13T13:43:00.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Five months after switching Fluxzy from Electron to Tauri",
-      "url": "https://www.reddit.com/r/programming/comments/1tbynhu/five_months_after_switching_fluxzy_from_electron/",
-      "source": "Reddit",
-      "date": "2026-05-13T12:48:08.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Malware crew TeamPCP open-sources its Shai-Hulud worm on GitHub",
-      "url": "https://www.reddit.com/r/programming/comments/1tbwoyg/malware_crew_teampcp_opensources_its_shaihulud/",
-      "source": "Reddit",
-      "date": "2026-05-13T11:22:44.000Z"
-    },
-    {
-      "id": "hn-48118727",
-      "title": "The Emacsification of Software",
-      "url": "https://sockpuppet.org/blog/2026/05/12/emacsification/",
-      "source": "HackerNews",
-      "score": 165,
-      "comments": 108,
-      "date": "2026-05-13T07:06:14.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "I built a world record exact solver for the minimum line cover of prime points after watching a Numberphile video. It turned the previous 282-hour record into 22 minutes, then kept going to prove 20 new awkward primes never certified before.",
-      "url": "https://www.reddit.com/r/programming/comments/1tb8gv6/i_built_a_world_record_exact_solver_for_the/",
-      "source": "Reddit",
-      "date": "2026-05-12T17:27:29.000Z"
-    },
-    {
-      "id": "hn-48096760",
-      "title": "Chess puzzle I found in my dad's old book",
-      "url": "https://ardoedo.it/kempelen/",
+      "id": "hn-48142108",
+      "title": "A few words on DS4",
+      "url": "https://antirez.com/news/165",
       "source": "HackerNews",
       "score": 58,
-      "comments": 16,
-      "date": "2026-05-11T16:00:19.000Z"
+      "comments": 15,
+      "date": "2026-05-14T22:29:12.000Z"
     },
     {
-      "id": "hn-48095782",
-      "title": "Marco Polo: Finding a friend with only distance and motion",
-      "url": "https://www.jackhogan.me/blog/marco-polo",
-      "source": "HackerNews",
-      "score": 14,
-      "comments": 1,
-      "date": "2026-05-11T14:52:25.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "MIT-licensed Vector Search on Object Storage",
+      "url": "https://www.reddit.com/r/programming/comments/1tdc2zx/mitlicensed_vector_search_on_object_storage/",
+      "source": "Reddit",
+      "date": "2026-05-14T21:35:21.000Z"
     },
     {
-      "id": "hn-48087887",
-      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-      "source": "HackerNews",
-      "score": 459,
-      "comments": 290,
-      "date": "2026-05-10T20:54:06.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Out of the Tar Pit (2006) — the paper that named complexity as software's central problem",
+      "url": "https://www.reddit.com/r/programming/comments/1tdbkrs/out_of_the_tar_pit_2006_the_paper_that_named/",
+      "source": "Reddit",
+      "date": "2026-05-14T21:16:06.000Z"
     },
     {
-      "id": "hn-48080755",
-      "title": "Xs of Y – roguelike that names itself every run. Written in 4kLoC",
-      "url": "https://github.com/nooga/xsofy",
+      "id": "hn-48140953",
+      "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
+      "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
       "source": "HackerNews",
-      "score": 143,
-      "comments": 64,
-      "date": "2026-05-10T03:32:59.000Z"
+      "score": 42,
+      "comments": 8,
+      "date": "2026-05-14T20:41:48.000Z"
     },
     {
-      "id": "hn-48073979",
-      "title": "A History of IDEs at Google",
-      "url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+      "id": "hn-48140730",
+      "title": "Amazonbot is finally respecting robots.txt",
+      "url": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
       "source": "HackerNews",
-      "score": 246,
-      "comments": 184,
-      "date": "2026-05-09T11:14:18.000Z"
+      "score": 115,
+      "comments": 25,
+      "date": "2026-05-14T20:22:35.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "5× faster fast_blur in image-rs",
+      "url": "https://www.reddit.com/r/programming/comments/1td9tgq/5_faster_fast_blur_in_imagers/",
+      "source": "Reddit",
+      "date": "2026-05-14T20:12:17.000Z"
+    },
+    {
+      "id": "hn-48140529",
+      "title": "Codex is now in the ChatGPT mobile app",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "source": "HackerNews",
+      "score": 122,
+      "comments": 46,
+      "date": "2026-05-14T20:06:14.000Z"
+    },
+    {
+      "id": "hn-48139219",
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+      "source": "HackerNews",
+      "score": 209,
+      "comments": 37,
+      "date": "2026-05-14T18:25:09.000Z"
+    },
+    {
+      "id": "hn-48138268",
+      "title": "New Nginx Exploit",
+      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+      "source": "HackerNews",
+      "score": 267,
+      "comments": 59,
+      "date": "2026-05-14T17:17:48.000Z"
+    },
+    {
+      "id": "hn-48138136",
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+      "source": "HackerNews",
+      "score": 528,
+      "comments": 320,
+      "date": "2026-05-14T17:08:00.000Z"
+    },
+    {
+      "id": "hn-48137145",
+      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "source": "HackerNews",
+      "score": 454,
+      "comments": 118,
+      "date": "2026-05-14T15:47:31.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "SQL’s ORDER BY Has Come a Long Way",
+      "url": "https://www.reddit.com/r/programming/comments/1td1gxa/sqls_order_by_has_come_a_long_way/",
+      "source": "Reddit",
+      "date": "2026-05-14T15:23:24.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Browsers Treat Big Sites Differently",
+      "url": "https://www.reddit.com/r/programming/comments/1td13ep/browsers_treat_big_sites_differently/",
+      "source": "Reddit",
+      "date": "2026-05-14T15:10:41.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Per Stenström on why we never actually replaced the Von Neumann architecture — and whether we ever will",
+      "url": "https://www.reddit.com/r/programming/comments/1tcuwhv/per_stenström_on_why_we_never_actually_replaced/",
+      "source": "Reddit",
+      "date": "2026-05-14T11:09:30.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Rewrite Bun in Rust has been merged",
+      "url": "https://www.reddit.com/r/programming/comments/1tcuebe/rewrite_bun_in_rust_has_been_merged/",
+      "source": "Reddit",
+      "date": "2026-05-14T10:44:42.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How to build a programming language after civilization collapses",
+      "url": "https://www.reddit.com/r/programming/comments/1tcsy80/how_to_build_a_programming_language_after/",
+      "source": "Reddit",
+      "date": "2026-05-14T09:27:31.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
