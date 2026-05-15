@@ -1,76 +1,199 @@
 {
-  "updatedAt": "2026-05-14T23:59:34.310Z",
+  "updatedAt": "2026-05-15T23:56:28.966Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "EngineeringPostgres FDW: Pushdown is a negotiationA deep dive into how pg_clickhouse&#x27;s Foreign Data Wrapper decides what SQL to push down to ClickHouse versus execute locally in Postgres .Kaushik Iska, David Wheeler and Philip DubéMay 14, 2026 · 20 minutes read",
+      "title": "User storiesHow the D. E. Shaw group powers high-cardinality observability at scale with ClickHouseHow the D. E. Shaw group replaced its previous observability platform with ClickHouse to handle high-cardinality metrics at scale, achieving 7x better query performance and enabling multi-year capacity planning across millions of compute workloads.ClickHouseMay 15, 2026 · 10 minutes read",
+      "url": "https://clickhouse.com/blog/deshaw",
+      "source": "ClickHouse",
+      "date": "2026-05-15T23:56:28.965Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Postgres FDW: Pushdown is a negotiation",
       "url": "https://clickhouse.com/blog/postgres-fdw-pushdown-negotiation",
       "source": "ClickHouse",
-      "date": "2026-05-14T23:59:34.310Z"
+      "date": "2026-05-15T23:56:28.965Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse vs Prometheus for High Cardinality, Part 1: Understanding the Problem",
       "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-p1-understanding-the-problem",
       "source": "ClickHouse",
-      "date": "2026-05-14T23:59:34.310Z"
+      "date": "2026-05-15T23:56:28.965Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickStack SQL Charting and Alerting",
       "url": "https://clickhouse.com/blog/clickstack-sql-charting-and-alerting",
       "source": "ClickHouse",
-      "date": "2026-05-14T23:59:34.310Z"
+      "date": "2026-05-15T23:56:28.965Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud: Fast, Updatable Lookups with the Join Table Engine",
       "url": "https://clickhouse.com/blog/join-table-engine",
       "source": "ClickHouse",
-      "date": "2026-05-14T23:59:34.310Z"
+      "date": "2026-05-15T23:56:28.965Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Powering self-driving vehicle analytics at Avride with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/avride",
       "source": "ClickHouse",
-      "date": "2026-05-14T23:59:34.310Z"
+      "date": "2026-05-15T23:56:28.965Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.4",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-04",
       "source": "ClickHouse",
-      "date": "2026-05-14T23:59:34.310Z"
+      "date": "2026-05-15T23:56:28.965Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing Postgres Query Insights in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/postgres-query-insights-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-05-14T23:59:34.310Z"
+      "date": "2026-05-15T23:56:28.965Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Agentic analytics starts with query-ready data: the write-side cost of Snowflake vs. ClickHouse",
       "url": "https://clickhouse.com/blog/write-side-cost-performance-snowflake-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-05-14T23:59:34.310Z"
+      "date": "2026-05-15T23:56:28.965Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Stop guessing in production: Full fidelity tracing at scale with ClickHouse and Odigos",
       "url": "https://clickhouse.com/blog/odigos-full-fidelity-tracing",
       "source": "ClickHouse",
-      "date": "2026-05-14T23:59:34.310Z"
+      "date": "2026-05-15T23:56:28.965Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Gala supercharges analytics performance with ClickHouse on AWS",
-      "url": "https://clickhouse.com/blog/gala",
-      "source": "ClickHouse",
-      "date": "2026-05-14T23:59:34.310Z"
+      "id": "hn-48154711",
+      "title": "How to Write to SSDs [pdf]",
+      "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
+      "source": "HackerNews",
+      "score": 22,
+      "comments": 2,
+      "date": "2026-05-15T22:23:38.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "[PDF] How to Write to SSDs",
+      "url": "https://www.reddit.com/r/programming/comments/1teabtu/pdf_how_to_write_to_ssds/",
+      "source": "Reddit",
+      "date": "2026-05-15T21:49:36.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Rust on my Buns",
+      "url": "https://www.reddit.com/r/programming/comments/1te96np/rust_on_my_buns/",
+      "source": "Reddit",
+      "date": "2026-05-15T21:05:35.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "HDD Firmware Hacking Part 1",
+      "url": "https://www.reddit.com/r/programming/comments/1te8wiu/hdd_firmware_hacking_part_1/",
+      "source": "Reddit",
+      "date": "2026-05-15T20:55:05.000Z"
+    },
+    {
+      "id": "hn-48153379",
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+      "source": "HackerNews",
+      "score": 602,
+      "comments": 271,
+      "date": "2026-05-15T20:26:47.000Z"
+    },
+    {
+      "id": "hn-48152994",
+      "title": "California bill would require patches or refunds when online games shut down",
+      "url": "https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/",
+      "source": "HackerNews",
+      "score": 253,
+      "comments": 140,
+      "date": "2026-05-15T19:48:48.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "A History of IDEs at Google",
+      "url": "https://www.reddit.com/r/programming/comments/1te6m44/a_history_of_ides_at_google/",
+      "source": "Reddit",
+      "date": "2026-05-15T19:31:29.000Z"
+    },
+    {
+      "id": "hn-48152168",
+      "title": "The Zulip Foundation",
+      "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
+      "source": "HackerNews",
+      "score": 182,
+      "comments": 47,
+      "date": "2026-05-15T18:37:01.000Z"
+    },
+    {
+      "id": "hn-48151383",
+      "title": "U.S. DOJ demands Apple and Google unmask over 100k users of car-tinkering app",
+      "url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+      "source": "HackerNews",
+      "score": 330,
+      "comments": 224,
+      "date": "2026-05-15T17:28:24.000Z"
+    },
+    {
+      "id": "hn-48151237",
+      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+      "url": "https://github.com/gdevic/FPGA-Calculator",
+      "source": "HackerNews",
+      "score": 74,
+      "comments": 24,
+      "date": "2026-05-15T17:15:58.000Z"
+    },
+    {
+      "id": "hn-48150431",
+      "title": "Project Gutenberg – keeps getting better",
+      "url": "https://www.gutenberg.org/",
+      "source": "HackerNews",
+      "score": 666,
+      "comments": 165,
+      "date": "2026-05-15T16:15:36.000Z"
+    },
+    {
+      "id": "hn-48148460",
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+      "source": "HackerNews",
+      "score": 321,
+      "comments": 146,
+      "date": "2026-05-15T13:39:54.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Deep dive: How ClickHouse handles async inserts (and why it matters for high-throughput pipelines)",
+      "url": "https://www.reddit.com/r/programming/comments/1tdvkbr/deep_dive_how_clickhouse_handles_async_inserts/",
+      "source": "Reddit",
+      "date": "2026-05-15T12:56:04.000Z"
+    },
+    {
+      "id": "hn-48147021",
+      "title": "The sigmoids won't save you",
+      "url": "https://www.astralcodexten.com/p/the-sigmoids-wont-save-you",
+      "source": "HackerNews",
+      "score": 123,
+      "comments": 154,
+      "date": "2026-05-15T10:51:13.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "C3 0.8.0 replaces builtins, simplifies reflection, and rethinks unsigned sizes",
+      "url": "https://www.reddit.com/r/programming/comments/1tdq64x/c3_080_replaces_builtins_simplifies_reflection/",
+      "source": "Reddit",
+      "date": "2026-05-15T08:33:05.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -80,124 +203,6 @@
       "date": "2026-05-14T23:04:53.000Z"
     },
     {
-      "id": "hn-48142251",
-      "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
-      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o",
-      "source": "HackerNews",
-      "score": 66,
-      "comments": 17,
-      "date": "2026-05-14T22:44:16.000Z"
-    },
-    {
-      "id": "hn-48142193",
-      "title": "More than half of U.S. faces worst drought in decades",
-      "url": "https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html",
-      "source": "HackerNews",
-      "score": 39,
-      "comments": 5,
-      "date": "2026-05-14T22:38:18.000Z"
-    },
-    {
-      "id": "hn-48142108",
-      "title": "A few words on DS4",
-      "url": "https://antirez.com/news/165",
-      "source": "HackerNews",
-      "score": 58,
-      "comments": 15,
-      "date": "2026-05-14T22:29:12.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "MIT-licensed Vector Search on Object Storage",
-      "url": "https://www.reddit.com/r/programming/comments/1tdc2zx/mitlicensed_vector_search_on_object_storage/",
-      "source": "Reddit",
-      "date": "2026-05-14T21:35:21.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Out of the Tar Pit (2006) — the paper that named complexity as software's central problem",
-      "url": "https://www.reddit.com/r/programming/comments/1tdbkrs/out_of_the_tar_pit_2006_the_paper_that_named/",
-      "source": "Reddit",
-      "date": "2026-05-14T21:16:06.000Z"
-    },
-    {
-      "id": "hn-48140953",
-      "title": "Tesla Wall Connector bootloader bypasses the firmware downgrade ratchet",
-      "url": "https://www.synacktiv.com/en/publications/exploiting-the-tesla-wall-connector-from-its-charge-port-connector-part-2-bypassing",
-      "source": "HackerNews",
-      "score": 42,
-      "comments": 8,
-      "date": "2026-05-14T20:41:48.000Z"
-    },
-    {
-      "id": "hn-48140730",
-      "title": "Amazonbot is finally respecting robots.txt",
-      "url": "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/",
-      "source": "HackerNews",
-      "score": 115,
-      "comments": 25,
-      "date": "2026-05-14T20:22:35.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "5× faster fast_blur in image-rs",
-      "url": "https://www.reddit.com/r/programming/comments/1td9tgq/5_faster_fast_blur_in_imagers/",
-      "source": "Reddit",
-      "date": "2026-05-14T20:12:17.000Z"
-    },
-    {
-      "id": "hn-48140529",
-      "title": "Codex is now in the ChatGPT mobile app",
-      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-      "source": "HackerNews",
-      "score": 122,
-      "comments": 46,
-      "date": "2026-05-14T20:06:14.000Z"
-    },
-    {
-      "id": "hn-48139219",
-      "title": "First public macOS kernel memory corruption exploit on Apple M5",
-      "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
-      "source": "HackerNews",
-      "score": 209,
-      "comments": 37,
-      "date": "2026-05-14T18:25:09.000Z"
-    },
-    {
-      "id": "hn-48138268",
-      "title": "New Nginx Exploit",
-      "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
-      "source": "HackerNews",
-      "score": 267,
-      "comments": 59,
-      "date": "2026-05-14T17:17:48.000Z"
-    },
-    {
-      "id": "hn-48138136",
-      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-      "source": "HackerNews",
-      "score": 528,
-      "comments": 320,
-      "date": "2026-05-14T17:08:00.000Z"
-    },
-    {
-      "id": "hn-48137145",
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-      "source": "HackerNews",
-      "score": 454,
-      "comments": 118,
-      "date": "2026-05-14T15:47:31.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "SQL’s ORDER BY Has Come a Long Way",
-      "url": "https://www.reddit.com/r/programming/comments/1td1gxa/sqls_order_by_has_come_a_long_way/",
-      "source": "Reddit",
-      "date": "2026-05-14T15:23:24.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "Browsers Treat Big Sites Differently",
       "url": "https://www.reddit.com/r/programming/comments/1td13ep/browsers_treat_big_sites_differently/",
@@ -205,11 +210,13 @@
       "date": "2026-05-14T15:10:41.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Per Stenström on why we never actually replaced the Von Neumann architecture — and whether we ever will",
-      "url": "https://www.reddit.com/r/programming/comments/1tcuwhv/per_stenström_on_why_we_never_actually_replaced/",
-      "source": "Reddit",
-      "date": "2026-05-14T11:09:30.000Z"
+      "id": "hn-48136000",
+      "title": "Naturally Occurring Quasicrystals",
+      "url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
+      "source": "HackerNews",
+      "score": 30,
+      "comments": 2,
+      "date": "2026-05-14T14:32:46.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -217,13 +224,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1tcuebe/rewrite_bun_in_rust_has_been_merged/",
       "source": "Reddit",
       "date": "2026-05-14T10:44:42.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How to build a programming language after civilization collapses",
-      "url": "https://www.reddit.com/r/programming/comments/1tcsy80/how_to_build_a_programming_language_after/",
-      "source": "Reddit",
-      "date": "2026-05-14T09:27:31.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
