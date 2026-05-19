@@ -1,153 +1,204 @@
 {
-  "updatedAt": "2026-05-17T23:59:41.432Z",
+  "updatedAt": "2026-05-19T00:11:04.255Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "User storiesHow the D. E. Shaw group powers high-cardinality observability at scale with ClickHouseHow the D. E. Shaw group replaced its previous observability platform with ClickHouse to handle high-cardinality metrics at scale, achieving 7x better query performance and enabling multi-year capacity planning across millions of compute workloads.ClickHouseMay 15, 2026 · 10 minutes read",
+      "title": "User storiesHow ChatFeatured migrated from PlanetScale Postgres to Postgres Managed by ClickHouse to power AI brand discoveryHow ChatFeatured cut analytics query times from 2.5 minutes to under a second by migrating from PlanetScale Postgres to Postgres managed by ClickHouse — in just 30 minutes.ClickHouseMay 18, 2026 · 12 minutes read",
+      "url": "https://clickhouse.com/blog/chatfeatured",
+      "source": "ClickHouse",
+      "date": "2026-05-19T00:11:04.255Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse vs Prometheus for High Cardinality, Part 2: Cardinality in ClickHouse",
+      "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-part-2-cardinality-in-clickhouse",
+      "source": "ClickHouse",
+      "date": "2026-05-19T00:11:04.255Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How the D. E. Shaw group powers high-cardinality observability at scale with ClickHouse",
       "url": "https://clickhouse.com/blog/deshaw",
       "source": "ClickHouse",
-      "date": "2026-05-17T23:59:41.431Z"
+      "date": "2026-05-19T00:11:04.255Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres FDW: Pushdown is a negotiation",
       "url": "https://clickhouse.com/blog/postgres-fdw-pushdown-negotiation",
       "source": "ClickHouse",
-      "date": "2026-05-17T23:59:41.431Z"
+      "date": "2026-05-19T00:11:04.255Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse vs Prometheus for High Cardinality, Part 1: Understanding the Problem",
       "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-p1-understanding-the-problem",
       "source": "ClickHouse",
-      "date": "2026-05-17T23:59:41.431Z"
+      "date": "2026-05-19T00:11:04.255Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickStack SQL Charting and Alerting",
       "url": "https://clickhouse.com/blog/clickstack-sql-charting-and-alerting",
       "source": "ClickHouse",
-      "date": "2026-05-17T23:59:41.431Z"
+      "date": "2026-05-19T00:11:04.255Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud: Fast, Updatable Lookups with the Join Table Engine",
       "url": "https://clickhouse.com/blog/join-table-engine",
       "source": "ClickHouse",
-      "date": "2026-05-17T23:59:41.431Z"
+      "date": "2026-05-19T00:11:04.255Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Powering self-driving vehicle analytics at Avride with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/avride",
       "source": "ClickHouse",
-      "date": "2026-05-17T23:59:41.431Z"
+      "date": "2026-05-19T00:11:04.255Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.4",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-04",
       "source": "ClickHouse",
-      "date": "2026-05-17T23:59:41.431Z"
+      "date": "2026-05-19T00:11:04.255Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing Postgres Query Insights in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/postgres-query-insights-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-05-17T23:59:41.431Z"
+      "date": "2026-05-19T00:11:04.255Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Agentic analytics starts with query-ready data: the write-side cost of Snowflake vs. ClickHouse",
-      "url": "https://clickhouse.com/blog/write-side-cost-performance-snowflake-clickhouse",
-      "source": "ClickHouse",
-      "date": "2026-05-17T23:59:41.431Z"
+      "id": "hn-48187201",
+      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+      "source": "HackerNews",
+      "score": 19,
+      "comments": 2,
+      "date": "2026-05-18T23:18:10.000Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Stop guessing in production: Full fidelity tracing at scale with ClickHouse and Odigos",
-      "url": "https://clickhouse.com/blog/odigos-full-fidelity-tracing",
-      "source": "ClickHouse",
-      "date": "2026-05-17T23:59:41.431Z"
+      "id": "hn-48187054",
+      "title": "Click",
+      "url": "https://clickclickclick.click/",
+      "source": "HackerNews",
+      "score": 90,
+      "comments": 21,
+      "date": "2026-05-18T23:03:02.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "WriteUp: 16 bytes of x86 that turn Matrix rain into sound",
-      "url": "https://www.reddit.com/r/programming/comments/1tg4hy6/writeup_16_bytes_of_x86_that_turn_matrix_rain/",
+      "title": "Protocols for transactional usage of object storage",
+      "url": "https://www.reddit.com/r/programming/comments/1th2cav/protocols_for_transactional_usage_of_object/",
       "source": "Reddit",
-      "date": "2026-05-17T22:52:10.000Z"
+      "date": "2026-05-18T21:43:34.000Z"
     },
     {
-      "id": "hn-48173849",
-      "title": "Design posters showcasing your country's electrical grid",
-      "url": "https://github.com/open-energy-transition/grid2poster",
+      "id": "hn-48184322",
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "url": "https://hyperpolyglot.org/lisp",
       "source": "HackerNews",
-      "score": 5,
-      "comments": 1,
-      "date": "2026-05-17T22:47:05.000Z"
-    },
-    {
-      "id": "hn-48173708",
-      "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
-      "url": "https://xca-attacks.github.io/fabricked/",
-      "source": "HackerNews",
-      "score": 14,
-      "comments": 1,
-      "date": "2026-05-17T22:23:30.000Z"
-    },
-    {
-      "id": "hn-48173547",
-      "title": "ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations",
-      "url": "https://www.jdhodges.com/blog/thinkpad-history/",
-      "source": "HackerNews",
-      "score": 24,
-      "comments": 6,
-      "date": "2026-05-17T21:56:40.000Z"
-    },
-    {
-      "id": "hn-48173468",
-      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
-      "source": "HackerNews",
-      "score": 52,
-      "comments": 31,
-      "date": "2026-05-17T21:45:30.000Z"
-    },
-    {
-      "id": "hn-48173429",
-      "title": "GenCAD",
-      "url": "https://gencad.github.io/",
-      "source": "HackerNews",
-      "score": 33,
-      "comments": 6,
-      "date": "2026-05-17T21:40:35.000Z"
-    },
-    {
-      "id": "hn-48173268",
-      "title": "Prolog Coding Horror",
-      "url": "https://www.metalevel.at/prolog/horror",
-      "source": "HackerNews",
-      "score": 43,
-      "comments": 12,
-      "date": "2026-05-17T21:15:51.000Z"
-    },
-    {
-      "id": "hn-48172505",
-      "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
-      "url": "https://spectrum.ieee.org/payphone-voip",
-      "source": "HackerNews",
-      "score": 104,
+      "score": 116,
       "comments": 24,
-      "date": "2026-05-17T19:39:10.000Z"
+      "date": "2026-05-18T19:27:25.000Z"
+    },
+    {
+      "id": "hn-48183301",
+      "title": "We let AIs run radio stations",
+      "url": "https://andonlabs.com/blog/andon-fm",
+      "source": "HackerNews",
+      "score": 132,
+      "comments": 139,
+      "date": "2026-05-18T18:12:18.000Z"
+    },
+    {
+      "id": "hn-48182754",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "source": "HackerNews",
+      "score": 728,
+      "comments": 367,
+      "date": "2026-05-18T17:38:22.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Piping Compilation Logs to the Browser using systemfd",
-      "url": "https://www.reddit.com/r/programming/comments/1tfspif/piping_compilation_logs_to_the_browser_using/",
+      "title": "On mashing up modelling techniques for fun and profit",
+      "url": "https://www.reddit.com/r/programming/comments/1tgterl/on_mashing_up_modelling_techniques_for_fun_and/",
       "source": "Reddit",
-      "date": "2026-05-17T15:29:39.000Z"
+      "date": "2026-05-18T17:21:05.000Z"
+    },
+    {
+      "id": "hn-48182281",
+      "title": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "source": "HackerNews",
+      "score": 339,
+      "comments": 236,
+      "date": "2026-05-18T17:01:21.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Simulating Infinity in Conway's Game of Life with Modern C++",
+      "url": "https://www.reddit.com/r/programming/comments/1tgr4bx/simulating_infinity_in_conways_game_of_life_with/",
+      "source": "Reddit",
+      "date": "2026-05-18T16:05:14.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Joys of Free Cloudflare",
+      "url": "https://www.reddit.com/r/programming/comments/1tgqwhj/the_joys_of_free_cloudflare/",
+      "source": "Reddit",
+      "date": "2026-05-18T15:57:56.000Z"
+    },
+    {
+      "id": "hn-48181125",
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "source": "HackerNews",
+      "score": 387,
+      "comments": 184,
+      "date": "2026-05-18T15:24:19.000Z"
+    },
+    {
+      "id": "hn-48179677",
+      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+      "url": "https://github.com/zakirullin/files.md",
+      "source": "HackerNews",
+      "score": 522,
+      "comments": 272,
+      "date": "2026-05-18T13:33:33.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Key Python 3.15 Updates To Make Your Coding Faster, Cleaner, and Easier",
+      "url": "https://www.reddit.com/r/programming/comments/1tgj1cr/key_python_315_updates_to_make_your_coding_faster/",
+      "source": "Reddit",
+      "date": "2026-05-18T10:55:54.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Kubernetes from Dev to Production: Lessons learned from self-hosting an European alternative to Google Docs",
+      "url": "https://www.reddit.com/r/programming/comments/1tgh4m6/kubernetes_from_dev_to_production_lessons_learned/",
+      "source": "Reddit",
+      "date": "2026-05-18T09:15:05.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Nobody Pushed Back: Why Engineers Stay Silent Until It's Too Late",
+      "url": "https://www.reddit.com/r/programming/comments/1tggiab/nobody_pushed_back_why_engineers_stay_silent/",
+      "source": "Reddit",
+      "date": "2026-05-18T08:40:20.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Spring Physics in my Word Game? An exploration of advanced CSS animations in SvelteJS",
+      "url": "https://www.reddit.com/r/programming/comments/1tgd8qh/spring_physics_in_my_word_game_an_exploration_of/",
+      "source": "Reddit",
+      "date": "2026-05-18T05:38:57.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -157,73 +208,22 @@
       "date": "2026-05-17T14:50:37.000Z"
     },
     {
-      "id": "hn-48168668",
-      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "url": "https://github.com/tech4bot/rk3562deb",
+      "id": "hn-48164388",
+      "title": "The Futility of Lava Lamps: What Random Means",
+      "url": "https://loup-vaillant.fr/articles/lava-lamps-and-randomness",
       "source": "HackerNews",
-      "score": 221,
-      "comments": 114,
-      "date": "2026-05-17T13:16:27.000Z"
+      "score": 36,
+      "comments": 20,
+      "date": "2026-05-16T22:40:37.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "PyPI packages are increasing rapidly",
-      "url": "https://www.reddit.com/r/programming/comments/1tfmqyx/pypi_packages_are_increasing_rapidly/",
-      "source": "Reddit",
-      "date": "2026-05-17T11:21:37.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Building on Git's Primitives",
-      "url": "https://www.reddit.com/r/programming/comments/1tfd2qt/building_on_gits_primitives/",
-      "source": "Reddit",
-      "date": "2026-05-17T02:45:14.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "First Public macOS Kernel Memory Corruption Exploit On Apple Silicon M5",
-      "url": "https://www.reddit.com/r/programming/comments/1tfcsbb/first_public_macos_kernel_memory_corruption/",
-      "source": "Reddit",
-      "date": "2026-05-17T02:31:08.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Google Project Zero: A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens",
-      "url": "https://www.reddit.com/r/programming/comments/1tf42e3/google_project_zero_a_0click_exploit_chain_for/",
-      "source": "Reddit",
-      "date": "2026-05-16T20:05:21.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Moving away from Tailwind, and learning to structure my CSS",
-      "url": "https://www.reddit.com/r/programming/comments/1tey4h6/moving_away_from_tailwind_and_learning_to/",
-      "source": "Reddit",
-      "date": "2026-05-16T16:18:49.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "‘No Way To Prevent This,’ Says Only Package Manager Where This Regularly Happens | Kevin Patel",
-      "url": "https://www.reddit.com/r/programming/comments/1temt7r/no_way_to_prevent_this_says_only_package_manager/",
-      "source": "Reddit",
-      "date": "2026-05-16T07:35:53.000Z"
-    },
-    {
-      "id": "hn-48152754",
-      "title": "Ask an Astronaut: 333 hours of Q&A footage with astronauts",
-      "url": "https://askanastronaut.issinrealtime.org/",
+      "id": "hn-48163389",
+      "title": "The Quiet Renovation at Bitwarden",
+      "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
       "source": "HackerNews",
-      "score": 16,
-      "comments": 0,
-      "date": "2026-05-15T19:25:43.000Z"
-    },
-    {
-      "id": "hn-48147351",
-      "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
-      "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
-      "source": "HackerNews",
-      "score": 149,
-      "comments": 125,
-      "date": "2026-05-15T11:39:13.000Z"
+      "score": 491,
+      "comments": 234,
+      "date": "2026-05-16T20:13:41.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
