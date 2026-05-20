@@ -1,229 +1,229 @@
 {
-  "updatedAt": "2026-05-19T00:11:04.255Z",
+  "updatedAt": "2026-05-20T00:09:31.729Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "User storiesHow ChatFeatured migrated from PlanetScale Postgres to Postgres Managed by ClickHouse to power AI brand discoveryHow ChatFeatured cut analytics query times from 2.5 minutes to under a second by migrating from PlanetScale Postgres to Postgres managed by ClickHouse — in just 30 minutes.ClickHouseMay 18, 2026 · 12 minutes read",
+      "title": "EngineeringWhat&#x27;s new in ClickStack - April 2026ClickStack’s April release The ClickStack TeamMay 19, 2026 · 17 minutes read",
+      "url": "https://clickhouse.com/blog/whats-new-in-clickstack-april-2026",
+      "source": "ClickHouse",
+      "date": "2026-05-20T00:09:31.728Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How ChatFeatured migrated from PlanetScale Postgres to Postgres Managed by ClickHouse to power AI brand discovery",
       "url": "https://clickhouse.com/blog/chatfeatured",
       "source": "ClickHouse",
-      "date": "2026-05-19T00:11:04.255Z"
+      "date": "2026-05-20T00:09:31.728Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse vs Prometheus for High Cardinality, Part 2: Cardinality in ClickHouse",
       "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-part-2-cardinality-in-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-05-19T00:11:04.255Z"
+      "date": "2026-05-20T00:09:31.728Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How the D. E. Shaw group powers high-cardinality observability at scale with ClickHouse",
       "url": "https://clickhouse.com/blog/deshaw",
       "source": "ClickHouse",
-      "date": "2026-05-19T00:11:04.255Z"
+      "date": "2026-05-20T00:09:31.728Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres FDW: Pushdown is a negotiation",
       "url": "https://clickhouse.com/blog/postgres-fdw-pushdown-negotiation",
       "source": "ClickHouse",
-      "date": "2026-05-19T00:11:04.255Z"
+      "date": "2026-05-20T00:09:31.728Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse vs Prometheus for High Cardinality, Part 1: Understanding the Problem",
       "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-p1-understanding-the-problem",
       "source": "ClickHouse",
-      "date": "2026-05-19T00:11:04.255Z"
+      "date": "2026-05-20T00:09:31.728Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickStack SQL Charting and Alerting",
       "url": "https://clickhouse.com/blog/clickstack-sql-charting-and-alerting",
       "source": "ClickHouse",
-      "date": "2026-05-19T00:11:04.255Z"
+      "date": "2026-05-20T00:09:31.728Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud: Fast, Updatable Lookups with the Join Table Engine",
       "url": "https://clickhouse.com/blog/join-table-engine",
       "source": "ClickHouse",
-      "date": "2026-05-19T00:11:04.255Z"
+      "date": "2026-05-20T00:09:31.728Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Powering self-driving vehicle analytics at Avride with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/avride",
       "source": "ClickHouse",
-      "date": "2026-05-19T00:11:04.255Z"
+      "date": "2026-05-20T00:09:31.728Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.4",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-04",
       "source": "ClickHouse",
-      "date": "2026-05-19T00:11:04.255Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Introducing Postgres Query Insights in ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/postgres-query-insights-clickhouse-cloud",
-      "source": "ClickHouse",
-      "date": "2026-05-19T00:11:04.255Z"
-    },
-    {
-      "id": "hn-48187201",
-      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
-      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-      "source": "HackerNews",
-      "score": 19,
-      "comments": 2,
-      "date": "2026-05-18T23:18:10.000Z"
-    },
-    {
-      "id": "hn-48187054",
-      "title": "Click",
-      "url": "https://clickclickclick.click/",
-      "source": "HackerNews",
-      "score": 90,
-      "comments": 21,
-      "date": "2026-05-18T23:03:02.000Z"
+      "date": "2026-05-20T00:09:31.728Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Protocols for transactional usage of object storage",
-      "url": "https://www.reddit.com/r/programming/comments/1th2cav/protocols_for_transactional_usage_of_object/",
+      "title": "CISA accidentally leaked their own keys on GitHub",
+      "url": "https://www.reddit.com/r/programming/comments/1thze09/cisa_accidentally_leaked_their_own_keys_on_github/",
       "source": "Reddit",
-      "date": "2026-05-18T21:43:34.000Z"
+      "date": "2026-05-19T20:31:34.000Z"
     },
     {
-      "id": "hn-48184322",
-      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-      "url": "https://hyperpolyglot.org/lisp",
+      "id": "hn-48198291",
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "url": "https://openai.com/index/advancing-content-provenance/",
       "source": "HackerNews",
-      "score": 116,
-      "comments": 24,
-      "date": "2026-05-18T19:27:25.000Z"
+      "score": 156,
+      "comments": 74,
+      "date": "2026-05-19T19:34:30.000Z"
     },
     {
-      "id": "hn-48183301",
-      "title": "We let AIs run radio stations",
-      "url": "https://andonlabs.com/blog/andon-fm",
+      "id": "hn-48198127",
+      "title": "Dumb Ways for an Open Source Project to Die",
+      "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
       "source": "HackerNews",
-      "score": 132,
-      "comments": 139,
-      "date": "2026-05-18T18:12:18.000Z"
+      "score": 122,
+      "comments": 58,
+      "date": "2026-05-19T19:22:56.000Z"
     },
     {
-      "id": "hn-48182754",
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "id": "hn-48197995",
+      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
       "source": "HackerNews",
-      "score": 728,
-      "comments": 367,
-      "date": "2026-05-18T17:38:22.000Z"
+      "score": 146,
+      "comments": 34,
+      "date": "2026-05-19T19:14:12.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "On mashing up modelling techniques for fun and profit",
-      "url": "https://www.reddit.com/r/programming/comments/1tgterl/on_mashing_up_modelling_techniques_for_fun_and/",
+      "title": "Inverting PhotoDNA",
+      "url": "https://www.reddit.com/r/programming/comments/1thx3xb/inverting_photodna/",
       "source": "Reddit",
-      "date": "2026-05-18T17:21:05.000Z"
+      "date": "2026-05-19T19:13:35.000Z"
     },
     {
-      "id": "hn-48182281",
-      "title": "Anthropic acquires Stainless",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "id": "hn-48197980",
+      "title": "Minnesota becomes first state to ban prediction markets",
+      "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
       "source": "HackerNews",
-      "score": 339,
-      "comments": 236,
-      "date": "2026-05-18T17:01:21.000Z"
+      "score": 340,
+      "comments": 124,
+      "date": "2026-05-19T19:13:26.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Simulating Infinity in Conway's Game of Life with Modern C++",
-      "url": "https://www.reddit.com/r/programming/comments/1tgr4bx/simulating_infinity_in_conways_game_of_life_with/",
-      "source": "Reddit",
-      "date": "2026-05-18T16:05:14.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The Joys of Free Cloudflare",
-      "url": "https://www.reddit.com/r/programming/comments/1tgqwhj/the_joys_of_free_cloudflare/",
-      "source": "Reddit",
-      "date": "2026-05-18T15:57:56.000Z"
-    },
-    {
-      "id": "hn-48181125",
-      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "id": "hn-48197370",
+      "title": "Google changes its search box",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
       "source": "HackerNews",
-      "score": 387,
-      "comments": 184,
-      "date": "2026-05-18T15:24:19.000Z"
+      "score": 327,
+      "comments": 492,
+      "date": "2026-05-19T18:34:27.000Z"
     },
     {
-      "id": "hn-48179677",
-      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-      "url": "https://github.com/zakirullin/files.md",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How Cities: Skylines uses a stock-market analogy to drive almost everything in the game",
+      "url": "https://www.reddit.com/r/programming/comments/1thv9tj/how_cities_skylines_uses_a_stockmarket_analogy_to/",
+      "source": "Reddit",
+      "date": "2026-05-19T18:12:57.000Z"
+    },
+    {
+      "id": "hn-48196570",
+      "title": "Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
       "source": "HackerNews",
-      "score": 522,
-      "comments": 272,
-      "date": "2026-05-18T13:33:33.000Z"
+      "score": 495,
+      "comments": 383,
+      "date": "2026-05-19T17:43:45.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Key Python 3.15 Updates To Make Your Coding Faster, Cleaner, and Easier",
-      "url": "https://www.reddit.com/r/programming/comments/1tgj1cr/key_python_315_updates_to_make_your_coding_faster/",
-      "source": "Reddit",
-      "date": "2026-05-18T10:55:54.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Kubernetes from Dev to Production: Lessons learned from self-hosting an European alternative to Google Docs",
-      "url": "https://www.reddit.com/r/programming/comments/1tgh4m6/kubernetes_from_dev_to_production_lessons_learned/",
-      "source": "Reddit",
-      "date": "2026-05-18T09:15:05.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Nobody Pushed Back: Why Engineers Stay Silent Until It's Too Late",
-      "url": "https://www.reddit.com/r/programming/comments/1tggiab/nobody_pushed_back_why_engineers_stay_silent/",
-      "source": "Reddit",
-      "date": "2026-05-18T08:40:20.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Spring Physics in my Word Game? An exploration of advanced CSS animations in SvelteJS",
-      "url": "https://www.reddit.com/r/programming/comments/1tgd8qh/spring_physics_in_my_word_game_an_exploration_of/",
-      "source": "Reddit",
-      "date": "2026-05-18T05:38:57.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Native all the way, until you need text",
-      "url": "https://www.reddit.com/r/programming/comments/1tfrnp1/native_all_the_way_until_you_need_text/",
-      "source": "Reddit",
-      "date": "2026-05-17T14:50:37.000Z"
-    },
-    {
-      "id": "hn-48164388",
-      "title": "The Futility of Lava Lamps: What Random Means",
-      "url": "https://loup-vaillant.fr/articles/lava-lamps-and-randomness",
+      "id": "hn-48195009",
+      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "url": "https://virtualosmuseum.org/",
       "source": "HackerNews",
-      "score": 36,
-      "comments": 20,
-      "date": "2026-05-16T22:40:37.000Z"
+      "score": 540,
+      "comments": 126,
+      "date": "2026-05-19T15:53:38.000Z"
     },
     {
-      "id": "hn-48163389",
-      "title": "The Quiet Renovation at Bitwarden",
-      "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Type out the code",
+      "url": "https://www.reddit.com/r/programming/comments/1thncdv/type_out_the_code/",
+      "source": "Reddit",
+      "date": "2026-05-19T13:40:41.000Z"
+    },
+    {
+      "id": "hn-48192383",
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
       "source": "HackerNews",
-      "score": 491,
-      "comments": 234,
-      "date": "2026-05-16T20:13:41.000Z"
+      "score": 207,
+      "comments": 74,
+      "date": "2026-05-19T12:23:07.000Z"
+    },
+    {
+      "id": "hn-48192224",
+      "title": "Apple unveils new accessibility features",
+      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+      "source": "HackerNews",
+      "score": 573,
+      "comments": 289,
+      "date": "2026-05-19T12:04:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The just-say-no engineer was a ZIRP phenomenon",
+      "url": "https://www.reddit.com/r/programming/comments/1thf964/the_justsayno_engineer_was_a_zirp_phenomenon/",
+      "source": "Reddit",
+      "date": "2026-05-19T07:14:11.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Raven Software released the Jedi Academy source code in 2013 and the dev comments are crunch rage",
+      "url": "https://www.reddit.com/r/programming/comments/1thewau/raven_software_released_the_jedi_academy_source/",
+      "source": "Reddit",
+      "date": "2026-05-19T06:54:30.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Tacit Dimension: Why Your Best Engineers Can't Tell You What They Know",
+      "url": "https://www.reddit.com/r/programming/comments/1thek83/the_tacit_dimension_why_your_best_engineers_cant/",
+      "source": "Reddit",
+      "date": "2026-05-19T06:35:56.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Using algebra to verify a flight-plan bug fix in Lean",
+      "url": "https://www.reddit.com/r/programming/comments/1thd1bm/using_algebra_to_verify_a_flightplan_bug_fix_in/",
+      "source": "Reddit",
+      "date": "2026-05-19T05:15:50.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "314 npm packages just got compromised, 271 @antv, echarts-for-react, size-sensor, timeago.js",
+      "url": "https://www.reddit.com/r/programming/comments/1thcanx/314_npm_packages_just_got_compromised_271_antv/",
+      "source": "Reddit",
+      "date": "2026-05-19T04:39:28.000Z"
+    },
+    {
+      "id": "hn-48172320",
+      "title": "Growing Neural Cellular Automata",
+      "url": "https://distill.pub/2020/growing-ca/",
+      "source": "HackerNews",
+      "score": 54,
+      "comments": 4,
+      "date": "2026-05-17T19:21:09.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
