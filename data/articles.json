@@ -1,76 +1,206 @@
 {
-  "updatedAt": "2026-05-20T00:09:31.729Z",
+  "updatedAt": "2026-05-21T00:09:53.962Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "EngineeringWhat&#x27;s new in ClickStack - April 2026ClickStack’s April release The ClickStack TeamMay 19, 2026 · 17 minutes read",
+      "title": "Productclickhousectl v0.2.0: Postgres, ClickPipes and moreWe&#x27;re releasing clickhousectl v0.2.0. This release adds Postgres, ClickPipes, SQL over HTTP, a few agent-friendly output tweaks, and a standalone Rust client library for the ClickHouse Cloud API.Al BrownMay 20, 2026 · 7 minutes read",
+      "url": "https://clickhouse.com/blog/clickhousectl-v0-2-0-postgres-clickpipes-more",
+      "source": "ClickHouse",
+      "date": "2026-05-21T00:09:53.910Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What&#x27;s new in ClickStack - April 2026",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-april-2026",
       "source": "ClickHouse",
-      "date": "2026-05-20T00:09:31.728Z"
+      "date": "2026-05-21T00:09:53.910Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How ChatFeatured migrated from PlanetScale Postgres to Postgres Managed by ClickHouse to power AI brand discovery",
       "url": "https://clickhouse.com/blog/chatfeatured",
       "source": "ClickHouse",
-      "date": "2026-05-20T00:09:31.728Z"
+      "date": "2026-05-21T00:09:53.910Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse vs Prometheus for High Cardinality, Part 2: Cardinality in ClickHouse",
       "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-part-2-cardinality-in-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-05-20T00:09:31.728Z"
+      "date": "2026-05-21T00:09:53.910Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How the D. E. Shaw group powers high-cardinality observability at scale with ClickHouse",
       "url": "https://clickhouse.com/blog/deshaw",
       "source": "ClickHouse",
-      "date": "2026-05-20T00:09:31.728Z"
+      "date": "2026-05-21T00:09:53.910Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres FDW: Pushdown is a negotiation",
       "url": "https://clickhouse.com/blog/postgres-fdw-pushdown-negotiation",
       "source": "ClickHouse",
-      "date": "2026-05-20T00:09:31.728Z"
+      "date": "2026-05-21T00:09:53.910Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse vs Prometheus for High Cardinality, Part 1: Understanding the Problem",
       "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-p1-understanding-the-problem",
       "source": "ClickHouse",
-      "date": "2026-05-20T00:09:31.728Z"
+      "date": "2026-05-21T00:09:53.910Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickStack SQL Charting and Alerting",
       "url": "https://clickhouse.com/blog/clickstack-sql-charting-and-alerting",
       "source": "ClickHouse",
-      "date": "2026-05-20T00:09:31.728Z"
+      "date": "2026-05-21T00:09:53.910Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud: Fast, Updatable Lookups with the Join Table Engine",
       "url": "https://clickhouse.com/blog/join-table-engine",
       "source": "ClickHouse",
-      "date": "2026-05-20T00:09:31.728Z"
+      "date": "2026-05-21T00:09:53.910Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Powering self-driving vehicle analytics at Avride with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/avride",
       "source": "ClickHouse",
-      "date": "2026-05-20T00:09:31.728Z"
+      "date": "2026-05-21T00:09:53.910Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse Release 26.4",
-      "url": "https://clickhouse.com/blog/clickhouse-release-26-04",
-      "source": "ClickHouse",
-      "date": "2026-05-20T00:09:31.728Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Portfolio Personal",
+      "url": "https://www.reddit.com/r/programming/comments/1tj3eqm/portfolio_personal/",
+      "source": "Reddit",
+      "date": "2026-05-20T23:53:31.000Z"
+    },
+    {
+      "id": "hn-48215418",
+      "title": "DOS Zone",
+      "url": "https://dos.zone/",
+      "source": "HackerNews",
+      "score": 45,
+      "comments": 8,
+      "date": "2026-05-20T22:53:27.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "YAML? That's Norway problem",
+      "url": "https://www.reddit.com/r/programming/comments/1tj1bcs/yaml_thats_norway_problem/",
+      "source": "Reddit",
+      "date": "2026-05-20T22:29:45.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How to build .NET obfuscator Part III",
+      "url": "https://www.reddit.com/r/programming/comments/1tj0mwv/how_to_build_net_obfuscator_part_iii/",
+      "source": "Reddit",
+      "date": "2026-05-20T22:03:59.000Z"
+    },
+    {
+      "id": "hn-48214449",
+      "title": "Google Declaring War on the Web",
+      "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
+      "source": "HackerNews",
+      "score": 257,
+      "comments": 143,
+      "date": "2026-05-20T21:33:18.000Z"
+    },
+    {
+      "id": "hn-48214017",
+      "title": "Anthropic is expanding to Colossus2. Will use GB200",
+      "url": "https://xcancel.com/nottombrown/status/2057194829986300375",
+      "source": "HackerNews",
+      "score": 18,
+      "comments": 7,
+      "date": "2026-05-20T20:55:52.000Z"
+    },
+    {
+      "id": "hn-48213651",
+      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
+      "url": "https://legiscan.com/CO/bill/SB051/2026",
+      "source": "HackerNews",
+      "score": 58,
+      "comments": 17,
+      "date": "2026-05-20T20:28:18.000Z"
+    },
+    {
+      "id": "hn-48212493",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "source": "HackerNews",
+      "score": 640,
+      "comments": 451,
+      "date": "2026-05-20T19:05:30.000Z"
+    },
+    {
+      "id": "hn-48212046",
+      "title": "Flipper One Tech Specs",
+      "url": "https://docs.flipper.net/one/general/tech-specs",
+      "source": "HackerNews",
+      "score": 211,
+      "comments": 77,
+      "date": "2026-05-20T18:33:56.000Z"
+    },
+    {
+      "id": "hn-48211134",
+      "title": "Why is Inkwell stuck in review",
+      "url": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
+      "source": "HackerNews",
+      "score": 96,
+      "comments": 28,
+      "date": "2026-05-20T17:30:15.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "the top 10 ways to scam the modern american programmer, by Zed A Shaw",
+      "url": "https://www.reddit.com/r/programming/comments/1tioz7t/the_top_10_ways_to_scam_the_modern_american/",
+      "source": "Reddit",
+      "date": "2026-05-20T15:23:29.000Z"
+    },
+    {
+      "id": "hn-48207660",
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "source": "HackerNews",
+      "score": 455,
+      "comments": 146,
+      "date": "2026-05-20T13:43:37.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Smoke tests for fun and profit",
+      "url": "https://www.reddit.com/r/programming/comments/1tije8n/smoke_tests_for_fun_and_profit/",
+      "source": "Reddit",
+      "date": "2026-05-20T11:55:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Virtual Museum with Every Operating System You Can Think Of",
+      "url": "https://www.reddit.com/r/programming/comments/1tij6js/virtual_museum_with_every_operating_system_you/",
+      "source": "Reddit",
+      "date": "2026-05-20T11:45:28.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "New NGINX Vulnerability Allows Unauthenticated RCE",
+      "url": "https://www.reddit.com/r/programming/comments/1tiil62/new_nginx_vulnerability_allows_unauthenticated_rce/",
+      "source": "Reddit",
+      "date": "2026-05-20T11:17:53.000Z"
+    },
+    {
+      "id": "hn-48205626",
+      "title": "Qwen3.7-Max: The Agent Frontier",
+      "url": "https://qwen.ai/blog?id=qwen3.7",
+      "source": "HackerNews",
+      "score": 594,
+      "comments": 236,
+      "date": "2026-05-20T10:35:02.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -80,115 +210,6 @@
       "date": "2026-05-19T20:31:34.000Z"
     },
     {
-      "id": "hn-48198291",
-      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "url": "https://openai.com/index/advancing-content-provenance/",
-      "source": "HackerNews",
-      "score": 156,
-      "comments": 74,
-      "date": "2026-05-19T19:34:30.000Z"
-    },
-    {
-      "id": "hn-48198127",
-      "title": "Dumb Ways for an Open Source Project to Die",
-      "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
-      "source": "HackerNews",
-      "score": 122,
-      "comments": 58,
-      "date": "2026-05-19T19:22:56.000Z"
-    },
-    {
-      "id": "hn-48197995",
-      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
-      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-      "source": "HackerNews",
-      "score": 146,
-      "comments": 34,
-      "date": "2026-05-19T19:14:12.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Inverting PhotoDNA",
-      "url": "https://www.reddit.com/r/programming/comments/1thx3xb/inverting_photodna/",
-      "source": "Reddit",
-      "date": "2026-05-19T19:13:35.000Z"
-    },
-    {
-      "id": "hn-48197980",
-      "title": "Minnesota becomes first state to ban prediction markets",
-      "url": "https://www.npr.org/2026/05/19/nx-s1-5821265/minnesota-ban-prediction-markets",
-      "source": "HackerNews",
-      "score": 340,
-      "comments": 124,
-      "date": "2026-05-19T19:13:26.000Z"
-    },
-    {
-      "id": "hn-48197370",
-      "title": "Google changes its search box",
-      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "source": "HackerNews",
-      "score": 327,
-      "comments": 492,
-      "date": "2026-05-19T18:34:27.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How Cities: Skylines uses a stock-market analogy to drive almost everything in the game",
-      "url": "https://www.reddit.com/r/programming/comments/1thv9tj/how_cities_skylines_uses_a_stockmarket_analogy_to/",
-      "source": "Reddit",
-      "date": "2026-05-19T18:12:57.000Z"
-    },
-    {
-      "id": "hn-48196570",
-      "title": "Gemini 3.5 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "source": "HackerNews",
-      "score": 495,
-      "comments": 383,
-      "date": "2026-05-19T17:43:45.000Z"
-    },
-    {
-      "id": "hn-48195009",
-      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
-      "url": "https://virtualosmuseum.org/",
-      "source": "HackerNews",
-      "score": 540,
-      "comments": 126,
-      "date": "2026-05-19T15:53:38.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Type out the code",
-      "url": "https://www.reddit.com/r/programming/comments/1thncdv/type_out_the_code/",
-      "source": "Reddit",
-      "date": "2026-05-19T13:40:41.000Z"
-    },
-    {
-      "id": "hn-48192383",
-      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-      "url": "https://github.com/antoinezambelli/forge",
-      "source": "HackerNews",
-      "score": 207,
-      "comments": 74,
-      "date": "2026-05-19T12:23:07.000Z"
-    },
-    {
-      "id": "hn-48192224",
-      "title": "Apple unveils new accessibility features",
-      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "source": "HackerNews",
-      "score": 573,
-      "comments": 289,
-      "date": "2026-05-19T12:04:18.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The just-say-no engineer was a ZIRP phenomenon",
-      "url": "https://www.reddit.com/r/programming/comments/1thf964/the_justsayno_engineer_was_a_zirp_phenomenon/",
-      "source": "Reddit",
-      "date": "2026-05-19T07:14:11.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "Raven Software released the Jedi Academy source code in 2013 and the dev comments are crunch rage",
       "url": "https://www.reddit.com/r/programming/comments/1thewau/raven_software_released_the_jedi_academy_source/",
@@ -196,34 +217,13 @@
       "date": "2026-05-19T06:54:30.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The Tacit Dimension: Why Your Best Engineers Can't Tell You What They Know",
-      "url": "https://www.reddit.com/r/programming/comments/1thek83/the_tacit_dimension_why_your_best_engineers_cant/",
-      "source": "Reddit",
-      "date": "2026-05-19T06:35:56.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Using algebra to verify a flight-plan bug fix in Lean",
-      "url": "https://www.reddit.com/r/programming/comments/1thd1bm/using_algebra_to_verify_a_flightplan_bug_fix_in/",
-      "source": "Reddit",
-      "date": "2026-05-19T05:15:50.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "314 npm packages just got compromised, 271 @antv, echarts-for-react, size-sensor, timeago.js",
-      "url": "https://www.reddit.com/r/programming/comments/1thcanx/314_npm_packages_just_got_compromised_271_antv/",
-      "source": "Reddit",
-      "date": "2026-05-19T04:39:28.000Z"
-    },
-    {
-      "id": "hn-48172320",
-      "title": "Growing Neural Cellular Automata",
-      "url": "https://distill.pub/2020/growing-ca/",
+      "id": "hn-48174920",
+      "title": "How fast is N tokens per second really?",
+      "url": "https://mikeveerman.github.io/tokenspeed/",
       "source": "HackerNews",
-      "score": 54,
-      "comments": 4,
-      "date": "2026-05-17T19:21:09.000Z"
+      "score": 276,
+      "comments": 69,
+      "date": "2026-05-18T02:04:38.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
