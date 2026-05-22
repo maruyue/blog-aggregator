@@ -1,229 +1,229 @@
 {
-  "updatedAt": "2026-05-21T00:09:53.962Z",
+  "updatedAt": "2026-05-22T00:06:01.524Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "Productclickhousectl v0.2.0: Postgres, ClickPipes and moreWe&#x27;re releasing clickhousectl v0.2.0. This release adds Postgres, ClickPipes, SQL over HTTP, a few agent-friendly output tweaks, and a standalone Rust client library for the ClickHouse Cloud API.Al BrownMay 20, 2026 · 7 minutes read",
+      "title": "CommunityMay 2026 newsletterWelcome to the May 2026 ClickHouse newsletter, which will round up what’s happened in real-time data warehouses over the last month.Mark NeedhamMay 21, 2026 · 9 minutes read",
+      "url": "https://clickhouse.com/blog/202605-newsletter",
+      "source": "ClickHouse",
+      "date": "2026-05-22T00:06:01.523Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "clickhousectl v0.2.0: Postgres, ClickPipes and more",
       "url": "https://clickhouse.com/blog/clickhousectl-v0-2-0-postgres-clickpipes-more",
       "source": "ClickHouse",
-      "date": "2026-05-21T00:09:53.910Z"
+      "date": "2026-05-22T00:06:01.523Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickStack - April 2026",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-april-2026",
       "source": "ClickHouse",
-      "date": "2026-05-21T00:09:53.910Z"
+      "date": "2026-05-22T00:06:01.523Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How ChatFeatured migrated from PlanetScale Postgres to Postgres Managed by ClickHouse to power AI brand discovery",
       "url": "https://clickhouse.com/blog/chatfeatured",
       "source": "ClickHouse",
-      "date": "2026-05-21T00:09:53.910Z"
+      "date": "2026-05-22T00:06:01.523Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse vs Prometheus for High Cardinality, Part 2: Cardinality in ClickHouse",
       "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-part-2-cardinality-in-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-05-21T00:09:53.910Z"
+      "date": "2026-05-22T00:06:01.523Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How the D. E. Shaw group powers high-cardinality observability at scale with ClickHouse",
       "url": "https://clickhouse.com/blog/deshaw",
       "source": "ClickHouse",
-      "date": "2026-05-21T00:09:53.910Z"
+      "date": "2026-05-22T00:06:01.523Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres FDW: Pushdown is a negotiation",
       "url": "https://clickhouse.com/blog/postgres-fdw-pushdown-negotiation",
       "source": "ClickHouse",
-      "date": "2026-05-21T00:09:53.910Z"
+      "date": "2026-05-22T00:06:01.523Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse vs Prometheus for High Cardinality, Part 1: Understanding the Problem",
       "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-p1-understanding-the-problem",
       "source": "ClickHouse",
-      "date": "2026-05-21T00:09:53.910Z"
+      "date": "2026-05-22T00:06:01.523Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickStack SQL Charting and Alerting",
       "url": "https://clickhouse.com/blog/clickstack-sql-charting-and-alerting",
       "source": "ClickHouse",
-      "date": "2026-05-21T00:09:53.910Z"
+      "date": "2026-05-22T00:06:01.523Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud: Fast, Updatable Lookups with the Join Table Engine",
       "url": "https://clickhouse.com/blog/join-table-engine",
       "source": "ClickHouse",
-      "date": "2026-05-21T00:09:53.910Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Powering self-driving vehicle analytics at Avride with ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/avride",
-      "source": "ClickHouse",
-      "date": "2026-05-21T00:09:53.910Z"
+      "date": "2026-05-22T00:06:01.523Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Portfolio Personal",
-      "url": "https://www.reddit.com/r/programming/comments/1tj3eqm/portfolio_personal/",
+      "title": "How many branches can your CPU predict? – Daniel Lemire's blog",
+      "url": "https://www.reddit.com/r/programming/comments/1tk03pj/how_many_branches_can_your_cpu_predict_daniel/",
       "source": "Reddit",
-      "date": "2026-05-20T23:53:31.000Z"
-    },
-    {
-      "id": "hn-48215418",
-      "title": "DOS Zone",
-      "url": "https://dos.zone/",
-      "source": "HackerNews",
-      "score": 45,
-      "comments": 8,
-      "date": "2026-05-20T22:53:27.000Z"
+      "date": "2026-05-21T22:28:18.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "YAML? That's Norway problem",
-      "url": "https://www.reddit.com/r/programming/comments/1tj1bcs/yaml_thats_norway_problem/",
+      "title": "How to Call an API from an Email",
+      "url": "https://www.reddit.com/r/programming/comments/1tjznwf/how_to_call_an_api_from_an_email/",
       "source": "Reddit",
-      "date": "2026-05-20T22:29:45.000Z"
+      "date": "2026-05-21T22:11:19.000Z"
+    },
+    {
+      "id": "hn-48228788",
+      "title": "Uv is fantastic, but its package management UX is a mess",
+      "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+      "source": "HackerNews",
+      "score": 41,
+      "comments": 11,
+      "date": "2026-05-21T20:56:36.000Z"
+    },
+    {
+      "id": "hn-48227860",
+      "title": "Using Kagi Search with Low Vision",
+      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+      "source": "HackerNews",
+      "score": 99,
+      "comments": 12,
+      "date": "2026-05-21T19:32:16.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "How to build .NET obfuscator Part III",
-      "url": "https://www.reddit.com/r/programming/comments/1tj0mwv/how_to_build_net_obfuscator_part_iii/",
+      "title": "JEP draft: Enhanced Local Variable Declarations (Preview)",
+      "url": "https://www.reddit.com/r/programming/comments/1tjukw0/jep_draft_enhanced_local_variable_declarations/",
       "source": "Reddit",
-      "date": "2026-05-20T22:03:59.000Z"
+      "date": "2026-05-21T19:08:22.000Z"
     },
     {
-      "id": "hn-48214449",
-      "title": "Google Declaring War on the Web",
-      "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
+      "id": "hn-48227397",
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
       "source": "HackerNews",
-      "score": 257,
-      "comments": 143,
-      "date": "2026-05-20T21:33:18.000Z"
+      "score": 142,
+      "comments": 84,
+      "date": "2026-05-21T18:54:55.000Z"
     },
     {
-      "id": "hn-48214017",
-      "title": "Anthropic is expanding to Colossus2. Will use GB200",
-      "url": "https://xcancel.com/nottombrown/status/2057194829986300375",
+      "id": "hn-48226588",
+      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
       "source": "HackerNews",
-      "score": 18,
-      "comments": 7,
-      "date": "2026-05-20T20:55:52.000Z"
-    },
-    {
-      "id": "hn-48213651",
-      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
-      "url": "https://legiscan.com/CO/bill/SB051/2026",
-      "source": "HackerNews",
-      "score": 58,
-      "comments": 17,
-      "date": "2026-05-20T20:28:18.000Z"
-    },
-    {
-      "id": "hn-48212493",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "source": "HackerNews",
-      "score": 640,
-      "comments": 451,
-      "date": "2026-05-20T19:05:30.000Z"
-    },
-    {
-      "id": "hn-48212046",
-      "title": "Flipper One Tech Specs",
-      "url": "https://docs.flipper.net/one/general/tech-specs",
-      "source": "HackerNews",
-      "score": 211,
-      "comments": 77,
-      "date": "2026-05-20T18:33:56.000Z"
-    },
-    {
-      "id": "hn-48211134",
-      "title": "Why is Inkwell stuck in review",
-      "url": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
-      "source": "HackerNews",
-      "score": 96,
-      "comments": 28,
-      "date": "2026-05-20T17:30:15.000Z"
+      "score": 397,
+      "comments": 164,
+      "date": "2026-05-21T17:55:58.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "the top 10 ways to scam the modern american programmer, by Zed A Shaw",
-      "url": "https://www.reddit.com/r/programming/comments/1tioz7t/the_top_10_ways_to_scam_the_modern_american/",
+      "title": "mass github repo backdooring via CI workflows(Megalodon)",
+      "url": "https://www.reddit.com/r/programming/comments/1tjro3p/mass_github_repo_backdooring_via_ci/",
       "source": "Reddit",
-      "date": "2026-05-20T15:23:29.000Z"
+      "date": "2026-05-21T17:30:59.000Z"
     },
     {
-      "id": "hn-48207660",
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "id": "hn-48225357",
+      "title": "Spotify will start reserving concert tickets for fans",
+      "url": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
       "source": "HackerNews",
-      "score": 455,
-      "comments": 146,
-      "date": "2026-05-20T13:43:37.000Z"
+      "score": 89,
+      "comments": 182,
+      "date": "2026-05-21T16:26:58.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Smoke tests for fun and profit",
-      "url": "https://www.reddit.com/r/programming/comments/1tije8n/smoke_tests_for_fun_and_profit/",
-      "source": "Reddit",
-      "date": "2026-05-20T11:55:18.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Virtual Museum with Every Operating System You Can Think Of",
-      "url": "https://www.reddit.com/r/programming/comments/1tij6js/virtual_museum_with_every_operating_system_you/",
-      "source": "Reddit",
-      "date": "2026-05-20T11:45:28.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "New NGINX Vulnerability Allows Unauthenticated RCE",
-      "url": "https://www.reddit.com/r/programming/comments/1tiil62/new_nginx_vulnerability_allows_unauthenticated_rce/",
-      "source": "Reddit",
-      "date": "2026-05-20T11:17:53.000Z"
-    },
-    {
-      "id": "hn-48205626",
-      "title": "Qwen3.7-Max: The Agent Frontier",
-      "url": "https://qwen.ai/blog?id=qwen3.7",
+      "id": "hn-48225297",
+      "title": "Project Hail Mary – Stellar Navigation Chart",
+      "url": "https://valhovey.github.io/gaia-mary/",
       "source": "HackerNews",
-      "score": 594,
-      "comments": 236,
-      "date": "2026-05-20T10:35:02.000Z"
+      "score": 488,
+      "comments": 120,
+      "date": "2026-05-21T16:23:11.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "CISA accidentally leaked their own keys on GitHub",
-      "url": "https://www.reddit.com/r/programming/comments/1thze09/cisa_accidentally_leaked_their_own_keys_on_github/",
-      "source": "Reddit",
-      "date": "2026-05-19T20:31:34.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Raven Software released the Jedi Academy source code in 2013 and the dev comments are crunch rage",
-      "url": "https://www.reddit.com/r/programming/comments/1thewau/raven_software_released_the_jedi_academy_source/",
-      "source": "Reddit",
-      "date": "2026-05-19T06:54:30.000Z"
-    },
-    {
-      "id": "hn-48174920",
-      "title": "How fast is N tokens per second really?",
-      "url": "https://mikeveerman.github.io/tokenspeed/",
+      "id": "hn-48223362",
+      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "url": "https://freenet.org/",
       "source": "HackerNews",
-      "score": 276,
-      "comments": 69,
-      "date": "2026-05-18T02:04:38.000Z"
+      "score": 173,
+      "comments": 86,
+      "date": "2026-05-21T14:34:57.000Z"
+    },
+    {
+      "id": "hn-48222733",
+      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
+      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
+      "source": "HackerNews",
+      "score": 271,
+      "comments": 89,
+      "date": "2026-05-21T14:01:37.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "A performance regression in code I didn’t touch: debugging an L1 i-cache associativity issue",
+      "url": "https://www.reddit.com/r/programming/comments/1tjk7x6/a_performance_regression_in_code_i_didnt_touch/",
+      "source": "Reddit",
+      "date": "2026-05-21T13:16:26.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "We replaced Redis with MySQL for inventory reservations — and it scaled",
+      "url": "https://www.reddit.com/r/programming/comments/1tji4b9/we_replaced_redis_with_mysql_for_inventory/",
+      "source": "Reddit",
+      "date": "2026-05-21T11:51:20.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Technical Interviews Reject the Wrong Engineers",
+      "url": "https://www.reddit.com/r/programming/comments/1tjh9p9/technical_interviews_reject_the_wrong_engineers/",
+      "source": "Reddit",
+      "date": "2026-05-21T11:12:59.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Staged publishing for npm packages",
+      "url": "https://www.reddit.com/r/programming/comments/1tjfxb6/staged_publishing_for_npm_packages/",
+      "source": "Reddit",
+      "date": "2026-05-21T10:05:09.000Z"
+    },
+    {
+      "id": "hn-48220105",
+      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
+      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+      "source": "HackerNews",
+      "score": 556,
+      "comments": 496,
+      "date": "2026-05-21T09:49:46.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Google publishes exploit code threatening millions of Chromium users",
+      "url": "https://www.reddit.com/r/programming/comments/1tj77ww/google_publishes_exploit_code_threatening/",
+      "source": "Reddit",
+      "date": "2026-05-21T02:37:42.000Z"
+    },
+    {
+      "id": "hn-48184402",
+      "title": "Was my $48K GPU server worth it?",
+      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+      "source": "HackerNews",
+      "score": 242,
+      "comments": 187,
+      "date": "2026-05-18T19:33:03.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
