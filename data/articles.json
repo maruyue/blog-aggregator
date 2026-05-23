@@ -1,83 +1,213 @@
 {
-  "updatedAt": "2026-05-22T00:06:01.524Z",
+  "updatedAt": "2026-05-23T00:09:41.870Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "CommunityMay 2026 newsletterWelcome to the May 2026 ClickHouse newsletter, which will round up what’s happened in real-time data warehouses over the last month.Mark NeedhamMay 21, 2026 · 9 minutes read",
+      "title": "EngineeringNative random sampling in ClickHouseLearn how to use ClickHouse&#x27;s SAMPLE BY clause to run fast, approximate queries on large datasets with minimal accuracy trade-off.Mark NeedhamMay 22, 2026 · 12 minutes read",
+      "url": "https://clickhouse.com/blog/native-random-sampling",
+      "source": "ClickHouse",
+      "date": "2026-05-23T00:09:41.869Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Integrating the Rust Delta Kernel into ClickHouse",
+      "url": "https://clickhouse.com/blog/integrating-rust-delta-kernel",
+      "source": "ClickHouse",
+      "date": "2026-05-23T00:09:41.869Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "May 2026 newsletter",
       "url": "https://clickhouse.com/blog/202605-newsletter",
       "source": "ClickHouse",
-      "date": "2026-05-22T00:06:01.523Z"
+      "date": "2026-05-23T00:09:41.869Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "clickhousectl v0.2.0: Postgres, ClickPipes and more",
       "url": "https://clickhouse.com/blog/clickhousectl-v0-2-0-postgres-clickpipes-more",
       "source": "ClickHouse",
-      "date": "2026-05-22T00:06:01.523Z"
+      "date": "2026-05-23T00:09:41.869Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickStack - April 2026",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-april-2026",
       "source": "ClickHouse",
-      "date": "2026-05-22T00:06:01.523Z"
+      "date": "2026-05-23T00:09:41.869Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How ChatFeatured migrated from PlanetScale Postgres to Postgres Managed by ClickHouse to power AI brand discovery",
       "url": "https://clickhouse.com/blog/chatfeatured",
       "source": "ClickHouse",
-      "date": "2026-05-22T00:06:01.523Z"
+      "date": "2026-05-23T00:09:41.869Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse vs Prometheus for High Cardinality, Part 2: Cardinality in ClickHouse",
       "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-part-2-cardinality-in-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-05-22T00:06:01.523Z"
+      "date": "2026-05-23T00:09:41.869Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How the D. E. Shaw group powers high-cardinality observability at scale with ClickHouse",
       "url": "https://clickhouse.com/blog/deshaw",
       "source": "ClickHouse",
-      "date": "2026-05-22T00:06:01.523Z"
+      "date": "2026-05-23T00:09:41.869Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres FDW: Pushdown is a negotiation",
       "url": "https://clickhouse.com/blog/postgres-fdw-pushdown-negotiation",
       "source": "ClickHouse",
-      "date": "2026-05-22T00:06:01.523Z"
+      "date": "2026-05-23T00:09:41.869Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse vs Prometheus for High Cardinality, Part 1: Understanding the Problem",
       "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-p1-understanding-the-problem",
       "source": "ClickHouse",
-      "date": "2026-05-22T00:06:01.523Z"
+      "date": "2026-05-23T00:09:41.869Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickStack SQL Charting and Alerting",
-      "url": "https://clickhouse.com/blog/clickstack-sql-charting-and-alerting",
-      "source": "ClickHouse",
-      "date": "2026-05-22T00:06:01.523Z"
+      "id": "hn-48242668",
+      "title": "Why We've Filed a Referendum",
+      "url": "https://www.stopstratos.org",
+      "source": "HackerNews",
+      "score": 24,
+      "comments": 0,
+      "date": "2026-05-22T23:01:23.000Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse Cloud: Fast, Updatable Lookups with the Join Table Engine",
-      "url": "https://clickhouse.com/blog/join-table-engine",
-      "source": "ClickHouse",
-      "date": "2026-05-22T00:06:01.523Z"
+      "id": "hn-48242648",
+      "title": "Don't just paste the AI at me",
+      "url": "https://dontquotetheai.com/",
+      "source": "HackerNews",
+      "score": 16,
+      "comments": 3,
+      "date": "2026-05-22T22:57:58.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "How many branches can your CPU predict? – Daniel Lemire's blog",
-      "url": "https://www.reddit.com/r/programming/comments/1tk03pj/how_many_branches_can_your_cpu_predict_daniel/",
+      "title": "Writing VBA modules inside Excel files is much stranger than I expected",
+      "url": "https://www.reddit.com/r/programming/comments/1tkxs4c/writing_vba_modules_inside_excel_files_is_much/",
       "source": "Reddit",
-      "date": "2026-05-21T22:28:18.000Z"
+      "date": "2026-05-22T22:16:06.000Z"
+    },
+    {
+      "id": "hn-48242278",
+      "title": "Sleep research led to a new sleep apnea drug",
+      "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+      "source": "HackerNews",
+      "score": 33,
+      "comments": 15,
+      "date": "2026-05-22T22:05:39.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "A blueprint for formal verification of Apple corecrypto",
+      "url": "https://www.reddit.com/r/programming/comments/1tkxgmb/a_blueprint_for_formal_verification_of_apple/",
+      "source": "Reddit",
+      "date": "2026-05-22T22:03:30.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Building a Fast Lock-Free Queue in Modern C++ From Scratch",
+      "url": "https://www.reddit.com/r/programming/comments/1tkx5r7/building_a_fast_lockfree_queue_in_modern_c_from/",
+      "source": "Reddit",
+      "date": "2026-05-22T21:51:43.000Z"
+    },
+    {
+      "id": "hn-48241997",
+      "title": "Shipping a Laptop to a Refugee Camp in Uganda",
+      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "source": "HackerNews",
+      "score": 116,
+      "comments": 13,
+      "date": "2026-05-22T21:36:55.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Silent Merge Queue Corruption That Hit 658 GitHub Repos",
+      "url": "https://www.reddit.com/r/programming/comments/1tkvzsb/the_silent_merge_queue_corruption_that_hit_658/",
+      "source": "Reddit",
+      "date": "2026-05-22T21:07:23.000Z"
+    },
+    {
+      "id": "hn-48240419",
+      "title": "Project Glasswing: An Initial Update",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "source": "HackerNews",
+      "score": 271,
+      "comments": 180,
+      "date": "2026-05-22T19:31:45.000Z"
+    },
+    {
+      "id": "hn-48239413",
+      "title": "Open source Kanban desktop app that runs parallel agents on every card",
+      "url": "https://www.kanbots.dev/",
+      "source": "HackerNews",
+      "score": 148,
+      "comments": 88,
+      "date": "2026-05-22T18:17:57.000Z"
+    },
+    {
+      "id": "hn-48238429",
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "source": "HackerNews",
+      "score": 109,
+      "comments": 28,
+      "date": "2026-05-22T16:54:31.000Z"
+    },
+    {
+      "id": "hn-48237163",
+      "title": "Why Japanese companies do so many different things",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "source": "HackerNews",
+      "score": 449,
+      "comments": 264,
+      "date": "2026-05-22T15:22:04.000Z"
+    },
+    {
+      "id": "hn-48236501",
+      "title": "I’m Writing Again",
+      "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
+      "source": "HackerNews",
+      "score": 84,
+      "comments": 22,
+      "date": "2026-05-22T14:36:27.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Creator of C++ talks about memory safety",
+      "url": "https://www.reddit.com/r/programming/comments/1tkivsv/creator_of_c_talks_about_memory_safety/",
+      "source": "Reddit",
+      "date": "2026-05-22T13:22:45.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How Container Registries Work: Pushing and Pulling Images Without Docker",
+      "url": "https://www.reddit.com/r/programming/comments/1tki1qd/how_container_registries_work_pushing_and_pulling/",
+      "source": "Reddit",
+      "date": "2026-05-22T12:50:29.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "16 bytes of code that turn Sierpinski waves into Matrix rain",
+      "url": "https://www.reddit.com/r/programming/comments/1tkh0w0/16_bytes_of_code_that_turn_sierpinski_waves_into/",
+      "source": "Reddit",
+      "date": "2026-05-22T12:06:49.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "NVCF Is Now Open Source: Inside NVIDIA's GPU Function Platform",
+      "url": "https://www.reddit.com/r/programming/comments/1tkdn9i/nvcf_is_now_open_source_inside_nvidias_gpu/",
+      "source": "Reddit",
+      "date": "2026-05-22T09:19:33.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -87,143 +217,13 @@
       "date": "2026-05-21T22:11:19.000Z"
     },
     {
-      "id": "hn-48228788",
-      "title": "Uv is fantastic, but its package management UX is a mess",
-      "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+      "id": "hn-48213529",
+      "title": "A Wayland Compositor in Minecraft",
+      "url": "https://modrinth.com/mod/waylandcraft",
       "source": "HackerNews",
-      "score": 41,
-      "comments": 11,
-      "date": "2026-05-21T20:56:36.000Z"
-    },
-    {
-      "id": "hn-48227860",
-      "title": "Using Kagi Search with Low Vision",
-      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-      "source": "HackerNews",
-      "score": 99,
-      "comments": 12,
-      "date": "2026-05-21T19:32:16.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "JEP draft: Enhanced Local Variable Declarations (Preview)",
-      "url": "https://www.reddit.com/r/programming/comments/1tjukw0/jep_draft_enhanced_local_variable_declarations/",
-      "source": "Reddit",
-      "date": "2026-05-21T19:08:22.000Z"
-    },
-    {
-      "id": "hn-48227397",
-      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-      "source": "HackerNews",
-      "score": 142,
-      "comments": 84,
-      "date": "2026-05-21T18:54:55.000Z"
-    },
-    {
-      "id": "hn-48226588",
-      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
-      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-      "source": "HackerNews",
-      "score": 397,
-      "comments": 164,
-      "date": "2026-05-21T17:55:58.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "mass github repo backdooring via CI workflows(Megalodon)",
-      "url": "https://www.reddit.com/r/programming/comments/1tjro3p/mass_github_repo_backdooring_via_ci/",
-      "source": "Reddit",
-      "date": "2026-05-21T17:30:59.000Z"
-    },
-    {
-      "id": "hn-48225357",
-      "title": "Spotify will start reserving concert tickets for fans",
-      "url": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/",
-      "source": "HackerNews",
-      "score": 89,
-      "comments": 182,
-      "date": "2026-05-21T16:26:58.000Z"
-    },
-    {
-      "id": "hn-48225297",
-      "title": "Project Hail Mary – Stellar Navigation Chart",
-      "url": "https://valhovey.github.io/gaia-mary/",
-      "source": "HackerNews",
-      "score": 488,
-      "comments": 120,
-      "date": "2026-05-21T16:23:11.000Z"
-    },
-    {
-      "id": "hn-48223362",
-      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
-      "url": "https://freenet.org/",
-      "source": "HackerNews",
-      "score": 173,
-      "comments": 86,
-      "date": "2026-05-21T14:34:57.000Z"
-    },
-    {
-      "id": "hn-48222733",
-      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
-      "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-      "source": "HackerNews",
-      "score": 271,
-      "comments": 89,
-      "date": "2026-05-21T14:01:37.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "A performance regression in code I didn’t touch: debugging an L1 i-cache associativity issue",
-      "url": "https://www.reddit.com/r/programming/comments/1tjk7x6/a_performance_regression_in_code_i_didnt_touch/",
-      "source": "Reddit",
-      "date": "2026-05-21T13:16:26.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "We replaced Redis with MySQL for inventory reservations — and it scaled",
-      "url": "https://www.reddit.com/r/programming/comments/1tji4b9/we_replaced_redis_with_mysql_for_inventory/",
-      "source": "Reddit",
-      "date": "2026-05-21T11:51:20.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Technical Interviews Reject the Wrong Engineers",
-      "url": "https://www.reddit.com/r/programming/comments/1tjh9p9/technical_interviews_reject_the_wrong_engineers/",
-      "source": "Reddit",
-      "date": "2026-05-21T11:12:59.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Staged publishing for npm packages",
-      "url": "https://www.reddit.com/r/programming/comments/1tjfxb6/staged_publishing_for_npm_packages/",
-      "source": "Reddit",
-      "date": "2026-05-21T10:05:09.000Z"
-    },
-    {
-      "id": "hn-48220105",
-      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
-      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-      "source": "HackerNews",
-      "score": 556,
-      "comments": 496,
-      "date": "2026-05-21T09:49:46.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Google publishes exploit code threatening millions of Chromium users",
-      "url": "https://www.reddit.com/r/programming/comments/1tj77ww/google_publishes_exploit_code_threatening/",
-      "source": "Reddit",
-      "date": "2026-05-21T02:37:42.000Z"
-    },
-    {
-      "id": "hn-48184402",
-      "title": "Was my $48K GPU server worth it?",
-      "url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
-      "source": "HackerNews",
-      "score": 242,
-      "comments": 187,
-      "date": "2026-05-18T19:33:03.000Z"
+      "score": 93,
+      "comments": 19,
+      "date": "2026-05-20T20:19:46.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
