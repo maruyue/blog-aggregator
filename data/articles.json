@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T00:08:35.966Z",
+  "updatedAt": "2026-05-27T00:10:10.902Z",
   "total": 30,
   "articles": [
     {
@@ -7,193 +7,189 @@
       "title": "EngineeringNative random sampling in ClickHouseLearn how to use ClickHouse&#x27;s SAMPLE BY clause to run fast, approximate queries on large datasets with minimal accuracy trade-off.Mark NeedhamMay 22, 2026 · 12 minutes read",
       "url": "https://clickhouse.com/blog/native-random-sampling",
       "source": "ClickHouse",
-      "date": "2026-05-26T00:08:35.918Z"
+      "date": "2026-05-27T00:10:10.902Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Integrating the Rust Delta Kernel into ClickHouse",
       "url": "https://clickhouse.com/blog/integrating-rust-delta-kernel",
       "source": "ClickHouse",
-      "date": "2026-05-26T00:08:35.918Z"
+      "date": "2026-05-27T00:10:10.902Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "May 2026 newsletter",
       "url": "https://clickhouse.com/blog/202605-newsletter",
       "source": "ClickHouse",
-      "date": "2026-05-26T00:08:35.918Z"
+      "date": "2026-05-27T00:10:10.902Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "clickhousectl v0.2.0: Postgres, ClickPipes and more",
       "url": "https://clickhouse.com/blog/clickhousectl-v0-2-0-postgres-clickpipes-more",
       "source": "ClickHouse",
-      "date": "2026-05-26T00:08:35.918Z"
+      "date": "2026-05-27T00:10:10.902Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickStack - April 2026",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-april-2026",
       "source": "ClickHouse",
-      "date": "2026-05-26T00:08:35.918Z"
+      "date": "2026-05-27T00:10:10.902Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How ChatFeatured migrated from PlanetScale Postgres to Postgres Managed by ClickHouse to power AI brand discovery",
       "url": "https://clickhouse.com/blog/chatfeatured",
       "source": "ClickHouse",
-      "date": "2026-05-26T00:08:35.918Z"
+      "date": "2026-05-27T00:10:10.902Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse vs Prometheus for High Cardinality, Part 2: Cardinality in ClickHouse",
       "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-part-2-cardinality-in-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-05-26T00:08:35.918Z"
+      "date": "2026-05-27T00:10:10.902Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How the D. E. Shaw group powers high-cardinality observability at scale with ClickHouse",
       "url": "https://clickhouse.com/blog/deshaw",
       "source": "ClickHouse",
-      "date": "2026-05-26T00:08:35.918Z"
+      "date": "2026-05-27T00:10:10.902Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres FDW: Pushdown is a negotiation",
       "url": "https://clickhouse.com/blog/postgres-fdw-pushdown-negotiation",
       "source": "ClickHouse",
-      "date": "2026-05-26T00:08:35.918Z"
+      "date": "2026-05-27T00:10:10.902Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse vs Prometheus for High Cardinality, Part 1: Understanding the Problem",
       "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-p1-understanding-the-problem",
       "source": "ClickHouse",
-      "date": "2026-05-26T00:08:35.918Z"
+      "date": "2026-05-27T00:10:10.902Z"
+    },
+    {
+      "id": "hn-48287007",
+      "title": "Colorado and California Exempt Open Source from Age Attestation",
+      "url": "https://system76.com/blog/post/co-and-ca-exempt-open-source-from-age-attestation",
+      "source": "HackerNews",
+      "score": 11,
+      "comments": 0,
+      "date": "2026-05-26T22:42:59.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Any merit to this? Leveraging time complexity 'Big O' notation",
-      "url": "https://www.reddit.com/r/programming/comments/1tnq88q/any_merit_to_this_leveraging_time_complexity_big/",
+      "title": "Unicode 18.0.0 Beta",
+      "url": "https://www.reddit.com/r/programming/comments/1tomtee/unicode_1800_beta/",
       "source": "Reddit",
-      "date": "2026-05-26T00:01:43.000Z"
+      "date": "2026-05-26T22:41:27.000Z"
     },
     {
-      "id": "hn-48273030",
-      "title": "Nobody cracks open a programming book anymore",
-      "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+      "id": "hn-48285592",
+      "title": "Big tech's anti-labor playbook has come for Wikipedia",
+      "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
       "source": "HackerNews",
-      "score": 45,
-      "comments": 31,
-      "date": "2026-05-25T23:21:57.000Z"
+      "score": 221,
+      "comments": 101,
+      "date": "2026-05-26T20:33:24.000Z"
+    },
+    {
+      "id": "hn-48285344",
+      "title": "The worst job interview I ever had",
+      "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
+      "source": "HackerNews",
+      "score": 114,
+      "comments": 86,
+      "date": "2026-05-26T20:11:49.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Running Code in a Programming Language Nobody Knows",
-      "url": "https://www.reddit.com/r/programming/comments/1tnp1xb/running_code_in_a_programming_language_nobody/",
+      "title": "Interactive simulator: GitHub Flow vs trunk-based development - watch where work queues up",
+      "url": "https://www.reddit.com/r/programming/comments/1toil3y/interactive_simulator_github_flow_vs_trunkbased/",
       "source": "Reddit",
-      "date": "2026-05-25T23:12:02.000Z"
+      "date": "2026-05-26T20:07:28.000Z"
     },
     {
-      "id": "hn-48272354",
-      "title": "Microsoft Copilot Cowork Exfiltrates Files",
-      "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
+      "id": "hn-48284712",
+      "title": "Chemistry behind the Garden Grove chemical tank",
+      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
       "source": "HackerNews",
-      "score": 157,
-      "comments": 31,
-      "date": "2026-05-25T21:45:57.000Z"
+      "score": 193,
+      "comments": 75,
+      "date": "2026-05-26T19:25:16.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Jujutsu",
-      "url": "https://www.reddit.com/r/programming/comments/1tnmtm5/jujutsu/",
+      "title": "Samy Kamkar on the MySpace worm, reverse engineering, privacy, and Openpath",
+      "url": "https://www.reddit.com/r/programming/comments/1toh70g/samy_kamkar_on_the_myspace_worm_reverse/",
       "source": "Reddit",
-      "date": "2026-05-25T21:41:00.000Z"
-    },
-    {
-      "id": "hn-48271629",
-      "title": "Ferrari Luce – Designed with Jony Ive",
-      "url": "https://www.ferrari.com/en-EN/auto/ferrari-luce",
-      "source": "HackerNews",
-      "score": 39,
-      "comments": 80,
-      "date": "2026-05-25T21:00:38.000Z"
-    },
-    {
-      "id": "hn-48271127",
-      "title": "Hacker News front page as a site",
-      "url": "https://thefrontpage.dev/",
-      "source": "HackerNews",
-      "score": 76,
-      "comments": 38,
-      "date": "2026-05-25T20:12:29.000Z"
-    },
-    {
-      "id": "hn-48270770",
-      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-      "source": "HackerNews",
-      "score": 128,
-      "comments": 67,
-      "date": "2026-05-25T19:37:57.000Z"
-    },
-    {
-      "id": "hn-48269961",
-      "title": "California moves to exempt Linux from its age-verification law after backlash",
-      "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-      "source": "HackerNews",
-      "score": 562,
-      "comments": 246,
-      "date": "2026-05-25T18:19:58.000Z"
+      "date": "2026-05-26T19:19:41.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "TOML Schema",
-      "url": "https://www.reddit.com/r/programming/comments/1tngfrp/toml_schema/",
+      "title": "DOOMbench: Can Your Data Stack Run DOOM?",
+      "url": "https://www.reddit.com/r/programming/comments/1todnxi/doombench_can_your_data_stack_run_doom/",
       "source": "Reddit",
-      "date": "2026-05-25T17:47:39.000Z"
-    },
-    {
-      "id": "hn-48269580",
-      "title": "Exit IP VPN servers mitigation rollout",
-      "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
-      "source": "HackerNews",
-      "score": 240,
-      "comments": 38,
-      "date": "2026-05-25T17:45:11.000Z"
-    },
-    {
-      "id": "hn-48268609",
-      "title": "Toshifumi Suzuki, founder of Seven-Eleven Japan, has died",
-      "url": "https://www.referenceforbusiness.com/biography/S-Z/Suzuki-Toshifumi-1932.html",
-      "source": "HackerNews",
-      "score": 101,
-      "comments": 39,
-      "date": "2026-05-25T16:20:36.000Z"
+      "date": "2026-05-26T17:21:16.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "How soon is now in PostgreSQL?",
-      "url": "https://www.reddit.com/r/programming/comments/1tn7v1p/how_soon_is_now_in_postgresql/",
+      "title": "Python Supply Chain Security: 8 Things That Happen After pip install",
+      "url": "https://www.reddit.com/r/programming/comments/1todmd4/python_supply_chain_security_8_things_that_happen/",
       "source": "Reddit",
-      "date": "2026-05-25T12:34:47.000Z"
+      "date": "2026-05-26T17:19:55.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "How I made my Zig gameplay code hot reloadable",
-      "url": "https://www.reddit.com/r/programming/comments/1tn7bft/how_i_made_my_zig_gameplay_code_hot_reloadable/",
+      "title": "Pardon MIE? - How Researchers Found First Ever Bypass Of Apple's Memory Integrity Enforcement",
+      "url": "https://www.reddit.com/r/programming/comments/1to9fp4/pardon_mie_how_researchers_found_first_ever/",
       "source": "Reddit",
-      "date": "2026-05-25T12:12:12.000Z"
+      "date": "2026-05-26T14:56:35.000Z"
     },
     {
-      "id": "hn-48265206",
-      "title": "Magnifica Humanitas",
-      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "id": "hn-48279316",
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
       "source": "HackerNews",
-      "score": 1298,
-      "comments": 718,
-      "date": "2026-05-25T10:11:29.000Z"
+      "score": 746,
+      "comments": 338,
+      "date": "2026-05-26T13:08:13.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "WebAssembly on Kubernetes • Nicolas Frankel",
+      "url": "https://www.reddit.com/r/programming/comments/1to689m/webassembly_on_kubernetes_nicolas_frankel/",
+      "source": "Reddit",
+      "date": "2026-05-26T13:00:10.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "What it takes to transpose a matrix",
+      "url": "https://www.reddit.com/r/programming/comments/1to0qjf/what_it_takes_to_transpose_a_matrix/",
+      "source": "Reddit",
+      "date": "2026-05-26T08:30:38.000Z"
+    },
+    {
+      "id": "hn-48275564",
+      "title": "A portentous reunion",
+      "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+      "source": "HackerNews",
+      "score": 30,
+      "comments": 9,
+      "date": "2026-05-26T05:57:45.000Z"
+    },
+    {
+      "id": "hn-48271448",
+      "title": "A few interesting modern pixel fonts",
+      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
+      "source": "HackerNews",
+      "score": 223,
+      "comments": 51,
+      "date": "2026-05-25T20:41:49.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -203,18 +199,13 @@
       "date": "2026-05-25T09:21:31.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Highest random weight in Elixir",
-      "url": "https://www.reddit.com/r/programming/comments/1tmgs3h/highest_random_weight_in_elixir/",
-      "source": "Reddit",
-      "date": "2026-05-24T16:25:18.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Chrome proposes new APIs: Declarative partial updates",
-      "url": "https://www.reddit.com/r/programming/comments/1tlvrmh/chrome_proposes_new_apis_declarative_partial/",
-      "source": "Reddit",
-      "date": "2026-05-23T23:39:03.000Z"
+      "id": "hn-48263560",
+      "title": "C array types are weird",
+      "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
+      "source": "HackerNews",
+      "score": 42,
+      "comments": 21,
+      "date": "2026-05-25T05:05:11.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -224,13 +215,22 @@
       "date": "2026-05-23T13:54:37.000Z"
     },
     {
-      "id": "hn-48225338",
-      "title": "Show HN: Write your BPF programs in Go, not C",
-      "url": "https://github.com/boratanrikulu/gobee",
+      "id": "hn-48238703",
+      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
       "source": "HackerNews",
-      "score": 47,
-      "comments": 27,
-      "date": "2026-05-21T16:25:46.000Z"
+      "score": 146,
+      "comments": 36,
+      "date": "2026-05-22T17:17:43.000Z"
+    },
+    {
+      "id": "hn-48222600",
+      "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+      "url": "https://github.com/logannye/rosalind",
+      "source": "HackerNews",
+      "score": 114,
+      "comments": 29,
+      "date": "2026-05-21T13:55:13.000Z"
     }
   ]
 }
