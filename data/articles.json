@@ -1,85 +1,215 @@
 {
-  "updatedAt": "2026-05-27T00:10:10.902Z",
+  "updatedAt": "2026-05-28T00:02:04.848Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "EngineeringNative random sampling in ClickHouseLearn how to use ClickHouse&#x27;s SAMPLE BY clause to run fast, approximate queries on large datasets with minimal accuracy trade-off.Mark NeedhamMay 22, 2026 · 12 minutes read",
-      "url": "https://clickhouse.com/blog/native-random-sampling",
+      "title": "ProductOpen House 2026 Day 1: real-time data without lock-in and what teams can build next A full recap of Day 1 at Open House 2026, covering every major announcement across ClickHouse Cloud, Postgres, distributed queries, ClickPipes, ClickHouse Agents, Langfuse V4, ClickStack, and the House Mates partner program.ClickHouseMay 27, 2026 · 16 minutes read",
+      "url": "https://clickhouse.com/blog/open-house-2026-day-1",
       "source": "ClickHouse",
-      "date": "2026-05-27T00:10:10.902Z"
+      "date": "2026-05-28T00:02:04.847Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "Integrating the Rust Delta Kernel into ClickHouse",
-      "url": "https://clickhouse.com/blog/integrating-rust-delta-kernel",
+      "title": "Open House observability announcements: MCP server, AI Notebooks, and ClickStack Cloud",
+      "url": "https://clickhouse.com/blog/observability-mcp-server-ai-notebooks",
       "source": "ClickHouse",
-      "date": "2026-05-27T00:10:10.902Z"
+      "date": "2026-05-28T00:02:04.847Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "May 2026 newsletter",
-      "url": "https://clickhouse.com/blog/202605-newsletter",
+      "title": "Introducing multi-stage distributed query execution in ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/multi-stage-distributed-query-execution-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-05-27T00:10:10.902Z"
+      "date": "2026-05-28T00:02:04.847Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "clickhousectl v0.2.0: Postgres, ClickPipes and more",
-      "url": "https://clickhouse.com/blog/clickhousectl-v0-2-0-postgres-clickpipes-more",
+      "title": "Thank you for building with us",
+      "url": "https://clickhouse.com/blog/thank-you-for-building-with-us",
       "source": "ClickHouse",
-      "date": "2026-05-27T00:10:10.902Z"
+      "date": "2026-05-28T00:02:04.847Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "What&#x27;s new in ClickStack - April 2026",
-      "url": "https://clickhouse.com/blog/whats-new-in-clickstack-april-2026",
+      "title": "ClickHouse tops $250M ARR and 4,000 customers, launches Claude-powered agents at Open House 2026",
+      "url": "https://clickhouse.com/blog/clickhouse-tops-250m-arr-and-4000-customers",
       "source": "ClickHouse",
-      "date": "2026-05-27T00:10:10.902Z"
+      "date": "2026-05-28T00:02:04.847Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "How ChatFeatured migrated from PlanetScale Postgres to Postgres Managed by ClickHouse to power AI brand discovery",
-      "url": "https://clickhouse.com/blog/chatfeatured",
+      "title": "Introducing ClickStack Cloud: Serverless observability powered by ClickHouse",
+      "url": "https://clickhouse.com/blog/clickstack-cloud-private-preview",
       "source": "ClickHouse",
-      "date": "2026-05-27T00:10:10.902Z"
+      "date": "2026-05-28T00:02:04.847Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse vs Prometheus for High Cardinality, Part 2: Cardinality in ClickHouse",
-      "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-part-2-cardinality-in-clickhouse",
+      "title": "Introducing House Mates: the ClickHouse partner community and program",
+      "url": "https://clickhouse.com/blog/introducing-house-mates",
       "source": "ClickHouse",
-      "date": "2026-05-27T00:10:10.902Z"
+      "date": "2026-05-28T00:02:04.847Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "How the D. E. Shaw group powers high-cardinality observability at scale with ClickHouse",
-      "url": "https://clickhouse.com/blog/deshaw",
+      "title": "Postgres managed by ClickHouse is now in beta",
+      "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-beta",
       "source": "ClickHouse",
-      "date": "2026-05-27T00:10:10.902Z"
+      "date": "2026-05-28T00:02:04.847Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "Postgres FDW: Pushdown is a negotiation",
-      "url": "https://clickhouse.com/blog/postgres-fdw-pushdown-negotiation",
+      "title": "Introducing CostBench: an open benchmark for data warehouse cost-performance",
+      "url": "https://clickhouse.com/blog/costbench-data-warehouse-cost-performance",
       "source": "ClickHouse",
-      "date": "2026-05-27T00:10:10.902Z"
+      "date": "2026-05-28T00:02:04.847Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse vs Prometheus for High Cardinality, Part 1: Understanding the Problem",
-      "url": "https://clickhouse.com/blog/clickhouse-vs-promethous-high-cardinality-p1-understanding-the-problem",
+      "title": "5 Countries, 12 Days, One ClickHouse: Inside Alexey&#x27;s APJ AI Tour",
+      "url": "https://clickhouse.com/blog/alexey-apj-ai-tour",
       "source": "ClickHouse",
-      "date": "2026-05-27T00:10:10.902Z"
+      "date": "2026-05-28T00:02:04.847Z"
     },
     {
-      "id": "hn-48287007",
-      "title": "Colorado and California Exempt Open Source from Age Attestation",
-      "url": "https://system76.com/blog/post/co-and-ca-exempt-open-source-from-age-attestation",
+      "id": "hn-48301851",
+      "title": "Pelica (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer",
       "source": "HackerNews",
-      "score": 11,
+      "score": 1,
       "comments": 0,
-      "date": "2026-05-26T22:42:59.000Z"
+      "date": "2026-05-27T22:52:15.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How LLMs Work, Part 1: How LLMs Process Text",
+      "url": "https://www.reddit.com/r/programming/comments/1tpl0e4/how_llms_work_part_1_how_llms_process_text/",
+      "source": "Reddit",
+      "date": "2026-05-27T22:35:50.000Z"
+    },
+    {
+      "id": "hn-48301603",
+      "title": "Internet traffic in Iran increasing",
+      "url": "https://radar.cloudflare.com/traffic/ir?dateRange=28d",
+      "source": "HackerNews",
+      "score": 40,
+      "comments": 22,
+      "date": "2026-05-27T22:24:25.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Jakarta EE 11 from Newbie to Pro with Open Liberty",
+      "url": "https://www.reddit.com/r/programming/comments/1tpjar1/jakarta_ee_11_from_newbie_to_pro_with_open_liberty/",
+      "source": "Reddit",
+      "date": "2026-05-27T21:30:04.000Z"
+    },
+    {
+      "id": "hn-48300342",
+      "title": "Warm up your MacBook (2019)",
+      "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
+      "source": "HackerNews",
+      "score": 39,
+      "comments": 35,
+      "date": "2026-05-27T20:42:01.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Metastable Failures Explained: Why Fixing the Trigger Fails",
+      "url": "https://www.reddit.com/r/programming/comments/1tph0c5/metastable_failures_explained_why_fixing_the/",
+      "source": "Reddit",
+      "date": "2026-05-27T20:06:26.000Z"
+    },
+    {
+      "id": "hn-48299753",
+      "title": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "source": "HackerNews",
+      "score": 451,
+      "comments": 261,
+      "date": "2026-05-27T20:00:51.000Z"
+    },
+    {
+      "id": "hn-48299623",
+      "title": "Rust (and Slint) on a Jailbroken Kindle",
+      "url": "https://sverre.me/blog/rust-on-kindle/",
+      "source": "HackerNews",
+      "score": 82,
+      "comments": 10,
+      "date": "2026-05-27T19:51:47.000Z"
+    },
+    {
+      "id": "hn-48299335",
+      "title": "On Labubu and the Hyperreal",
+      "url": "https://2earth.github.io/website/20260525.html",
+      "source": "HackerNews",
+      "score": 60,
+      "comments": 62,
+      "date": "2026-05-27T19:31:47.000Z"
+    },
+    {
+      "id": "hn-48299220",
+      "title": "What Apple and Google are doing to push notifications",
+      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "source": "HackerNews",
+      "score": 147,
+      "comments": 146,
+      "date": "2026-05-27T19:24:10.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "My experience building the same app in Ruby, Java, and TypeScript",
+      "url": "https://www.reddit.com/r/programming/comments/1tpexpd/my_experience_building_the_same_app_in_ruby_java/",
+      "source": "Reddit",
+      "date": "2026-05-27T18:53:35.000Z"
+    },
+    {
+      "id": "hn-48297645",
+      "title": "SimCity 3k in 4k (2025)",
+      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "source": "HackerNews",
+      "score": 255,
+      "comments": 96,
+      "date": "2026-05-27T17:36:29.000Z"
+    },
+    {
+      "id": "hn-48296794",
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "source": "HackerNews",
+      "score": 590,
+      "comments": 719,
+      "date": "2026-05-27T16:39:13.000Z"
+    },
+    {
+      "id": "hn-48296649",
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "source": "HackerNews",
+      "score": 627,
+      "comments": 314,
+      "date": "2026-05-27T16:28:41.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "JetBrains interviews Andrew Kelley about Zig [video]",
+      "url": "https://www.reddit.com/r/programming/comments/1tp7msv/jetbrains_interviews_andrew_kelley_about_zig_video/",
+      "source": "Reddit",
+      "date": "2026-05-27T14:41:58.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How AWS Nitro Enclaves Attestation Actually Works",
+      "url": "https://www.reddit.com/r/programming/comments/1tp2hi2/how_aws_nitro_enclaves_attestation_actually_works/",
+      "source": "Reddit",
+      "date": "2026-05-27T11:16:33.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The pressure",
+      "url": "https://www.reddit.com/r/programming/comments/1tor1h9/the_pressure/",
+      "source": "Reddit",
+      "date": "2026-05-27T01:37:33.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -87,40 +217,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1tomtee/unicode_1800_beta/",
       "source": "Reddit",
       "date": "2026-05-26T22:41:27.000Z"
-    },
-    {
-      "id": "hn-48285592",
-      "title": "Big tech's anti-labor playbook has come for Wikipedia",
-      "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
-      "source": "HackerNews",
-      "score": 221,
-      "comments": 101,
-      "date": "2026-05-26T20:33:24.000Z"
-    },
-    {
-      "id": "hn-48285344",
-      "title": "The worst job interview I ever had",
-      "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-      "source": "HackerNews",
-      "score": 114,
-      "comments": 86,
-      "date": "2026-05-26T20:11:49.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Interactive simulator: GitHub Flow vs trunk-based development - watch where work queues up",
-      "url": "https://www.reddit.com/r/programming/comments/1toil3y/interactive_simulator_github_flow_vs_trunkbased/",
-      "source": "Reddit",
-      "date": "2026-05-26T20:07:28.000Z"
-    },
-    {
-      "id": "hn-48284712",
-      "title": "Chemistry behind the Garden Grove chemical tank",
-      "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-      "source": "HackerNews",
-      "score": 193,
-      "comments": 75,
-      "date": "2026-05-26T19:25:16.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -131,106 +227,10 @@
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "DOOMbench: Can Your Data Stack Run DOOM?",
-      "url": "https://www.reddit.com/r/programming/comments/1todnxi/doombench_can_your_data_stack_run_doom/",
-      "source": "Reddit",
-      "date": "2026-05-26T17:21:16.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Python Supply Chain Security: 8 Things That Happen After pip install",
-      "url": "https://www.reddit.com/r/programming/comments/1todmd4/python_supply_chain_security_8_things_that_happen/",
-      "source": "Reddit",
-      "date": "2026-05-26T17:19:55.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Pardon MIE? - How Researchers Found First Ever Bypass Of Apple's Memory Integrity Enforcement",
-      "url": "https://www.reddit.com/r/programming/comments/1to9fp4/pardon_mie_how_researchers_found_first_ever/",
-      "source": "Reddit",
-      "date": "2026-05-26T14:56:35.000Z"
-    },
-    {
-      "id": "hn-48279316",
-      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-      "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-      "source": "HackerNews",
-      "score": 746,
-      "comments": 338,
-      "date": "2026-05-26T13:08:13.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "WebAssembly on Kubernetes • Nicolas Frankel",
-      "url": "https://www.reddit.com/r/programming/comments/1to689m/webassembly_on_kubernetes_nicolas_frankel/",
-      "source": "Reddit",
-      "date": "2026-05-26T13:00:10.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "What it takes to transpose a matrix",
-      "url": "https://www.reddit.com/r/programming/comments/1to0qjf/what_it_takes_to_transpose_a_matrix/",
-      "source": "Reddit",
-      "date": "2026-05-26T08:30:38.000Z"
-    },
-    {
-      "id": "hn-48275564",
-      "title": "A portentous reunion",
-      "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
-      "source": "HackerNews",
-      "score": 30,
-      "comments": 9,
-      "date": "2026-05-26T05:57:45.000Z"
-    },
-    {
-      "id": "hn-48271448",
-      "title": "A few interesting modern pixel fonts",
-      "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
-      "source": "HackerNews",
-      "score": 223,
-      "comments": 51,
-      "date": "2026-05-25T20:41:49.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The infamous 20 year old MySQL Bug #11472 has been fixed.",
-      "url": "https://www.reddit.com/r/programming/comments/1tn3vfx/the_infamous_20_year_old_mysql_bug_11472_has_been/",
-      "source": "Reddit",
-      "date": "2026-05-25T09:21:31.000Z"
-    },
-    {
-      "id": "hn-48263560",
-      "title": "C array types are weird",
-      "url": "https://anselmschueler.com/blogposts/2025-c-pointers/",
-      "source": "HackerNews",
-      "score": 42,
-      "comments": 21,
-      "date": "2026-05-25T05:05:11.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
       "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
       "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
       "source": "Reddit",
       "date": "2026-05-23T13:54:37.000Z"
-    },
-    {
-      "id": "hn-48238703",
-      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
-      "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-      "source": "HackerNews",
-      "score": 146,
-      "comments": 36,
-      "date": "2026-05-22T17:17:43.000Z"
-    },
-    {
-      "id": "hn-48222600",
-      "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
-      "url": "https://github.com/logannye/rosalind",
-      "source": "HackerNews",
-      "score": 114,
-      "comments": 29,
-      "date": "2026-05-21T13:55:13.000Z"
     }
   ]
 }
