@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T00:13:24.818Z",
+  "updatedAt": "2026-05-30T00:10:58.269Z",
   "total": 30,
   "articles": [
     {
@@ -7,163 +7,207 @@
       "title": "CommunityOpen House 2026 Day 2: 10 years of open source and what the ecosystem is building nextA Day 2 recap of Open House 2026 covering ClickHouse&#x27;s 10 years of open source, the House Mates partner program launch, and ecosystem announcements from Fivetran, Sigma, dbt, Notion, Replit, and Google Cloud.ClickHouseMay 28, 2026 · 15 minutes read",
       "url": "https://clickhouse.com/blog/open-house-2026-day-2",
       "source": "ClickHouse",
-      "date": "2026-05-29T00:13:24.818Z"
+      "date": "2026-05-30T00:10:58.269Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Open House 2026 Day 1: Real-time data without lock-in and what teams can build next",
+      "url": "https://clickhouse.com/blog/open-house-2026-day-1",
+      "source": "ClickHouse",
+      "date": "2026-05-30T00:10:58.269Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing multi-stage distributed query execution in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/multi-stage-distributed-query-execution-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-05-29T00:13:24.818Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Open House 2026 Day 1: real-time data without lock-in and what teams can build next",
-      "url": "https://clickhouse.com/blog/open-house-2026-day-1",
-      "source": "ClickHouse",
-      "date": "2026-05-29T00:13:24.818Z"
+      "date": "2026-05-30T00:10:58.269Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Open House observability announcements: MCP server, AI Notebooks, and ClickStack Cloud",
       "url": "https://clickhouse.com/blog/observability-mcp-server-ai-notebooks",
       "source": "ClickHouse",
-      "date": "2026-05-29T00:13:24.818Z"
+      "date": "2026-05-30T00:10:58.269Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Thank you for building with us",
       "url": "https://clickhouse.com/blog/thank-you-for-building-with-us",
       "source": "ClickHouse",
-      "date": "2026-05-29T00:13:24.818Z"
+      "date": "2026-05-30T00:10:58.269Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse tops $250M ARR and 4,000 customers, launches Claude-powered agents at Open House 2026",
       "url": "https://clickhouse.com/blog/clickhouse-tops-250m-arr-and-4000-customers",
       "source": "ClickHouse",
-      "date": "2026-05-29T00:13:24.818Z"
+      "date": "2026-05-30T00:10:58.269Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing ClickStack Cloud: Serverless observability powered by ClickHouse",
       "url": "https://clickhouse.com/blog/clickstack-cloud-private-preview",
       "source": "ClickHouse",
-      "date": "2026-05-29T00:13:24.818Z"
+      "date": "2026-05-30T00:10:58.269Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing House Mates: the ClickHouse partner community and program",
       "url": "https://clickhouse.com/blog/introducing-house-mates",
       "source": "ClickHouse",
-      "date": "2026-05-29T00:13:24.818Z"
+      "date": "2026-05-30T00:10:58.269Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres managed by ClickHouse is now in beta",
       "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-beta",
       "source": "ClickHouse",
-      "date": "2026-05-29T00:13:24.818Z"
+      "date": "2026-05-30T00:10:58.269Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing CostBench: an open benchmark for data warehouse cost-performance",
       "url": "https://clickhouse.com/blog/costbench-data-warehouse-cost-performance",
       "source": "ClickHouse",
-      "date": "2026-05-29T00:13:24.818Z"
-    },
-    {
-      "id": "hn-48317043",
-      "title": "Garnix (A Nix CI) is shutting down",
-      "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
-      "source": "HackerNews",
-      "score": 11,
-      "comments": 2,
-      "date": "2026-05-28T23:36:41.000Z"
+      "date": "2026-05-30T00:10:58.269Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Some Python Features We Almost Got but Never Did",
-      "url": "https://www.reddit.com/r/programming/comments/1tqgaw9/some_python_features_we_almost_got_but_never_did/",
+      "title": "Pattern Detection and Correlation in JSON Logs",
+      "url": "https://www.reddit.com/r/programming/comments/1trhw1m/pattern_detection_and_correlation_in_json_logs/",
       "source": "Reddit",
-      "date": "2026-05-28T20:59:14.000Z"
-    },
-    {
-      "id": "hn-48314951",
-      "title": "I made a million dollar product from my dorm room (2025)",
-      "url": "https://nick.winans.io/blog/nice-nano/",
-      "source": "HackerNews",
-      "score": 131,
-      "comments": 14,
-      "date": "2026-05-28T20:25:21.000Z"
-    },
-    {
-      "id": "hn-48314136",
-      "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-      "source": "HackerNews",
-      "score": 514,
-      "comments": 283,
-      "date": "2026-05-28T19:24:09.000Z"
-    },
-    {
-      "id": "hn-48314002",
-      "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
-      "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
-      "source": "HackerNews",
-      "score": 118,
-      "comments": 47,
-      "date": "2026-05-28T19:15:54.000Z"
-    },
-    {
-      "id": "hn-48313810",
-      "title": "Various LLM Smells",
-      "url": "https://shvbsle.in/various-llm-smells/",
-      "source": "HackerNews",
-      "score": 188,
-      "comments": 138,
-      "date": "2026-05-28T19:02:18.000Z"
-    },
-    {
-      "id": "hn-48313530",
-      "title": "Building durable workflows on Postgres",
-      "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-      "source": "HackerNews",
-      "score": 248,
-      "comments": 106,
-      "date": "2026-05-28T18:41:46.000Z"
+      "date": "2026-05-29T22:32:05.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Networking Fundamentals For Developers, DevOps, and Platform Engineers",
-      "url": "https://www.reddit.com/r/programming/comments/1tqbgp4/networking_fundamentals_for_developers_devops_and/",
+      "title": "Queueing Requests Queues Your Capacity Problems, Too",
+      "url": "https://www.reddit.com/r/programming/comments/1trdksd/queueing_requests_queues_your_capacity_problems/",
       "source": "Reddit",
-      "date": "2026-05-28T18:08:52.000Z"
+      "date": "2026-05-29T19:50:52.000Z"
     },
     {
-      "id": "hn-48312528",
-      "title": "I hated writing until I learned there’s a science to it (2024)",
-      "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
+      "id": "hn-48328184",
+      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
+      "url": "https://github.com/jmaczan/tiny-vllm",
       "source": "HackerNews",
-      "score": 120,
-      "comments": 50,
-      "date": "2026-05-28T17:36:47.000Z"
+      "score": 71,
+      "comments": 7,
+      "date": "2026-05-29T19:38:27.000Z"
     },
     {
-      "id": "hn-48311647",
-      "title": "Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "id": "hn-48327962",
+      "title": "Shift will clean homes for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
       "source": "HackerNews",
-      "score": 1170,
-      "comments": 929,
-      "date": "2026-05-28T16:49:14.000Z"
+      "score": 68,
+      "comments": 92,
+      "date": "2026-05-29T19:16:32.000Z"
+    },
+    {
+      "id": "hn-48327809",
+      "title": "On Rendering Diffs",
+      "url": "https://pierre.computer/writing/on-rendering-diffs",
+      "source": "HackerNews",
+      "score": 133,
+      "comments": 34,
+      "date": "2026-05-29T19:04:54.000Z"
+    },
+    {
+      "id": "hn-48326802",
+      "title": "SQLite is all you need for durable workflows",
+      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+      "source": "HackerNews",
+      "score": 314,
+      "comments": 181,
+      "date": "2026-05-29T17:54:50.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "What Happens When You Build a Chat Server on One Thread?",
-      "url": "https://www.reddit.com/r/programming/comments/1tq6jqt/what_happens_when_you_build_a_chat_server_on_one/",
+      "title": "Deep Dive into Kubernetes Gateway API",
+      "url": "https://www.reddit.com/r/programming/comments/1tr8j9g/deep_dive_into_kubernetes_gateway_api/",
       "source": "Reddit",
-      "date": "2026-05-28T15:14:44.000Z"
+      "date": "2026-05-29T17:09:00.000Z"
+    },
+    {
+      "id": "hn-48325340",
+      "title": "Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "source": "HackerNews",
+      "score": 299,
+      "comments": 104,
+      "date": "2026-05-29T16:22:01.000Z"
+    },
+    {
+      "id": "hn-48324853",
+      "title": "You can just say it",
+      "url": "https://noperator.dev/posts/you-can-just-say-it/",
+      "source": "HackerNews",
+      "score": 110,
+      "comments": 30,
+      "date": "2026-05-29T15:54:28.000Z"
+    },
+    {
+      "id": "hn-48324712",
+      "title": "The dead economy theory",
+      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+      "source": "HackerNews",
+      "score": 622,
+      "comments": 804,
+      "date": "2026-05-29T15:46:24.000Z"
+    },
+    {
+      "id": "hn-48323992",
+      "title": "Bijou64: A variable-length integer encoding",
+      "url": "https://www.inkandswitch.com/tangents/bijou64/",
+      "source": "HackerNews",
+      "score": 198,
+      "comments": 72,
+      "date": "2026-05-29T15:03:32.000Z"
+    },
+    {
+      "id": "hn-48323869",
+      "title": "It's hard to justify buying a Framework 12",
+      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
+      "source": "HackerNews",
+      "score": 202,
+      "comments": 358,
+      "date": "2026-05-29T14:55:31.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The case for Direct I/O - why it matters for high performance storage",
+      "url": "https://www.reddit.com/r/programming/comments/1tr09pj/the_case_for_direct_io_why_it_matters_for_high/",
+      "source": "Reddit",
+      "date": "2026-05-29T12:25:42.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Programming with ellipsis",
+      "url": "https://www.reddit.com/r/programming/comments/1tqzcys/programming_with_ellipsis/",
+      "source": "Reddit",
+      "date": "2026-05-29T11:47:53.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "I Stopped Fighting My Tools and Built a Game Engine in D",
+      "url": "https://www.reddit.com/r/programming/comments/1tqwtnx/i_stopped_fighting_my_tools_and_built_a_game/",
+      "source": "Reddit",
+      "date": "2026-05-29T09:47:49.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Someone hid a full RAT inside a fake npm package and exfiltrated victim data to HuggingFace",
+      "url": "https://www.reddit.com/r/programming/comments/1tqwksq/someone_hid_a_full_rat_inside_a_fake_npm_package/",
+      "source": "Reddit",
+      "date": "2026-05-29T09:34:28.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "FastAPI Introduces Official VSCode Extension",
+      "url": "https://www.reddit.com/r/programming/comments/1tqtyvq/fastapi_introduces_official_vscode_extension/",
+      "source": "Reddit",
+      "date": "2026-05-29T07:09:21.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -173,57 +217,13 @@
       "date": "2026-05-28T15:00:18.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Benchmarking real iAPX 432",
-      "url": "https://www.reddit.com/r/programming/comments/1tq568g/benchmarking_real_iapx_432/",
-      "source": "Reddit",
-      "date": "2026-05-28T14:24:32.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "air traffic control: the IBM 9020",
-      "url": "https://www.reddit.com/r/programming/comments/1tq52x8/air_traffic_control_the_ibm_9020/",
-      "source": "Reddit",
-      "date": "2026-05-28T14:21:11.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Who Makes the Makefiles?",
-      "url": "https://www.reddit.com/r/programming/comments/1tq2og7/who_makes_the_makefiles/",
-      "source": "Reddit",
-      "date": "2026-05-28T12:50:59.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Apache Fory Serialization 1.0.0 Released Now",
-      "url": "https://www.reddit.com/r/programming/comments/1tpz0os/apache_fory_serialization_100_released_now/",
-      "source": "Reddit",
-      "date": "2026-05-28T09:58:05.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Folding in Parallel",
-      "url": "https://www.reddit.com/r/programming/comments/1tpvbpx/folding_in_parallel/",
-      "source": "Reddit",
-      "date": "2026-05-28T06:28:32.000Z"
-    },
-    {
-      "id": "hn-48276598",
-      "title": "News about Raspberry Pi 6 and Microcontroller Development",
-      "url": "https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/",
+      "id": "hn-48283410",
+      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
+      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
       "source": "HackerNews",
-      "score": 134,
-      "comments": 96,
-      "date": "2026-05-26T08:02:52.000Z"
-    },
-    {
-      "id": "hn-48261377",
-      "title": "Ten Basic Clouds",
-      "url": "https://www.noaa.gov/jetstream/clouds/ten-basic-clouds",
-      "source": "HackerNews",
-      "score": 13,
-      "comments": 2,
-      "date": "2026-05-24T21:52:55.000Z"
+      "score": 42,
+      "comments": 1,
+      "date": "2026-05-26T18:05:42.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
