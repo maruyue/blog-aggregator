@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T00:10:58.269Z",
+  "updatedAt": "2026-05-31T00:03:31.885Z",
   "total": 30,
   "articles": [
     {
@@ -7,70 +7,179 @@
       "title": "CommunityOpen House 2026 Day 2: 10 years of open source and what the ecosystem is building nextA Day 2 recap of Open House 2026 covering ClickHouse&#x27;s 10 years of open source, the House Mates partner program launch, and ecosystem announcements from Fivetran, Sigma, dbt, Notion, Replit, and Google Cloud.ClickHouseMay 28, 2026 · 15 minutes read",
       "url": "https://clickhouse.com/blog/open-house-2026-day-2",
       "source": "ClickHouse",
-      "date": "2026-05-30T00:10:58.269Z"
+      "date": "2026-05-31T00:03:31.884Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Open House 2026 Day 1: Real-time data without lock-in and what teams can build next",
       "url": "https://clickhouse.com/blog/open-house-2026-day-1",
       "source": "ClickHouse",
-      "date": "2026-05-30T00:10:58.269Z"
+      "date": "2026-05-31T00:03:31.884Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing multi-stage distributed query execution in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/multi-stage-distributed-query-execution-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-05-30T00:10:58.269Z"
+      "date": "2026-05-31T00:03:31.884Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Open House observability announcements: MCP server, AI Notebooks, and ClickStack Cloud",
       "url": "https://clickhouse.com/blog/observability-mcp-server-ai-notebooks",
       "source": "ClickHouse",
-      "date": "2026-05-30T00:10:58.269Z"
+      "date": "2026-05-31T00:03:31.884Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Thank you for building with us",
       "url": "https://clickhouse.com/blog/thank-you-for-building-with-us",
       "source": "ClickHouse",
-      "date": "2026-05-30T00:10:58.269Z"
+      "date": "2026-05-31T00:03:31.884Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse tops $250M ARR and 4,000 customers, launches Claude-powered agents at Open House 2026",
       "url": "https://clickhouse.com/blog/clickhouse-tops-250m-arr-and-4000-customers",
       "source": "ClickHouse",
-      "date": "2026-05-30T00:10:58.269Z"
+      "date": "2026-05-31T00:03:31.884Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing ClickStack Cloud: Serverless observability powered by ClickHouse",
       "url": "https://clickhouse.com/blog/clickstack-cloud-private-preview",
       "source": "ClickHouse",
-      "date": "2026-05-30T00:10:58.269Z"
+      "date": "2026-05-31T00:03:31.884Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing House Mates: the ClickHouse partner community and program",
       "url": "https://clickhouse.com/blog/introducing-house-mates",
       "source": "ClickHouse",
-      "date": "2026-05-30T00:10:58.269Z"
+      "date": "2026-05-31T00:03:31.884Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres managed by ClickHouse is now in beta",
       "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-beta",
       "source": "ClickHouse",
-      "date": "2026-05-30T00:10:58.269Z"
+      "date": "2026-05-31T00:03:31.884Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing CostBench: an open benchmark for data warehouse cost-performance",
       "url": "https://clickhouse.com/blog/costbench-data-warehouse-cost-performance",
       "source": "ClickHouse",
-      "date": "2026-05-30T00:10:58.269Z"
+      "date": "2026-05-31T00:03:31.884Z"
+    },
+    {
+      "id": "hn-48341578",
+      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+      "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
+      "source": "HackerNews",
+      "score": 58,
+      "comments": 9,
+      "date": "2026-05-30T23:26:13.000Z"
+    },
+    {
+      "id": "hn-48340422",
+      "title": "wolfSSL releases a new product; wolfCOSE a zero alloc C embbedded COSE stack",
+      "url": "https://github.com/wolfSSL/wolfCOSE",
+      "source": "HackerNews",
+      "score": 44,
+      "comments": 6,
+      "date": "2026-05-30T20:42:28.000Z"
+    },
+    {
+      "id": "hn-48340411",
+      "title": "Domain expertise has always been the real moat",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "source": "HackerNews",
+      "score": 198,
+      "comments": 127,
+      "date": "2026-05-30T20:40:57.000Z"
+    },
+    {
+      "id": "hn-48339943",
+      "title": "Parallel Reconstruction of Lawful TLS Wiretapping",
+      "url": "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/",
+      "source": "HackerNews",
+      "score": 42,
+      "comments": 23,
+      "date": "2026-05-30T19:47:36.000Z"
+    },
+    {
+      "id": "hn-48339894",
+      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
+      "url": "https://lowendmac.com/2013/jef-raskin-the-visionary-behind-the-mac/",
+      "source": "HackerNews",
+      "score": 56,
+      "comments": 26,
+      "date": "2026-05-30T19:42:33.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
+      "url": "https://www.reddit.com/r/programming/comments/1ts97an/the_gold_standard_of_optimization_a_look_under/",
+      "source": "Reddit",
+      "date": "2026-05-30T19:34:06.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Looking at code behind File Pilot",
+      "url": "https://www.reddit.com/r/programming/comments/1ts7u6m/looking_at_code_behind_file_pilot/",
+      "source": "Reddit",
+      "date": "2026-05-30T18:40:43.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "When Architecture Diagrams Stop Scaling",
+      "url": "https://www.reddit.com/r/programming/comments/1ts7ahi/when_architecture_diagrams_stop_scaling/",
+      "source": "Reddit",
+      "date": "2026-05-30T18:18:53.000Z"
+    },
+    {
+      "id": "hn-48338673",
+      "title": "Zig ELF Linker Improvements Devlog",
+      "url": "https://ziglang.org/devlog/2026/#2026-05-30",
+      "source": "HackerNews",
+      "score": 158,
+      "comments": 40,
+      "date": "2026-05-30T17:29:22.000Z"
+    },
+    {
+      "id": "hn-48338660",
+      "title": "OpenRouter raises $113M Series B",
+      "url": "https://openrouter.ai/announcements/series-b",
+      "source": "HackerNews",
+      "score": 337,
+      "comments": 162,
+      "date": "2026-05-30T17:27:28.000Z"
+    },
+    {
+      "id": "hn-48337987",
+      "title": "Accenture to acquire Ookla",
+      "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+      "source": "HackerNews",
+      "score": 223,
+      "comments": 111,
+      "date": "2026-05-30T16:28:58.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Practical uses of monads in Haskell",
+      "url": "https://www.reddit.com/r/programming/comments/1ts1x2l/practical_uses_of_monads_in_haskell/",
+      "source": "Reddit",
+      "date": "2026-05-30T14:47:03.000Z"
+    },
+    {
+      "id": "hn-48336564",
+      "title": "Voxel Space (2017)",
+      "url": "https://s-macke.github.io/VoxelSpace/",
+      "source": "HackerNews",
+      "score": 242,
+      "comments": 52,
+      "date": "2026-05-30T14:25:50.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -85,94 +194,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1trdksd/queueing_requests_queues_your_capacity_problems/",
       "source": "Reddit",
       "date": "2026-05-29T19:50:52.000Z"
-    },
-    {
-      "id": "hn-48328184",
-      "title": "Show HN: Tiny-vLLM – high performance LLM inference engine in C++ and CUDA",
-      "url": "https://github.com/jmaczan/tiny-vllm",
-      "source": "HackerNews",
-      "score": 71,
-      "comments": 7,
-      "date": "2026-05-29T19:38:27.000Z"
-    },
-    {
-      "id": "hn-48327962",
-      "title": "Shift will clean homes for free to train future robots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "source": "HackerNews",
-      "score": 68,
-      "comments": 92,
-      "date": "2026-05-29T19:16:32.000Z"
-    },
-    {
-      "id": "hn-48327809",
-      "title": "On Rendering Diffs",
-      "url": "https://pierre.computer/writing/on-rendering-diffs",
-      "source": "HackerNews",
-      "score": 133,
-      "comments": 34,
-      "date": "2026-05-29T19:04:54.000Z"
-    },
-    {
-      "id": "hn-48326802",
-      "title": "SQLite is all you need for durable workflows",
-      "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-      "source": "HackerNews",
-      "score": 314,
-      "comments": 181,
-      "date": "2026-05-29T17:54:50.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Deep Dive into Kubernetes Gateway API",
-      "url": "https://www.reddit.com/r/programming/comments/1tr8j9g/deep_dive_into_kubernetes_gateway_api/",
-      "source": "Reddit",
-      "date": "2026-05-29T17:09:00.000Z"
-    },
-    {
-      "id": "hn-48325340",
-      "title": "Notes from the Mistral AI Now Summit",
-      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-      "source": "HackerNews",
-      "score": 299,
-      "comments": 104,
-      "date": "2026-05-29T16:22:01.000Z"
-    },
-    {
-      "id": "hn-48324853",
-      "title": "You can just say it",
-      "url": "https://noperator.dev/posts/you-can-just-say-it/",
-      "source": "HackerNews",
-      "score": 110,
-      "comments": 30,
-      "date": "2026-05-29T15:54:28.000Z"
-    },
-    {
-      "id": "hn-48324712",
-      "title": "The dead economy theory",
-      "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-      "source": "HackerNews",
-      "score": 622,
-      "comments": 804,
-      "date": "2026-05-29T15:46:24.000Z"
-    },
-    {
-      "id": "hn-48323992",
-      "title": "Bijou64: A variable-length integer encoding",
-      "url": "https://www.inkandswitch.com/tangents/bijou64/",
-      "source": "HackerNews",
-      "score": 198,
-      "comments": 72,
-      "date": "2026-05-29T15:03:32.000Z"
-    },
-    {
-      "id": "hn-48323869",
-      "title": "It's hard to justify buying a Framework 12",
-      "url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-      "source": "HackerNews",
-      "score": 202,
-      "comments": 358,
-      "date": "2026-05-29T14:55:31.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -190,40 +211,19 @@
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "I Stopped Fighting My Tools and Built a Game Engine in D",
-      "url": "https://www.reddit.com/r/programming/comments/1tqwtnx/i_stopped_fighting_my_tools_and_built_a_game/",
-      "source": "Reddit",
-      "date": "2026-05-29T09:47:49.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
       "title": "Someone hid a full RAT inside a fake npm package and exfiltrated victim data to HuggingFace",
       "url": "https://www.reddit.com/r/programming/comments/1tqwksq/someone_hid_a_full_rat_inside_a_fake_npm_package/",
       "source": "Reddit",
       "date": "2026-05-29T09:34:28.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "FastAPI Introduces Official VSCode Extension",
-      "url": "https://www.reddit.com/r/programming/comments/1tqtyvq/fastapi_introduces_official_vscode_extension/",
-      "source": "Reddit",
-      "date": "2026-05-29T07:09:21.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How 2004 RuneScape fit a multiplayer RPG into 56k dial-up",
-      "url": "https://www.reddit.com/r/programming/comments/1tq65b4/how_2004_runescape_fit_a_multiplayer_rpg_into_56k/",
-      "source": "Reddit",
-      "date": "2026-05-28T15:00:18.000Z"
-    },
-    {
-      "id": "hn-48283410",
-      "title": "Print with dozens of colors: Our new open-source ColorMix for PrusaSlicer",
-      "url": "https://blog.prusa3d.com/our-new-open-source-colormix-model-in-prusaslicer-and-easyprint_136079/",
+      "id": "hn-48318402",
+      "title": "I found a seashell in the middle of the desert",
+      "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
       "source": "HackerNews",
-      "score": 42,
-      "comments": 1,
-      "date": "2026-05-26T18:05:42.000Z"
+      "score": 169,
+      "comments": 46,
+      "date": "2026-05-29T02:49:43.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
