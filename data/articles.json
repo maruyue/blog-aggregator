@@ -1,92 +1,199 @@
 {
-  "updatedAt": "2026-06-01T00:09:26.594Z",
+  "updatedAt": "2026-06-02T00:16:13.770Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "CommunityOpen House 2026 Day 2: 10 years of open source and what the ecosystem is building nextA Day 2 recap of Open House 2026 covering ClickHouse&#x27;s 10 years of open source, the House Mates partner program launch, and ecosystem announcements from Fivetran, Sigma, dbt, Notion, Replit, and Google Cloud.ClickHouseMay 28, 2026 · 15 minutes read",
+      "title": "EngineeringClickHouse Release 26.5ClickHouse 26.5 is here! In this release, we have a record number of performance optimizations, a new `filesystem` table function for querying your local file system with SQL, and more!ClickHouseJun 1, 2026 · 19 minutes read",
+      "url": "https://clickhouse.com/blog/clickhouse-release-26-05",
+      "source": "ClickHouse",
+      "date": "2026-06-02T00:16:13.769Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Executable UDFs are now in public beta on ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/executable-udfs-clickhouse-cloud-beta",
+      "source": "ClickHouse",
+      "date": "2026-06-02T00:16:13.769Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Open House 2026 Day 2: 10 years of open source and what the ecosystem is building next",
       "url": "https://clickhouse.com/blog/open-house-2026-day-2",
       "source": "ClickHouse",
-      "date": "2026-06-01T00:09:26.594Z"
+      "date": "2026-06-02T00:16:13.769Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "Open House 2026 Day 1: Real-time data without lock-in and what teams can build next",
-      "url": "https://clickhouse.com/blog/open-house-2026-day-1",
+      "title": "5 countries, 12 days, one ClickHouse: inside Alexey&#x27;s APJ AI Tour",
+      "url": "https://clickhouse.com/blog/alexey-apj-ai-tour",
       "source": "ClickHouse",
-      "date": "2026-06-01T00:09:26.594Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Introducing multi-stage distributed query execution in ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/multi-stage-distributed-query-execution-clickhouse-cloud",
-      "source": "ClickHouse",
-      "date": "2026-06-01T00:09:26.594Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Open House observability announcements: MCP server, AI Notebooks, and ClickStack Cloud",
-      "url": "https://clickhouse.com/blog/observability-mcp-server-ai-notebooks",
-      "source": "ClickHouse",
-      "date": "2026-06-01T00:09:26.594Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Thank you for building with us",
-      "url": "https://clickhouse.com/blog/thank-you-for-building-with-us",
-      "source": "ClickHouse",
-      "date": "2026-06-01T00:09:26.594Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse tops $250M ARR and 4,000 customers, launches Claude-powered agents at Open House 2026",
-      "url": "https://clickhouse.com/blog/clickhouse-tops-250m-arr-and-4000-customers",
-      "source": "ClickHouse",
-      "date": "2026-06-01T00:09:26.594Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Introducing ClickStack Cloud: Serverless observability powered by ClickHouse",
-      "url": "https://clickhouse.com/blog/clickstack-cloud-private-preview",
-      "source": "ClickHouse",
-      "date": "2026-06-01T00:09:26.594Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Introducing House Mates: the ClickHouse partner community and program",
-      "url": "https://clickhouse.com/blog/introducing-house-mates",
-      "source": "ClickHouse",
-      "date": "2026-06-01T00:09:26.594Z"
+      "date": "2026-06-02T00:16:13.769Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres managed by ClickHouse is now in beta",
       "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-beta",
       "source": "ClickHouse",
-      "date": "2026-06-01T00:09:26.594Z"
+      "date": "2026-06-02T00:16:13.769Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "Introducing CostBench: an open benchmark for data warehouse cost-performance",
-      "url": "https://clickhouse.com/blog/costbench-data-warehouse-cost-performance",
+      "title": "Open House 2026 Day 1: Real-time data without lock-in and what teams can build next",
+      "url": "https://clickhouse.com/blog/open-house-2026-day-1",
       "source": "ClickHouse",
-      "date": "2026-06-01T00:09:26.594Z"
+      "date": "2026-06-02T00:16:13.769Z"
     },
     {
-      "id": "hn-48350598",
-      "title": "Chuwi Minibook X: the netbook we deserve",
-      "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Introducing multi-stage distributed query execution in ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/multi-stage-distributed-query-execution-clickhouse-cloud",
+      "source": "ClickHouse",
+      "date": "2026-06-02T00:16:13.769Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Open House observability announcements: MCP server, AI Notebooks, and ClickStack Cloud",
+      "url": "https://clickhouse.com/blog/observability-mcp-server-ai-notebooks",
+      "source": "ClickHouse",
+      "date": "2026-06-02T00:16:13.769Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Thank you for building with us",
+      "url": "https://clickhouse.com/blog/thank-you-for-building-with-us",
+      "source": "ClickHouse",
+      "date": "2026-06-02T00:16:13.769Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse tops $250M ARR and 4,000 customers, launches Claude-powered agents at Open House 2026",
+      "url": "https://clickhouse.com/blog/clickhouse-tops-250m-arr-and-4000-customers",
+      "source": "ClickHouse",
+      "date": "2026-06-02T00:16:13.769Z"
+    },
+    {
+      "id": "hn-48363132",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
       "source": "HackerNews",
-      "score": 34,
-      "comments": 26,
-      "date": "2026-05-31T22:59:50.000Z"
+      "score": 57,
+      "comments": 17,
+      "date": "2026-06-01T21:50:02.000Z"
+    },
+    {
+      "id": "hn-48362347",
+      "title": "Debug Project",
+      "url": "https://debug.com/",
+      "source": "HackerNews",
+      "score": 129,
+      "comments": 51,
+      "date": "2026-06-01T20:40:13.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Building a Real-Time System for a Batch Problem",
-      "url": "https://www.reddit.com/r/programming/comments/1tt9x03/building_a_realtime_system_for_a_batch_problem/",
+      "title": "Adding Microformat tags to my website - enabling an open, decentralised web",
+      "url": "https://www.reddit.com/r/programming/comments/1tu463t/adding_microformat_tags_to_my_website_enabling_an/",
       "source": "Reddit",
-      "date": "2026-05-31T22:45:12.000Z"
+      "date": "2026-06-01T20:09:19.000Z"
+    },
+    {
+      "id": "hn-48360871",
+      "title": "GrapheneOS Speech Services version 2 released",
+      "url": "https://discuss.grapheneos.org/d/36001-grapheneos-speech-services-version-2-released",
+      "source": "HackerNews",
+      "score": 84,
+      "comments": 14,
+      "date": "2026-06-01T18:39:53.000Z"
+    },
+    {
+      "id": "hn-48360054",
+      "title": "Should you normalize RGB values by 255 or 256?",
+      "url": "https://30fps.net/pages/255-vs-256-division/",
+      "source": "HackerNews",
+      "score": 171,
+      "comments": 74,
+      "date": "2026-06-01T17:37:20.000Z"
+    },
+    {
+      "id": "hn-48359232",
+      "title": "AI Agent Guidelines for CS336 at Stanford",
+      "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+      "source": "HackerNews",
+      "score": 303,
+      "comments": 108,
+      "date": "2026-06-01T16:41:49.000Z"
+    },
+    {
+      "id": "hn-48359102",
+      "title": "The newest Instagram “exploit” is the goofiest I've seen",
+      "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+      "source": "HackerNews",
+      "score": 1239,
+      "comments": 308,
+      "date": "2026-06-01T16:31:42.000Z"
+    },
+    {
+      "id": "hn-48357905",
+      "title": "What appear to be biochemical processes may be a natural feature of geology",
+      "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+      "source": "HackerNews",
+      "score": 184,
+      "comments": 57,
+      "date": "2026-06-01T15:11:35.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Training + inference of a transformer inside an email",
+      "url": "https://www.reddit.com/r/programming/comments/1ttuxmh/training_inference_of_a_transformer_inside_an/",
+      "source": "Reddit",
+      "date": "2026-06-01T15:02:37.000Z"
+    },
+    {
+      "id": "hn-48357075",
+      "title": "CS336: Language Modeling from Scratch",
+      "url": "https://cs336.stanford.edu/",
+      "source": "HackerNews",
+      "score": 340,
+      "comments": 42,
+      "date": "2026-06-01T14:10:32.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "@redhat-cloud-services publish pipeline is compromised today and shipped a signed, trusted, malicious npm package",
+      "url": "https://www.reddit.com/r/programming/comments/1ttt4p4/redhatcloudservices_publish_pipeline_is/",
+      "source": "Reddit",
+      "date": "2026-06-01T14:00:35.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Why I used vsock instead of TCP in a Firecracker serverless platform",
+      "url": "https://www.reddit.com/r/programming/comments/1ttrc88/why_i_used_vsock_instead_of_tcp_in_a_firecracker/",
+      "source": "Reddit",
+      "date": "2026-06-01T12:54:37.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Breaking what a program is",
+      "url": "https://www.reddit.com/r/programming/comments/1ttqimx/breaking_what_a_program_is/",
+      "source": "Reddit",
+      "date": "2026-06-01T12:20:54.000Z"
+    },
+    {
+      "id": "hn-48355720",
+      "title": "Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
+      "url": "https://www.windowslatest.com/2026/06/01/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra/",
+      "source": "HackerNews",
+      "score": 119,
+      "comments": 310,
+      "date": "2026-06-01T12:04:29.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Your process' memory is a file: The underappreciated gem that is /proc/<pid>/mem",
+      "url": "https://www.reddit.com/r/programming/comments/1ttjtwv/your_process_memory_is_a_file_the/",
+      "source": "Reddit",
+      "date": "2026-06-01T06:32:12.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -97,35 +204,10 @@
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Docker Networking explained in plain English",
-      "url": "https://www.reddit.com/r/programming/comments/1tt7s56/docker_networking_explained_in_plain_english/",
-      "source": "Reddit",
-      "date": "2026-05-31T21:18:04.000Z"
-    },
-    {
-      "id": "hn-48348578",
-      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
-      "url": "https://twitter.com/i/status/2060746160558543217",
-      "source": "HackerNews",
-      "score": 328,
-      "comments": 145,
-      "date": "2026-05-31T18:57:48.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
       "title": "How Servers Work: A Hands-On Introduction to TCP Sockets",
       "url": "https://www.reddit.com/r/programming/comments/1tt1hcf/how_servers_work_a_handson_introduction_to_tcp/",
       "source": "Reddit",
       "date": "2026-05-31T17:24:07.000Z"
-    },
-    {
-      "id": "hn-48347354",
-      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions",
-      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-      "source": "HackerNews",
-      "score": 99,
-      "comments": 150,
-      "date": "2026-05-31T17:02:23.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -135,95 +217,13 @@
       "date": "2026-05-31T16:31:22.000Z"
     },
     {
-      "id": "hn-48346947",
-      "title": "Creatine raises brain energy levels and slows cognitive decline: study",
-      "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+      "id": "hn-48338891",
+      "title": "Stealing from Biologists to Compile Haskell Faster",
+      "url": "https://www.iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/",
       "source": "HackerNews",
-      "score": 444,
-      "comments": 294,
-      "date": "2026-05-31T16:19:34.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Story Points: Explicit, Honest, Predictable. Already in Use.",
-      "url": "https://www.reddit.com/r/programming/comments/1tsyfhk/story_points_explicit_honest_predictable_already/",
-      "source": "Reddit",
-      "date": "2026-05-31T15:28:48.000Z"
-    },
-    {
-      "id": "hn-48346257",
-      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "url": "https://prismml.com/news/bonsai-image-4b",
-      "source": "HackerNews",
-      "score": 260,
-      "comments": 92,
-      "date": "2026-05-31T15:04:52.000Z"
-    },
-    {
-      "id": "hn-48345840",
-      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-      "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-      "source": "HackerNews",
-      "score": 474,
-      "comments": 263,
-      "date": "2026-05-31T14:13:20.000Z"
-    },
-    {
-      "id": "hn-48345248",
-      "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-      "source": "HackerNews",
-      "score": 241,
-      "comments": 386,
-      "date": "2026-05-31T12:41:19.000Z"
-    },
-    {
-      "id": "hn-48344961",
-      "title": "Dav2d",
-      "url": "https://jbkempf.com/blog/2026/dav2d/",
-      "source": "HackerNews",
-      "score": 385,
-      "comments": 135,
-      "date": "2026-05-31T11:44:45.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Debunking zswap and zram myths",
-      "url": "https://www.reddit.com/r/programming/comments/1tsrxh8/debunking_zswap_and_zram_myths/",
-      "source": "Reddit",
-      "date": "2026-05-31T10:46:07.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "On Scenarios That Will Not Happen",
-      "url": "https://www.reddit.com/r/programming/comments/1tsoqjf/on_scenarios_that_will_not_happen/",
-      "source": "Reddit",
-      "date": "2026-05-31T07:42:55.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
-      "url": "https://www.reddit.com/r/programming/comments/1ts97an/the_gold_standard_of_optimization_a_look_under/",
-      "source": "Reddit",
-      "date": "2026-05-30T19:34:06.000Z"
-    },
-    {
-      "id": "hn-48322984",
-      "title": "New Beam Spring Keyboards",
-      "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
-      "source": "HackerNews",
-      "score": 39,
-      "comments": 15,
-      "date": "2026-05-29T13:39:41.000Z"
-    },
-    {
-      "id": "hn-48306225",
-      "title": "The four programming questions from my 1994 Microsoft internship interview (2023)",
-      "url": "https://www.computerenhance.com/p/the-four-programming-questions-from",
-      "source": "HackerNews",
-      "score": 55,
-      "comments": 20,
-      "date": "2026-05-28T08:28:23.000Z"
+      "score": 87,
+      "comments": 4,
+      "date": "2026-05-30T17:50:21.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
