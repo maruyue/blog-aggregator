@@ -1,229 +1,229 @@
 {
-  "updatedAt": "2026-06-03T01:41:31.585Z",
+  "updatedAt": "2026-06-04T01:43:50.803Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "EngineeringTPC-H for less than a cent: ClickHouse Cloud vs. Snowflake, Databricks, BigQuery, and RedshiftClickHouse Cloud takes on Snowflake, Databricks, BigQuery, and Redshift on TPC-H, ranking first on SF100 cost-performance and running SF10 for less than one cent.Tom Schreiber, Mark Needham, Alexander Gololobov, Andriy Yakovlev and Robert SchulzeJun 2, 2026 · 12 minutes read",
+      "title": "EngineeringLogging, Metrics, and Distributed Tracing in .NET with OpenTelemetry and ClickStackA walkthrough of adding OpenTelemetry instrumentation to two ASP.NET services — an Order API and a Payment Service — and shipping traces, logs, and metrics to ClickStack, with auto-correlated signals and cross-service trace waterfalls out of the box.Alex Soffronow PagonidisJun 3, 2026 · 16 minutes read",
+      "url": "https://clickhouse.com/blog/logging-metrics-distributed-tracing-dotnet-otel-clickstack",
+      "source": "ClickHouse",
+      "date": "2026-06-04T01:43:50.803Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How ClickHouse became fast at joins",
+      "url": "https://clickhouse.com/blog/clickhouse-fast-joins",
+      "source": "ClickHouse",
+      "date": "2026-06-04T01:43:50.803Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Building a .NET API Gateway with ClickHouse and Aspire",
+      "url": "https://clickhouse.com/blog/dotnet-api-gateway-aspire",
+      "source": "ClickHouse",
+      "date": "2026-06-04T01:43:50.803Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "TPC-H for less than a cent: ClickHouse Cloud vs. Snowflake, Databricks, BigQuery, and Redshift",
       "url": "https://clickhouse.com/blog/tpc-h-clickhouse-cloud-vs-snowflake-databricks-bigquery-redshift",
       "source": "ClickHouse",
-      "date": "2026-06-03T01:41:31.585Z"
+      "date": "2026-06-04T01:43:50.803Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.5",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-05",
       "source": "ClickHouse",
-      "date": "2026-06-03T01:41:31.585Z"
+      "date": "2026-06-04T01:43:50.803Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Executable UDFs are now in public beta on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/executable-udfs-clickhouse-cloud-beta",
       "source": "ClickHouse",
-      "date": "2026-06-03T01:41:31.585Z"
+      "date": "2026-06-04T01:43:50.803Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Open House 2026 Day 2: 10 years of open source and what the ecosystem is building next",
       "url": "https://clickhouse.com/blog/open-house-2026-day-2",
       "source": "ClickHouse",
-      "date": "2026-06-03T01:41:31.585Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Introducing CostBench: an open benchmark for data warehouse cost-performance",
-      "url": "https://clickhouse.com/blog/costbench-data-warehouse-cost-performance",
-      "source": "ClickHouse",
-      "date": "2026-06-03T01:41:31.585Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "5 countries, 12 days, one ClickHouse: inside Alexey&#x27;s APJ AI Tour",
-      "url": "https://clickhouse.com/blog/alexey-apj-ai-tour",
-      "source": "ClickHouse",
-      "date": "2026-06-03T01:41:31.585Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Postgres managed by ClickHouse is now in beta",
-      "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-beta",
-      "source": "ClickHouse",
-      "date": "2026-06-03T01:41:31.585Z"
+      "date": "2026-06-04T01:43:50.803Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Open House 2026 Day 1: Real-time data without lock-in and what teams can build next",
       "url": "https://clickhouse.com/blog/open-house-2026-day-1",
       "source": "ClickHouse",
-      "date": "2026-06-03T01:41:31.585Z"
+      "date": "2026-06-04T01:43:50.803Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "Introducing multi-stage distributed query execution in ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/multi-stage-distributed-query-execution-clickhouse-cloud",
+      "title": "Introducing ClickStack Cloud: Serverless observability powered by ClickHouse",
+      "url": "https://clickhouse.com/blog/clickstack-cloud-private-preview",
       "source": "ClickHouse",
-      "date": "2026-06-03T01:41:31.585Z"
+      "date": "2026-06-04T01:43:50.803Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "Open House observability announcements: MCP server, AI Notebooks, and ClickStack Cloud",
-      "url": "https://clickhouse.com/blog/observability-mcp-server-ai-notebooks",
+      "title": "Introducing CostBench: an open benchmark for data warehouse cost-performance",
+      "url": "https://clickhouse.com/blog/costbench-data-warehouse-cost-performance",
       "source": "ClickHouse",
-      "date": "2026-06-03T01:41:31.585Z"
+      "date": "2026-06-04T01:43:50.803Z"
     },
     {
-      "id": "hn-48378099",
-      "title": "I Don't Want My Search Engine to Think for Me",
-      "url": "https://searchzee.com/blog/search-without-ai-summaries",
+      "id": "hn-48392343",
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
       "source": "HackerNews",
-      "score": 18,
-      "comments": 6,
-      "date": "2026-06-03T00:29:07.000Z"
+      "score": 25,
+      "comments": 7,
+      "date": "2026-06-04T00:56:32.000Z"
     },
     {
-      "id": "hn-48377909",
-      "title": "My Students Can't Read",
-      "url": "https://www.chronicle.com/article/my-students-cant-read",
+      "id": "hn-48392082",
+      "title": "The ways we contain Claude across products",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
       "source": "HackerNews",
-      "score": 70,
-      "comments": 70,
-      "date": "2026-06-03T00:03:19.000Z"
-    },
-    {
-      "id": "hn-48377854",
-      "title": "More than 6 out of 10 people turn to AI for psychological support",
-      "url": "https://www.axa.com/en/press/press-releases/2026-mind-health-report",
-      "source": "HackerNews",
-      "score": 40,
-      "comments": 26,
-      "date": "2026-06-02T23:55:04.000Z"
-    },
-    {
-      "id": "hn-48377761",
-      "title": "AI outperforms law professors in Stanford Law study",
-      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "source": "HackerNews",
-      "score": 74,
-      "comments": 71,
-      "date": "2026-06-02T23:43:12.000Z"
-    },
-    {
-      "id": "hn-48377404",
-      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-      "url": "https://github.com/c0dejedi/nbd-vram",
-      "source": "HackerNews",
-      "score": 111,
-      "comments": 34,
-      "date": "2026-06-02T22:55:33.000Z"
-    },
-    {
-      "id": "hn-48377140",
-      "title": "4K years ago, Mohenjo-daro grew more equal over time",
-      "url": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
-      "source": "HackerNews",
-      "score": 45,
-      "comments": 19,
-      "date": "2026-06-02T22:22:34.000Z"
-    },
-    {
-      "id": "hn-48375824",
-      "title": "CT scans of BYD car parts",
-      "url": "https://www.lumafield.com/scan-of-the-month/byd",
-      "source": "HackerNews",
-      "score": 211,
-      "comments": 83,
-      "date": "2026-06-02T20:30:08.000Z"
-    },
-    {
-      "id": "hn-48375393",
-      "title": "My thoughts after using Clojure for about a month",
-      "url": "https://www.acdw.net/clojure/",
-      "source": "HackerNews",
-      "score": 104,
-      "comments": 52,
-      "date": "2026-06-02T19:56:46.000Z"
-    },
-    {
-      "id": "hn-48375016",
-      "title": "Gmail thinks I'm stupid, so I left",
-      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "source": "HackerNews",
-      "score": 608,
-      "comments": 377,
-      "date": "2026-06-02T19:27:40.000Z"
-    },
-    {
-      "id": "hn-48374466",
-      "title": "MAI-Code-1-Flash",
-      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-      "source": "HackerNews",
-      "score": 386,
-      "comments": 177,
-      "date": "2026-06-02T18:47:07.000Z"
+      "score": 31,
+      "comments": 4,
+      "date": "2026-06-04T00:27:52.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Disjunction pruning and other recent improvements to the Swift compiler's type checker",
-      "url": "https://www.reddit.com/r/programming/comments/1tuzzjl/disjunction_pruning_and_other_recent_improvements/",
+      "title": "Streaming Logs to RSigma for Real-Time Detection",
+      "url": "https://www.reddit.com/r/programming/comments/1tw5biz/streaming_logs_to_rsigma_for_realtime_detection/",
       "source": "Reddit",
-      "date": "2026-06-02T18:37:51.000Z"
+      "date": "2026-06-03T22:45:26.000Z"
+    },
+    {
+      "id": "hn-48388324",
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+      "source": "HackerNews",
+      "score": 545,
+      "comments": 203,
+      "date": "2026-06-03T19:02:26.000Z"
+    },
+    {
+      "id": "hn-48387270",
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "source": "HackerNews",
+      "score": 226,
+      "comments": 411,
+      "date": "2026-06-03T17:51:37.000Z"
+    },
+    {
+      "id": "hn-48385906",
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "source": "HackerNews",
+      "score": 682,
+      "comments": 288,
+      "date": "2026-06-03T16:04:42.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Using wavelets and entropy coding to analyze code structure",
-      "url": "https://www.reddit.com/r/programming/comments/1tuxunf/using_wavelets_and_entropy_coding_to_analyze_code/",
+      "title": "Generating OG images in Elixir",
+      "url": "https://www.reddit.com/r/programming/comments/1tvsz1n/generating_og_images_in_elixir/",
       "source": "Reddit",
-      "date": "2026-06-02T17:26:29.000Z"
+      "date": "2026-06-03T15:34:35.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "No Let, No Rec, No Problem: A Gentler Introduction to the Y and Z combinators",
-      "url": "https://www.reddit.com/r/programming/comments/1tuxo4i/no_let_no_rec_no_problem_a_gentler_introduction/",
+      "title": "Every byte matters",
+      "url": "https://www.reddit.com/r/programming/comments/1tvrvv4/every_byte_matters/",
       "source": "Reddit",
-      "date": "2026-06-02T17:20:21.000Z"
+      "date": "2026-06-03T14:57:58.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Modern Python Profiling in 2026: From cProfile to Tachyon",
-      "url": "https://www.reddit.com/r/programming/comments/1tuwjjf/modern_python_profiling_in_2026_from_cprofile_to/",
+      "title": "[Sebastian Lague] - I Tried Optimizing my Rubik's Cube Solver",
+      "url": "https://www.reddit.com/r/programming/comments/1tvrg4k/sebastian_lague_i_tried_optimizing_my_rubiks_cube/",
       "source": "Reddit",
-      "date": "2026-06-02T16:42:21.000Z"
+      "date": "2026-06-03T14:42:39.000Z"
+    },
+    {
+      "id": "hn-48384482",
+      "title": "DaVinci Resolve 21",
+      "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+      "source": "HackerNews",
+      "score": 390,
+      "comments": 185,
+      "date": "2026-06-03T14:18:39.000Z"
+    },
+    {
+      "id": "hn-48384355",
+      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+      "url": "https://burntsushi.net/encephalitis/",
+      "source": "HackerNews",
+      "score": 498,
+      "comments": 148,
+      "date": "2026-06-03T14:10:06.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Deriving Type Erasure",
-      "url": "https://www.reddit.com/r/programming/comments/1tuvqp7/deriving_type_erasure/",
+      "title": "How Fast Can You Parse 1 Billion Rows in Java? – Insane Speed Test • Roy van Rijn",
+      "url": "https://www.reddit.com/r/programming/comments/1tvo6ij/how_fast_can_you_parse_1_billion_rows_in_java/",
       "source": "Reddit",
-      "date": "2026-06-02T16:15:13.000Z"
+      "date": "2026-06-03T12:42:03.000Z"
+    },
+    {
+      "id": "hn-48383056",
+      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "source": "HackerNews",
+      "score": 367,
+      "comments": 469,
+      "date": "2026-06-03T12:25:14.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "the mathematics of multi-tenancy",
-      "url": "https://www.reddit.com/r/programming/comments/1tuus4d/the_mathematics_of_multitenancy/",
+      "title": "NULLs in ClickHouse can hurt performance",
+      "url": "https://www.reddit.com/r/programming/comments/1tvnhbz/nulls_in_clickhouse_can_hurt_performance/",
       "source": "Reddit",
-      "date": "2026-06-02T15:42:41.000Z"
+      "date": "2026-06-03T12:12:32.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Branchless Quicksort faster than std::sort and pdqsort with C and C++ API",
-      "url": "https://www.reddit.com/r/programming/comments/1tupr5n/branchless_quicksort_faster_than_stdsort_and/",
+      "title": "Light Cone Consistency: I'll Take One Scoop Of Each",
+      "url": "https://www.reddit.com/r/programming/comments/1tvncnr/light_cone_consistency_ill_take_one_scoop_of_each/",
       "source": "Reddit",
-      "date": "2026-06-02T12:40:18.000Z"
+      "date": "2026-06-03T12:07:03.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Bug hunt: Why you only need Paris to beat Pizza Tycoon (1994)",
-      "url": "https://www.reddit.com/r/programming/comments/1tumfhb/bug_hunt_why_you_only_need_paris_to_beat_pizza/",
+      "title": "How Rockstar fit an entire city into PlayStation 2 memory",
+      "url": "https://www.reddit.com/r/programming/comments/1tvmk4y/how_rockstar_fit_an_entire_city_into_playstation/",
       "source": "Reddit",
-      "date": "2026-06-02T10:05:28.000Z"
+      "date": "2026-06-03T11:31:19.000Z"
+    },
+    {
+      "id": "hn-48382310",
+      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+      "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+      "source": "HackerNews",
+      "score": 647,
+      "comments": 104,
+      "date": "2026-06-03T10:53:00.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Programming as Theory Building, Naur (1985). PDF-link",
-      "url": "https://www.reddit.com/r/programming/comments/1tuha5f/programming_as_theory_building_naur_1985_pdflink/",
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "url": "https://www.reddit.com/r/programming/comments/1tvftne/1click_github_token_stealing_via_a_vscode_bug/",
       "source": "Reddit",
-      "date": "2026-06-02T05:20:12.000Z"
+      "date": "2026-06-03T05:26:28.000Z"
+    },
+    {
+      "id": "hn-48362255",
+      "title": "Meteor Explodes over Massachusetts",
+      "url": "https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/",
+      "source": "HackerNews",
+      "score": 48,
+      "comments": 16,
+      "date": "2026-06-01T20:31:24.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
