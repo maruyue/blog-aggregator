@@ -1,162 +1,206 @@
 {
-  "updatedAt": "2026-06-05T00:12:11.001Z",
+  "updatedAt": "2026-06-06T00:09:32.802Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "ProductWhat to look for when selecting a real-time analytical database    Most databases can query fast. Far fewer can query data that arrived seconds ago. Learn what real-time analytics really requires.Melvyn PeignonJun 4, 2026 · 13 minutes read",
-      "url": "https://clickhouse.com/blog/selecting-a-real-time-analytical-database",
+      "title": "ProductMonitor SLAs and scale ClickHouse Cloud with clickhousectl and agentsTag queries to track per-workload SLAs, then use clickhousectl to investigate breaches and scale ClickHouse Cloud, with an agent to remediate.Al BrownJun 5, 2026 · 9 minutes read",
+      "url": "https://clickhouse.com/blog/monitor-and-scale-clickhouse-cloud-with-clickhousectl",
       "source": "ClickHouse",
-      "date": "2026-06-05T00:12:11.001Z"
+      "date": "2026-06-06T00:09:32.802Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Click-a-thon 2026: 24 hours, Bengaluru, and the fastest analytical database on the planet",
       "url": "https://clickhouse.com/blog/click-a-thon-2026",
       "source": "ClickHouse",
-      "date": "2026-06-05T00:12:11.001Z"
+      "date": "2026-06-06T00:09:32.802Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What to look for when selecting a real-time analytical database",
+      "url": "https://clickhouse.com/blog/selecting-a-real-time-analytical-database",
+      "source": "ClickHouse",
+      "date": "2026-06-06T00:09:32.802Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How ClickHouse became fast at joins",
       "url": "https://clickhouse.com/blog/clickhouse-fast-joins",
       "source": "ClickHouse",
-      "date": "2026-06-05T00:12:11.001Z"
+      "date": "2026-06-06T00:09:32.802Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Logging, Metrics, and Distributed Tracing in .NET with OpenTelemetry and ClickStack",
       "url": "https://clickhouse.com/blog/logging-metrics-distributed-tracing-dotnet-otel-clickstack",
       "source": "ClickHouse",
-      "date": "2026-06-05T00:12:11.001Z"
+      "date": "2026-06-06T00:09:32.802Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Building a .NET API Gateway with ClickHouse and Aspire",
       "url": "https://clickhouse.com/blog/dotnet-api-gateway-aspire",
       "source": "ClickHouse",
-      "date": "2026-06-05T00:12:11.001Z"
+      "date": "2026-06-06T00:09:32.802Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "TPC-H for less than a cent: ClickHouse Cloud vs. Snowflake, Databricks, BigQuery, and Redshift",
       "url": "https://clickhouse.com/blog/tpc-h-clickhouse-cloud-vs-snowflake-databricks-bigquery-redshift",
       "source": "ClickHouse",
-      "date": "2026-06-05T00:12:11.001Z"
+      "date": "2026-06-06T00:09:32.802Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.5",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-05",
       "source": "ClickHouse",
-      "date": "2026-06-05T00:12:11.001Z"
+      "date": "2026-06-06T00:09:32.802Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Executable UDFs are now in public beta on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/executable-udfs-clickhouse-cloud-beta",
       "source": "ClickHouse",
-      "date": "2026-06-05T00:12:11.001Z"
+      "date": "2026-06-06T00:09:32.802Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Open House 2026 Day 2: 10 years of open source and what the ecosystem is building next",
       "url": "https://clickhouse.com/blog/open-house-2026-day-2",
       "source": "ClickHouse",
-      "date": "2026-06-05T00:12:11.001Z"
+      "date": "2026-06-06T00:09:32.802Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Open House 2026 Day 1: Real-time data without lock-in and what teams can build next",
-      "url": "https://clickhouse.com/blog/open-house-2026-day-1",
-      "source": "ClickHouse",
-      "date": "2026-06-05T00:12:11.001Z"
-    },
-    {
-      "id": "hn-48405931",
-      "title": "Do transformers need three projections? Systematic study of QKV variants",
-      "url": "https://arxiv.org/abs/2606.04032",
+      "id": "hn-48419023",
+      "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
+      "url": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
       "source": "HackerNews",
-      "score": 51,
-      "comments": 5,
-      "date": "2026-06-04T23:11:56.000Z"
+      "score": 59,
+      "comments": 49,
+      "date": "2026-06-05T22:12:58.000Z"
     },
     {
-      "id": "hn-48405019",
-      "title": "IPv6 zones in URLs are a mistake",
-      "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+      "id": "hn-48416635",
+      "title": "Transformers Are Inherently Succinct",
+      "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
       "source": "HackerNews",
-      "score": 62,
-      "comments": 48,
-      "date": "2026-06-04T21:42:34.000Z"
+      "score": 77,
+      "comments": 28,
+      "date": "2026-06-05T18:50:26.000Z"
     },
     {
-      "id": "hn-48404905",
-      "title": "Queen bees emerge from special wax chambers",
-      "url": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
+      "id": "hn-48415217",
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
       "source": "HackerNews",
-      "score": 29,
-      "comments": 0,
-      "date": "2026-06-04T21:31:31.000Z"
+      "score": 312,
+      "comments": 105,
+      "date": "2026-06-05T16:55:30.000Z"
     },
     {
-      "id": "hn-48404224",
-      "title": "Show HN: FFmpeg WebCLI – Full FFmpeg in Browser, Offline PWA, No Uploads(WASM)",
-      "url": "https://github.com/tejaswigowda/ffmpeg-webCLI",
+      "id": "hn-48414653",
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
       "source": "HackerNews",
-      "score": 64,
-      "comments": 22,
-      "date": "2026-06-04T20:32:18.000Z"
+      "score": 236,
+      "comments": 79,
+      "date": "2026-06-05T16:18:48.000Z"
     },
     {
-      "id": "hn-48403980",
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "id": "hn-48414367",
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
       "source": "HackerNews",
-      "score": 224,
-      "comments": 74,
-      "date": "2026-06-04T20:11:20.000Z"
+      "score": 285,
+      "comments": 72,
+      "date": "2026-06-05T15:59:57.000Z"
+    },
+    {
+      "id": "hn-48413500",
+      "title": "New method turns ocean water into drinking water, without waste",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "source": "HackerNews",
+      "score": 217,
+      "comments": 102,
+      "date": "2026-06-05T15:04:03.000Z"
+    },
+    {
+      "id": "hn-48413464",
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "source": "HackerNews",
+      "score": 345,
+      "comments": 219,
+      "date": "2026-06-05T15:00:31.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Jo's two-world architecture to solve the fine-grained sandboxing problem at compile-time",
-      "url": "https://www.reddit.com/r/programming/comments/1twuda3/jos_twoworld_architecture_to_solve_the/",
+      "title": "Configuration flags are where software goes to rot",
+      "url": "https://www.reddit.com/r/programming/comments/1txlq6l/configuration_flags_are_where_software_goes_to_rot/",
       "source": "Reddit",
-      "date": "2026-06-04T17:25:38.000Z"
+      "date": "2026-06-05T13:57:30.000Z"
     },
     {
-      "id": "hn-48400842",
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "id": "hn-48411635",
+      "title": "Did Claude increase bugs in rsync?",
+      "url": "https://alexispurslane.github.io/rsync-analysis/",
       "source": "HackerNews",
-      "score": 293,
-      "comments": 380,
-      "date": "2026-06-04T16:20:17.000Z"
-    },
-    {
-      "id": "hn-48400588",
-      "title": "Retro-Tech Parenting",
-      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
-      "source": "HackerNews",
-      "score": 230,
-      "comments": 159,
-      "date": "2026-06-04T16:02:35.000Z"
+      "score": 271,
+      "comments": 260,
+      "date": "2026-06-05T12:43:33.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Stealing from Biologists to Compile Haskell Faster",
-      "url": "https://www.reddit.com/r/programming/comments/1twnahx/stealing_from_biologists_to_compile_haskell_faster/",
+      "title": "JPEG compression deep dive",
+      "url": "https://www.reddit.com/r/programming/comments/1txhxly/jpeg_compression_deep_dive/",
       "source": "Reddit",
-      "date": "2026-06-04T13:12:30.000Z"
+      "date": "2026-06-05T11:14:26.000Z"
     },
     {
-      "id": "hn-48398055",
-      "title": "VoidZero Is Joining Cloudflare",
-      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Doom on ONNX",
+      "url": "https://www.reddit.com/r/programming/comments/1txhaww/doom_on_onnx/",
+      "source": "Reddit",
+      "date": "2026-06-05T10:42:52.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Using local ClickHouse for data processing",
+      "url": "https://www.reddit.com/r/programming/comments/1txh6as/using_local_clickhouse_for_data_processing/",
+      "source": "Reddit",
+      "date": "2026-06-05T10:36:01.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "You Don't Love systemd Timers Enough",
+      "url": "https://www.reddit.com/r/programming/comments/1txf7qk/you_dont_love_systemd_timers_enough/",
+      "source": "Reddit",
+      "date": "2026-06-05T08:47:26.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "My Software North Star",
+      "url": "https://www.reddit.com/r/programming/comments/1txelfr/my_software_north_star/",
+      "source": "Reddit",
+      "date": "2026-06-05T08:10:27.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "A faster bump allocator for rust",
+      "url": "https://www.reddit.com/r/programming/comments/1txe9b5/a_faster_bump_allocator_for_rust/",
+      "source": "Reddit",
+      "date": "2026-06-05T07:50:21.000Z"
+    },
+    {
+      "id": "hn-48398925",
+      "title": "My Agent Skill for Test-Driven Development",
+      "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
       "source": "HackerNews",
-      "score": 550,
-      "comments": 246,
-      "date": "2026-06-04T13:00:51.000Z"
+      "score": 116,
+      "comments": 43,
+      "date": "2026-06-04T14:10:40.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -167,63 +211,19 @@
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Scala Was an Experiment That Changed Programming - Martin Odersky | The Marco Show",
-      "url": "https://www.reddit.com/r/programming/comments/1twl8ip/scala_was_an_experiment_that_changed_programming/",
-      "source": "Reddit",
-      "date": "2026-06-04T11:46:16.000Z"
-    },
-    {
-      "id": "hn-48397028",
-      "title": "Ian's Secure Shoelace Knot",
-      "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-      "source": "HackerNews",
-      "score": 483,
-      "comments": 185,
-      "date": "2026-06-04T11:17:34.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The Schema Proliferation Problem in Kafka and Flink Pipelines: How to Solve It",
-      "url": "https://www.reddit.com/r/programming/comments/1twizqa/the_schema_proliferation_problem_in_kafka_and/",
-      "source": "Reddit",
-      "date": "2026-06-04T09:53:42.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Pandas as a reason to learn Python, even if you’re not doing data science",
-      "url": "https://www.reddit.com/r/programming/comments/1twhl2t/pandas_as_a_reason_to_learn_python_even_if_youre/",
-      "source": "Reddit",
-      "date": "2026-06-04T08:33:38.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
       "title": "Elixir v1.20 released: now a gradually typed language",
       "url": "https://www.reddit.com/r/programming/comments/1twg7mu/elixir_v120_released_now_a_gradually_typed/",
       "source": "Reddit",
       "date": "2026-06-04T07:14:11.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "A tale about fixing eBPF spinlock issues in the Linux kernel",
-      "url": "https://www.reddit.com/r/programming/comments/1tw9pl9/a_tale_about_fixing_ebpf_spinlock_issues_in_the/",
-      "source": "Reddit",
-      "date": "2026-06-04T01:51:56.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Every byte matters",
-      "url": "https://www.reddit.com/r/programming/comments/1tvrvv4/every_byte_matters/",
-      "source": "Reddit",
-      "date": "2026-06-03T14:57:58.000Z"
-    },
-    {
-      "id": "hn-48375445",
-      "title": "Branchless Quicksort faster than std:sort and pdqsort with C and C++ API",
-      "url": "https://tiki.li/blog/blqsort",
+      "id": "hn-48383667",
+      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+      "url": "https://mouseless.click",
       "source": "HackerNews",
-      "score": 57,
-      "comments": 7,
-      "date": "2026-06-02T20:00:54.000Z"
+      "score": 431,
+      "comments": 179,
+      "date": "2026-06-03T13:22:06.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
