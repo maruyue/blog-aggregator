@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T00:09:32.802Z",
+  "updatedAt": "2026-06-07T00:07:26.026Z",
   "total": 30,
   "articles": [
     {
@@ -7,133 +7,181 @@
       "title": "ProductMonitor SLAs and scale ClickHouse Cloud with clickhousectl and agentsTag queries to track per-workload SLAs, then use clickhousectl to investigate breaches and scale ClickHouse Cloud, with an agent to remediate.Al BrownJun 5, 2026 · 9 minutes read",
       "url": "https://clickhouse.com/blog/monitor-and-scale-clickhouse-cloud-with-clickhousectl",
       "source": "ClickHouse",
-      "date": "2026-06-06T00:09:32.802Z"
+      "date": "2026-06-07T00:07:26.026Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Click-a-thon 2026: 24 hours, Bengaluru, and the fastest analytical database on the planet",
       "url": "https://clickhouse.com/blog/click-a-thon-2026",
       "source": "ClickHouse",
-      "date": "2026-06-06T00:09:32.802Z"
+      "date": "2026-06-07T00:07:26.026Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What to look for when selecting a real-time analytical database",
       "url": "https://clickhouse.com/blog/selecting-a-real-time-analytical-database",
       "source": "ClickHouse",
-      "date": "2026-06-06T00:09:32.802Z"
+      "date": "2026-06-07T00:07:26.026Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How ClickHouse became fast at joins",
       "url": "https://clickhouse.com/blog/clickhouse-fast-joins",
       "source": "ClickHouse",
-      "date": "2026-06-06T00:09:32.802Z"
+      "date": "2026-06-07T00:07:26.026Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Logging, Metrics, and Distributed Tracing in .NET with OpenTelemetry and ClickStack",
       "url": "https://clickhouse.com/blog/logging-metrics-distributed-tracing-dotnet-otel-clickstack",
       "source": "ClickHouse",
-      "date": "2026-06-06T00:09:32.802Z"
+      "date": "2026-06-07T00:07:26.026Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Building a .NET API Gateway with ClickHouse and Aspire",
       "url": "https://clickhouse.com/blog/dotnet-api-gateway-aspire",
       "source": "ClickHouse",
-      "date": "2026-06-06T00:09:32.802Z"
+      "date": "2026-06-07T00:07:26.026Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "TPC-H for less than a cent: ClickHouse Cloud vs. Snowflake, Databricks, BigQuery, and Redshift",
       "url": "https://clickhouse.com/blog/tpc-h-clickhouse-cloud-vs-snowflake-databricks-bigquery-redshift",
       "source": "ClickHouse",
-      "date": "2026-06-06T00:09:32.802Z"
+      "date": "2026-06-07T00:07:26.026Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.5",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-05",
       "source": "ClickHouse",
-      "date": "2026-06-06T00:09:32.802Z"
+      "date": "2026-06-07T00:07:26.026Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Executable UDFs are now in public beta on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/executable-udfs-clickhouse-cloud-beta",
       "source": "ClickHouse",
-      "date": "2026-06-06T00:09:32.802Z"
+      "date": "2026-06-07T00:07:26.026Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Open House 2026 Day 2: 10 years of open source and what the ecosystem is building next",
       "url": "https://clickhouse.com/blog/open-house-2026-day-2",
       "source": "ClickHouse",
-      "date": "2026-06-06T00:09:32.802Z"
+      "date": "2026-06-07T00:07:26.026Z"
     },
     {
-      "id": "hn-48419023",
-      "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
-      "url": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
+      "id": "hn-48430212",
+      "title": "DoD Officially Drops 180 Faiths from Military's Recognized Religion List",
+      "url": "https://www.military.com/dod-officially-drops-180-faiths-from-militarys-recognized-religion-list",
       "source": "HackerNews",
-      "score": 59,
-      "comments": 49,
-      "date": "2026-06-05T22:12:58.000Z"
+      "score": 20,
+      "comments": 7,
+      "date": "2026-06-06T23:37:20.000Z"
     },
     {
-      "id": "hn-48416635",
-      "title": "Transformers Are Inherently Succinct",
-      "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+      "id": "hn-48428763",
+      "title": "New U.S. college grads now have higher unemployment than the average worker",
+      "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
       "source": "HackerNews",
-      "score": 77,
-      "comments": 28,
-      "date": "2026-06-05T18:50:26.000Z"
+      "score": 123,
+      "comments": 107,
+      "date": "2026-06-06T20:35:40.000Z"
     },
     {
-      "id": "hn-48415217",
-      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
-      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
+      "id": "hn-48428647",
+      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
+      "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
       "source": "HackerNews",
-      "score": 312,
-      "comments": 105,
-      "date": "2026-06-05T16:55:30.000Z"
+      "score": 20,
+      "comments": 21,
+      "date": "2026-06-06T20:24:29.000Z"
     },
     {
-      "id": "hn-48414653",
-      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+      "id": "hn-48428475",
+      "title": "Sem: New primitive for code understanding – not LSPs, but entities on top of Git",
+      "url": "https://ataraxy-labs.github.io/sem/",
       "source": "HackerNews",
-      "score": 236,
-      "comments": 79,
-      "date": "2026-06-05T16:18:48.000Z"
+      "score": 34,
+      "comments": 17,
+      "date": "2026-06-06T20:03:55.000Z"
     },
     {
-      "id": "hn-48414367",
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "url": "https://github.com/microsoft/pg_durable",
+      "id": "hn-48428025",
+      "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+      "url": "https://ntsc.rs/",
       "source": "HackerNews",
-      "score": 285,
-      "comments": 72,
-      "date": "2026-06-05T15:59:57.000Z"
+      "score": 231,
+      "comments": 51,
+      "date": "2026-06-06T19:17:46.000Z"
     },
     {
-      "id": "hn-48413500",
-      "title": "New method turns ocean water into drinking water, without waste",
-      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+      "id": "hn-48427643",
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
       "source": "HackerNews",
-      "score": 217,
-      "comments": 102,
-      "date": "2026-06-05T15:04:03.000Z"
+      "score": 352,
+      "comments": 128,
+      "date": "2026-06-06T18:35:27.000Z"
     },
     {
-      "id": "hn-48413464",
-      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "id": "hn-48426202",
+      "title": "You Can Run",
+      "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
       "source": "HackerNews",
-      "score": 345,
-      "comments": 219,
-      "date": "2026-06-05T15:00:31.000Z"
+      "score": 91,
+      "comments": 43,
+      "date": "2026-06-06T15:55:46.000Z"
+    },
+    {
+      "id": "hn-48425723",
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "url": "https://su3.io/posts/introducing-zeroserve",
+      "source": "HackerNews",
+      "score": 180,
+      "comments": 45,
+      "date": "2026-06-06T14:59:43.000Z"
+    },
+    {
+      "id": "hn-48425528",
+      "title": "Moving beyond fork() + exec()",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "source": "HackerNews",
+      "score": 226,
+      "comments": 247,
+      "date": "2026-06-06T14:34:20.000Z"
+    },
+    {
+      "id": "hn-48424605",
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "url": "https://twitter.com/lemire/status/2062880075117113739",
+      "source": "HackerNews",
+      "score": 219,
+      "comments": 409,
+      "date": "2026-06-06T12:52:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Stop Using Conventional Commits",
+      "url": "https://www.reddit.com/r/programming/comments/1tydqbt/stop_using_conventional_commits/",
+      "source": "Reddit",
+      "date": "2026-06-06T10:32:53.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The cover of C++: The Programming Language raises questions not answered by the cover",
+      "url": "https://www.reddit.com/r/programming/comments/1tybuv7/the_cover_of_c_the_programming_language_raises/",
+      "source": "Reddit",
+      "date": "2026-06-06T08:41:41.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The perils of UUID primary keys in SQLite",
+      "url": "https://www.reddit.com/r/programming/comments/1tyalr6/the_perils_of_uuid_primary_keys_in_sqlite/",
+      "source": "Reddit",
+      "date": "2026-06-06T07:27:40.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -143,27 +191,11 @@
       "date": "2026-06-05T13:57:30.000Z"
     },
     {
-      "id": "hn-48411635",
-      "title": "Did Claude increase bugs in rsync?",
-      "url": "https://alexispurslane.github.io/rsync-analysis/",
-      "source": "HackerNews",
-      "score": 271,
-      "comments": 260,
-      "date": "2026-06-05T12:43:33.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "JPEG compression deep dive",
       "url": "https://www.reddit.com/r/programming/comments/1txhxly/jpeg_compression_deep_dive/",
       "source": "Reddit",
       "date": "2026-06-05T11:14:26.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Doom on ONNX",
-      "url": "https://www.reddit.com/r/programming/comments/1txhaww/doom_on_onnx/",
-      "source": "Reddit",
-      "date": "2026-06-05T10:42:52.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -192,38 +224,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1txe9b5/a_faster_bump_allocator_for_rust/",
       "source": "Reddit",
       "date": "2026-06-05T07:50:21.000Z"
-    },
-    {
-      "id": "hn-48398925",
-      "title": "My Agent Skill for Test-Driven Development",
-      "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
-      "source": "HackerNews",
-      "score": 116,
-      "comments": 43,
-      "date": "2026-06-04T14:10:40.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Single responsibility, the distorted principle",
-      "url": "https://www.reddit.com/r/programming/comments/1twlx1p/single_responsibility_the_distorted_principle/",
-      "source": "Reddit",
-      "date": "2026-06-04T12:16:07.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Elixir v1.20 released: now a gradually typed language",
-      "url": "https://www.reddit.com/r/programming/comments/1twg7mu/elixir_v120_released_now_a_gradually_typed/",
-      "source": "Reddit",
-      "date": "2026-06-04T07:14:11.000Z"
-    },
-    {
-      "id": "hn-48383667",
-      "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
-      "url": "https://mouseless.click",
-      "source": "HackerNews",
-      "score": 431,
-      "comments": 179,
-      "date": "2026-06-03T13:22:06.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
