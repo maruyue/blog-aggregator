@@ -1,229 +1,229 @@
 {
-  "updatedAt": "2026-06-08T00:11:44.382Z",
+  "updatedAt": "2026-06-09T00:08:54.800Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "ProductMonitor SLAs and scale ClickHouse Cloud with clickhousectl and agentsTag queries to track per-workload SLAs, then use clickhousectl to investigate breaches and scale ClickHouse Cloud, with an agent to remediate.Al BrownJun 5, 2026 · 9 minutes read",
+      "title": "Company and cultureClickHouse appoints new leader for Asia Pacific and expands global go-to-market leadership teamClickHouse, a leader in real-time analytics, data warehousing, observability, and AI/ML, today announced an expansion of its global go-to-market (GTM) leadership team, including the appointment of Ed Lenta as Vice President, Asia Pacific and Japan (APJ).ClickHouseJun 8, 2026 · 5 minutes read",
+      "url": "https://clickhouse.com/blog/clickhouse-appoints-apac-leader-and-expands-global-gtm-leadership",
+      "source": "ClickHouse",
+      "date": "2026-06-09T00:08:54.799Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Monitor SLAs and scale ClickHouse Cloud with clickhousectl and agents",
       "url": "https://clickhouse.com/blog/monitor-and-scale-clickhouse-cloud-with-clickhousectl",
       "source": "ClickHouse",
-      "date": "2026-06-08T00:11:44.382Z"
+      "date": "2026-06-09T00:08:54.799Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Click-a-thon 2026: 24 hours, Bengaluru, and the fastest analytical database on the planet",
       "url": "https://clickhouse.com/blog/click-a-thon-2026",
       "source": "ClickHouse",
-      "date": "2026-06-08T00:11:44.382Z"
+      "date": "2026-06-09T00:08:54.799Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What to look for when selecting a real-time analytical database",
       "url": "https://clickhouse.com/blog/selecting-a-real-time-analytical-database",
       "source": "ClickHouse",
-      "date": "2026-06-08T00:11:44.382Z"
+      "date": "2026-06-09T00:08:54.799Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How ClickHouse became fast at joins",
       "url": "https://clickhouse.com/blog/clickhouse-fast-joins",
       "source": "ClickHouse",
-      "date": "2026-06-08T00:11:44.382Z"
+      "date": "2026-06-09T00:08:54.799Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Logging, Metrics, and Distributed Tracing in .NET with OpenTelemetry and ClickStack",
       "url": "https://clickhouse.com/blog/logging-metrics-distributed-tracing-dotnet-otel-clickstack",
       "source": "ClickHouse",
-      "date": "2026-06-08T00:11:44.382Z"
+      "date": "2026-06-09T00:08:54.799Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Building a .NET API Gateway with ClickHouse and Aspire",
       "url": "https://clickhouse.com/blog/dotnet-api-gateway-aspire",
       "source": "ClickHouse",
-      "date": "2026-06-08T00:11:44.382Z"
+      "date": "2026-06-09T00:08:54.799Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "TPC-H for less than a cent: ClickHouse Cloud vs. Snowflake, Databricks, BigQuery, and Redshift",
       "url": "https://clickhouse.com/blog/tpc-h-clickhouse-cloud-vs-snowflake-databricks-bigquery-redshift",
       "source": "ClickHouse",
-      "date": "2026-06-08T00:11:44.382Z"
+      "date": "2026-06-09T00:08:54.799Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.5",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-05",
       "source": "ClickHouse",
-      "date": "2026-06-08T00:11:44.382Z"
+      "date": "2026-06-09T00:08:54.799Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Executable UDFs are now in public beta on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/executable-udfs-clickhouse-cloud-beta",
       "source": "ClickHouse",
-      "date": "2026-06-08T00:11:44.382Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Open House 2026 Day 2: 10 years of open source and what the ecosystem is building next",
-      "url": "https://clickhouse.com/blog/open-house-2026-day-2",
-      "source": "ClickHouse",
-      "date": "2026-06-08T00:11:44.382Z"
+      "date": "2026-06-09T00:08:54.799Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "I’m building a sneaker marketplace dropping July 4th — first 10 vendors get free shipping, free seller account, and free admission to the launch party. Waitlist is open.",
-      "url": "https://www.reddit.com/r/programming/comments/1tzs62m/im_building_a_sneaker_marketplace_dropping_july/",
+      "title": "Building a Detection Layer on PostgreSQL with Sigma Rules",
+      "url": "https://www.reddit.com/r/programming/comments/1u0m4sm/building_a_detection_layer_on_postgresql_with/",
       "source": "Reddit",
-      "date": "2026-06-08T00:01:48.000Z"
+      "date": "2026-06-08T21:56:28.000Z"
     },
     {
-      "id": "hn-48437609",
-      "title": "How's Linear so fast? A technical breakdown",
-      "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+      "id": "hn-48452317",
+      "title": "OpenAI Submits S-1 Draft to SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1/",
       "source": "HackerNews",
-      "score": 262,
-      "comments": 135,
-      "date": "2026-06-07T19:01:37.000Z"
+      "score": 228,
+      "comments": 140,
+      "date": "2026-06-08T21:22:43.000Z"
     },
     {
-      "id": "hn-48437568",
-      "title": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
-      "url": "https://arxiv.org/abs/2605.31514",
+      "id": "hn-48450646",
+      "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
+      "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
       "source": "HackerNews",
-      "score": 92,
-      "comments": 83,
-      "date": "2026-06-07T18:54:55.000Z"
+      "score": 335,
+      "comments": 103,
+      "date": "2026-06-08T19:42:28.000Z"
     },
     {
-      "id": "hn-48437406",
-      "title": "Building from zero after addiction, prison, and a felony",
-      "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
+      "id": "hn-48449665",
+      "title": "Apple Core AI Framework",
+      "url": "https://developer.apple.com/documentation/coreai/",
       "source": "HackerNews",
-      "score": 315,
-      "comments": 151,
-      "date": "2026-06-07T18:33:07.000Z"
+      "score": 157,
+      "comments": 24,
+      "date": "2026-06-08T18:47:38.000Z"
     },
     {
-      "id": "hn-48437305",
-      "title": "My automated doubt development process",
-      "url": "https://www.alexself.dev/blog/automated-doubt",
+      "id": "hn-48449084",
+      "title": "Siri AI",
+      "url": "https://www.apple.com/apple-intelligence/",
       "source": "HackerNews",
-      "score": 50,
-      "comments": 17,
-      "date": "2026-06-07T18:17:40.000Z"
-    },
-    {
-      "id": "hn-48437290",
-      "title": "Making peace with your unlived dreams (2023)",
-      "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
-      "source": "HackerNews",
-      "score": 122,
-      "comments": 54,
-      "date": "2026-06-07T18:15:47.000Z"
-    },
-    {
-      "id": "hn-48436819",
-      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
-      "url": "https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html",
-      "source": "HackerNews",
-      "score": 68,
-      "comments": 19,
-      "date": "2026-06-07T17:18:12.000Z"
+      "score": 359,
+      "comments": 298,
+      "date": "2026-06-08T18:17:53.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Getting silly with C, part &((int*)-8)[3]",
-      "url": "https://www.reddit.com/r/programming/comments/1tzfefn/getting_silly_with_c_part_int83/",
+      "title": "Making numpy-ts as fast as native",
+      "url": "https://www.reddit.com/r/programming/comments/1u0epy6/making_numpyts_as_fast_as_native/",
       "source": "Reddit",
-      "date": "2026-06-07T15:38:07.000Z"
+      "date": "2026-06-08T17:32:41.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "#JavaNext Language Features",
-      "url": "https://www.reddit.com/r/programming/comments/1tzeb9a/javanext_language_features/",
+      "title": "You can fork a package, but can you own it?",
+      "url": "https://www.reddit.com/r/programming/comments/1u0epow/you_can_fork_a_package_but_can_you_own_it/",
       "source": "Reddit",
-      "date": "2026-06-07T14:55:55.000Z"
+      "date": "2026-06-08T17:32:25.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "To my students",
-      "url": "https://www.reddit.com/r/programming/comments/1tzaugj/to_my_students/",
-      "source": "Reddit",
-      "date": "2026-06-07T12:29:22.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Reverse engineering the Creative Katana V2X soundbar to be able to control it from Linux",
-      "url": "https://www.reddit.com/r/programming/comments/1tz9cp7/reverse_engineering_the_creative_katana_v2x/",
-      "source": "Reddit",
-      "date": "2026-06-07T11:13:31.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Stop Using Conventional Commits",
-      "url": "https://www.reddit.com/r/programming/comments/1tydqbt/stop_using_conventional_commits/",
-      "source": "Reddit",
-      "date": "2026-06-06T10:32:53.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The cover of C++: The Programming Language raises questions not answered by the cover",
-      "url": "https://www.reddit.com/r/programming/comments/1tybuv7/the_cover_of_c_the_programming_language_raises/",
-      "source": "Reddit",
-      "date": "2026-06-06T08:41:41.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The perils of UUID primary keys in SQLite",
-      "url": "https://www.reddit.com/r/programming/comments/1tyalr6/the_perils_of_uuid_primary_keys_in_sqlite/",
-      "source": "Reddit",
-      "date": "2026-06-06T07:27:40.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Configuration flags are where software goes to rot",
-      "url": "https://www.reddit.com/r/programming/comments/1txlq6l/configuration_flags_are_where_software_goes_to_rot/",
-      "source": "Reddit",
-      "date": "2026-06-05T13:57:30.000Z"
-    },
-    {
-      "id": "hn-48409474",
-      "title": "What is the purpose of the lost+found folder in Linux and Unix? (2014)",
-      "url": "https://unix.stackexchange.com/questions/18154/what-is-the-purpose-of-the-lostfound-folder-in-linux-and-unix",
+      "id": "hn-48447806",
+      "title": "Show HN: Gitdot – a better GitHub. Open-source, written in Rust",
+      "url": "https://gitdot.io/",
       "source": "HackerNews",
-      "score": 122,
-      "comments": 48,
-      "date": "2026-06-05T08:08:33.000Z"
+      "score": 115,
+      "comments": 110,
+      "date": "2026-06-08T16:52:11.000Z"
     },
     {
-      "id": "hn-48408854",
-      "title": "Show HN: I Derived a Pancake",
-      "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+      "id": "hn-48447062",
+      "title": "EU-banned pesticides found in rice, tea and spices",
+      "url": "https://www.foodwatch.org/en/eu-banned-pesticides-found-in-rice-tea-and-spices",
       "source": "HackerNews",
-      "score": 79,
-      "comments": 27,
-      "date": "2026-06-05T06:42:42.000Z"
+      "score": 211,
+      "comments": 80,
+      "date": "2026-06-08T15:59:04.000Z"
     },
     {
-      "id": "hn-48384525",
-      "title": "Do we fear the serializable isolation level more than we fear subtle bugs (2024)",
-      "url": "https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609",
+      "id": "hn-48446639",
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
       "source": "HackerNews",
-      "score": 39,
-      "comments": 18,
-      "date": "2026-06-03T14:21:19.000Z"
+      "score": 476,
+      "comments": 326,
+      "date": "2026-06-08T15:27:33.000Z"
     },
     {
-      "id": "hn-48369703",
-      "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned",
-      "url": "https://www.tohoku.ac.jp/japanese/2026/05/press20260512-02-DMR.html",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Why Compiler Engineers Rarely Use Strassen's Algorithm for Fast Matrix Multiplications",
+      "url": "https://www.reddit.com/r/programming/comments/1u09rah/why_compiler_engineers_rarely_use_strassens/",
+      "source": "Reddit",
+      "date": "2026-06-08T14:36:19.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Lies We Tell Ourselves About Email Addresses",
+      "url": "https://www.reddit.com/r/programming/comments/1u098uy/lies_we_tell_ourselves_about_email_addresses/",
+      "source": "Reddit",
+      "date": "2026-06-08T14:17:00.000Z"
+    },
+    {
+      "id": "hn-48445554",
+      "title": "Show HN: Performative-UI – A react component library of design tropes",
+      "url": "https://vorpus.github.io/performativeUI/",
       "source": "HackerNews",
-      "score": 21,
-      "comments": 13,
-      "date": "2026-06-02T13:01:48.000Z"
+      "score": 730,
+      "comments": 147,
+      "date": "2026-06-08T14:05:16.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks",
+      "url": "https://www.reddit.com/r/programming/comments/1u089ai/vs_code_adds_2hour_extension_autoupdate_delay_to/",
+      "source": "Reddit",
+      "date": "2026-06-08T13:40:51.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "In Defense of YAML :: Posit Open Source",
+      "url": "https://www.reddit.com/r/programming/comments/1u072zj/in_defense_of_yaml_posit_open_source/",
+      "source": "Reddit",
+      "date": "2026-06-08T12:55:15.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Hot path optimization. When float division beats integer division",
+      "url": "https://www.reddit.com/r/programming/comments/1u06itn/hot_path_optimization_when_float_division_beats/",
+      "source": "Reddit",
+      "date": "2026-06-08T12:30:52.000Z"
+    },
+    {
+      "id": "hn-48444228",
+      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+      "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
+      "source": "HackerNews",
+      "score": 526,
+      "comments": 394,
+      "date": "2026-06-08T11:58:02.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Native Elm (the real kind this time) · cekrem.github.io",
+      "url": "https://www.reddit.com/r/programming/comments/1u04bdc/native_elm_the_real_kind_this_time_cekremgithubio/",
+      "source": "Reddit",
+      "date": "2026-06-08T10:45:32.000Z"
+    },
+    {
+      "id": "hn-48413655",
+      "title": "Looking Forward to Postgres 19: Query Hints",
+      "url": "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints",
+      "source": "HackerNews",
+      "score": 26,
+      "comments": 3,
+      "date": "2026-06-05T15:15:35.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
