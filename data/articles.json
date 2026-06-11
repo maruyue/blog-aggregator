@@ -1,146 +1,178 @@
 {
-  "updatedAt": "2026-06-10T00:17:40.896Z",
+  "updatedAt": "2026-06-11T00:18:49.354Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "ProductClickHouse Agents: Claude-powered agentic analytics, now in public betatextRyadh DahimeneJun 9, 2026 · 11 minutes read",
+      "title": "ProductDatadog and ClickHouse partner to bring full-fidelity data to modern observability    ClickHouse and Datadog are partnering to combine full-fidelity log retention at scale with the powerful search and investigation experience engineers rely on every day.ClickHouseJun 10, 2026 · 5 minutes read",
+      "url": "https://clickhouse.com/blog/datadog-and-clickhouse-partnership",
+      "source": "ClickHouse",
+      "date": "2026-06-11T00:18:49.354Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Agents can now provision ClickHouse and Postgres on ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/stripe-projects",
+      "source": "ClickHouse",
+      "date": "2026-06-11T00:18:49.354Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse Agents: Claude-powered agentic analytics, now in public beta",
       "url": "https://clickhouse.com/blog/clickhouse-agents-beta",
       "source": "ClickHouse",
-      "date": "2026-06-10T00:17:40.895Z"
+      "date": "2026-06-11T00:18:49.354Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How QRT powers real-time research and risk management at petabyte scale",
       "url": "https://clickhouse.com/blog/qrt",
       "source": "ClickHouse",
-      "date": "2026-06-10T00:17:40.895Z"
+      "date": "2026-06-11T00:18:49.354Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse appoints new leader for Asia Pacific and expands global go-to-market leadership team",
       "url": "https://clickhouse.com/blog/clickhouse-appoints-apac-leader-and-expands-global-gtm-leadership",
       "source": "ClickHouse",
-      "date": "2026-06-10T00:17:40.895Z"
+      "date": "2026-06-11T00:18:49.354Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Monitor SLAs and scale ClickHouse Cloud with clickhousectl and agents",
       "url": "https://clickhouse.com/blog/monitor-and-scale-clickhouse-cloud-with-clickhousectl",
       "source": "ClickHouse",
-      "date": "2026-06-10T00:17:40.895Z"
+      "date": "2026-06-11T00:18:49.354Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Click-a-thon 2026: 24 hours, Bengaluru, and the fastest analytical database on the planet",
       "url": "https://clickhouse.com/blog/click-a-thon-2026",
       "source": "ClickHouse",
-      "date": "2026-06-10T00:17:40.895Z"
+      "date": "2026-06-11T00:18:49.354Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What to look for when selecting a real-time analytical database",
       "url": "https://clickhouse.com/blog/selecting-a-real-time-analytical-database",
       "source": "ClickHouse",
-      "date": "2026-06-10T00:17:40.895Z"
+      "date": "2026-06-11T00:18:49.354Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How ClickHouse became fast at joins",
       "url": "https://clickhouse.com/blog/clickhouse-fast-joins",
       "source": "ClickHouse",
-      "date": "2026-06-10T00:17:40.895Z"
+      "date": "2026-06-11T00:18:49.354Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Logging, Metrics, and Distributed Tracing in .NET with OpenTelemetry and ClickStack",
       "url": "https://clickhouse.com/blog/logging-metrics-distributed-tracing-dotnet-otel-clickstack",
       "source": "ClickHouse",
-      "date": "2026-06-10T00:17:40.895Z"
+      "date": "2026-06-11T00:18:49.354Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Building a .NET API Gateway with ClickHouse and Aspire",
-      "url": "https://clickhouse.com/blog/dotnet-api-gateway-aspire",
-      "source": "ClickHouse",
-      "date": "2026-06-10T00:17:40.895Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "TPC-H for less than a cent: ClickHouse Cloud vs. Snowflake, Databricks, BigQuery, and Redshift",
-      "url": "https://clickhouse.com/blog/tpc-h-clickhouse-cloud-vs-snowflake-databricks-bigquery-redshift",
-      "source": "ClickHouse",
-      "date": "2026-06-10T00:17:40.895Z"
-    },
-    {
-      "id": "hn-48467896",
-      "title": "If Claude Fable stops helping you, you'll never know",
-      "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+      "id": "hn-48484282",
+      "title": "Deficient executive control in transformer attention",
+      "url": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838",
       "source": "HackerNews",
-      "score": 356,
-      "comments": 154,
-      "date": "2026-06-09T21:19:11.000Z"
+      "score": 6,
+      "comments": 2,
+      "date": "2026-06-10T23:35:01.000Z"
     },
     {
-      "id": "hn-48467759",
-      "title": "Exif Smuggling",
-      "url": "https://github.com/signalblur/exifsmugglingpoc",
+      "id": "hn-48483387",
+      "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
+      "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
       "source": "HackerNews",
-      "score": 44,
-      "comments": 20,
-      "date": "2026-06-09T21:06:00.000Z"
+      "score": 58,
+      "comments": 31,
+      "date": "2026-06-10T22:07:52.000Z"
     },
     {
-      "id": "hn-48467705",
-      "title": "Upcoming breaking changes for NPM v12",
-      "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+      "id": "hn-48482293",
+      "title": "What is it like to be a bat? (1974) [pdf]",
+      "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
       "source": "HackerNews",
-      "score": 149,
-      "comments": 44,
-      "date": "2026-06-09T21:01:00.000Z"
+      "score": 54,
+      "comments": 48,
+      "date": "2026-06-10T20:35:07.000Z"
     },
     {
-      "id": "hn-48466812",
-      "title": "Grit: Rewriting Git in Rust with Agents",
-      "url": "https://blog.gitbutler.com/true-grit",
+      "id": "hn-48481857",
+      "title": "Raspberry Pi 5 – 16GB RAM",
+      "url": "https://www.adafruit.com/product/6125?src=raspberrypi",
       "source": "HackerNews",
-      "score": 59,
-      "comments": 45,
-      "date": "2026-06-09T19:58:21.000Z"
+      "score": 137,
+      "comments": 164,
+      "date": "2026-06-10T20:05:21.000Z"
     },
     {
-      "id": "hn-48466277",
-      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "url": "https://aarushgupta.io/posts/kan-fpga/",
+      "id": "hn-48480978",
+      "title": "πFS",
+      "url": "https://github.com/philipl/pifs",
       "source": "HackerNews",
-      "score": 141,
-      "comments": 15,
-      "date": "2026-06-09T19:21:45.000Z"
-    },
-    {
-      "id": "hn-48465675",
-      "title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
-      "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
-      "source": "HackerNews",
-      "score": 368,
-      "comments": 148,
-      "date": "2026-06-09T18:45:59.000Z"
-    },
-    {
-      "id": "hn-48463808",
-      "title": "Claude Fable 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "source": "HackerNews",
-      "score": 1677,
-      "comments": 1333,
-      "date": "2026-06-09T16:58:01.000Z"
+      "score": 466,
+      "comments": 117,
+      "date": "2026-06-10T18:54:54.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Inferencing Text Diffusion Models in Python and C",
-      "url": "https://www.reddit.com/r/programming/comments/1u1ahi4/inferencing_text_diffusion_models_in_python_and_c/",
+      "title": "C3 0.8.1 released: Raiding the stdlib for bugs",
+      "url": "https://www.reddit.com/r/programming/comments/1u29255/c3_081_released_raiding_the_stdlib_for_bugs/",
       "source": "Reddit",
-      "date": "2026-06-09T16:44:45.000Z"
+      "date": "2026-06-10T17:34:44.000Z"
+    },
+    {
+      "id": "hn-48479705",
+      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+      "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+      "source": "HackerNews",
+      "score": 161,
+      "comments": 34,
+      "date": "2026-06-10T17:30:48.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The unwritten laws of software engineering",
+      "url": "https://www.reddit.com/r/programming/comments/1u28egw/the_unwritten_laws_of_software_engineering/",
+      "source": "Reddit",
+      "date": "2026-06-10T17:12:01.000Z"
+    },
+    {
+      "id": "hn-48478969",
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "source": "HackerNews",
+      "score": 121,
+      "comments": 102,
+      "date": "2026-06-10T16:42:00.000Z"
+    },
+    {
+      "id": "hn-48476466",
+      "title": "PgDog is funded and coming to a database near you",
+      "url": "https://pgdog.dev/blog/our-funding-announcement",
+      "source": "HackerNews",
+      "score": 366,
+      "comments": 186,
+      "date": "2026-06-10T14:02:59.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "ReactJS Syntax For Web Components",
+      "url": "https://www.reddit.com/r/programming/comments/1u1zb27/reactjs_syntax_for_web_components/",
+      "source": "Reddit",
+      "date": "2026-06-10T11:20:23.000Z"
+    },
+    {
+      "id": "hn-48464258",
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+      "source": "HackerNews",
+      "score": 122,
+      "comments": 52,
+      "date": "2026-06-09T17:23:40.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -164,15 +196,6 @@
       "date": "2026-06-09T11:51:42.000Z"
     },
     {
-      "id": "hn-48459294",
-      "title": "Making Graphics Like it's 1993",
-      "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-      "source": "HackerNews",
-      "score": 748,
-      "comments": 127,
-      "date": "2026-06-09T10:46:14.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "SQLite improving performance with pre-sort",
       "url": "https://www.reddit.com/r/programming/comments/1u10n7z/sqlite_improving_performance_with_presort/",
@@ -180,43 +203,20 @@
       "date": "2026-06-09T10:01:53.000Z"
     },
     {
+      "id": "hn-48456808",
+      "title": "L'Affaire Siloxane",
+      "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
+      "source": "HackerNews",
+      "score": 142,
+      "comments": 23,
+      "date": "2026-06-09T05:21:39.000Z"
+    },
+    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "Cache Stampede Prevention: Distributed Locking, Pub/Sub, and Request Coalescing",
       "url": "https://www.reddit.com/r/programming/comments/1u0vb76/cache_stampede_prevention_distributed_locking/",
       "source": "Reddit",
       "date": "2026-06-09T04:53:09.000Z"
-    },
-    {
-      "id": "hn-48451966",
-      "title": "A giant star may have destroyed itself in one of the rarest explosions",
-      "url": "https://phys.org/news/2026-05-giant-star-destroyed-universe-rarest.html",
-      "source": "HackerNews",
-      "score": 152,
-      "comments": 21,
-      "date": "2026-06-08T21:00:13.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Why Compiler Engineers Rarely Use Strassen's Algorithm for Fast Matrix Multiplications",
-      "url": "https://www.reddit.com/r/programming/comments/1u09rah/why_compiler_engineers_rarely_use_strassens/",
-      "source": "Reddit",
-      "date": "2026-06-08T14:36:19.000Z"
-    },
-    {
-      "id": "hn-48445834",
-      "title": "Lies We Tell Ourselves About Email Addresses",
-      "url": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
-      "source": "HackerNews",
-      "score": 17,
-      "comments": 5,
-      "date": "2026-06-08T14:24:57.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Lies We Tell Ourselves About Email Addresses",
-      "url": "https://www.reddit.com/r/programming/comments/1u098uy/lies_we_tell_ourselves_about_email_addresses/",
-      "source": "Reddit",
-      "date": "2026-06-08T14:17:00.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
