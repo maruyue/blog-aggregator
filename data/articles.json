@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T00:21:25.597Z",
+  "updatedAt": "2026-06-14T00:10:28.370Z",
   "total": 20,
   "articles": [
     {
@@ -7,160 +7,160 @@
       "title": "Company and cultureClickHouse achieves AWS Retail CompetencyClickHouse has achieved the AWS Retail Competency, joining a select group of AWS Partners recognized for deep expertise in helping retailers turn live operational data into real-time decisions.Aditya ChiduralaJun 12, 2026 · 6 minutes read",
       "url": "https://clickhouse.com/blog/achieves-aws-retail-competency",
       "source": "ClickHouse",
-      "date": "2026-06-13T00:21:25.596Z"
+      "date": "2026-06-14T00:10:28.369Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Building ClickCannon - a tool for benchmarking ClickHouse",
       "url": "https://clickhouse.com/blog/building-clickcannon-a-tool-for-benchmark-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-06-13T00:21:25.596Z"
+      "date": "2026-06-14T00:10:28.369Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing Postgres to Postgres ClickPipes in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/clickpipes-postgres-to-postgres",
       "source": "ClickHouse",
-      "date": "2026-06-13T00:21:25.596Z"
+      "date": "2026-06-14T00:10:28.369Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Datadog and ClickHouse partner to bring full-fidelity data to modern observability",
       "url": "https://clickhouse.com/blog/datadog-and-clickhouse-partnership",
       "source": "ClickHouse",
-      "date": "2026-06-13T00:21:25.596Z"
+      "date": "2026-06-14T00:10:28.369Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Agents can now provision ClickHouse and Postgres on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/stripe-projects",
       "source": "ClickHouse",
-      "date": "2026-06-13T00:21:25.596Z"
+      "date": "2026-06-14T00:10:28.369Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Agents: Claude-powered agentic analytics, now in public beta",
       "url": "https://clickhouse.com/blog/clickhouse-agents-beta",
       "source": "ClickHouse",
-      "date": "2026-06-13T00:21:25.596Z"
+      "date": "2026-06-14T00:10:28.369Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How QRT powers real-time research and risk management at petabyte scale",
       "url": "https://clickhouse.com/blog/qrt",
       "source": "ClickHouse",
-      "date": "2026-06-13T00:21:25.596Z"
+      "date": "2026-06-14T00:10:28.369Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse appoints new leader for Asia Pacific and expands global go-to-market leadership team",
       "url": "https://clickhouse.com/blog/clickhouse-appoints-apac-leader-and-expands-global-gtm-leadership",
       "source": "ClickHouse",
-      "date": "2026-06-13T00:21:25.596Z"
+      "date": "2026-06-14T00:10:28.369Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Monitor SLAs and scale ClickHouse Cloud with clickhousectl and agents",
       "url": "https://clickhouse.com/blog/monitor-and-scale-clickhouse-cloud-with-clickhousectl",
       "source": "ClickHouse",
-      "date": "2026-06-13T00:21:25.596Z"
+      "date": "2026-06-14T00:10:28.369Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Click-a-thon 2026: 24 hours, Bengaluru, and the fastest analytical database on the planet",
       "url": "https://clickhouse.com/blog/click-a-thon-2026",
       "source": "ClickHouse",
-      "date": "2026-06-13T00:21:25.596Z"
+      "date": "2026-06-14T00:10:28.369Z"
     },
     {
-      "id": "hn-48510341",
-      "title": "Show HN: Putt.day a daily mini golf game",
-      "url": "https://putt.day/",
+      "id": "hn-48520807",
+      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
       "source": "HackerNews",
-      "score": 44,
-      "comments": 34,
-      "date": "2026-06-12T22:56:06.000Z"
+      "score": 180,
+      "comments": 74,
+      "date": "2026-06-13T19:54:55.000Z"
     },
     {
-      "id": "hn-48510046",
-      "title": "Twenty One Zero-Days in FFmpeg",
-      "url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+      "id": "hn-48520080",
+      "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+      "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
       "source": "HackerNews",
-      "score": 60,
-      "comments": 25,
-      "date": "2026-06-12T22:13:29.000Z"
+      "score": 68,
+      "comments": 14,
+      "date": "2026-06-13T18:32:22.000Z"
     },
     {
-      "id": "hn-48510010",
-      "title": "Renault: Electric motors with no rare earths",
-      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+      "id": "hn-48519552",
+      "title": "GameBoy Workboy",
+      "url": "https://tcrf.net/Workboy",
       "source": "HackerNews",
-      "score": 126,
-      "comments": 30,
-      "date": "2026-06-12T22:08:03.000Z"
+      "score": 148,
+      "comments": 52,
+      "date": "2026-06-13T17:43:02.000Z"
     },
     {
-      "id": "hn-48509182",
-      "title": "Palantir loses legal challenge against Swiss investigative magazine",
-      "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+      "id": "hn-48519092",
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
       "source": "HackerNews",
-      "score": 167,
-      "comments": 33,
-      "date": "2026-06-12T20:39:36.000Z"
+      "score": 488,
+      "comments": 358,
+      "date": "2026-06-13T16:57:49.000Z"
     },
     {
-      "id": "hn-48508726",
-      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
-      "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
+      "id": "hn-48518684",
+      "title": "GLM 5.2 Is Out",
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
       "source": "HackerNews",
-      "score": 112,
-      "comments": 49,
-      "date": "2026-06-12T19:54:27.000Z"
+      "score": 269,
+      "comments": 146,
+      "date": "2026-06-13T16:18:31.000Z"
     },
     {
-      "id": "hn-48507020",
-      "title": "How to setup a local coding agent on macOS",
-      "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+      "id": "hn-48517377",
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
       "source": "HackerNews",
-      "score": 235,
-      "comments": 69,
-      "date": "2026-06-12T17:34:55.000Z"
+      "score": 685,
+      "comments": 409,
+      "date": "2026-06-13T13:54:56.000Z"
     },
     {
-      "id": "hn-48506659",
-      "title": "Pirates, a naval warfare game inspired by Sid Meier's Pirates",
-      "url": "https://piwodlaiwo.github.io/pirates/",
+      "id": "hn-48517199",
+      "title": "Treating pancreatic tumours may have revealed cancer's master switch",
+      "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
       "source": "HackerNews",
-      "score": 182,
-      "comments": 72,
-      "date": "2026-06-12T17:07:46.000Z"
+      "score": 280,
+      "comments": 93,
+      "date": "2026-06-13T13:34:00.000Z"
     },
     {
-      "id": "hn-48505231",
-      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "id": "hn-48516251",
+      "title": "Every Frame Perfect",
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
       "source": "HackerNews",
-      "score": 671,
-      "comments": 168,
-      "date": "2026-06-12T15:15:24.000Z"
+      "score": 499,
+      "comments": 167,
+      "date": "2026-06-13T11:40:20.000Z"
     },
     {
-      "id": "hn-48495928",
-      "title": "Malware developers added nuclear and biological weapons text to to their spyware",
-      "url": "https://twitter.com/jsrailton/status/2064661778978533571",
+      "id": "hn-48491968",
+      "title": "Resurrecting a Soaked, corroded, and damaged Commodore SX‑64 (2025)",
+      "url": "https://jerrylparker.com/blogs/posts/sx-64.html",
       "source": "HackerNews",
-      "score": 281,
-      "comments": 182,
-      "date": "2026-06-11T20:24:18.000Z"
+      "score": 13,
+      "comments": 1,
+      "date": "2026-06-11T15:46:27.000Z"
     },
     {
-      "id": "hn-48484496",
-      "title": "H.R. 6028 would fundamentally change the U.S. Copyright Office",
-      "url": "https://www.eff.org/deeplinks/2026/06/congress-just-rushed-through-disastrous-copyright-office-overhaul",
+      "id": "hn-48462759",
+      "title": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
+      "url": "https://blog.pyodide.org/posts/314-release/",
       "source": "HackerNews",
-      "score": 94,
-      "comments": 17,
-      "date": "2026-06-11T00:00:42.000Z"
+      "score": 52,
+      "comments": 10,
+      "date": "2026-06-09T15:54:31.000Z"
     }
   ]
 }
