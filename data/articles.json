@@ -1,144 +1,222 @@
 {
-  "updatedAt": "2026-06-16T01:41:47.345Z",
+  "updatedAt": "2026-06-17T00:19:41.715Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "User storiesCisco Talos empowers threat researchers while reducing TCO by 75% with ClickHouse CloudCisco Talos runs a threat intelligence reputation service on ClickHouse Cloud, classifying file hashes so researchers can make fast, accurate security decisions.ClickHouseJun 15, 2026 · 8 minutes read",
+      "title": "EngineeringWhat a difference 10 years of open source makesOn June 15, 2016, ClickHouse went open source under the Apache 2.0 license. Ten years later, it&#x27;s one of the most widely deployed analytical databases in the world. Al BrownJun 15, 2026 · 10 minutes read",
+      "url": "https://clickhouse.com/blog/what-a-difference-10-years-of-open-source-makes",
+      "source": "ClickHouse",
+      "date": "2026-06-17T00:19:41.715Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Cisco Talos empowers threat researchers while reducing TCO by 75% with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/cisco",
       "source": "ClickHouse",
-      "date": "2026-06-16T01:41:46.812Z"
+      "date": "2026-06-17T00:19:41.715Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Ten years of ClickHouse in open source",
       "url": "https://clickhouse.com/blog/open-source-10",
       "source": "ClickHouse",
-      "date": "2026-06-16T01:41:46.812Z"
+      "date": "2026-06-17T00:19:41.715Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse achieves AWS Retail Competency",
       "url": "https://clickhouse.com/blog/achieves-aws-retail-competency",
       "source": "ClickHouse",
-      "date": "2026-06-16T01:41:46.812Z"
+      "date": "2026-06-17T00:19:41.715Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Building ClickCannon - a tool for benchmarking ClickHouse",
       "url": "https://clickhouse.com/blog/building-clickcannon-a-tool-for-benchmark-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-06-16T01:41:46.812Z"
+      "date": "2026-06-17T00:19:41.715Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing Postgres to Postgres ClickPipes in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/clickpipes-postgres-to-postgres",
       "source": "ClickHouse",
-      "date": "2026-06-16T01:41:46.812Z"
+      "date": "2026-06-17T00:19:41.715Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Datadog and ClickHouse partner to bring full-fidelity data to modern observability",
       "url": "https://clickhouse.com/blog/datadog-and-clickhouse-partnership",
       "source": "ClickHouse",
-      "date": "2026-06-16T01:41:46.812Z"
+      "date": "2026-06-17T00:19:41.715Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Agents can now provision ClickHouse and Postgres on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/stripe-projects",
       "source": "ClickHouse",
-      "date": "2026-06-16T01:41:46.812Z"
+      "date": "2026-06-17T00:19:41.715Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Agents: Claude-powered agentic analytics, now in public beta",
       "url": "https://clickhouse.com/blog/clickhouse-agents-beta",
       "source": "ClickHouse",
-      "date": "2026-06-16T01:41:46.812Z"
+      "date": "2026-06-17T00:19:41.715Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How QRT powers real-time research and risk management at petabyte scale",
       "url": "https://clickhouse.com/blog/qrt",
       "source": "ClickHouse",
-      "date": "2026-06-16T01:41:46.812Z"
+      "date": "2026-06-17T00:19:41.715Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse appoints new leader for Asia Pacific and expands global go-to-market leadership team",
-      "url": "https://clickhouse.com/blog/clickhouse-appoints-apac-leader-and-expands-global-gtm-leadership",
-      "source": "ClickHouse",
-      "date": "2026-06-16T01:41:46.812Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "arewemodulesyet.org passes the mark of 100 projects with modules support for the first time.",
-      "url": "https://www.reddit.com/r/programming/comments/1u6zh39/arewemodulesyetorg_passes_the_mark_of_100/",
-      "source": "Reddit",
-      "date": "2026-06-16T01:18:32.000Z"
-    },
-    {
-      "id": "hn-48548975",
-      "title": "Amazon Announces Multibillion-Dollar Data Center in Missouri",
-      "url": "https://www.narracomm.com/amazon-announces-multibillion-dollar-data-center-in-missouri/",
+      "id": "hn-48563609",
+      "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
       "source": "HackerNews",
-      "score": 10,
+      "score": 22,
       "comments": 2,
-      "date": "2026-06-16T00:28:14.000Z"
+      "date": "2026-06-16T23:15:44.000Z"
+    },
+    {
+      "id": "hn-48563394",
+      "title": "Humiliating IIS servers for fun and jail time",
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "source": "HackerNews",
+      "score": 38,
+      "comments": 2,
+      "date": "2026-06-16T22:53:34.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Game Engine White Papers Commander Keen",
-      "url": "https://www.reddit.com/r/programming/comments/1u6xklw/game_engine_white_papers_commander_keen/",
+      "title": "Nginx explained in plain English",
+      "url": "https://www.reddit.com/r/programming/comments/1u7q8pg/nginx_explained_in_plain_english/",
       "source": "Reddit",
-      "date": "2026-06-15T23:53:59.000Z"
+      "date": "2026-06-16T21:08:49.000Z"
     },
     {
-      "id": "hn-48547985",
-      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-      "url": "https://www.richardosgood.com/posts/banned-book-library/",
+      "id": "hn-48561654",
+      "title": "GrapheneOS has been ported to Android 17",
+      "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
       "source": "HackerNews",
-      "score": 152,
-      "comments": 36,
-      "date": "2026-06-15T22:37:55.000Z"
+      "score": 294,
+      "comments": 123,
+      "date": "2026-06-16T20:34:35.000Z"
     },
     {
-      "id": "hn-48547566",
-      "title": "Why I email complete strangers",
-      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
-      "source": "HackerNews",
-      "score": 69,
-      "comments": 37,
-      "date": "2026-06-15T21:57:10.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Why is Meta destroying its engineering organization? Great breakdown",
+      "url": "https://www.reddit.com/r/programming/comments/1u7o7s0/why_is_meta_destroying_its_engineering/",
+      "source": "Reddit",
+      "date": "2026-06-16T19:53:19.000Z"
     },
     {
-      "id": "hn-48547062",
-      "title": "Peopleless economy? Not technically impossible",
-      "url": "https://gmalandrakis.com/writings/ad-economicum.html",
-      "source": "HackerNews",
-      "score": 88,
-      "comments": 155,
-      "date": "2026-06-15T21:10:36.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Heterogeneous Pythonic language in your pocket",
+      "url": "https://www.reddit.com/r/programming/comments/1u7m1fa/heterogeneous_pythonic_language_in_your_pocket/",
+      "source": "Reddit",
+      "date": "2026-06-16T18:35:44.000Z"
     },
     {
-      "id": "hn-48546441",
-      "title": "I Love the Computer",
-      "url": "https://michaelenger.com/blog/i-love-the-computer/",
+      "id": "hn-48559188",
+      "title": "GPT‑NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
       "source": "HackerNews",
-      "score": 136,
-      "comments": 87,
-      "date": "2026-06-15T20:14:15.000Z"
+      "score": 126,
+      "comments": 131,
+      "date": "2026-06-16T17:54:02.000Z"
     },
     {
-      "id": "hn-48546294",
-      "title": "A backdoor in a LinkedIn job offer",
-      "url": "https://roman.pt/posts/linkedin-backdoor/",
+      "id": "hn-48558147",
+      "title": "Stop Using JWTs",
+      "url": "https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452",
       "source": "HackerNews",
-      "score": 678,
-      "comments": 141,
-      "date": "2026-06-15T20:00:57.000Z"
+      "score": 218,
+      "comments": 133,
+      "date": "2026-06-16T16:49:46.000Z"
+    },
+    {
+      "id": "hn-48558018",
+      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
+      "source": "HackerNews",
+      "score": 235,
+      "comments": 132,
+      "date": "2026-06-16T16:40:58.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "British Columbia, Time Zones, and Postgres",
+      "url": "https://www.reddit.com/r/programming/comments/1u7i2bj/british_columbia_time_zones_and_postgres/",
+      "source": "Reddit",
+      "date": "2026-06-16T16:15:33.000Z"
+    },
+    {
+      "id": "hn-48557079",
+      "title": "Calvin and Hobbes and the price of integrity",
+      "url": "https://therepublicofletters.substack.com/p/calvin-and-hobbes-and-the-price-of",
+      "source": "HackerNews",
+      "score": 248,
+      "comments": 109,
+      "date": "2026-06-16T15:44:44.000Z"
+    },
+    {
+      "id": "hn-48555993",
+      "title": "Running local models is good now",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "source": "HackerNews",
+      "score": 966,
+      "comments": 412,
+      "date": "2026-06-16T14:36:57.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Polynomial Fitting: a rabbit hole",
+      "url": "https://www.reddit.com/r/programming/comments/1u7d8b6/polynomial_fitting_a_rabbit_hole/",
+      "source": "Reddit",
+      "date": "2026-06-16T13:14:46.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "What makes blqsort faster than almost any other Quicksort around – with C and C++ interfaces",
+      "url": "https://www.reddit.com/r/programming/comments/1u7c4wb/what_makes_blqsort_faster_than_almost_any_other/",
+      "source": "Reddit",
+      "date": "2026-06-16T12:28:34.000Z"
+    },
+    {
+      "id": "hn-48553550",
+      "title": "Mechanical Watch (2022)",
+      "url": "https://ciechanow.ski/mechanical-watch/",
+      "source": "HackerNews",
+      "score": 616,
+      "comments": 114,
+      "date": "2026-06-16T11:26:27.000Z"
+    },
+    {
+      "id": "hn-48553224",
+      "title": "SpaceX to buy Cursor for $60B",
+      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "source": "HackerNews",
+      "score": 831,
+      "comments": 1276,
+      "date": "2026-06-16T10:44:24.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "What every coder should know about gamma",
+      "url": "https://www.reddit.com/r/programming/comments/1u79v59/what_every_coder_should_know_about_gamma/",
+      "source": "Reddit",
+      "date": "2026-06-16T10:37:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Don't run SQL migrations in tests: How I sped up the test suite by 2x",
+      "url": "https://www.reddit.com/r/programming/comments/1u77h7h/dont_run_sql_migrations_in_tests_how_i_sped_up/",
+      "source": "Reddit",
+      "date": "2026-06-16T08:18:40.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -146,84 +224,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1u6omlt/american_express_cellbased_architecture_for/",
       "source": "Reddit",
       "date": "2026-06-15T18:18:04.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Cross-Language Data Types",
-      "url": "https://www.reddit.com/r/programming/comments/1u6mjpp/crosslanguage_data_types/",
-      "source": "Reddit",
-      "date": "2026-06-15T17:04:16.000Z"
-    },
-    {
-      "id": "hn-48543475",
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "url": "https://tinywind.io",
-      "source": "HackerNews",
-      "score": 596,
-      "comments": 124,
-      "date": "2026-06-15T16:15:53.000Z"
-    },
-    {
-      "id": "hn-48542480",
-      "title": "Iroh 1.0",
-      "url": "https://www.iroh.computer/blog/v1",
-      "source": "HackerNews",
-      "score": 931,
-      "comments": 284,
-      "date": "2026-06-15T15:13:06.000Z"
-    },
-    {
-      "id": "hn-48542433",
-      "title": "My Homelab AI Dev Platform",
-      "url": "https://rsgm.dev/post/ai-dev-platform/",
-      "source": "HackerNews",
-      "score": 237,
-      "comments": 47,
-      "date": "2026-06-15T15:09:40.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Chebyshev Polynomials and Their Derivatives in C",
-      "url": "https://www.reddit.com/r/programming/comments/1u6hsfh/chebyshev_polynomials_and_their_derivatives_in_c/",
-      "source": "Reddit",
-      "date": "2026-06-15T14:12:44.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Wasp now lets you write your full-stack logic as a spec in TypeScript",
-      "url": "https://www.reddit.com/r/programming/comments/1u6hkye/wasp_now_lets_you_write_your_fullstack_logic_as_a/",
-      "source": "Reddit",
-      "date": "2026-06-15T14:04:56.000Z"
-    },
-    {
-      "id": "hn-48540844",
-      "title": "Hetzner Price Adjustment",
-      "url": "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/#cloud-servers",
-      "source": "HackerNews",
-      "score": 330,
-      "comments": 477,
-      "date": "2026-06-15T13:19:39.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "SVGs and PDFs can both be interactive",
-      "url": "https://www.reddit.com/r/programming/comments/1u6dz52/svgs_and_pdfs_can_both_be_interactive/",
-      "source": "Reddit",
-      "date": "2026-06-15T11:33:22.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "21 years and counting of 'eight fallacies of distributed computing' | APNIC Blog",
-      "url": "https://www.reddit.com/r/programming/comments/1u693un/21_years_and_counting_of_eight_fallacies_of/",
-      "source": "Reddit",
-      "date": "2026-06-15T06:58:28.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Formal methods and the future of programming",
-      "url": "https://www.reddit.com/r/programming/comments/1u5v9pd/formal_methods_and_the_future_of_programming/",
-      "source": "Reddit",
-      "date": "2026-06-14T20:06:46.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
