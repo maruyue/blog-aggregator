@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T01:44:37.140Z",
+  "updatedAt": "2026-06-20T00:11:50.433Z",
   "total": 20,
   "articles": [
     {
@@ -7,160 +7,160 @@
       "title": "ProductWhy everyone is talking about real-time analytics (a note from “the yellow company”)For years, real-time analytics was treated as a niche requirement. We believed otherwise. So why is everyone talking about it now?ClickHouseJun 18, 2026 · 7 minutes read",
       "url": "https://clickhouse.com/blog/why-everyone-is-talking-about-real-analytics-yellow-company",
       "source": "ClickHouse",
-      "date": "2026-06-19T01:44:37.139Z"
+      "date": "2026-06-20T00:11:50.433Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Ten years of open source: a stained-glass view",
+      "url": "https://clickhouse.com/blog/ten-years-of-open-source-a-stained-glass-view",
+      "source": "ClickHouse",
+      "date": "2026-06-20T00:11:50.433Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Beyond the warehouse: How METRO Markets built a do-it-all data platform on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/metro-markets-data-warehouse",
       "source": "ClickHouse",
-      "date": "2026-06-19T01:44:37.139Z"
+      "date": "2026-06-20T00:11:50.433Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Appcues delivers personalized customer engagement with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/appcues-customer-engagement-analytics",
       "source": "ClickHouse",
-      "date": "2026-06-19T01:44:37.139Z"
+      "date": "2026-06-20T00:11:50.433Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in Postgres Managed by ClickHouse: RBAC, Terraform, ClickPipes, extensions, and more",
       "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-rbac-terraform-clickpipes-extensions",
       "source": "ClickHouse",
-      "date": "2026-06-19T01:44:37.139Z"
+      "date": "2026-06-20T00:11:50.433Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "June 2026 newsletter",
       "url": "https://clickhouse.com/blog/202606-newsletter",
       "source": "ClickHouse",
-      "date": "2026-06-19T01:44:37.139Z"
+      "date": "2026-06-20T00:11:50.433Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "GCP Pub/Sub connector for ClickPipes is now in Private Preview",
       "url": "https://clickhouse.com/blog/clickpipes-gcp-pub-sub-preview",
       "source": "ClickHouse",
-      "date": "2026-06-19T01:44:37.139Z"
+      "date": "2026-06-20T00:11:50.433Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The open ecosystem around ClickHouse",
       "url": "https://clickhouse.com/blog/the-open-ecosystem-around-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-06-19T01:44:37.139Z"
+      "date": "2026-06-20T00:11:50.433Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "92x faster queries: How Open Electricity uses ClickHouse to track Australia’s energy transition in real time",
       "url": "https://clickhouse.com/blog/openelectricity-australia-energy-transition",
       "source": "ClickHouse",
-      "date": "2026-06-19T01:44:37.139Z"
+      "date": "2026-06-20T00:11:50.433Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What a difference 10 years of open source makes",
       "url": "https://clickhouse.com/blog/what-a-difference-10-years-of-open-source-makes",
       "source": "ClickHouse",
-      "date": "2026-06-19T01:44:37.139Z"
+      "date": "2026-06-20T00:11:50.433Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Cisco Talos empowers threat researchers while reducing TCO by 75% with ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/cisco",
-      "source": "ClickHouse",
-      "date": "2026-06-19T01:44:37.139Z"
-    },
-    {
-      "id": "hn-48593731",
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/",
+      "id": "hn-48604584",
+      "title": "Iran requires insurance on ships using Strait of Hormuz, fees likely to follow",
+      "url": "https://www.lloydslist.com/LL1157571/Iran-imposes-mandatory-insurance-on-ships-transiting-Strait-of-Hormuz-with-fees-likely-to-follow",
       "source": "HackerNews",
-      "score": 11,
-      "comments": 2,
-      "date": "2026-06-19T01:06:27.000Z"
-    },
-    {
-      "id": "hn-48593694",
-      "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
-      "url": "https://www.flexport.com/company/careers/",
-      "source": "HackerNews",
-      "score": 1,
-      "comments": 0,
-      "date": "2026-06-19T01:01:13.000Z"
-    },
-    {
-      "id": "hn-48592163",
-      "title": "Zero-Touch OAuth for MCP",
-      "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-      "source": "HackerNews",
-      "score": 86,
-      "comments": 33,
-      "date": "2026-06-18T21:54:10.000Z"
-    },
-    {
-      "id": "hn-48591066",
-      "title": "Zork name origin got an update on Wikipedia",
-      "url": "https://www.dpolakovic.space/blogs/zork-part2#update",
-      "source": "HackerNews",
-      "score": 50,
-      "comments": 7,
-      "date": "2026-06-18T20:27:28.000Z"
-    },
-    {
-      "id": "hn-48589501",
-      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
-      "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-      "source": "HackerNews",
-      "score": 232,
-      "comments": 92,
-      "date": "2026-06-18T18:31:23.000Z"
-    },
-    {
-      "id": "hn-48585866",
-      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-      "url": "https://blog.ui.com/article/introducing-enterprise-nas",
-      "source": "HackerNews",
-      "score": 252,
-      "comments": 236,
-      "date": "2026-06-18T14:24:30.000Z"
-    },
-    {
-      "id": "hn-48583928",
-      "title": "I found 10k GitHub repositories distributing Trojan malware",
-      "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-      "source": "HackerNews",
-      "score": 662,
-      "comments": 150,
-      "date": "2026-06-18T11:45:43.000Z"
-    },
-    {
-      "id": "hn-48583606",
-      "title": "CS 6120: Advanced Compilers: The Self-Guided Online Course (2020)",
-      "url": "https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/",
-      "source": "HackerNews",
-      "score": 300,
-      "comments": 44,
-      "date": "2026-06-18T11:04:31.000Z"
-    },
-    {
-      "id": "hn-48570730",
-      "title": "How Japan's railways stayed one while splitting apart",
-      "url": "https://arun.is/blog/jr-logo/",
-      "source": "HackerNews",
-      "score": 20,
+      "score": 22,
       "comments": 4,
-      "date": "2026-06-17T14:03:58.000Z"
+      "date": "2026-06-19T23:32:03.000Z"
     },
     {
-      "id": "hn-48547969",
-      "title": "Cell-based architecture for resilient payment systems",
-      "url": "https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/",
+      "id": "hn-48604186",
+      "title": "Americans express unease over SpaceX's influence on retirement savings",
+      "url": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
       "source": "HackerNews",
-      "score": 85,
-      "comments": 30,
-      "date": "2026-06-15T22:36:33.000Z"
+      "score": 79,
+      "comments": 36,
+      "date": "2026-06-19T22:45:20.000Z"
+    },
+    {
+      "id": "hn-48602918",
+      "title": "Surprising Economics of Load-Balanced Systems",
+      "url": "https://brooker.co.za/blog/2020/08/06/erlang.html",
+      "source": "HackerNews",
+      "score": 25,
+      "comments": 11,
+      "date": "2026-06-19T20:30:59.000Z"
+    },
+    {
+      "id": "hn-48602817",
+      "title": "Think of the Children: How to Force Real ID for All Internet Traffic (2023)",
+      "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
+      "source": "HackerNews",
+      "score": 54,
+      "comments": 12,
+      "date": "2026-06-19T20:19:57.000Z"
+    },
+    {
+      "id": "hn-48602352",
+      "title": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
+      "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+      "source": "HackerNews",
+      "score": 137,
+      "comments": 12,
+      "date": "2026-06-19T19:35:15.000Z"
+    },
+    {
+      "id": "hn-48600312",
+      "title": "Hyundai buys Boston Dynamics",
+      "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+      "source": "HackerNews",
+      "score": 601,
+      "comments": 287,
+      "date": "2026-06-19T16:28:20.000Z"
+    },
+    {
+      "id": "hn-48600093",
+      "title": "Norway imposes near ban on AI in elementary school",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "source": "HackerNews",
+      "score": 339,
+      "comments": 211,
+      "date": "2026-06-19T16:03:15.000Z"
+    },
+    {
+      "id": "hn-48599515",
+      "title": "There are no instances in ATProto",
+      "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+      "source": "HackerNews",
+      "score": 320,
+      "comments": 184,
+      "date": "2026-06-19T15:10:02.000Z"
+    },
+    {
+      "id": "hn-48548612",
+      "title": "Egyptian Fractions",
+      "url": "https://blog.plover.com/math/egyptian-fractions.html",
+      "source": "HackerNews",
+      "score": 51,
+      "comments": 0,
+      "date": "2026-06-15T23:37:54.000Z"
+    },
+    {
+      "id": "hn-48514843",
+      "title": "I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾",
+      "url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
+      "source": "HackerNews",
+      "score": 167,
+      "comments": 106,
+      "date": "2026-06-13T08:21:45.000Z"
     }
   ]
 }
