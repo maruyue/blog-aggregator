@@ -1,236 +1,166 @@
 {
-  "updatedAt": "2026-06-21T00:10:47.731Z",
-  "total": 30,
+  "updatedAt": "2026-06-22T00:14:40.285Z",
+  "total": 20,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ProductWhy everyone is talking about real-time analytics (a note from “the yellow company”)For years, real-time analytics was treated as a niche requirement. We believed otherwise. So why is everyone talking about it now?ClickHouseJun 18, 2026 · 7 minutes read",
       "url": "https://clickhouse.com/blog/why-everyone-is-talking-about-real-analytics-yellow-company",
       "source": "ClickHouse",
-      "date": "2026-06-21T00:10:47.507Z"
+      "date": "2026-06-22T00:14:40.284Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Ten years of open source: a stained-glass view",
       "url": "https://clickhouse.com/blog/ten-years-of-open-source-a-stained-glass-view",
       "source": "ClickHouse",
-      "date": "2026-06-21T00:10:47.507Z"
+      "date": "2026-06-22T00:14:40.284Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Beyond the warehouse: How METRO Markets built a do-it-all data platform on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/metro-markets-data-warehouse",
       "source": "ClickHouse",
-      "date": "2026-06-21T00:10:47.507Z"
+      "date": "2026-06-22T00:14:40.284Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Appcues delivers personalized customer engagement with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/appcues-customer-engagement-analytics",
       "source": "ClickHouse",
-      "date": "2026-06-21T00:10:47.507Z"
+      "date": "2026-06-22T00:14:40.284Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in Postgres Managed by ClickHouse: RBAC, Terraform, ClickPipes, extensions, and more",
       "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-rbac-terraform-clickpipes-extensions",
       "source": "ClickHouse",
-      "date": "2026-06-21T00:10:47.507Z"
+      "date": "2026-06-22T00:14:40.284Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "June 2026 newsletter",
       "url": "https://clickhouse.com/blog/202606-newsletter",
       "source": "ClickHouse",
-      "date": "2026-06-21T00:10:47.507Z"
+      "date": "2026-06-22T00:14:40.284Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "GCP Pub/Sub connector for ClickPipes is now in Private Preview",
       "url": "https://clickhouse.com/blog/clickpipes-gcp-pub-sub-preview",
       "source": "ClickHouse",
-      "date": "2026-06-21T00:10:47.507Z"
+      "date": "2026-06-22T00:14:40.284Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The open ecosystem around ClickHouse",
       "url": "https://clickhouse.com/blog/the-open-ecosystem-around-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-06-21T00:10:47.507Z"
+      "date": "2026-06-22T00:14:40.284Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "92x faster queries: How Open Electricity uses ClickHouse to track Australia’s energy transition in real time",
       "url": "https://clickhouse.com/blog/openelectricity-australia-energy-transition",
       "source": "ClickHouse",
-      "date": "2026-06-21T00:10:47.507Z"
+      "date": "2026-06-22T00:14:40.284Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What a difference 10 years of open source makes",
       "url": "https://clickhouse.com/blog/what-a-difference-10-years-of-open-source-makes",
       "source": "ClickHouse",
-      "date": "2026-06-21T00:10:47.507Z"
+      "date": "2026-06-22T00:14:40.284Z"
     },
     {
-      "id": "hn-48613872",
-      "title": "Epoll vs. Io_uring in Linux",
-      "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+      "id": "hn-48623419",
+      "title": "Simple hard way to conjugate Japanese verbs",
+      "url": "https://underreacted.leaflet.pub/3mmevu6woys27",
       "source": "HackerNews",
-      "score": 24,
-      "comments": 3,
-      "date": "2026-06-20T23:07:09.000Z"
-    },
-    {
-      "id": "hn-48613755",
-      "title": "Not just books: renting a sewing machine from the library can improve democracy",
-      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-      "source": "HackerNews",
-      "score": 45,
-      "comments": 15,
-      "date": "2026-06-20T22:54:11.000Z"
-    },
-    {
-      "id": "hn-48613631",
-      "title": "Pre-2022 Books",
-      "url": "https://notes.lorenzogravina.com/musings/pre-2022-books",
-      "source": "HackerNews",
-      "score": 110,
-      "comments": 52,
-      "date": "2026-06-20T22:36:23.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "What is inference engineering? Deepdive",
-      "url": "https://www.reddit.com/r/programming/comments/1ub9b9b/what_is_inference_engineering_deepdive/",
-      "source": "Reddit",
-      "date": "2026-06-20T22:24:51.000Z"
-    },
-    {
-      "id": "hn-48613555",
-      "title": "Slow breathing modulates brain function and risk behavior",
-      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-      "source": "HackerNews",
-      "score": 15,
-      "comments": 0,
-      "date": "2026-06-20T22:22:52.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "wrote my first Garmin app in Monkey C and its the strangest middle ground ive coded in years",
-      "url": "https://www.reddit.com/r/programming/comments/1ub7uqu/wrote_my_first_garmin_app_in_monkey_c_and_its_the/",
-      "source": "Reddit",
-      "date": "2026-06-20T21:19:42.000Z"
-    },
-    {
-      "id": "hn-48612740",
-      "title": "Alice is impatient",
-      "url": "https://brooker.co.za/blog/2026/06/19/waiting.html",
-      "source": "HackerNews",
-      "score": 40,
-      "comments": 7,
-      "date": "2026-06-20T20:32:54.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "So You Want To Define a Well-Known URI",
-      "url": "https://www.reddit.com/r/programming/comments/1ub6bqs/so_you_want_to_define_a_wellknown_uri/",
-      "source": "Reddit",
-      "date": "2026-06-20T20:14:03.000Z"
-    },
-    {
-      "id": "hn-48610853",
-      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "url": "https://www.lispm.net/apps/uhf-x11/",
-      "source": "HackerNews",
-      "score": 148,
-      "comments": 20,
-      "date": "2026-06-20T17:04:24.000Z"
-    },
-    {
-      "id": "hn-48610827",
-      "title": "SMPTE Makes Its Standards Freely Accessible",
-      "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-      "source": "HackerNews",
-      "score": 214,
-      "comments": 59,
-      "date": "2026-06-20T17:01:36.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Build a Bytecode VM (in Sema)",
-      "url": "https://www.reddit.com/r/programming/comments/1uazs9j/build_a_bytecode_vm_in_sema/",
-      "source": "Reddit",
-      "date": "2026-06-20T15:44:11.000Z"
-    },
-    {
-      "id": "hn-48609766",
-      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
-      "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-      "source": "HackerNews",
-      "score": 187,
-      "comments": 57,
-      "date": "2026-06-20T15:10:03.000Z"
-    },
-    {
-      "id": "hn-48608570",
-      "title": "Show HN: TownSquare, a tiny presence layer for websites",
-      "url": "https://townsquare.cauenapier.com/",
-      "source": "HackerNews",
-      "score": 17,
-      "comments": 6,
-      "date": "2026-06-20T11:55:03.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Burnout Is Real for Open Source Maintainers: A Conversation with John-David Dalton, Creator of Lodash",
-      "url": "https://www.reddit.com/r/programming/comments/1uaodhr/burnout_is_real_for_open_source_maintainers_a/",
-      "source": "Reddit",
-      "date": "2026-06-20T05:37:53.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "I Stored a Website in a Favicon",
-      "url": "https://www.reddit.com/r/programming/comments/1uaek5f/i_stored_a_website_in_a_favicon/",
-      "source": "Reddit",
-      "date": "2026-06-19T21:39:31.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "url": "https://www.reddit.com/r/programming/comments/1uacwhu/project_valhalla_explained_how_a_decade_of_work/",
-      "source": "Reddit",
-      "date": "2026-06-19T20:31:05.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding",
-      "url": "https://www.reddit.com/r/programming/comments/1ua96l5/a_practical_guide_to_ssh_tunnels_local_and_remote/",
-      "source": "Reddit",
-      "date": "2026-06-19T18:05:50.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Old Software Was Fast Because It Had No Choice",
-      "url": "https://www.reddit.com/r/programming/comments/1ua2lxq/old_software_was_fast_because_it_had_no_choice/",
-      "source": "Reddit",
-      "date": "2026-06-19T13:52:26.000Z"
-    },
-    {
-      "id": "hn-48554206",
-      "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
-      "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
-      "source": "HackerNews",
-      "score": 22,
+      "score": 16,
       "comments": 4,
-      "date": "2026-06-16T12:31:02.000Z"
+      "date": "2026-06-21T22:53:50.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
-      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-      "source": "Reddit",
-      "date": "2026-05-23T13:54:37.000Z"
+      "id": "hn-48622867",
+      "title": "Did my old job only exist because of fraud?",
+      "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+      "source": "HackerNews",
+      "score": 139,
+      "comments": 48,
+      "date": "2026-06-21T21:40:53.000Z"
+    },
+    {
+      "id": "hn-48622778",
+      "title": "Apertus – Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "source": "HackerNews",
+      "score": 137,
+      "comments": 42,
+      "date": "2026-06-21T21:29:43.000Z"
+    },
+    {
+      "id": "hn-48622731",
+      "title": "PowerFox Browser",
+      "url": "https://powerfox.jazzzny.me/",
+      "source": "HackerNews",
+      "score": 52,
+      "comments": 14,
+      "date": "2026-06-21T21:23:13.000Z"
+    },
+    {
+      "id": "hn-48622626",
+      "title": "Everything is logarithms",
+      "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+      "source": "HackerNews",
+      "score": 75,
+      "comments": 10,
+      "date": "2026-06-21T21:10:32.000Z"
+    },
+    {
+      "id": "hn-48622590",
+      "title": "Stop wasting tokens and re explaining your project between sessions",
+      "url": "https://github.com/raiyanyahya/recall",
+      "source": "HackerNews",
+      "score": 57,
+      "comments": 45,
+      "date": "2026-06-21T21:05:37.000Z"
+    },
+    {
+      "id": "hn-48621517",
+      "title": "JSON-LD Explained for Personal Websites",
+      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+      "source": "HackerNews",
+      "score": 144,
+      "comments": 37,
+      "date": "2026-06-21T18:51:47.000Z"
+    },
+    {
+      "id": "hn-48620090",
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+      "source": "HackerNews",
+      "score": 414,
+      "comments": 278,
+      "date": "2026-06-21T16:08:23.000Z"
+    },
+    {
+      "id": "hn-48618455",
+      "title": "Identity verification on Claude",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "source": "HackerNews",
+      "score": 524,
+      "comments": 479,
+      "date": "2026-06-21T12:44:13.000Z"
+    },
+    {
+      "id": "hn-48617990",
+      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
+      "url": "https://www.beyondallreason.info",
+      "source": "HackerNews",
+      "score": 418,
+      "comments": 249,
+      "date": "2026-06-21T11:38:01.000Z"
     }
   ]
 }
