@@ -1,229 +1,229 @@
 {
-  "updatedAt": "2026-06-23T00:09:33.740Z",
+  "updatedAt": "2026-06-24T00:00:59.788Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "ProductThe future of observability won’t be one proprietary AI agent. It will be thousands built by teams.We don’t think observability will be dominated by a single AI agent. The future belongs to teams building agents around their own systems, workflows, and operational knowledge.Mike ShiJun 22, 2026 · 11 minutes read",
+      "title": "EngineeringThe end-to-end cost-performance of real-time analytics: Snowflake vs. ClickHouse CloudReal-time analytics is more than fast queries. CostBench compares Snowflake and ClickHouse Cloud across the full path: continuous ingest, query-ready data maintenance, freshness, query latency, and cost.Tom Schreiber, Mark Needham and Lionel PalacinJun 23, 2026 · 30 minutes read",
+      "url": "https://clickhouse.com/blog/real-time-analytics-cost-performance-snowflake-vs-clickhouse",
+      "source": "ClickHouse",
+      "date": "2026-06-24T00:00:59.753Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What&#x27;s new in ClickStack - May 2026",
+      "url": "https://clickhouse.com/blog/whats-new-in-clickstack-may-2026",
+      "source": "ClickHouse",
+      "date": "2026-06-24T00:00:59.753Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What&#x27;s New in pg_clickhouse v0.3.2: Postgres 19, TLS, Regex, and Memory",
+      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-june-2026",
+      "source": "ClickHouse",
+      "date": "2026-06-24T00:00:59.753Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "The future of observability won’t be one proprietary AI agent. It will be thousands built by teams.",
       "url": "https://clickhouse.com/blog/the-future-of-observability-not-one-proprietary-ai-agent-thousands-by-teams",
       "source": "ClickHouse",
-      "date": "2026-06-23T00:09:33.694Z"
+      "date": "2026-06-24T00:00:59.753Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Spyne simplified their CDC pipeline with ClickPipes and ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/spyne-clickpipes-cdc-pipeline",
       "source": "ClickHouse",
-      "date": "2026-06-23T00:09:33.694Z"
+      "date": "2026-06-24T00:00:59.753Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Ten years of open source: a stained-glass view",
       "url": "https://clickhouse.com/blog/ten-years-of-open-source-a-stained-glass-view",
       "source": "ClickHouse",
-      "date": "2026-06-23T00:09:33.694Z"
+      "date": "2026-06-24T00:00:59.753Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Beyond the warehouse: How METRO Markets built a do-it-all data platform on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/metro-markets-data-warehouse",
       "source": "ClickHouse",
-      "date": "2026-06-23T00:09:33.694Z"
+      "date": "2026-06-24T00:00:59.753Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why everyone is talking about real-time analytics (a note from “the yellow company”)",
       "url": "https://clickhouse.com/blog/why-everyone-is-talking-about-real-analytics-yellow-company",
       "source": "ClickHouse",
-      "date": "2026-06-23T00:09:33.694Z"
+      "date": "2026-06-24T00:00:59.753Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Appcues delivers personalized customer engagement with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/appcues-customer-engagement-analytics",
       "source": "ClickHouse",
-      "date": "2026-06-23T00:09:33.694Z"
+      "date": "2026-06-24T00:00:59.753Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in Postgres Managed by ClickHouse: RBAC, Terraform, ClickPipes, extensions, and more",
       "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-rbac-terraform-clickpipes-extensions",
       "source": "ClickHouse",
-      "date": "2026-06-23T00:09:33.694Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "June 2026 newsletter",
-      "url": "https://clickhouse.com/blog/202606-newsletter",
-      "source": "ClickHouse",
-      "date": "2026-06-23T00:09:33.694Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "GCP Pub/Sub connector for ClickPipes is now in Private Preview",
-      "url": "https://clickhouse.com/blog/clickpipes-gcp-pub-sub-preview",
-      "source": "ClickHouse",
-      "date": "2026-06-23T00:09:33.694Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "The open ecosystem around ClickHouse",
-      "url": "https://clickhouse.com/blog/the-open-ecosystem-around-clickhouse",
-      "source": "ClickHouse",
-      "date": "2026-06-23T00:09:33.694Z"
+      "date": "2026-06-24T00:00:59.753Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Every Choice Changes Everything: The Show",
-      "url": "https://www.reddit.com/r/programming/comments/1ucyvz6/every_choice_changes_everything_the_show/",
+      "title": "Apache Pulsar 5.0.0-M1: introducing Scalable Topics — topics that split/merge themselves, no partition count required",
+      "url": "https://www.reddit.com/r/programming/comments/1udxdd5/apache_pulsar_500m1_introducing_scalable_topics/",
       "source": "Reddit",
-      "date": "2026-06-22T22:17:52.000Z"
-    },
-    {
-      "id": "hn-48636377",
-      "title": "Unsloth GLM-5.2 – How to Run Locally",
-      "url": "https://unsloth.ai/docs/models/glm-5.2",
-      "source": "HackerNews",
-      "score": 112,
-      "comments": 45,
-      "date": "2026-06-22T21:21:01.000Z"
-    },
-    {
-      "id": "hn-48634803",
-      "title": "Japanese symbols that speak without words",
-      "url": "https://arun.is/blog/japan-symbols/",
-      "source": "HackerNews",
-      "score": 80,
-      "comments": 22,
-      "date": "2026-06-22T19:22:37.000Z"
-    },
-    {
-      "id": "hn-48634787",
-      "title": "British Columbia, Time Zones, and Postgres",
-      "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-      "source": "HackerNews",
-      "score": 92,
-      "comments": 56,
-      "date": "2026-06-22T19:21:00.000Z"
-    },
-    {
-      "id": "hn-48634778",
-      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-      "url": "https://github.com/dorukkumkumoglu/optocamzero",
-      "source": "HackerNews",
-      "score": 81,
-      "comments": 21,
-      "date": "2026-06-22T19:19:55.000Z"
-    },
-    {
-      "id": "hn-48634585",
-      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-      "source": "HackerNews",
-      "score": 229,
-      "comments": 108,
-      "date": "2026-06-22T19:06:48.000Z"
-    },
-    {
-      "id": "hn-48632884",
-      "title": "Steam Machine launches today",
-      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "source": "HackerNews",
-      "score": 1097,
-      "comments": 973,
-      "date": "2026-06-22T17:09:51.000Z"
-    },
-    {
-      "id": "hn-48631726",
-      "title": "Show HN: Oak – Git alternative designed for agents",
-      "url": "https://oak.space/oak/oak",
-      "source": "HackerNews",
-      "score": 136,
-      "comments": 130,
-      "date": "2026-06-22T15:37:48.000Z"
-    },
-    {
-      "id": "hn-48630171",
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "url": "https://hustvl.github.io/Moebius/",
-      "source": "HackerNews",
-      "score": 216,
-      "comments": 64,
-      "date": "2026-06-22T13:53:02.000Z"
+      "date": "2026-06-23T23:42:02.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "How 4 bytes of padding make array clearing 49% faster",
-      "url": "https://www.reddit.com/r/programming/comments/1uck3ll/how_4_bytes_of_padding_make_array_clearing_49/",
+      "title": "New HTTP QUERY Method",
+      "url": "https://www.reddit.com/r/programming/comments/1udwfsp/new_http_query_method/",
       "source": "Reddit",
-      "date": "2026-06-22T13:07:14.000Z"
+      "date": "2026-06-23T23:02:07.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Datastar: It’s Pretty Good — with David Nolen",
-      "url": "https://www.reddit.com/r/programming/comments/1uck0d4/datastar_its_pretty_good_with_david_nolen/",
+      "title": "How Convex Collision Detection Becomes a One-Dimensional Problem",
+      "url": "https://www.reddit.com/r/programming/comments/1udu2ws/how_convex_collision_detection_becomes_a/",
       "source": "Reddit",
-      "date": "2026-06-22T13:03:19.000Z"
+      "date": "2026-06-23T21:27:14.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Your code is fast - if you’re lucky",
-      "url": "https://www.reddit.com/r/programming/comments/1ucjpku/your_code_is_fast_if_youre_lucky/",
-      "source": "Reddit",
-      "date": "2026-06-22T12:50:40.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "256 Lines or Less: Test Case Minimization",
-      "url": "https://www.reddit.com/r/programming/comments/1uchjlr/256_lines_or_less_test_case_minimization/",
-      "source": "Reddit",
-      "date": "2026-06-22T11:04:48.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Deno Desktop Apps",
-      "url": "https://www.reddit.com/r/programming/comments/1uch33d/deno_desktop_apps/",
-      "source": "Reddit",
-      "date": "2026-06-22T10:40:29.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "p99 0 ms* autocomplete for 240 million domain names",
-      "url": "https://www.reddit.com/r/programming/comments/1ucdszk/p99_0_ms_autocomplete_for_240_million_domain_names/",
-      "source": "Reddit",
-      "date": "2026-06-22T07:25:26.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "epoll vs io_uring in Linux",
-      "url": "https://www.reddit.com/r/programming/comments/1ubsndj/epoll_vs_io_uring_in_linux/",
-      "source": "Reddit",
-      "date": "2026-06-21T15:17:44.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "OCaml 5.5.0 released",
-      "url": "https://www.reddit.com/r/programming/comments/1ubn4uj/ocaml_550_released/",
-      "source": "Reddit",
-      "date": "2026-06-21T10:57:13.000Z"
-    },
-    {
-      "id": "hn-48605776",
-      "title": "Cyberdecks, going analog, and convivial technology",
-      "url": "https://blog.hydroponictrash.solar/cyberdecks-going-analog-and-convivial-technology/",
+      "id": "hn-48649435",
+      "title": "Jerry's Map",
+      "url": "http://www.jerrysmap.com/the-map",
       "source": "HackerNews",
-      "score": 7,
-      "comments": 1,
-      "date": "2026-06-20T02:29:21.000Z"
+      "score": 290,
+      "comments": 43,
+      "date": "2026-06-23T18:40:22.000Z"
     },
     {
-      "id": "hn-48597221",
-      "title": "My Mathematical Regression",
-      "url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+      "id": "hn-48648959",
+      "title": "In memory of the man who put red and green squiggles under words",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
       "source": "HackerNews",
-      "score": 180,
+      "score": 93,
+      "comments": 4,
+      "date": "2026-06-23T18:10:47.000Z"
+    },
+    {
+      "id": "hn-48648779",
+      "title": "Swift Package Index joins Apple",
+      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+      "source": "HackerNews",
+      "score": 158,
+      "comments": 49,
+      "date": "2026-06-23T18:00:58.000Z"
+    },
+    {
+      "id": "hn-48648619",
+      "title": "FUTO Swipe – A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "source": "HackerNews",
+      "score": 204,
+      "comments": 71,
+      "date": "2026-06-23T17:50:22.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "80386 Early Start Memory Access",
+      "url": "https://www.reddit.com/r/programming/comments/1udnql0/80386_early_start_memory_access/",
+      "source": "Reddit",
+      "date": "2026-06-23T17:32:57.000Z"
+    },
+    {
+      "id": "hn-48647486",
+      "title": "The worthlessness of Vitamin D is mildly exaggerated",
+      "url": "https://dynomight.net/vitamin-d/",
+      "source": "HackerNews",
+      "score": 178,
+      "comments": 123,
+      "date": "2026-06-23T16:30:18.000Z"
+    },
+    {
+      "id": "hn-48645437",
+      "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+      "url": "https://tikz.dev/editor/",
+      "source": "HackerNews",
+      "score": 309,
       "comments": 61,
-      "date": "2026-06-19T11:06:04.000Z"
+      "date": "2026-06-23T14:24:21.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Intro to GPUs",
+      "url": "https://www.reddit.com/r/programming/comments/1udhtw1/intro_to_gpus/",
+      "source": "Reddit",
+      "date": "2026-06-23T13:55:14.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Two Indexed Hash Tables",
+      "url": "https://www.reddit.com/r/programming/comments/1udfw2y/two_indexed_hash_tables/",
+      "source": "Reddit",
+      "date": "2026-06-23T12:33:37.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "StubZero: $148,337 RCE in Google Cloud Production",
+      "url": "https://www.reddit.com/r/programming/comments/1udepco/stubzero_148337_rce_in_google_cloud_production/",
+      "source": "Reddit",
+      "date": "2026-06-23T11:37:46.000Z"
+    },
+    {
+      "id": "hn-48643180",
+      "title": "The Coming Loop",
+      "url": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+      "source": "HackerNews",
+      "score": 298,
+      "comments": 219,
+      "date": "2026-06-23T11:06:41.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Lies, Damn Lies and Database Benchmarks",
+      "url": "https://www.reddit.com/r/programming/comments/1udcab2/lies_damn_lies_and_database_benchmarks/",
+      "source": "Reddit",
+      "date": "2026-06-23T09:24:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "In memory of the man who put red squiggles under words",
+      "url": "https://www.reddit.com/r/programming/comments/1ud8p4p/in_memory_of_the_man_who_put_red_squiggles_under/",
+      "source": "Reddit",
+      "date": "2026-06-23T05:54:20.000Z"
+    },
+    {
+      "id": "hn-48631511",
+      "title": "Inventing the Future, One Lisp Machine at a Time",
+      "url": "https://www.patrickdomanico.com/bpm/2026/06/16/inventing-the-future-one-lisp-machine-at-a-time/",
+      "source": "HackerNews",
+      "score": 63,
+      "comments": 2,
+      "date": "2026-06-22T15:24:40.000Z"
+    },
+    {
+      "id": "hn-48618481",
+      "title": "Printing Gaussian Splats",
+      "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
+      "source": "HackerNews",
+      "score": 134,
+      "comments": 9,
+      "date": "2026-06-21T12:49:02.000Z"
+    },
+    {
+      "id": "hn-48585852",
+      "title": "Usbliter8: an A12/A13 SecureROM Exploit",
+      "url": "https://ps.tc/pages/blog-usbliter8.html",
+      "source": "HackerNews",
+      "score": 40,
+      "comments": 10,
+      "date": "2026-06-18T14:23:38.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
