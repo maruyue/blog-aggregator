@@ -1,236 +1,166 @@
 {
-  "updatedAt": "2026-06-26T00:12:29.521Z",
-  "total": 30,
+  "updatedAt": "2026-06-27T00:11:07.380Z",
+  "total": 20,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How I hunt for vulnerabilities with AI",
+      "url": "https://clickhouse.com/blog/how-i-hunt-for-vulnerabilities-with-ai",
+      "source": "ClickHouse",
+      "date": "2026-06-27T00:11:07.379Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse achieves AWS Cloud Operations Competency",
+      "url": "https://clickhouse.com/blog/achieves-aws-cloudops-competency",
+      "source": "ClickHouse",
+      "date": "2026-06-27T00:11:07.379Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing Silk: a silky smooth fiber runtime for ClickHouse",
       "url": "https://clickhouse.com/blog/silk",
       "source": "ClickHouse",
-      "date": "2026-06-26T00:12:29.383Z"
+      "date": "2026-06-27T00:11:07.379Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse is now a native connection in Notion Custom Agents",
       "url": "https://clickhouse.com/blog/notion-custom-agents",
       "source": "ClickHouse",
-      "date": "2026-06-26T00:12:29.383Z"
+      "date": "2026-06-27T00:11:07.379Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why we rewrote WAL-G for Postgres backups in Rust: Meet WAL-RUS",
       "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
       "source": "ClickHouse",
-      "date": "2026-06-26T00:12:29.383Z"
+      "date": "2026-06-27T00:11:07.379Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Vibe.co handles billions of ad impressions with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/vibe-adtech-analytics",
       "source": "ClickHouse",
-      "date": "2026-06-26T00:12:29.383Z"
+      "date": "2026-06-27T00:11:07.379Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing the Managed ClickStack MCP Server",
       "url": "https://clickhouse.com/blog/announcing-managed-clickstack-mcp-server",
       "source": "ClickHouse",
-      "date": "2026-06-26T00:12:29.383Z"
+      "date": "2026-06-27T00:11:07.379Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Visa went from multi-day reporting to conversational analytics agents with ClickHouse Cloud and LibreChat",
       "url": "https://clickhouse.com/blog/visa-conversational-agents",
       "source": "ClickHouse",
-      "date": "2026-06-26T00:12:29.383Z"
+      "date": "2026-06-27T00:11:07.379Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The end-to-end cost-performance of real-time analytics: Snowflake vs. ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/real-time-analytics-cost-performance-snowflake-vs-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-06-26T00:12:29.383Z"
+      "date": "2026-06-27T00:11:07.379Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickStack - May 2026",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-may-2026",
       "source": "ClickHouse",
-      "date": "2026-06-26T00:12:29.383Z"
+      "date": "2026-06-27T00:11:07.379Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "What&#x27;s New in pg_clickhouse v0.3.2: Postgres 19, TLS, Regex, and Memory",
-      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-june-2026",
-      "source": "ClickHouse",
-      "date": "2026-06-26T00:12:29.383Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "The future of observability won’t be one proprietary AI agent. It will be thousands built by teams.",
-      "url": "https://clickhouse.com/blog/the-future-of-observability-not-one-proprietary-ai-agent-thousands-by-teams",
-      "source": "ClickHouse",
-      "date": "2026-06-26T00:12:29.383Z"
-    },
-    {
-      "id": "hn-48680370",
-      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed)",
-      "url": "https://gchandbook.org/",
+      "id": "hn-48692995",
+      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
+      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
       "source": "HackerNews",
-      "score": 11,
-      "comments": 1,
-      "date": "2026-06-25T23:10:30.000Z"
+      "score": 124,
+      "comments": 60,
+      "date": "2026-06-26T22:48:28.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "USB for Software Developers: An introduction to writing userspace USB drivers",
-      "url": "https://www.reddit.com/r/programming/comments/1ufopd6/usb_for_software_developers_an_introduction_to/",
-      "source": "Reddit",
-      "date": "2026-06-25T22:29:31.000Z"
-    },
-    {
-      "id": "hn-48679608",
-      "title": "The 'papers, please' era of the internet will decimate your privacy",
-      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "id": "hn-48692946",
+      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
       "source": "HackerNews",
-      "score": 280,
-      "comments": 129,
-      "date": "2026-06-25T21:44:55.000Z"
+      "score": 17,
+      "comments": 0,
+      "date": "2026-06-26T22:43:29.000Z"
     },
     {
-      "id": "hn-48679007",
-      "title": "Un-0: Generating Images with Coupled Oscillators",
-      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+      "id": "hn-48692090",
+      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
+      "url": "https://github.com/Tessil/hopscotch-map",
+      "source": "HackerNews",
+      "score": 50,
+      "comments": 6,
+      "date": "2026-06-26T21:18:28.000Z"
+    },
+    {
+      "id": "hn-48692058",
+      "title": "The gap between open weights LLMs and closed source LLMs",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
       "source": "HackerNews",
       "score": 92,
-      "comments": 23,
-      "date": "2026-06-25T20:50:02.000Z"
+      "comments": 77,
+      "date": "2026-06-26T21:14:47.000Z"
     },
     {
-      "id": "hn-48678852",
-      "title": "Om Malik has died",
-      "url": "https://om.co/2026/06/24/1966-2026/",
+      "id": "hn-48692051",
+      "title": "We can still stop California's 3D printer surveillance scheme",
+      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
       "source": "HackerNews",
-      "score": 295,
-      "comments": 30,
-      "date": "2026-06-25T20:33:37.000Z"
+      "score": 149,
+      "comments": 26,
+      "date": "2026-06-26T21:13:50.000Z"
     },
     {
-      "id": "hn-48678645",
-      "title": "An oral history of Bank Python (2021)",
-      "url": "https://calpaterson.com/bank-python.html",
+      "id": "hn-48690101",
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
       "source": "HackerNews",
-      "score": 57,
-      "comments": 15,
-      "date": "2026-06-25T20:14:35.000Z"
+      "score": 748,
+      "comments": 865,
+      "date": "2026-06-26T18:23:14.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "OCR’ing 100,000 pages with open-source VLMs on Modal",
-      "url": "https://www.reddit.com/r/programming/comments/1ufjnr1/ocring_100000_pages_with_opensource_vlms_on_modal/",
-      "source": "Reddit",
-      "date": "2026-06-25T19:16:42.000Z"
-    },
-    {
-      "id": "hn-48675435",
-      "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-      "url": "https://github.com/inkeep/open-knowledge",
+      "id": "hn-48689028",
+      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "source": "HackerNews",
-      "score": 181,
-      "comments": 79,
-      "date": "2026-06-25T16:04:46.000Z"
+      "score": 777,
+      "comments": 478,
+      "date": "2026-06-26T17:06:55.000Z"
     },
     {
-      "id": "hn-48675179",
-      "title": "An entire Herculaneum scroll has been read for the first time",
-      "url": "https://scrollprize.org/firstscroll",
+      "id": "hn-48673115",
+      "title": "A Tiny Compiler for Data-Parallel Kernels",
+      "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
       "source": "HackerNews",
-      "score": 893,
-      "comments": 202,
-      "date": "2026-06-25T15:48:07.000Z"
+      "score": 13,
+      "comments": 0,
+      "date": "2026-06-25T13:32:12.000Z"
     },
     {
-      "id": "hn-48674967",
-      "title": "IBM debuts sub-1 nanometer chip technology",
-      "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-      "source": "HackerNews",
-      "score": 249,
-      "comments": 144,
-      "date": "2026-06-25T15:33:37.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Domino Tiling: From Dynamic Programming to Finite Fields",
-      "url": "https://www.reddit.com/r/programming/comments/1ufcx1g/domino_tiling_from_dynamic_programming_to_finite/",
-      "source": "Reddit",
-      "date": "2026-06-25T15:15:32.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Building an Entity Component System: Data Oriented Hierarchies",
-      "url": "https://www.reddit.com/r/programming/comments/1ufcwid/building_an_entity_component_system_data_oriented/",
-      "source": "Reddit",
-      "date": "2026-06-25T15:15:00.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The dogma of entity-based Services and Repositories",
-      "url": "https://www.reddit.com/r/programming/comments/1ufc0ki/the_dogma_of_entitybased_services_and_repositories/",
-      "source": "Reddit",
-      "date": "2026-06-25T14:42:45.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Best Simple System for Now • Daniel Terhorst-North",
-      "url": "https://www.reddit.com/r/programming/comments/1uf8d96/best_simple_system_for_now_daniel_terhorstnorth/",
-      "source": "Reddit",
-      "date": "2026-06-25T12:17:28.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How to Write an Effective Software Design Document",
-      "url": "https://www.reddit.com/r/programming/comments/1uevttg/how_to_write_an_effective_software_design_document/",
-      "source": "Reddit",
-      "date": "2026-06-25T01:09:56.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "An opinionated (and mainly correct) guide to naming",
-      "url": "https://www.reddit.com/r/programming/comments/1ue916q/an_opinionated_and_mainly_correct_guide_to_naming/",
-      "source": "Reddit",
-      "date": "2026-06-24T09:49:09.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "New HTTP QUERY Method",
-      "url": "https://www.reddit.com/r/programming/comments/1udwfsp/new_http_query_method/",
-      "source": "Reddit",
-      "date": "2026-06-23T23:02:07.000Z"
-    },
-    {
-      "id": "hn-48642474",
-      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
-      "url": "https://github.com/plbrault/youre-the-os",
+      "id": "hn-48644111",
+      "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
+      "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
       "source": "HackerNews",
       "score": 65,
-      "comments": 15,
-      "date": "2026-06-23T09:35:26.000Z"
+      "comments": 6,
+      "date": "2026-06-23T12:45:09.000Z"
     },
     {
-      "id": "hn-48631450",
-      "title": "Oxide computer 3D rack guided tour",
-      "url": "https://explorer.oxide.computer/",
+      "id": "hn-48642510",
+      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
+      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
       "source": "HackerNews",
-      "score": 273,
-      "comments": 114,
-      "date": "2026-06-22T15:21:04.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
-      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-      "source": "Reddit",
-      "date": "2026-05-23T13:54:37.000Z"
+      "score": 239,
+      "comments": 138,
+      "date": "2026-06-23T09:39:35.000Z"
     }
   ]
 }
