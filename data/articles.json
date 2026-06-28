@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-06-27T00:11:07.380Z",
-  "total": 20,
+  "updatedAt": "2026-06-28T00:05:13.831Z",
+  "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How I hunt for vulnerabilities with AI",
       "url": "https://clickhouse.com/blog/how-i-hunt-for-vulnerabilities-with-ai",
       "source": "ClickHouse",
-      "date": "2026-06-27T00:11:07.379Z"
+      "date": "2026-06-28T00:05:13.535Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse achieves AWS Cloud Operations Competency",
       "url": "https://clickhouse.com/blog/achieves-aws-cloudops-competency",
       "source": "ClickHouse",
-      "date": "2026-06-27T00:11:07.379Z"
+      "date": "2026-06-28T00:05:13.535Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing Silk: a silky smooth fiber runtime for ClickHouse",
       "url": "https://clickhouse.com/blog/silk",
       "source": "ClickHouse",
-      "date": "2026-06-27T00:11:07.379Z"
+      "date": "2026-06-28T00:05:13.535Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse is now a native connection in Notion Custom Agents",
       "url": "https://clickhouse.com/blog/notion-custom-agents",
       "source": "ClickHouse",
-      "date": "2026-06-27T00:11:07.379Z"
+      "date": "2026-06-28T00:05:13.535Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why we rewrote WAL-G for Postgres backups in Rust: Meet WAL-RUS",
       "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
       "source": "ClickHouse",
-      "date": "2026-06-27T00:11:07.379Z"
+      "date": "2026-06-28T00:05:13.535Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Vibe.co handles billions of ad impressions with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/vibe-adtech-analytics",
       "source": "ClickHouse",
-      "date": "2026-06-27T00:11:07.379Z"
+      "date": "2026-06-28T00:05:13.535Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing the Managed ClickStack MCP Server",
       "url": "https://clickhouse.com/blog/announcing-managed-clickstack-mcp-server",
       "source": "ClickHouse",
-      "date": "2026-06-27T00:11:07.379Z"
+      "date": "2026-06-28T00:05:13.535Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Visa went from multi-day reporting to conversational analytics agents with ClickHouse Cloud and LibreChat",
       "url": "https://clickhouse.com/blog/visa-conversational-agents",
       "source": "ClickHouse",
-      "date": "2026-06-27T00:11:07.379Z"
+      "date": "2026-06-28T00:05:13.535Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The end-to-end cost-performance of real-time analytics: Snowflake vs. ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/real-time-analytics-cost-performance-snowflake-vs-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-06-27T00:11:07.379Z"
+      "date": "2026-06-28T00:05:13.535Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickStack - May 2026",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-may-2026",
       "source": "ClickHouse",
-      "date": "2026-06-27T00:11:07.379Z"
+      "date": "2026-06-28T00:05:13.535Z"
     },
     {
-      "id": "hn-48692995",
-      "title": "US allows Anthropic to release Mythos to 'trusted partners'",
-      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
-      "source": "HackerNews",
-      "score": 124,
-      "comments": 60,
-      "date": "2026-06-26T22:48:28.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "CORS: What is it protecting?",
+      "url": "https://www.reddit.com/r/programming/comments/1uhfiog/cors_what_is_it_protecting/",
+      "source": "Reddit",
+      "date": "2026-06-27T22:11:46.000Z"
     },
     {
-      "id": "hn-48692946",
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "id": "hn-48702273",
+      "title": "Choosing a Public DNS Resolver",
+      "url": "https://evilbit.de/dns-resolver-guide.html",
       "source": "HackerNews",
-      "score": 17,
+      "score": 12,
       "comments": 0,
-      "date": "2026-06-26T22:43:29.000Z"
+      "date": "2026-06-27T22:11:28.000Z"
     },
     {
-      "id": "hn-48692090",
-      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-      "url": "https://github.com/Tessil/hopscotch-map",
+      "id": "hn-48701936",
+      "title": "Enhancing X11 Application Security with LXC",
+      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
       "source": "HackerNews",
-      "score": 50,
-      "comments": 6,
-      "date": "2026-06-26T21:18:28.000Z"
+      "score": 21,
+      "comments": 5,
+      "date": "2026-06-27T21:27:36.000Z"
     },
     {
-      "id": "hn-48692058",
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "id": "hn-48701512",
+      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+      "url": "https://github.com/kageroumado/adrafinil",
       "source": "HackerNews",
-      "score": 92,
-      "comments": 77,
-      "date": "2026-06-26T21:14:47.000Z"
+      "score": 71,
+      "comments": 39,
+      "date": "2026-06-27T20:34:53.000Z"
     },
     {
-      "id": "hn-48692051",
-      "title": "We can still stop California's 3D printer surveillance scheme",
-      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The AWS Data Hall Cooling Failure Linked to 150-Plus Cloud Service Disruptions",
+      "url": "https://www.reddit.com/r/programming/comments/1uhbf79/the_aws_data_hall_cooling_failure_linked_to/",
+      "source": "Reddit",
+      "date": "2026-06-27T19:21:32.000Z"
+    },
+    {
+      "id": "hn-48700834",
+      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+      "url": "https://ipcrawl.com/",
       "source": "HackerNews",
-      "score": 149,
-      "comments": 26,
-      "date": "2026-06-26T21:13:50.000Z"
+      "score": 203,
+      "comments": 110,
+      "date": "2026-06-27T19:09:49.000Z"
     },
     {
-      "id": "hn-48690101",
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "id": "hn-48699928",
+      "title": "Turn your site into a place people can bump into each other",
+      "url": "https://cauenapier.com/blog/townsquare_release/",
       "source": "HackerNews",
-      "score": 748,
-      "comments": 865,
-      "date": "2026-06-26T18:23:14.000Z"
+      "score": 137,
+      "comments": 62,
+      "date": "2026-06-27T17:11:20.000Z"
     },
     {
-      "id": "hn-48689028",
-      "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "id": "hn-48698617",
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
       "source": "HackerNews",
-      "score": 777,
-      "comments": 478,
-      "date": "2026-06-26T17:06:55.000Z"
+      "score": 619,
+      "comments": 242,
+      "date": "2026-06-27T14:31:00.000Z"
     },
     {
-      "id": "hn-48673115",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Data Access Patterns That Makes Your CPU Really Angry",
+      "url": "https://www.reddit.com/r/programming/comments/1uh3z4m/data_access_patterns_that_makes_your_cpu_really/",
+      "source": "Reddit",
+      "date": "2026-06-27T14:19:46.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "50 out of 413 Companies that use my libraries",
+      "url": "https://www.reddit.com/r/programming/comments/1uh2qcg/50_out_of_413_companies_that_use_my_libraries/",
+      "source": "Reddit",
+      "date": "2026-06-27T13:25:15.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How to write a faithful MUMPS 76 interpreter and integrated NoSQL database in < 10k lines of C++",
+      "url": "https://www.reddit.com/r/programming/comments/1uh1r36/how_to_write_a_faithful_mumps_76_interpreter_and/",
+      "source": "Reddit",
+      "date": "2026-06-27T12:40:16.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Mojo programming language will become open-source soon.",
+      "url": "https://www.reddit.com/r/programming/comments/1uh1qm4/mojo_programming_language_will_become_opensource/",
+      "source": "Reddit",
+      "date": "2026-06-27T12:39:40.000Z"
+    },
+    {
+      "id": "hn-48697560",
+      "title": "OpenRA",
+      "url": "https://www.openra.net/",
+      "source": "HackerNews",
+      "score": 552,
+      "comments": 102,
+      "date": "2026-06-27T12:10:27.000Z"
+    },
+    {
+      "id": "hn-48696982",
+      "title": "Fintech Engineering Handbook",
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "source": "HackerNews",
+      "score": 451,
+      "comments": 154,
+      "date": "2026-06-27T10:28:53.000Z"
+    },
+    {
+      "id": "hn-48696585",
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "source": "HackerNews",
+      "score": 714,
+      "comments": 293,
+      "date": "2026-06-27T09:18:52.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
       "title": "A Tiny Compiler for Data-Parallel Kernels",
-      "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
-      "source": "HackerNews",
-      "score": 13,
-      "comments": 0,
-      "date": "2026-06-25T13:32:12.000Z"
+      "url": "https://www.reddit.com/r/programming/comments/1uguca7/a_tiny_compiler_for_dataparallel_kernels/",
+      "source": "Reddit",
+      "date": "2026-06-27T05:44:54.000Z"
     },
     {
-      "id": "hn-48644111",
-      "title": "The \"Bizarre Headgear\" exhibit at the Sam Noble museum",
-      "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
-      "source": "HackerNews",
-      "score": 65,
-      "comments": 6,
-      "date": "2026-06-23T12:45:09.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Insert, a language for self-modifying code",
+      "url": "https://www.reddit.com/r/programming/comments/1uglbou/insert_a_language_for_selfmodifying_code/",
+      "source": "Reddit",
+      "date": "2026-06-26T22:36:33.000Z"
     },
     {
-      "id": "hn-48642510",
-      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Fintech Engineering Handbook",
+      "url": "https://www.reddit.com/r/programming/comments/1ufzafr/fintech_engineering_handbook/",
+      "source": "Reddit",
+      "date": "2026-06-26T06:55:05.000Z"
+    },
+    {
+      "id": "hn-48660021",
+      "title": "AI learns the “dark art” of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
       "source": "HackerNews",
-      "score": 239,
-      "comments": 138,
-      "date": "2026-06-23T09:39:35.000Z"
+      "score": 169,
+      "comments": 117,
+      "date": "2026-06-24T14:02:16.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "Reddit",
+      "date": "2026-05-23T13:54:37.000Z"
     }
   ]
 }
