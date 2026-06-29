@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T00:05:13.831Z",
+  "updatedAt": "2026-06-29T00:11:35.608Z",
   "total": 30,
   "articles": [
     {
@@ -7,104 +7,209 @@
       "title": "How I hunt for vulnerabilities with AI",
       "url": "https://clickhouse.com/blog/how-i-hunt-for-vulnerabilities-with-ai",
       "source": "ClickHouse",
-      "date": "2026-06-28T00:05:13.535Z"
+      "date": "2026-06-29T00:11:35.405Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse achieves AWS Cloud Operations Competency",
       "url": "https://clickhouse.com/blog/achieves-aws-cloudops-competency",
       "source": "ClickHouse",
-      "date": "2026-06-28T00:05:13.535Z"
+      "date": "2026-06-29T00:11:35.405Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing Silk: a silky smooth fiber runtime for ClickHouse",
       "url": "https://clickhouse.com/blog/silk",
       "source": "ClickHouse",
-      "date": "2026-06-28T00:05:13.535Z"
+      "date": "2026-06-29T00:11:35.405Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse is now a native connection in Notion Custom Agents",
       "url": "https://clickhouse.com/blog/notion-custom-agents",
       "source": "ClickHouse",
-      "date": "2026-06-28T00:05:13.535Z"
+      "date": "2026-06-29T00:11:35.405Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why we rewrote WAL-G for Postgres backups in Rust: Meet WAL-RUS",
       "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
       "source": "ClickHouse",
-      "date": "2026-06-28T00:05:13.535Z"
+      "date": "2026-06-29T00:11:35.405Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Vibe.co handles billions of ad impressions with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/vibe-adtech-analytics",
       "source": "ClickHouse",
-      "date": "2026-06-28T00:05:13.535Z"
+      "date": "2026-06-29T00:11:35.405Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing the Managed ClickStack MCP Server",
       "url": "https://clickhouse.com/blog/announcing-managed-clickstack-mcp-server",
       "source": "ClickHouse",
-      "date": "2026-06-28T00:05:13.535Z"
+      "date": "2026-06-29T00:11:35.405Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Visa went from multi-day reporting to conversational analytics agents with ClickHouse Cloud and LibreChat",
       "url": "https://clickhouse.com/blog/visa-conversational-agents",
       "source": "ClickHouse",
-      "date": "2026-06-28T00:05:13.535Z"
+      "date": "2026-06-29T00:11:35.405Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The end-to-end cost-performance of real-time analytics: Snowflake vs. ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/real-time-analytics-cost-performance-snowflake-vs-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-06-28T00:05:13.535Z"
+      "date": "2026-06-29T00:11:35.405Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickStack - May 2026",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-may-2026",
       "source": "ClickHouse",
-      "date": "2026-06-28T00:05:13.535Z"
+      "date": "2026-06-29T00:11:35.405Z"
+    },
+    {
+      "id": "hn-48712420",
+      "title": "Knowledge Distillation of Black-Box Large Language Models",
+      "url": "https://arxiv.org/abs/2401.07013",
+      "source": "HackerNews",
+      "score": 23,
+      "comments": 11,
+      "date": "2026-06-28T22:32:04.000Z"
+    },
+    {
+      "id": "hn-48712338",
+      "title": "A QNX-inspired operating system with selectable kernels",
+      "url": "https://qsoe.net",
+      "source": "HackerNews",
+      "score": 22,
+      "comments": 2,
+      "date": "2026-06-28T22:21:51.000Z"
+    },
+    {
+      "id": "hn-48712324",
+      "title": "Xonaly – Canada's Independent Search Engine",
+      "url": "https://xonaly.com/",
+      "source": "HackerNews",
+      "score": 37,
+      "comments": 17,
+      "date": "2026-06-28T22:20:56.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "CORS: What is it protecting?",
-      "url": "https://www.reddit.com/r/programming/comments/1uhfiog/cors_what_is_it_protecting/",
+      "title": "Why high-level abstractions hide the metal: Using ATmega328 as a didactic toy to visualize registers and bits",
+      "url": "https://www.reddit.com/r/programming/comments/1ui8uob/why_highlevel_abstractions_hide_the_metal_using/",
       "source": "Reddit",
-      "date": "2026-06-27T22:11:46.000Z"
+      "date": "2026-06-28T21:08:37.000Z"
     },
     {
-      "id": "hn-48702273",
-      "title": "Choosing a Public DNS Resolver",
-      "url": "https://evilbit.de/dns-resolver-guide.html",
-      "source": "HackerNews",
-      "score": 12,
-      "comments": 0,
-      "date": "2026-06-27T22:11:28.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Modding a 20-year-old game to make it even better",
+      "url": "https://www.reddit.com/r/programming/comments/1ui85rg/modding_a_20yearold_game_to_make_it_even_better/",
+      "source": "Reddit",
+      "date": "2026-06-28T20:40:26.000Z"
     },
     {
-      "id": "hn-48701936",
-      "title": "Enhancing X11 Application Security with LXC",
-      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
-      "source": "HackerNews",
-      "score": 21,
-      "comments": 5,
-      "date": "2026-06-27T21:27:36.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Your console.log Is Lying to You: debugging traps and tricks",
+      "url": "https://www.reddit.com/r/programming/comments/1ui7237/your_consolelog_is_lying_to_you_debugging_traps/",
+      "source": "Reddit",
+      "date": "2026-06-28T19:57:09.000Z"
     },
     {
-      "id": "hn-48701512",
-      "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-      "url": "https://github.com/kageroumado/adrafinil",
+      "id": "hn-48710775",
+      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
       "source": "HackerNews",
-      "score": 71,
-      "comments": 39,
-      "date": "2026-06-27T20:34:53.000Z"
+      "score": 61,
+      "comments": 31,
+      "date": "2026-06-28T19:38:00.000Z"
+    },
+    {
+      "id": "hn-48710232",
+      "title": "Librepods: AirPods liberated",
+      "url": "https://github.com/librepods-org/librepods",
+      "source": "HackerNews",
+      "score": 248,
+      "comments": 72,
+      "date": "2026-06-28T18:48:53.000Z"
+    },
+    {
+      "id": "hn-48710092",
+      "title": "Historical memory prices 1960-2026",
+      "url": "https://dam.stanford.edu/memory-prices.html",
+      "source": "HackerNews",
+      "score": 129,
+      "comments": 45,
+      "date": "2026-06-28T18:32:53.000Z"
+    },
+    {
+      "id": "hn-48709670",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "source": "HackerNews",
+      "score": 348,
+      "comments": 162,
+      "date": "2026-06-28T17:50:47.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Ante: A New Way to Blend Borrow Checking and Reference Counting",
+      "url": "https://www.reddit.com/r/programming/comments/1ui2ql9/ante_a_new_way_to_blend_borrow_checking_and/",
+      "source": "Reddit",
+      "date": "2026-06-28T17:09:35.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Resource based slot range splitting in a distributed databases",
+      "url": "https://www.reddit.com/r/programming/comments/1ui2mo1/resource_based_slot_range_splitting_in_a/",
+      "source": "Reddit",
+      "date": "2026-06-28T17:05:14.000Z"
+    },
+    {
+      "id": "hn-48708991",
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "source": "HackerNews",
+      "score": 177,
+      "comments": 235,
+      "date": "2026-06-28T16:41:12.000Z"
+    },
+    {
+      "id": "hn-48708941",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "source": "HackerNews",
+      "score": 312,
+      "comments": 422,
+      "date": "2026-06-28T16:35:19.000Z"
+    },
+    {
+      "id": "hn-48707763",
+      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+      "url": "https://pudding.cool/2026/06/menu-story/",
+      "source": "HackerNews",
+      "score": 312,
+      "comments": 83,
+      "date": "2026-06-28T14:44:56.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Conway's Game of Life Explained Visually",
+      "url": "https://www.reddit.com/r/programming/comments/1uhr43k/conways_game_of_life_explained_visually/",
+      "source": "Reddit",
+      "date": "2026-06-28T07:48:03.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "CORS explained in plain English",
+      "url": "https://www.reddit.com/r/programming/comments/1uhpazx/cors_explained_in_plain_english/",
+      "source": "Reddit",
+      "date": "2026-06-28T06:04:55.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -114,116 +219,11 @@
       "date": "2026-06-27T19:21:32.000Z"
     },
     {
-      "id": "hn-48700834",
-      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-      "url": "https://ipcrawl.com/",
-      "source": "HackerNews",
-      "score": 203,
-      "comments": 110,
-      "date": "2026-06-27T19:09:49.000Z"
-    },
-    {
-      "id": "hn-48699928",
-      "title": "Turn your site into a place people can bump into each other",
-      "url": "https://cauenapier.com/blog/townsquare_release/",
-      "source": "HackerNews",
-      "score": 137,
-      "comments": 62,
-      "date": "2026-06-27T17:11:20.000Z"
-    },
-    {
-      "id": "hn-48698617",
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "url": "https://github.com/bikini/exploitarium",
-      "source": "HackerNews",
-      "score": 619,
-      "comments": 242,
-      "date": "2026-06-27T14:31:00.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "Data Access Patterns That Makes Your CPU Really Angry",
       "url": "https://www.reddit.com/r/programming/comments/1uh3z4m/data_access_patterns_that_makes_your_cpu_really/",
       "source": "Reddit",
       "date": "2026-06-27T14:19:46.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "50 out of 413 Companies that use my libraries",
-      "url": "https://www.reddit.com/r/programming/comments/1uh2qcg/50_out_of_413_companies_that_use_my_libraries/",
-      "source": "Reddit",
-      "date": "2026-06-27T13:25:15.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How to write a faithful MUMPS 76 interpreter and integrated NoSQL database in < 10k lines of C++",
-      "url": "https://www.reddit.com/r/programming/comments/1uh1r36/how_to_write_a_faithful_mumps_76_interpreter_and/",
-      "source": "Reddit",
-      "date": "2026-06-27T12:40:16.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Mojo programming language will become open-source soon.",
-      "url": "https://www.reddit.com/r/programming/comments/1uh1qm4/mojo_programming_language_will_become_opensource/",
-      "source": "Reddit",
-      "date": "2026-06-27T12:39:40.000Z"
-    },
-    {
-      "id": "hn-48697560",
-      "title": "OpenRA",
-      "url": "https://www.openra.net/",
-      "source": "HackerNews",
-      "score": 552,
-      "comments": 102,
-      "date": "2026-06-27T12:10:27.000Z"
-    },
-    {
-      "id": "hn-48696982",
-      "title": "Fintech Engineering Handbook",
-      "url": "https://w.pitula.me/fintech-engineering-handbook/",
-      "source": "HackerNews",
-      "score": 451,
-      "comments": 154,
-      "date": "2026-06-27T10:28:53.000Z"
-    },
-    {
-      "id": "hn-48696585",
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "source": "HackerNews",
-      "score": 714,
-      "comments": 293,
-      "date": "2026-06-27T09:18:52.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "A Tiny Compiler for Data-Parallel Kernels",
-      "url": "https://www.reddit.com/r/programming/comments/1uguca7/a_tiny_compiler_for_dataparallel_kernels/",
-      "source": "Reddit",
-      "date": "2026-06-27T05:44:54.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Insert, a language for self-modifying code",
-      "url": "https://www.reddit.com/r/programming/comments/1uglbou/insert_a_language_for_selfmodifying_code/",
-      "source": "Reddit",
-      "date": "2026-06-26T22:36:33.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Fintech Engineering Handbook",
-      "url": "https://www.reddit.com/r/programming/comments/1ufzafr/fintech_engineering_handbook/",
-      "source": "Reddit",
-      "date": "2026-06-26T06:55:05.000Z"
-    },
-    {
-      "id": "hn-48660021",
-      "title": "AI learns the “dark art” of RFIC design",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "source": "HackerNews",
-      "score": 169,
-      "comments": 117,
-      "date": "2026-06-24T14:02:16.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
