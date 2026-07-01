@@ -1,166 +1,166 @@
 {
-  "updatedAt": "2026-06-30T00:06:49.817Z",
+  "updatedAt": "2026-07-01T00:08:23.112Z",
   "total": 20,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How Jua delivers the world’s most accurate physics simulations 3x faster with ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/jua",
+      "source": "ClickHouse",
+      "date": "2026-07-01T00:08:23.112Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "A Quadrillion Rows across three Clouds: scaling LogHouse",
+      "url": "https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse",
+      "source": "ClickHouse",
+      "date": "2026-07-01T00:08:23.112Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Benchmarks and Obscurantism: A “red” line that should not be crossed",
       "url": "https://clickhouse.com/blog/databricks-reyden-benchmark-transparency-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-06-30T00:06:49.817Z"
+      "date": "2026-07-01T00:08:23.112Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Agents hate friction: early thoughts on building for agents",
       "url": "https://clickhouse.com/blog/agents-hate-friction",
       "source": "ClickHouse",
-      "date": "2026-06-30T00:06:49.817Z"
+      "date": "2026-07-01T00:08:23.112Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How I hunt for vulnerabilities with AI",
       "url": "https://clickhouse.com/blog/how-i-hunt-for-vulnerabilities-with-ai",
       "source": "ClickHouse",
-      "date": "2026-06-30T00:06:49.817Z"
+      "date": "2026-07-01T00:08:23.112Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse achieves AWS Cloud Operations Competency",
       "url": "https://clickhouse.com/blog/achieves-aws-cloudops-competency",
       "source": "ClickHouse",
-      "date": "2026-06-30T00:06:49.817Z"
+      "date": "2026-07-01T00:08:23.112Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing Silk: a silky smooth fiber runtime for ClickHouse",
       "url": "https://clickhouse.com/blog/silk",
       "source": "ClickHouse",
-      "date": "2026-06-30T00:06:49.817Z"
+      "date": "2026-07-01T00:08:23.112Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse is now a native connection in Notion Custom Agents",
       "url": "https://clickhouse.com/blog/notion-custom-agents",
       "source": "ClickHouse",
-      "date": "2026-06-30T00:06:49.817Z"
+      "date": "2026-07-01T00:08:23.112Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why we rewrote WAL-G for Postgres backups in Rust: Meet WAL-RUS",
       "url": "https://clickhouse.com/blog/walrus-postgres-backups-in-rust",
       "source": "ClickHouse",
-      "date": "2026-06-30T00:06:49.817Z"
+      "date": "2026-07-01T00:08:23.112Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Vibe.co handles billions of ad impressions with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/vibe-adtech-analytics",
       "source": "ClickHouse",
-      "date": "2026-06-30T00:06:49.817Z"
+      "date": "2026-07-01T00:08:23.112Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Announcing the Managed ClickStack MCP Server",
-      "url": "https://clickhouse.com/blog/announcing-managed-clickstack-mcp-server",
-      "source": "ClickHouse",
-      "date": "2026-06-30T00:06:49.817Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Visa went from multi-day reporting to conversational analytics agents with ClickHouse Cloud and LibreChat",
-      "url": "https://clickhouse.com/blog/visa-conversational-agents",
-      "source": "ClickHouse",
-      "date": "2026-06-30T00:06:49.817Z"
-    },
-    {
-      "id": "hn-48726102",
-      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "id": "hn-48740135",
+      "title": "Hatari – Online Atari ST/STE/TT/Falcon Emulator",
+      "url": "https://hatari.frama.io/hatari/online/hatari.html",
       "source": "HackerNews",
-      "score": 61,
+      "score": 20,
+      "comments": 3,
+      "date": "2026-06-30T22:34:23.000Z"
+    },
+    {
+      "id": "hn-48739466",
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+      "source": "HackerNews",
+      "score": 95,
+      "comments": 49,
+      "date": "2026-06-30T21:29:13.000Z"
+    },
+    {
+      "id": "hn-48738985",
+      "title": "I ported Kubernetes to the browser",
+      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+      "source": "HackerNews",
+      "score": 137,
+      "comments": 44,
+      "date": "2026-06-30T20:48:36.000Z"
+    },
+    {
+      "id": "hn-48738938",
+      "title": "Leanstral 1.5",
+      "url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+      "source": "HackerNews",
+      "score": 74,
+      "comments": 11,
+      "date": "2026-06-30T20:44:56.000Z"
+    },
+    {
+      "id": "hn-48736605",
+      "title": "Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "HackerNews",
+      "score": 816,
+      "comments": 462,
+      "date": "2026-06-30T17:59:52.000Z"
+    },
+    {
+      "id": "hn-48735770",
+      "title": "Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "source": "HackerNews",
+      "score": 337,
+      "comments": 113,
+      "date": "2026-06-30T17:07:41.000Z"
+    },
+    {
+      "id": "hn-48735444",
+      "title": "Nano Banana 2 Lite",
+      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "source": "HackerNews",
+      "score": 288,
+      "comments": 107,
+      "date": "2026-06-30T16:48:37.000Z"
+    },
+    {
+      "id": "hn-48734373",
+      "title": "Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "source": "HackerNews",
+      "score": 1331,
+      "comments": 379,
+      "date": "2026-06-30T15:44:24.000Z"
+    },
+    {
+      "id": "hn-48712289",
+      "title": "How does a pull-back car work? Illustrated teardown",
+      "url": "https://mechanical-pencil.com/products/car",
+      "source": "HackerNews",
+      "score": 82,
       "comments": 21,
-      "date": "2026-06-29T22:21:00.000Z"
+      "date": "2026-06-28T22:16:20.000Z"
     },
     {
-      "id": "hn-48726073",
-      "title": "Scientists find molecular-level evidence for two structures in liquid water",
-      "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
+      "id": "hn-48707558",
+      "title": "Hengefinder",
+      "url": "https://hengefinder.com/",
       "source": "HackerNews",
-      "score": 38,
-      "comments": 10,
-      "date": "2026-06-29T22:18:26.000Z"
-    },
-    {
-      "id": "hn-48724230",
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-      "source": "HackerNews",
-      "score": 253,
-      "comments": 155,
-      "date": "2026-06-29T19:49:28.000Z"
-    },
-    {
-      "id": "hn-48722052",
-      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "url": "https://github.com/deepreinforce-ai/Ornith-1",
-      "source": "HackerNews",
-      "score": 140,
-      "comments": 30,
-      "date": "2026-06-29T17:16:17.000Z"
-    },
-    {
-      "id": "hn-48721903",
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-      "source": "HackerNews",
-      "score": 552,
-      "comments": 477,
-      "date": "2026-06-29T17:05:16.000Z"
-    },
-    {
-      "id": "hn-48720924",
-      "title": "US Supreme Court rules geofence warrants require constitutional protections",
-      "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
-      "source": "HackerNews",
-      "score": 397,
-      "comments": 182,
-      "date": "2026-06-29T15:54:24.000Z"
-    },
-    {
-      "id": "hn-48720758",
-      "title": "A native graphical shell for SSH",
-      "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-      "source": "HackerNews",
-      "score": 224,
-      "comments": 106,
-      "date": "2026-06-29T15:42:17.000Z"
-    },
-    {
-      "id": "hn-48719485",
-      "title": "Rocketlab acquires Iridium",
-      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-      "source": "HackerNews",
-      "score": 342,
-      "comments": 217,
-      "date": "2026-06-29T14:09:24.000Z"
-    },
-    {
-      "id": "hn-48698908",
-      "title": "Free the Icons",
-      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-      "source": "HackerNews",
-      "score": 133,
-      "comments": 26,
-      "date": "2026-06-27T15:05:17.000Z"
-    },
-    {
-      "id": "hn-48697599",
-      "title": "Kb – Prolog Knowledge Base",
-      "url": "https://github.com/mat-mgm/kb-prolog",
-      "source": "HackerNews",
-      "score": 14,
-      "comments": 1,
-      "date": "2026-06-27T12:16:27.000Z"
+      "score": 15,
+      "comments": 4,
+      "date": "2026-06-28T14:24:06.000Z"
     }
   ]
 }
