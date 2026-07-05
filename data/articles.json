@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-07-04T00:07:21.156Z",
-  "total": 20,
+  "updatedAt": "2026-07-05T00:03:34.857Z",
+  "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.6",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-06",
       "source": "ClickHouse",
-      "date": "2026-07-04T00:07:21.156Z"
+      "date": "2026-07-05T00:03:34.462Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Agents is now available for Managed Postgres",
       "url": "https://clickhouse.com/blog/clickhouse-agents-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-04T00:07:21.156Z"
+      "date": "2026-07-05T00:03:34.462Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How we made ClickStack 5x faster for ClickHouse observability",
       "url": "https://clickhouse.com/blog/making-clickstack-5x-faster-clickhouse-observability",
       "source": "ClickHouse",
-      "date": "2026-07-04T00:07:21.156Z"
+      "date": "2026-07-05T00:03:34.462Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How we scale PgBouncer in ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-04T00:07:21.156Z"
+      "date": "2026-07-05T00:03:34.462Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Artemis Security runs 69x faster detection queries with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/artemis-security-real-time-threat-detection",
       "source": "ClickHouse",
-      "date": "2026-07-04T00:07:21.156Z"
+      "date": "2026-07-05T00:03:34.462Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Clever ingests 200x more logs at the same cost with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/clever-observability-at-scale",
       "source": "ClickHouse",
-      "date": "2026-07-04T00:07:21.156Z"
+      "date": "2026-07-05T00:03:34.462Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Jua delivers the world’s most accurate physics simulations 3x faster with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/jua-physics-foundation-model",
       "source": "ClickHouse",
-      "date": "2026-07-04T00:07:21.156Z"
+      "date": "2026-07-05T00:03:34.462Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "A Quadrillion Rows across three Clouds: scaling LogHouse",
       "url": "https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse",
       "source": "ClickHouse",
-      "date": "2026-07-04T00:07:21.156Z"
+      "date": "2026-07-05T00:03:34.462Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Benchmarks and Obscurantism: A “red” line that should not be crossed",
       "url": "https://clickhouse.com/blog/databricks-reyden-benchmark-transparency-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-07-04T00:07:21.156Z"
+      "date": "2026-07-05T00:03:34.462Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Agents hate friction: early thoughts on building for agents",
       "url": "https://clickhouse.com/blog/agents-hate-friction",
       "source": "ClickHouse",
-      "date": "2026-07-04T00:07:21.156Z"
+      "date": "2026-07-05T00:03:34.462Z"
     },
     {
-      "id": "hn-48781196",
-      "title": "Odin, Wikipedia and Engagement Farming",
-      "url": "https://katamari64.se/posts/2026/odin-wikipedia/",
+      "id": "hn-48790066",
+      "title": "Scientists reverse brain aging, with a nasal spray",
+      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
       "source": "HackerNews",
-      "score": 19,
+      "score": 20,
       "comments": 1,
-      "date": "2026-07-03T23:24:35.000Z"
+      "date": "2026-07-04T23:41:10.000Z"
     },
     {
-      "id": "hn-48780996",
-      "title": "The circuit that lets your brain think and see",
-      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
+      "id": "hn-48789428",
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
       "source": "HackerNews",
-      "score": 16,
-      "comments": 1,
-      "date": "2026-07-03T22:56:17.000Z"
-    },
-    {
-      "id": "hn-48780913",
-      "title": "Amsterdam invented the fire department",
-      "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
-      "source": "HackerNews",
-      "score": 24,
-      "comments": 6,
-      "date": "2026-07-03T22:46:18.000Z"
-    },
-    {
-      "id": "hn-48780870",
-      "title": "Giant trees have no trouble pumping water to top branches",
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-      "source": "HackerNews",
-      "score": 43,
-      "comments": 19,
-      "date": "2026-07-03T22:40:29.000Z"
-    },
-    {
-      "id": "hn-48780865",
-      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-      "source": "HackerNews",
-      "score": 31,
-      "comments": 5,
-      "date": "2026-07-03T22:39:50.000Z"
-    },
-    {
-      "id": "hn-48780826",
-      "title": "Dispersion loss counteracts embedding condensation in small language models",
-      "url": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
-      "source": "HackerNews",
-      "score": 15,
-      "comments": 3,
-      "date": "2026-07-03T22:35:47.000Z"
-    },
-    {
-      "id": "hn-48780801",
-      "title": "Leanstral 1.5: Proof Abundance for All",
-      "url": "https://mistral.ai/news/leanstral-1-5/",
-      "source": "HackerNews",
-      "score": 34,
-      "comments": 4,
-      "date": "2026-07-03T22:33:10.000Z"
-    },
-    {
-      "id": "hn-48779683",
-      "title": "Espionage Against the European Parliament",
-      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
-      "source": "HackerNews",
-      "score": 248,
-      "comments": 62,
-      "date": "2026-07-03T20:38:26.000Z"
-    },
-    {
-      "id": "hn-48779454",
-      "title": "SearXNG: A free internet metasearch engine",
-      "url": "https://github.com/searxng/searxng",
-      "source": "HackerNews",
-      "score": 108,
+      "score": 107,
       "comments": 26,
-      "date": "2026-07-03T20:15:49.000Z"
+      "date": "2026-07-04T21:51:09.000Z"
     },
     {
-      "id": "hn-48775921",
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "url": "https://github.com/jamesob/local-llm",
+      "id": "hn-48788599",
+      "title": "Better Models: Worse Tools",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
       "source": "HackerNews",
-      "score": 256,
-      "comments": 121,
-      "date": "2026-07-03T15:03:43.000Z"
+      "score": 73,
+      "comments": 20,
+      "date": "2026-07-04T20:16:22.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Learn PHP in 2026 (Yes, Really)",
+      "url": "https://www.reddit.com/r/programming/comments/1unirtj/learn_php_in_2026_yes_really/",
+      "source": "Reddit",
+      "date": "2026-07-04T20:10:00.000Z"
+    },
+    {
+      "id": "hn-48788283",
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "source": "HackerNews",
+      "score": 303,
+      "comments": 128,
+      "date": "2026-07-04T19:41:10.000Z"
+    },
+    {
+      "id": "hn-48787329",
+      "title": "Verizon is About to Break our Watches",
+      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+      "source": "HackerNews",
+      "score": 121,
+      "comments": 62,
+      "date": "2026-07-04T17:52:36.000Z"
+    },
+    {
+      "id": "hn-48786838",
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "source": "HackerNews",
+      "score": 298,
+      "comments": 151,
+      "date": "2026-07-04T16:51:26.000Z"
+    },
+    {
+      "id": "hn-48786781",
+      "title": "Leaking YouTube creators' private videos",
+      "url": "https://javoriuski.com/post/youtube",
+      "source": "HackerNews",
+      "score": 449,
+      "comments": 247,
+      "date": "2026-07-04T16:45:10.000Z"
+    },
+    {
+      "id": "hn-48786638",
+      "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-30",
+      "source": "HackerNews",
+      "score": 116,
+      "comments": 24,
+      "date": "2026-07-04T16:30:10.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Software, from First Principles",
+      "url": "https://www.reddit.com/r/programming/comments/1unatjq/software_from_first_principles/",
+      "source": "Reddit",
+      "date": "2026-07-04T14:42:47.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Vertical Codebase",
+      "url": "https://www.reddit.com/r/programming/comments/1unat29/the_vertical_codebase/",
+      "source": "Reddit",
+      "date": "2026-07-04T14:42:12.000Z"
+    },
+    {
+      "id": "hn-48785485",
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "url": "https://github.com/anthropics/claude-code/issues/74066",
+      "source": "HackerNews",
+      "score": 266,
+      "comments": 125,
+      "date": "2026-07-04T14:03:40.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Zed Editor Review (after using it for a couple of weeks)",
+      "url": "https://www.reddit.com/r/programming/comments/1un8c3n/zed_editor_review_after_using_it_for_a_couple_of/",
+      "source": "Reddit",
+      "date": "2026-07-04T12:52:49.000Z"
+    },
+    {
+      "id": "hn-48784777",
+      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+      "url": "https://peteris.rocks/blog/htop/",
+      "source": "HackerNews",
+      "score": 371,
+      "comments": 52,
+      "date": "2026-07-04T12:00:57.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "CI workflows on Tangled for Elixir",
+      "url": "https://www.reddit.com/r/programming/comments/1un6n4e/ci_workflows_on_tangled_for_elixir/",
+      "source": "Reddit",
+      "date": "2026-07-04T11:26:54.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Division Polynomials of Elliptic Curves in Python",
+      "url": "https://www.reddit.com/r/programming/comments/1un3czl/division_polynomials_of_elliptic_curves_in_python/",
+      "source": "Reddit",
+      "date": "2026-07-04T08:09:50.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Keynote: Linus Torvalds in Conversation with Dirk Hohndel",
+      "url": "https://www.reddit.com/r/programming/comments/1umk39t/keynote_linus_torvalds_in_conversation_with_dirk/",
+      "source": "Reddit",
+      "date": "2026-07-03T17:06:32.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Hunting a 16-year-old SQLite bug with TLA+: is dqlite affected?",
+      "url": "https://www.reddit.com/r/programming/comments/1umi3j4/hunting_a_16yearold_sqlite_bug_with_tla_is_dqlite/",
+      "source": "Reddit",
+      "date": "2026-07-03T15:50:45.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Linux has officially won",
+      "url": "https://www.reddit.com/r/programming/comments/1um497y/linux_has_officially_won/",
+      "source": "Reddit",
+      "date": "2026-07-03T04:23:58.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "Reddit",
+      "date": "2026-05-23T13:54:37.000Z"
     }
   ]
 }
