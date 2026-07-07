@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-07-07T00:10:49.417Z",
-  "total": 20,
+  "updatedAt": "2026-07-07T23:59:47.315Z",
+  "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "AI needs the best-of-breed data stack: Postgres and ClickHouse",
+      "url": "https://clickhouse.com/blog/ai-best-of-breed-data-stack",
+      "source": "ClickHouse",
+      "date": "2026-07-07T23:59:47.314Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "chDB as the Agent&#x27;s Local Data Engine",
+      "url": "https://clickhouse.com/blog/chdb-agents-local-data-engine",
+      "source": "ClickHouse",
+      "date": "2026-07-07T23:59:47.314Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "98% faster queries, 50% lower cloud costs: Verihubs’ journey from Postgres to ClickHouse",
       "url": "https://clickhouse.com/blog/verihubs-data-warehouse",
       "source": "ClickHouse",
-      "date": "2026-07-07T00:10:49.417Z"
+      "date": "2026-07-07T23:59:47.314Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing AI dashboard and workflow generation in ClickStack",
       "url": "https://clickhouse.com/blog/clickstack-ai-dashboard-generation",
       "source": "ClickHouse",
-      "date": "2026-07-07T00:10:49.417Z"
+      "date": "2026-07-07T23:59:47.314Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.6",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-06",
       "source": "ClickHouse",
-      "date": "2026-07-07T00:10:49.417Z"
+      "date": "2026-07-07T23:59:47.314Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Agents is now available for Managed Postgres",
       "url": "https://clickhouse.com/blog/clickhouse-agents-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-07T00:10:49.417Z"
+      "date": "2026-07-07T23:59:47.314Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How we made ClickStack 5x faster for ClickHouse observability",
       "url": "https://clickhouse.com/blog/making-clickstack-5x-faster-clickhouse-observability",
       "source": "ClickHouse",
-      "date": "2026-07-07T00:10:49.417Z"
+      "date": "2026-07-07T23:59:47.314Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How we scale PgBouncer in ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-07T00:10:49.417Z"
+      "date": "2026-07-07T23:59:47.314Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Artemis Security runs 69x faster detection queries with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/artemis-security-real-time-threat-detection",
       "source": "ClickHouse",
-      "date": "2026-07-07T00:10:49.417Z"
+      "date": "2026-07-07T23:59:47.314Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Clever ingests 200x more logs at the same cost with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/clever-observability-at-scale",
       "source": "ClickHouse",
-      "date": "2026-07-07T00:10:49.417Z"
+      "date": "2026-07-07T23:59:47.314Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Jua delivers the world’s most accurate physics simulations 3x faster with ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/jua-physics-foundation-model",
-      "source": "ClickHouse",
-      "date": "2026-07-07T00:10:49.417Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The need for new words/terms as the antidote to bad software",
+      "url": "https://www.reddit.com/r/programming/comments/1uqci17/the_need_for_new_wordsterms_as_the_antidote_to/",
+      "source": "Reddit",
+      "date": "2026-07-07T23:59:24.000Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "A Quadrillion Rows across three Clouds: scaling LogHouse",
-      "url": "https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse",
-      "source": "ClickHouse",
-      "date": "2026-07-07T00:10:49.417Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Experiences with Outlier",
+      "url": "https://www.reddit.com/r/programming/comments/1uqb2d2/experiences_with_outlier/",
+      "source": "Reddit",
+      "date": "2026-07-07T23:01:07.000Z"
     },
     {
-      "id": "hn-48811644",
-      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-      "url": "https://ternlight-demo.vercel.app/",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Squint Hard Enough: Attacking Perceptual Hashing with Adversarial Machine Learning",
+      "url": "https://www.reddit.com/r/programming/comments/1uqamyh/squint_hard_enough_attacking_perceptual_hashing/",
+      "source": "Reddit",
+      "date": "2026-07-07T22:43:44.000Z"
+    },
+    {
+      "id": "hn-48824826",
+      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
+      "url": "https://www.gao.gov/products/gao-26-108193",
       "source": "HackerNews",
-      "score": 34,
-      "comments": 7,
-      "date": "2026-07-06T23:06:31.000Z"
+      "score": 21,
+      "comments": 1,
+      "date": "2026-07-07T22:23:58.000Z"
     },
     {
-      "id": "hn-48811591",
-      "title": "Fable turned remarkable into Tom Riddle's diary from Harry Potter",
-      "url": "https://github.com/MaximeRivest/Riddle",
-      "source": "HackerNews",
-      "score": 50,
-      "comments": 19,
-      "date": "2026-07-06T23:00:24.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Rootless container checkpoint/restore in CRIU without CAP_SYS_ADMIN",
+      "url": "https://www.reddit.com/r/programming/comments/1uq8m9t/rootless_container_checkpointrestore_in_criu/",
+      "source": "Reddit",
+      "date": "2026-07-07T21:26:07.000Z"
     },
     {
-      "id": "hn-48811081",
-      "title": "Full Writeup of the Windows GDID",
-      "url": "https://github.com/SmtimesIWndr/gdid-reversal",
+      "id": "hn-48823557",
+      "title": "Every new car sold in the European Union must include a driver monitoring camera",
+      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
       "source": "HackerNews",
-      "score": 27,
-      "comments": 10,
-      "date": "2026-07-06T22:02:24.000Z"
+      "score": 363,
+      "comments": 466,
+      "date": "2026-07-07T20:50:46.000Z"
     },
     {
-      "id": "hn-48809877",
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "id": "hn-48821848",
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "url": "https://davit.app",
       "source": "HackerNews",
-      "score": 96,
-      "comments": 64,
-      "date": "2026-07-06T20:14:55.000Z"
+      "score": 157,
+      "comments": 32,
+      "date": "2026-07-07T18:44:29.000Z"
     },
     {
-      "id": "hn-48809354",
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "id": "hn-48821576",
+      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
       "source": "HackerNews",
-      "score": 41,
-      "comments": 3,
-      "date": "2026-07-06T19:28:24.000Z"
+      "score": 242,
+      "comments": 55,
+      "date": "2026-07-07T18:24:10.000Z"
     },
     {
-      "id": "hn-48808928",
-      "title": "CoMaps – FOSS Offline Maps",
-      "url": "https://www.comaps.app/",
+      "id": "hn-48819608",
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "url": "https://30papers.com/",
       "source": "HackerNews",
-      "score": 273,
-      "comments": 59,
-      "date": "2026-07-06T18:55:07.000Z"
+      "score": 312,
+      "comments": 55,
+      "date": "2026-07-07T15:58:13.000Z"
     },
     {
-      "id": "hn-48808663",
-      "title": "Linux on the Atari Jaguar",
-      "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
-      "source": "HackerNews",
-      "score": 94,
-      "comments": 16,
-      "date": "2026-07-06T18:35:54.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Security you can't justify is a vicious cycle",
+      "url": "https://www.reddit.com/r/programming/comments/1upywzk/security_you_cant_justify_is_a_vicious_cycle/",
+      "source": "Reddit",
+      "date": "2026-07-07T15:45:05.000Z"
     },
     {
-      "id": "hn-48808482",
-      "title": "OpenWrt One – Open Hardware Router",
-      "url": "https://openwrt.org/toh/openwrt/one",
+      "id": "hn-48818311",
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
       "source": "HackerNews",
-      "score": 391,
-      "comments": 159,
-      "date": "2026-07-06T18:23:12.000Z"
+      "score": 405,
+      "comments": 134,
+      "date": "2026-07-07T14:23:15.000Z"
     },
     {
-      "id": "hn-48808002",
-      "title": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "source": "HackerNews",
-      "score": 243,
-      "comments": 80,
-      "date": "2026-07-06T17:44:08.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "What is a token and why does it cost so much? - Computerphile",
+      "url": "https://www.reddit.com/r/programming/comments/1upu953/what_is_a_token_and_why_does_it_cost_so_much/",
+      "source": "Reddit",
+      "date": "2026-07-07T12:54:21.000Z"
     },
     {
-      "id": "hn-48782248",
-      "title": "A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
-      "url": "https://arxiv.org/abs/2607.02112",
+      "id": "hn-48816956",
+      "title": "A better way to tie gym shorts (or any drawstring) [video]",
+      "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
       "source": "HackerNews",
-      "score": 12,
-      "comments": 0,
-      "date": "2026-07-04T02:51:57.000Z"
+      "score": 437,
+      "comments": 155,
+      "date": "2026-07-07T12:45:06.000Z"
+    },
+    {
+      "id": "hn-48816883",
+      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "url": "https://streetcomplete.app/",
+      "source": "HackerNews",
+      "score": 664,
+      "comments": 162,
+      "date": "2026-07-07T12:38:35.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The mask that compiles to nothing: how HotSpot's JIT learned to reason about bits",
+      "url": "https://www.reddit.com/r/programming/comments/1ups1cn/the_mask_that_compiles_to_nothing_how_hotspots/",
+      "source": "Reddit",
+      "date": "2026-07-07T11:16:31.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Drunk Post: Things I’ve Learned as a Senior Engineer",
+      "url": "https://www.reddit.com/r/programming/comments/1upo7f6/drunk_post_things_ive_learned_as_a_senior_engineer/",
+      "source": "Reddit",
+      "date": "2026-07-07T07:45:32.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Odin 1.0 Announcement",
+      "url": "https://www.reddit.com/r/programming/comments/1upmnop/odin_10_announcement/",
+      "source": "Reddit",
+      "date": "2026-07-07T06:19:00.000Z"
+    },
+    {
+      "id": "hn-48780507",
+      "title": "Why Vancouver is always a stand-in for San Francisco in movies and TV shows (2021)",
+      "url": "https://www.sfgate.com/sf-culture/article/vancouver-stand-in-movie-tv-sf-16613821.php",
+      "source": "HackerNews",
+      "score": 21,
+      "comments": 20,
+      "date": "2026-07-03T21:58:15.000Z"
+    },
+    {
+      "id": "hn-48756578",
+      "title": "Herdr: One terminal to rule them all",
+      "url": "https://herdr.dev/",
+      "source": "HackerNews",
+      "score": 131,
+      "comments": 71,
+      "date": "2026-07-02T04:28:39.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "Reddit",
+      "date": "2026-05-23T13:54:37.000Z"
     }
   ]
 }
