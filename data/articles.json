@@ -1,166 +1,166 @@
 {
-  "updatedAt": "2026-07-06T00:09:19.143Z",
+  "updatedAt": "2026-07-07T00:10:49.417Z",
   "total": 20,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "How we made ClickStack 5x faster for ClickHouse observability",
-      "url": "https://clickhouse.com/blog/making-clickstack-5x-faster-clickhouse-observability",
+      "title": "98% faster queries, 50% lower cloud costs: Verihubs’ journey from Postgres to ClickHouse",
+      "url": "https://clickhouse.com/blog/verihubs-data-warehouse",
       "source": "ClickHouse",
-      "date": "2026-07-06T00:09:19.091Z"
+      "date": "2026-07-07T00:10:49.417Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "How we scale PgBouncer in ClickHouse Managed Postgres",
-      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "title": "Introducing AI dashboard and workflow generation in ClickStack",
+      "url": "https://clickhouse.com/blog/clickstack-ai-dashboard-generation",
       "source": "ClickHouse",
-      "date": "2026-07-06T00:09:19.091Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Artemis Security runs 69x faster detection queries with ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/artemis-security-real-time-threat-detection",
-      "source": "ClickHouse",
-      "date": "2026-07-06T00:09:19.091Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Clever ingests 200x more logs at the same cost with ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/clever-observability-at-scale",
-      "source": "ClickHouse",
-      "date": "2026-07-06T00:09:19.091Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Jua delivers the world’s most accurate physics simulations 3x faster with ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/jua-physics-foundation-model",
-      "source": "ClickHouse",
-      "date": "2026-07-06T00:09:19.091Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "A Quadrillion Rows across three Clouds: scaling LogHouse",
-      "url": "https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse",
-      "source": "ClickHouse",
-      "date": "2026-07-06T00:09:19.091Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Benchmarks and Obscurantism: A “red” line that should not be crossed",
-      "url": "https://clickhouse.com/blog/databricks-reyden-benchmark-transparency-clickhouse",
-      "source": "ClickHouse",
-      "date": "2026-07-06T00:09:19.091Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Agents hate friction: early thoughts on building for agents",
-      "url": "https://clickhouse.com/blog/agents-hate-friction",
-      "source": "ClickHouse",
-      "date": "2026-07-06T00:09:19.091Z"
+      "date": "2026-07-07T00:10:49.417Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.6",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-06",
       "source": "ClickHouse",
-      "date": "2026-07-06T00:09:19.090Z"
+      "date": "2026-07-07T00:10:49.417Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Agents is now available for Managed Postgres",
       "url": "https://clickhouse.com/blog/clickhouse-agents-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-06T00:09:19.090Z"
+      "date": "2026-07-07T00:10:49.417Z"
     },
     {
-      "id": "hn-48799256",
-      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-      "source": "HackerNews",
-      "score": 3,
-      "comments": 1,
-      "date": "2026-07-06T00:04:48.000Z"
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How we made ClickStack 5x faster for ClickHouse observability",
+      "url": "https://clickhouse.com/blog/making-clickstack-5x-faster-clickhouse-observability",
+      "source": "ClickHouse",
+      "date": "2026-07-07T00:10:49.417Z"
     },
     {
-      "id": "hn-48799026",
-      "title": "Connections in Math: the two kinds of random",
-      "url": "https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/",
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How we scale PgBouncer in ClickHouse Managed Postgres",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "source": "ClickHouse",
+      "date": "2026-07-07T00:10:49.417Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How Artemis Security runs 69x faster detection queries with ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/artemis-security-real-time-threat-detection",
+      "source": "ClickHouse",
+      "date": "2026-07-07T00:10:49.417Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Clever ingests 200x more logs at the same cost with ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/clever-observability-at-scale",
+      "source": "ClickHouse",
+      "date": "2026-07-07T00:10:49.417Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How Jua delivers the world’s most accurate physics simulations 3x faster with ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/jua-physics-foundation-model",
+      "source": "ClickHouse",
+      "date": "2026-07-07T00:10:49.417Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "A Quadrillion Rows across three Clouds: scaling LogHouse",
+      "url": "https://clickhouse.com/blog/a-quadrillion-rows-across-the-three-cloud-scaling-loghouse",
+      "source": "ClickHouse",
+      "date": "2026-07-07T00:10:49.417Z"
+    },
+    {
+      "id": "hn-48811644",
+      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
       "source": "HackerNews",
-      "score": 7,
+      "score": 34,
+      "comments": 7,
+      "date": "2026-07-06T23:06:31.000Z"
+    },
+    {
+      "id": "hn-48811591",
+      "title": "Fable turned remarkable into Tom Riddle's diary from Harry Potter",
+      "url": "https://github.com/MaximeRivest/Riddle",
+      "source": "HackerNews",
+      "score": 50,
+      "comments": 19,
+      "date": "2026-07-06T23:00:24.000Z"
+    },
+    {
+      "id": "hn-48811081",
+      "title": "Full Writeup of the Windows GDID",
+      "url": "https://github.com/SmtimesIWndr/gdid-reversal",
+      "source": "HackerNews",
+      "score": 27,
+      "comments": 10,
+      "date": "2026-07-06T22:02:24.000Z"
+    },
+    {
+      "id": "hn-48809877",
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "source": "HackerNews",
+      "score": 96,
+      "comments": 64,
+      "date": "2026-07-06T20:14:55.000Z"
+    },
+    {
+      "id": "hn-48809354",
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "source": "HackerNews",
+      "score": 41,
       "comments": 3,
-      "date": "2026-07-05T23:31:30.000Z"
+      "date": "2026-07-06T19:28:24.000Z"
     },
     {
-      "id": "hn-48798247",
-      "title": "Composite Video on the NES: Why's it so wobbly?",
-      "url": "https://nicole.express/2026/phase-altering-by-line.html",
+      "id": "hn-48808928",
+      "title": "CoMaps – FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
       "source": "HackerNews",
-      "score": 26,
-      "comments": 2,
-      "date": "2026-07-05T21:45:17.000Z"
+      "score": 273,
+      "comments": 59,
+      "date": "2026-07-06T18:55:07.000Z"
     },
     {
-      "id": "hn-48798153",
-      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
-      "url": "https://homegames.io",
+      "id": "hn-48808663",
+      "title": "Linux on the Atari Jaguar",
+      "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
       "source": "HackerNews",
-      "score": 75,
-      "comments": 25,
-      "date": "2026-07-05T21:32:44.000Z"
+      "score": 94,
+      "comments": 16,
+      "date": "2026-07-06T18:35:54.000Z"
     },
     {
-      "id": "hn-48797916",
-      "title": "OpenPrinter",
-      "url": "https://www.opentools.studio/",
+      "id": "hn-48808482",
+      "title": "OpenWrt One – Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
       "source": "HackerNews",
-      "score": 299,
-      "comments": 86,
-      "date": "2026-07-05T21:03:06.000Z"
+      "score": 391,
+      "comments": 159,
+      "date": "2026-07-06T18:23:12.000Z"
     },
     {
-      "id": "hn-48796817",
-      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "id": "hn-48808002",
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
       "source": "HackerNews",
-      "score": 115,
-      "comments": 76,
-      "date": "2026-07-05T18:47:43.000Z"
+      "score": 243,
+      "comments": 80,
+      "date": "2026-07-06T17:44:08.000Z"
     },
     {
-      "id": "hn-48796552",
-      "title": "The future of Flipper Zero development",
-      "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+      "id": "hn-48782248",
+      "title": "A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
+      "url": "https://arxiv.org/abs/2607.02112",
       "source": "HackerNews",
-      "score": 207,
-      "comments": 76,
-      "date": "2026-07-05T18:22:00.000Z"
-    },
-    {
-      "id": "hn-48796093",
-      "title": "Starring the Computer",
-      "url": "https://www.starringthecomputer.com/computers.html",
-      "source": "HackerNews",
-      "score": 155,
-      "comments": 38,
-      "date": "2026-07-05T17:33:04.000Z"
-    },
-    {
-      "id": "hn-48794446",
-      "title": "Organic Maps",
-      "url": "https://organicmaps.app/",
-      "source": "HackerNews",
-      "score": 770,
-      "comments": 217,
-      "date": "2026-07-05T14:14:30.000Z"
-    },
-    {
-      "id": "hn-48770291",
-      "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
-      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
-      "source": "HackerNews",
-      "score": 95,
-      "comments": 17,
-      "date": "2026-07-03T03:13:53.000Z"
+      "score": 12,
+      "comments": 0,
+      "date": "2026-07-04T02:51:57.000Z"
     }
   ]
 }
