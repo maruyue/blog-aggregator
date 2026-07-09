@@ -1,236 +1,166 @@
 {
-  "updatedAt": "2026-07-07T23:59:47.315Z",
-  "total": 30,
+  "updatedAt": "2026-07-09T00:13:14.678Z",
+  "total": 20,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Introducing pg_re2, fast, RE2-powered regular expressions in Postgres",
+      "url": "https://clickhouse.com/blog/introducing-pg_re2-regex-in-postgres",
+      "source": "ClickHouse",
+      "date": "2026-07-09T00:13:14.678Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "AI needs the best-of-breed data stack: Postgres and ClickHouse",
       "url": "https://clickhouse.com/blog/ai-best-of-breed-data-stack",
       "source": "ClickHouse",
-      "date": "2026-07-07T23:59:47.314Z"
+      "date": "2026-07-09T00:13:14.678Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "chDB as the Agent&#x27;s Local Data Engine",
       "url": "https://clickhouse.com/blog/chdb-agents-local-data-engine",
       "source": "ClickHouse",
-      "date": "2026-07-07T23:59:47.314Z"
+      "date": "2026-07-09T00:13:14.678Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "98% faster queries, 50% lower cloud costs: Verihubs’ journey from Postgres to ClickHouse",
       "url": "https://clickhouse.com/blog/verihubs-data-warehouse",
       "source": "ClickHouse",
-      "date": "2026-07-07T23:59:47.314Z"
+      "date": "2026-07-09T00:13:14.678Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing AI dashboard and workflow generation in ClickStack",
       "url": "https://clickhouse.com/blog/clickstack-ai-dashboard-generation",
       "source": "ClickHouse",
-      "date": "2026-07-07T23:59:47.314Z"
+      "date": "2026-07-09T00:13:14.678Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.6",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-06",
       "source": "ClickHouse",
-      "date": "2026-07-07T23:59:47.314Z"
+      "date": "2026-07-09T00:13:14.678Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Agents is now available for Managed Postgres",
       "url": "https://clickhouse.com/blog/clickhouse-agents-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-07T23:59:47.314Z"
+      "date": "2026-07-09T00:13:14.678Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How we made ClickStack 5x faster for ClickHouse observability",
       "url": "https://clickhouse.com/blog/making-clickstack-5x-faster-clickhouse-observability",
       "source": "ClickHouse",
-      "date": "2026-07-07T23:59:47.314Z"
+      "date": "2026-07-09T00:13:14.678Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How we scale PgBouncer in ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-07T23:59:47.314Z"
+      "date": "2026-07-09T00:13:14.678Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Artemis Security runs 69x faster detection queries with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/artemis-security-real-time-threat-detection",
       "source": "ClickHouse",
-      "date": "2026-07-07T23:59:47.314Z"
+      "date": "2026-07-09T00:13:14.678Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Clever ingests 200x more logs at the same cost with ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/clever-observability-at-scale",
-      "source": "ClickHouse",
-      "date": "2026-07-07T23:59:47.314Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The need for new words/terms as the antidote to bad software",
-      "url": "https://www.reddit.com/r/programming/comments/1uqci17/the_need_for_new_wordsterms_as_the_antidote_to/",
-      "source": "Reddit",
-      "date": "2026-07-07T23:59:24.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Experiences with Outlier",
-      "url": "https://www.reddit.com/r/programming/comments/1uqb2d2/experiences_with_outlier/",
-      "source": "Reddit",
-      "date": "2026-07-07T23:01:07.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Squint Hard Enough: Attacking Perceptual Hashing with Adversarial Machine Learning",
-      "url": "https://www.reddit.com/r/programming/comments/1uqamyh/squint_hard_enough_attacking_perceptual_hashing/",
-      "source": "Reddit",
-      "date": "2026-07-07T22:43:44.000Z"
-    },
-    {
-      "id": "hn-48824826",
-      "title": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-      "url": "https://www.gao.gov/products/gao-26-108193",
+      "id": "hn-48838876",
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
       "source": "HackerNews",
-      "score": 21,
-      "comments": 1,
-      "date": "2026-07-07T22:23:58.000Z"
+      "score": 54,
+      "comments": 5,
+      "date": "2026-07-08T23:37:43.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Rootless container checkpoint/restore in CRIU without CAP_SYS_ADMIN",
-      "url": "https://www.reddit.com/r/programming/comments/1uq8m9t/rootless_container_checkpointrestore_in_criu/",
-      "source": "Reddit",
-      "date": "2026-07-07T21:26:07.000Z"
-    },
-    {
-      "id": "hn-48823557",
-      "title": "Every new car sold in the European Union must include a driver monitoring camera",
-      "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+      "id": "hn-48837877",
+      "title": "Rewriting Bun in Rust",
+      "url": "https://bun.com/blog/bun-in-rust",
       "source": "HackerNews",
-      "score": 363,
-      "comments": 466,
-      "date": "2026-07-07T20:50:46.000Z"
+      "score": 196,
+      "comments": 95,
+      "date": "2026-07-08T21:49:59.000Z"
     },
     {
-      "id": "hn-48821848",
-      "title": "Show HN: Davit, a Apple Containers UI",
-      "url": "https://davit.app",
+      "id": "hn-48837396",
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
       "source": "HackerNews",
-      "score": 157,
-      "comments": 32,
-      "date": "2026-07-07T18:44:29.000Z"
+      "score": 127,
+      "comments": 56,
+      "date": "2026-07-08T21:03:51.000Z"
     },
     {
-      "id": "hn-48821576",
-      "title": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-      "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+      "id": "hn-48836778",
+      "title": "FAANG Simulator",
+      "url": "https://www.abeyk.com/escape-the-rat-race/",
       "source": "HackerNews",
-      "score": 242,
-      "comments": 55,
-      "date": "2026-07-07T18:24:10.000Z"
+      "score": 233,
+      "comments": 87,
+      "date": "2026-07-08T20:05:42.000Z"
     },
     {
-      "id": "hn-48819608",
-      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
-      "url": "https://30papers.com/",
+      "id": "hn-48836233",
+      "title": "Cloudflare Drop",
+      "url": "https://www.cloudflare.com/drop/",
       "source": "HackerNews",
-      "score": 312,
-      "comments": 55,
-      "date": "2026-07-07T15:58:13.000Z"
+      "score": 194,
+      "comments": 100,
+      "date": "2026-07-08T19:18:26.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Security you can't justify is a vicious cycle",
-      "url": "https://www.reddit.com/r/programming/comments/1upywzk/security_you_cant_justify_is_a_vicious_cycle/",
-      "source": "Reddit",
-      "date": "2026-07-07T15:45:05.000Z"
-    },
-    {
-      "id": "hn-48818311",
-      "title": "Chat Control 1.0 and 2.0 Explained",
-      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "id": "hn-48835111",
+      "title": "Grok 4.5",
+      "url": "https://x.ai/news/grok-4-5",
       "source": "HackerNews",
-      "score": 405,
-      "comments": 134,
-      "date": "2026-07-07T14:23:15.000Z"
+      "score": 436,
+      "comments": 492,
+      "date": "2026-07-08T18:00:32.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "What is a token and why does it cost so much? - Computerphile",
-      "url": "https://www.reddit.com/r/programming/comments/1upu953/what_is_a_token_and_why_does_it_cost_so_much/",
-      "source": "Reddit",
-      "date": "2026-07-07T12:54:21.000Z"
-    },
-    {
-      "id": "hn-48816956",
-      "title": "A better way to tie gym shorts (or any drawstring) [video]",
-      "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
+      "id": "hn-48834924",
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "url": "https://microsoft.github.io/flint-chart/#/",
       "source": "HackerNews",
-      "score": 437,
-      "comments": 155,
-      "date": "2026-07-07T12:45:06.000Z"
-    },
-    {
-      "id": "hn-48816883",
-      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
-      "url": "https://streetcomplete.app/",
-      "source": "HackerNews",
-      "score": 664,
-      "comments": 162,
-      "date": "2026-07-07T12:38:35.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The mask that compiles to nothing: how HotSpot's JIT learned to reason about bits",
-      "url": "https://www.reddit.com/r/programming/comments/1ups1cn/the_mask_that_compiles_to_nothing_how_hotspots/",
-      "source": "Reddit",
-      "date": "2026-07-07T11:16:31.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Drunk Post: Things I’ve Learned as a Senior Engineer",
-      "url": "https://www.reddit.com/r/programming/comments/1upo7f6/drunk_post_things_ive_learned_as_a_senior_engineer/",
-      "source": "Reddit",
-      "date": "2026-07-07T07:45:32.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Odin 1.0 Announcement",
-      "url": "https://www.reddit.com/r/programming/comments/1upmnop/odin_10_announcement/",
-      "source": "Reddit",
-      "date": "2026-07-07T06:19:00.000Z"
-    },
-    {
-      "id": "hn-48780507",
-      "title": "Why Vancouver is always a stand-in for San Francisco in movies and TV shows (2021)",
-      "url": "https://www.sfgate.com/sf-culture/article/vancouver-stand-in-movie-tv-sf-16613821.php",
-      "source": "HackerNews",
-      "score": 21,
-      "comments": 20,
-      "date": "2026-07-03T21:58:15.000Z"
-    },
-    {
-      "id": "hn-48756578",
-      "title": "Herdr: One terminal to rule them all",
-      "url": "https://herdr.dev/",
-      "source": "HackerNews",
-      "score": 131,
+      "score": 170,
       "comments": 71,
-      "date": "2026-07-02T04:28:39.000Z"
+      "date": "2026-07-08T17:46:12.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
-      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-      "source": "Reddit",
-      "date": "2026-05-23T13:54:37.000Z"
+      "id": "hn-48833116",
+      "title": "Chatto is now open source",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "source": "HackerNews",
+      "score": 675,
+      "comments": 184,
+      "date": "2026-07-08T15:19:50.000Z"
+    },
+    {
+      "id": "hn-48832212",
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "source": "HackerNews",
+      "score": 396,
+      "comments": 93,
+      "date": "2026-07-08T14:09:17.000Z"
+    },
+    {
+      "id": "hn-48829312",
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "source": "HackerNews",
+      "score": 1273,
+      "comments": 204,
+      "date": "2026-07-08T08:46:06.000Z"
     }
   ]
 }
