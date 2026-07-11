@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T00:00:23.371Z",
+  "updatedAt": "2026-07-11T23:57:40.929Z",
   "total": 30,
   "articles": [
     {
@@ -7,147 +7,179 @@
       "title": "ClickHouse on Docker Hardened Images",
       "url": "https://clickhouse.com/blog/docker-hardened-images",
       "source": "ClickHouse",
-      "date": "2026-07-11T00:00:23.311Z"
+      "date": "2026-07-11T23:57:40.812Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "One Driver, One Format, Every Language: ADBC",
       "url": "https://clickhouse.com/blog/introducing-the-clickhouse-adbc-driver",
       "source": "ClickHouse",
-      "date": "2026-07-11T00:00:23.311Z"
+      "date": "2026-07-11T23:57:40.812Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Trigger.dev is using ClickHouse to scale observability for long-running AI workflows",
       "url": "https://clickhouse.com/blog/trigger-dev-scaling-observability",
       "source": "ClickHouse",
-      "date": "2026-07-11T00:00:23.311Z"
+      "date": "2026-07-11T23:57:40.812Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing pg_re2, fast, RE2-powered regular expressions in Postgres",
       "url": "https://clickhouse.com/blog/introducing-pg_re2-regex-in-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-11T00:00:23.311Z"
+      "date": "2026-07-11T23:57:40.812Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "AI needs the best-of-breed data stack: Postgres and ClickHouse",
       "url": "https://clickhouse.com/blog/ai-best-of-breed-data-stack",
       "source": "ClickHouse",
-      "date": "2026-07-11T00:00:23.311Z"
+      "date": "2026-07-11T23:57:40.812Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "chDB as the Agent&#x27;s Local Data Engine",
       "url": "https://clickhouse.com/blog/chdb-agents-local-data-engine",
       "source": "ClickHouse",
-      "date": "2026-07-11T00:00:23.311Z"
+      "date": "2026-07-11T23:57:40.812Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "98% faster queries, 50% lower cloud costs: Verihubs’ journey from Postgres to ClickHouse",
       "url": "https://clickhouse.com/blog/verihubs-data-warehouse",
       "source": "ClickHouse",
-      "date": "2026-07-11T00:00:23.311Z"
+      "date": "2026-07-11T23:57:40.812Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing AI dashboard and workflow generation in ClickStack",
       "url": "https://clickhouse.com/blog/clickstack-ai-dashboard-generation",
       "source": "ClickHouse",
-      "date": "2026-07-11T00:00:23.311Z"
+      "date": "2026-07-11T23:57:40.812Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.6",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-06",
       "source": "ClickHouse",
-      "date": "2026-07-11T00:00:23.311Z"
+      "date": "2026-07-11T23:57:40.812Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Agents is now available for Managed Postgres",
       "url": "https://clickhouse.com/blog/clickhouse-agents-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-11T00:00:23.311Z"
+      "date": "2026-07-11T23:57:40.812Z"
+    },
+    {
+      "id": "hn-48876593",
+      "title": "Weightlifting beats running for blood sugar control, researchers find",
+      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+      "source": "HackerNews",
+      "score": 55,
+      "comments": 29,
+      "date": "2026-07-11T22:49:42.000Z"
+    },
+    {
+      "id": "hn-48876505",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "source": "HackerNews",
+      "score": 26,
+      "comments": 10,
+      "date": "2026-07-11T22:38:57.000Z"
+    },
+    {
+      "id": "hn-48876441",
+      "title": "Stop Telling Me to Ask an LLM",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "source": "HackerNews",
+      "score": 106,
+      "comments": 57,
+      "date": "2026-07-11T22:28:48.000Z"
+    },
+    {
+      "id": "hn-48876245",
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "source": "HackerNews",
+      "score": 22,
+      "comments": 4,
+      "date": "2026-07-11T21:58:00.000Z"
+    },
+    {
+      "id": "hn-48875377",
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "source": "HackerNews",
+      "score": 155,
+      "comments": 67,
+      "date": "2026-07-11T20:07:18.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "yes i’ve hacked paxel. this is a public disclosure in real-time",
-      "url": "https://www.reddit.com/r/programming/comments/1ut4fex/yes_ive_hacked_paxel_this_is_a_public_disclosure/",
+      "title": "Official jscrambler npm Package Compromised at 8.14.0",
+      "url": "https://www.reddit.com/r/programming/comments/1utqclm/official_jscrambler_npm_package_compromised_at/",
       "source": "Reddit",
-      "date": "2026-07-10T23:56:59.000Z"
+      "date": "2026-07-11T17:35:29.000Z"
     },
     {
-      "id": "hn-48866134",
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "id": "hn-48873940",
+      "title": "Prefer strict tables in SQLite",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
       "source": "HackerNews",
-      "score": 34,
-      "comments": 17,
-      "date": "2026-07-10T22:30:44.000Z"
+      "score": 199,
+      "comments": 89,
+      "date": "2026-07-11T17:33:55.000Z"
+    },
+    {
+      "id": "hn-48873836",
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "source": "HackerNews",
+      "score": 130,
+      "comments": 46,
+      "date": "2026-07-11T17:21:49.000Z"
+    },
+    {
+      "id": "hn-48873457",
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "source": "HackerNews",
+      "score": 81,
+      "comments": 26,
+      "date": "2026-07-11T16:33:42.000Z"
+    },
+    {
+      "id": "hn-48872874",
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "source": "HackerNews",
+      "score": 166,
+      "comments": 28,
+      "date": "2026-07-11T15:28:02.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Packing the infinite truck",
-      "url": "https://www.reddit.com/r/programming/comments/1ut1qjv/packing_the_infinite_truck/",
+      "title": "Self-hosting Umami analytics on Cloudflare, Fly, and Supabase",
+      "url": "https://www.reddit.com/r/programming/comments/1uti5tr/selfhosting_umami_analytics_on_cloudflare_fly_and/",
       "source": "Reddit",
-      "date": "2026-07-10T22:05:50.000Z"
+      "date": "2026-07-11T11:57:32.000Z"
     },
     {
-      "id": "hn-48865019",
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "source": "HackerNews",
-      "score": 292,
-      "comments": 133,
-      "date": "2026-07-10T20:47:09.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How Container Networking Works: Building a Bridge Network From Scratch",
+      "url": "https://www.reddit.com/r/programming/comments/1utfiq2/how_container_networking_works_building_a_bridge/",
+      "source": "Reddit",
+      "date": "2026-07-11T09:33:46.000Z"
     },
     {
-      "id": "hn-48863490",
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "source": "HackerNews",
-      "score": 300,
-      "comments": 253,
-      "date": "2026-07-10T18:29:19.000Z"
-    },
-    {
-      "id": "hn-48863464",
-      "title": "New York City to to ban deceptive subscription practices",
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-      "source": "HackerNews",
-      "score": 357,
-      "comments": 192,
-      "date": "2026-07-10T18:26:24.000Z"
-    },
-    {
-      "id": "hn-48862365",
-      "title": "The tech of 'Terminator 2' – an oral history (2017)",
-      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
-      "source": "HackerNews",
-      "score": 148,
-      "comments": 62,
-      "date": "2026-07-10T16:48:41.000Z"
-    },
-    {
-      "id": "hn-48861717",
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
-      "source": "HackerNews",
-      "score": 409,
-      "comments": 165,
-      "date": "2026-07-10T15:59:53.000Z"
-    },
-    {
-      "id": "hn-48861213",
-      "title": "Computation as a universal and fundamental concept",
-      "url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept",
-      "source": "HackerNews",
-      "score": 76,
-      "comments": 64,
-      "date": "2026-07-10T15:23:42.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Programs, Not Objects: How I Stopped Designing Architecture and Started Writing a 3D Editor",
+      "url": "https://www.reddit.com/r/programming/comments/1ut97oi/programs_not_objects_how_i_stopped_designing/",
+      "source": "Reddit",
+      "date": "2026-07-11T03:43:33.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -155,15 +187,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1usmas0/quantum_computers_are_not_a_threat_to_128bit/",
       "source": "Reddit",
       "date": "2026-07-10T12:29:44.000Z"
-    },
-    {
-      "id": "hn-48858737",
-      "title": "Late Bronze Age Collapse",
-      "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-      "source": "HackerNews",
-      "score": 312,
-      "comments": 216,
-      "date": "2026-07-10T11:59:55.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -180,6 +203,15 @@
       "date": "2026-07-09T19:52:08.000Z"
     },
     {
+      "id": "hn-48849744",
+      "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+      "url": "https://arxiv.org/abs/2607.07267",
+      "source": "HackerNews",
+      "score": 26,
+      "comments": 2,
+      "date": "2026-07-09T17:44:20.000Z"
+    },
+    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
       "url": "https://www.reddit.com/r/programming/comments/1urt5ib/google_pays_250k_for_linux_vulnerability_allowing/",
@@ -188,42 +220,10 @@
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "My Thoughts on the Bun Rust Rewrite",
-      "url": "https://www.reddit.com/r/programming/comments/1urmi6h/my_thoughts_on_the_bun_rust_rewrite/",
-      "source": "Reddit",
-      "date": "2026-07-09T10:36:43.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
       "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
       "url": "https://www.reddit.com/r/programming/comments/1urm3mh/why_developers_are_ditching_github_for_codeberg/",
       "source": "Reddit",
       "date": "2026-07-09T10:15:13.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "url": "https://www.reddit.com/r/programming/comments/1uqu6au/decoding_the_obfuscated_bash_script_on_a_uniqlo/",
-      "source": "Reddit",
-      "date": "2026-07-08T14:24:12.000Z"
-    },
-    {
-      "id": "hn-48814170",
-      "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
-      "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
-      "source": "HackerNews",
-      "score": 26,
-      "comments": 6,
-      "date": "2026-07-07T06:06:25.000Z"
-    },
-    {
-      "id": "hn-48795900",
-      "title": "Combustion engine web-based simulator",
-      "url": "https://combustionlab.net",
-      "source": "HackerNews",
-      "score": 100,
-      "comments": 45,
-      "date": "2026-07-05T17:11:38.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
