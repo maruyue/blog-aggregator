@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T23:57:40.929Z",
+  "updatedAt": "2026-07-12T23:57:32.792Z",
   "total": 30,
   "articles": [
     {
@@ -7,115 +7,184 @@
       "title": "ClickHouse on Docker Hardened Images",
       "url": "https://clickhouse.com/blog/docker-hardened-images",
       "source": "ClickHouse",
-      "date": "2026-07-11T23:57:40.812Z"
+      "date": "2026-07-12T23:57:32.733Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "One Driver, One Format, Every Language: ADBC",
       "url": "https://clickhouse.com/blog/introducing-the-clickhouse-adbc-driver",
       "source": "ClickHouse",
-      "date": "2026-07-11T23:57:40.812Z"
+      "date": "2026-07-12T23:57:32.733Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Trigger.dev is using ClickHouse to scale observability for long-running AI workflows",
       "url": "https://clickhouse.com/blog/trigger-dev-scaling-observability",
       "source": "ClickHouse",
-      "date": "2026-07-11T23:57:40.812Z"
+      "date": "2026-07-12T23:57:32.733Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing pg_re2, fast, RE2-powered regular expressions in Postgres",
       "url": "https://clickhouse.com/blog/introducing-pg_re2-regex-in-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-11T23:57:40.812Z"
+      "date": "2026-07-12T23:57:32.733Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "AI needs the best-of-breed data stack: Postgres and ClickHouse",
       "url": "https://clickhouse.com/blog/ai-best-of-breed-data-stack",
       "source": "ClickHouse",
-      "date": "2026-07-11T23:57:40.812Z"
+      "date": "2026-07-12T23:57:32.733Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "chDB as the Agent&#x27;s Local Data Engine",
       "url": "https://clickhouse.com/blog/chdb-agents-local-data-engine",
       "source": "ClickHouse",
-      "date": "2026-07-11T23:57:40.812Z"
+      "date": "2026-07-12T23:57:32.733Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "98% faster queries, 50% lower cloud costs: Verihubs’ journey from Postgres to ClickHouse",
       "url": "https://clickhouse.com/blog/verihubs-data-warehouse",
       "source": "ClickHouse",
-      "date": "2026-07-11T23:57:40.812Z"
+      "date": "2026-07-12T23:57:32.733Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing AI dashboard and workflow generation in ClickStack",
       "url": "https://clickhouse.com/blog/clickstack-ai-dashboard-generation",
       "source": "ClickHouse",
-      "date": "2026-07-11T23:57:40.812Z"
+      "date": "2026-07-12T23:57:32.733Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.6",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-06",
       "source": "ClickHouse",
-      "date": "2026-07-11T23:57:40.812Z"
+      "date": "2026-07-12T23:57:32.733Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Agents is now available for Managed Postgres",
       "url": "https://clickhouse.com/blog/clickhouse-agents-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-11T23:57:40.812Z"
+      "date": "2026-07-12T23:57:32.733Z"
     },
     {
-      "id": "hn-48876593",
-      "title": "Weightlifting beats running for blood sugar control, researchers find",
-      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+      "id": "hn-48885728",
+      "title": "Designing and assembling my first PCB",
+      "url": "https://vilkeliskis.com/b/2026/0711.html",
       "source": "HackerNews",
-      "score": 55,
+      "score": 13,
+      "comments": 0,
+      "date": "2026-07-12T22:56:56.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The most ambitious Linux alternative in years isn't Linux at all (Redox OS)",
+      "url": "https://www.reddit.com/r/programming/comments/1uuu2ff/the_most_ambitious_linux_alternative_in_years/",
+      "source": "Reddit",
+      "date": "2026-07-12T22:49:39.000Z"
+    },
+    {
+      "id": "hn-48885643",
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "url": "https://shellzine.net/cyberpunk-comics/",
+      "source": "HackerNews",
+      "score": 21,
+      "comments": 2,
+      "date": "2026-07-12T22:45:31.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "A peek into Reddit's anti-spam internals",
+      "url": "https://www.reddit.com/r/programming/comments/1uuskff/a_peek_into_reddits_antispam_internals/",
+      "source": "Reddit",
+      "date": "2026-07-12T21:47:34.000Z"
+    },
+    {
+      "id": "hn-48884992",
+      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+      "url": "https://kode.diy",
+      "source": "HackerNews",
+      "score": 28,
+      "comments": 6,
+      "date": "2026-07-12T21:27:29.000Z"
+    },
+    {
+      "id": "hn-48884853",
+      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "source": "HackerNews",
+      "score": 217,
+      "comments": 106,
+      "date": "2026-07-12T21:12:11.000Z"
+    },
+    {
+      "id": "hn-48884395",
+      "title": "Tiny Emulators",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "source": "HackerNews",
+      "score": 112,
+      "comments": 3,
+      "date": "2026-07-12T20:23:05.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How Processes Share Memory Without Copying (Visual)",
+      "url": "https://www.reddit.com/r/programming/comments/1uup9vc/how_processes_share_memory_without_copying_visual/",
+      "source": "Reddit",
+      "date": "2026-07-12T19:38:18.000Z"
+    },
+    {
+      "id": "hn-48883275",
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "source": "HackerNews",
+      "score": 420,
+      "comments": 236,
+      "date": "2026-07-12T18:25:51.000Z"
+    },
+    {
+      "id": "hn-48882716",
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "source": "HackerNews",
+      "score": 103,
       "comments": 29,
-      "date": "2026-07-11T22:49:42.000Z"
+      "date": "2026-07-12T17:13:07.000Z"
     },
     {
-      "id": "hn-48876505",
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "source": "HackerNews",
-      "score": 26,
-      "comments": 10,
-      "date": "2026-07-11T22:38:57.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Integrating .NET GC in your C++ application",
+      "url": "https://www.reddit.com/r/programming/comments/1uuk1c5/integrating_net_gc_in_your_c_application/",
+      "source": "Reddit",
+      "date": "2026-07-12T16:25:04.000Z"
     },
     {
-      "id": "hn-48876441",
-      "title": "Stop Telling Me to Ask an LLM",
-      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
-      "source": "HackerNews",
-      "score": 106,
-      "comments": 57,
-      "date": "2026-07-11T22:28:48.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Prefer STRICT tables in SQLite",
+      "url": "https://www.reddit.com/r/programming/comments/1uuge0p/prefer_strict_tables_in_sqlite/",
+      "source": "Reddit",
+      "date": "2026-07-12T14:04:29.000Z"
     },
     {
-      "id": "hn-48876245",
-      "title": "RISCBoy is an open-source portable games console, designed from scratch",
-      "url": "https://github.com/Wren6991/RISCBoy",
+      "id": "hn-48880170",
+      "title": "Old and new apps, via modern coding agents",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
       "source": "HackerNews",
-      "score": 22,
-      "comments": 4,
-      "date": "2026-07-11T21:58:00.000Z"
+      "score": 398,
+      "comments": 113,
+      "date": "2026-07-12T11:09:42.000Z"
     },
     {
-      "id": "hn-48875377",
-      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-      "url": "https://antjs.org",
-      "source": "HackerNews",
-      "score": 155,
-      "comments": 67,
-      "date": "2026-07-11T20:07:18.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "C3 0.8.2 A modest improvement",
+      "url": "https://www.reddit.com/r/programming/comments/1uuaukq/c3_082_a_modest_improvement/",
+      "source": "Reddit",
+      "date": "2026-07-12T09:36:58.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -123,49 +192,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1utqclm/official_jscrambler_npm_package_compromised_at/",
       "source": "Reddit",
       "date": "2026-07-11T17:35:29.000Z"
-    },
-    {
-      "id": "hn-48873940",
-      "title": "Prefer strict tables in SQLite",
-      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
-      "source": "HackerNews",
-      "score": 199,
-      "comments": 89,
-      "date": "2026-07-11T17:33:55.000Z"
-    },
-    {
-      "id": "hn-48873836",
-      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-      "source": "HackerNews",
-      "score": 130,
-      "comments": 46,
-      "date": "2026-07-11T17:21:49.000Z"
-    },
-    {
-      "id": "hn-48873457",
-      "title": "UPI: Anatomy of a Payment Transaction",
-      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
-      "source": "HackerNews",
-      "score": 81,
-      "comments": 26,
-      "date": "2026-07-11T16:33:42.000Z"
-    },
-    {
-      "id": "hn-48872874",
-      "title": "We scaled PgBouncer to 4x throughput",
-      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
-      "source": "HackerNews",
-      "score": 166,
-      "comments": 28,
-      "date": "2026-07-11T15:28:02.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Self-hosting Umami analytics on Cloudflare, Fly, and Supabase",
-      "url": "https://www.reddit.com/r/programming/comments/1uti5tr/selfhosting_umami_analytics_on_cloudflare_fly_and/",
-      "source": "Reddit",
-      "date": "2026-07-11T11:57:32.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -182,48 +208,22 @@
       "date": "2026-07-11T03:43:33.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Quantum Computers Are Not a Threat to 128-bit Symmetric Keys",
-      "url": "https://www.reddit.com/r/programming/comments/1usmas0/quantum_computers_are_not_a_threat_to_128bit/",
-      "source": "Reddit",
-      "date": "2026-07-10T12:29:44.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Good Tools Are Invisible",
-      "url": "https://www.reddit.com/r/programming/comments/1usjlm7/good_tools_are_invisible/",
-      "source": "Reddit",
-      "date": "2026-07-10T10:19:51.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Postgres is enough for more than we admit",
-      "url": "https://www.reddit.com/r/programming/comments/1us129c/postgres_is_enough_for_more_than_we_admit/",
-      "source": "Reddit",
-      "date": "2026-07-09T19:52:08.000Z"
-    },
-    {
-      "id": "hn-48849744",
-      "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
-      "url": "https://arxiv.org/abs/2607.07267",
+      "id": "hn-48850285",
+      "title": "Nicotine pouches, tobacco's latest ploy",
+      "url": "https://med.stanford.edu/news/insights/2026/06/nicotine-pouches-addiction-tobacco-industry-latest-ploy.html",
       "source": "HackerNews",
-      "score": 26,
-      "comments": 2,
-      "date": "2026-07-09T17:44:20.000Z"
+      "score": 8,
+      "comments": 0,
+      "date": "2026-07-09T18:20:24.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
-      "url": "https://www.reddit.com/r/programming/comments/1urt5ib/google_pays_250k_for_linux_vulnerability_allowing/",
-      "source": "Reddit",
-      "date": "2026-07-09T15:13:50.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
-      "url": "https://www.reddit.com/r/programming/comments/1urm3mh/why_developers_are_ditching_github_for_codeberg/",
-      "source": "Reddit",
-      "date": "2026-07-09T10:15:13.000Z"
+      "id": "hn-48827126",
+      "title": "So you want to learn physics (second edition, 2021)",
+      "url": "https://www.susanrigetti.com/physics",
+      "source": "HackerNews",
+      "score": 56,
+      "comments": 5,
+      "date": "2026-07-08T03:28:00.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
