@@ -1,236 +1,166 @@
 {
-  "updatedAt": "2026-07-12T23:57:32.792Z",
-  "total": 30,
+  "updatedAt": "2026-07-13T23:55:33.275Z",
+  "total": 20,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How Insider One uses ClickHouse Cloud to power real-time customer engagement at scale",
+      "url": "https://clickhouse.com/blog/insiderone-customer-data-platform",
+      "source": "ClickHouse",
+      "date": "2026-07-13T23:55:33.275Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse on Docker Hardened Images",
       "url": "https://clickhouse.com/blog/docker-hardened-images",
       "source": "ClickHouse",
-      "date": "2026-07-12T23:57:32.733Z"
+      "date": "2026-07-13T23:55:33.275Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "One Driver, One Format, Every Language: ADBC",
       "url": "https://clickhouse.com/blog/introducing-the-clickhouse-adbc-driver",
       "source": "ClickHouse",
-      "date": "2026-07-12T23:57:32.733Z"
+      "date": "2026-07-13T23:55:33.275Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Trigger.dev is using ClickHouse to scale observability for long-running AI workflows",
       "url": "https://clickhouse.com/blog/trigger-dev-scaling-observability",
       "source": "ClickHouse",
-      "date": "2026-07-12T23:57:32.733Z"
+      "date": "2026-07-13T23:55:33.275Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing pg_re2, fast, RE2-powered regular expressions in Postgres",
       "url": "https://clickhouse.com/blog/introducing-pg_re2-regex-in-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-12T23:57:32.733Z"
+      "date": "2026-07-13T23:55:33.275Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "AI needs the best-of-breed data stack: Postgres and ClickHouse",
       "url": "https://clickhouse.com/blog/ai-best-of-breed-data-stack",
       "source": "ClickHouse",
-      "date": "2026-07-12T23:57:32.733Z"
+      "date": "2026-07-13T23:55:33.275Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "chDB as the Agent&#x27;s Local Data Engine",
       "url": "https://clickhouse.com/blog/chdb-agents-local-data-engine",
       "source": "ClickHouse",
-      "date": "2026-07-12T23:57:32.733Z"
+      "date": "2026-07-13T23:55:33.275Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "98% faster queries, 50% lower cloud costs: Verihubs’ journey from Postgres to ClickHouse",
       "url": "https://clickhouse.com/blog/verihubs-data-warehouse",
       "source": "ClickHouse",
-      "date": "2026-07-12T23:57:32.733Z"
+      "date": "2026-07-13T23:55:33.275Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing AI dashboard and workflow generation in ClickStack",
       "url": "https://clickhouse.com/blog/clickstack-ai-dashboard-generation",
       "source": "ClickHouse",
-      "date": "2026-07-12T23:57:32.733Z"
+      "date": "2026-07-13T23:55:33.275Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.6",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-06",
       "source": "ClickHouse",
-      "date": "2026-07-12T23:57:32.733Z"
+      "date": "2026-07-13T23:55:33.275Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse Agents is now available for Managed Postgres",
-      "url": "https://clickhouse.com/blog/clickhouse-agents-managed-postgres",
-      "source": "ClickHouse",
-      "date": "2026-07-12T23:57:32.733Z"
-    },
-    {
-      "id": "hn-48885728",
-      "title": "Designing and assembling my first PCB",
-      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "id": "hn-48900191",
+      "title": "An Englishwoman who sketched India before photography took hold",
+      "url": "https://www.bbc.com/news/articles/cm2drrv6q54o",
       "source": "HackerNews",
-      "score": 13,
+      "score": 7,
       "comments": 0,
-      "date": "2026-07-12T22:56:56.000Z"
+      "date": "2026-07-13T23:12:22.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The most ambitious Linux alternative in years isn't Linux at all (Redox OS)",
-      "url": "https://www.reddit.com/r/programming/comments/1uuu2ff/the_most_ambitious_linux_alternative_in_years/",
-      "source": "Reddit",
-      "date": "2026-07-12T22:49:39.000Z"
-    },
-    {
-      "id": "hn-48885643",
-      "title": "Cyberpunk Comics, Manga and Graphic Novels",
-      "url": "https://shellzine.net/cyberpunk-comics/",
+      "id": "hn-48899672",
+      "title": "‘Asia's cleanest village’ bans tourists on Sundays",
+      "url": "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays",
       "source": "HackerNews",
-      "score": 21,
-      "comments": 2,
-      "date": "2026-07-12T22:45:31.000Z"
+      "score": 42,
+      "comments": 17,
+      "date": "2026-07-13T22:19:16.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "A peek into Reddit's anti-spam internals",
-      "url": "https://www.reddit.com/r/programming/comments/1uuskff/a_peek_into_reddits_antispam_internals/",
-      "source": "Reddit",
-      "date": "2026-07-12T21:47:34.000Z"
-    },
-    {
-      "id": "hn-48884992",
-      "title": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
-      "url": "https://kode.diy",
+      "id": "hn-48899529",
+      "title": "Claude is just Mr. Meeseeks",
+      "url": "https://github.com/thephw/claude-meseeks",
       "source": "HackerNews",
-      "score": 28,
-      "comments": 6,
-      "date": "2026-07-12T21:27:29.000Z"
+      "score": 79,
+      "comments": 25,
+      "date": "2026-07-13T22:03:54.000Z"
     },
     {
-      "id": "hn-48884853",
-      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
-      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "id": "hn-48898154",
+      "title": "Show HN: YouTube Guitar Tab Parser",
+      "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
       "source": "HackerNews",
-      "score": 217,
-      "comments": 106,
-      "date": "2026-07-12T21:12:11.000Z"
+      "score": 54,
+      "comments": 40,
+      "date": "2026-07-13T20:13:14.000Z"
     },
     {
-      "id": "hn-48884395",
-      "title": "Tiny Emulators",
-      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "id": "hn-48897878",
+      "title": "Telegram's t.me domain has been suspended",
+      "url": "https://www.whois.com/whois/t.me",
       "source": "HackerNews",
-      "score": 112,
-      "comments": 3,
-      "date": "2026-07-12T20:23:05.000Z"
+      "score": 225,
+      "comments": 154,
+      "date": "2026-07-13T19:52:25.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How Processes Share Memory Without Copying (Visual)",
-      "url": "https://www.reddit.com/r/programming/comments/1uup9vc/how_processes_share_memory_without_copying_visual/",
-      "source": "Reddit",
-      "date": "2026-07-12T19:38:18.000Z"
-    },
-    {
-      "id": "hn-48883275",
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "id": "hn-48897104",
+      "title": "The infinite scroll may become endangered if controversial Calif. law passes",
+      "url": "https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php",
       "source": "HackerNews",
-      "score": 420,
-      "comments": 236,
-      "date": "2026-07-12T18:25:51.000Z"
+      "score": 49,
+      "comments": 62,
+      "date": "2026-07-13T18:53:53.000Z"
     },
     {
-      "id": "hn-48882716",
-      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "id": "hn-48896665",
+      "title": "Building and shipping Mac and iOS apps without ever opening Xcode",
+      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
       "source": "HackerNews",
-      "score": 103,
-      "comments": 29,
-      "date": "2026-07-12T17:13:07.000Z"
+      "score": 251,
+      "comments": 115,
+      "date": "2026-07-13T18:22:16.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Integrating .NET GC in your C++ application",
-      "url": "https://www.reddit.com/r/programming/comments/1uuk1c5/integrating_net_gc_in_your_c_application/",
-      "source": "Reddit",
-      "date": "2026-07-12T16:25:04.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Prefer STRICT tables in SQLite",
-      "url": "https://www.reddit.com/r/programming/comments/1uuge0p/prefer_strict_tables_in_sqlite/",
-      "source": "Reddit",
-      "date": "2026-07-12T14:04:29.000Z"
-    },
-    {
-      "id": "hn-48880170",
-      "title": "Old and new apps, via modern coding agents",
-      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "id": "hn-48896600",
+      "title": "Linux on the Sega 32X. Who needs hardware synchronization primitives anyway?",
+      "url": "https://cakehonolulu.github.io/linux-on-32x/",
       "source": "HackerNews",
-      "score": 398,
-      "comments": 113,
-      "date": "2026-07-12T11:09:42.000Z"
+      "score": 86,
+      "comments": 20,
+      "date": "2026-07-13T18:18:25.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "C3 0.8.2 A modest improvement",
-      "url": "https://www.reddit.com/r/programming/comments/1uuaukq/c3_082_a_modest_improvement/",
-      "source": "Reddit",
-      "date": "2026-07-12T09:36:58.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Official jscrambler npm Package Compromised at 8.14.0",
-      "url": "https://www.reddit.com/r/programming/comments/1utqclm/official_jscrambler_npm_package_compromised_at/",
-      "source": "Reddit",
-      "date": "2026-07-11T17:35:29.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How Container Networking Works: Building a Bridge Network From Scratch",
-      "url": "https://www.reddit.com/r/programming/comments/1utfiq2/how_container_networking_works_building_a_bridge/",
-      "source": "Reddit",
-      "date": "2026-07-11T09:33:46.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Programs, Not Objects: How I Stopped Designing Architecture and Started Writing a 3D Editor",
-      "url": "https://www.reddit.com/r/programming/comments/1ut97oi/programs_not_objects_how_i_stopped_designing/",
-      "source": "Reddit",
-      "date": "2026-07-11T03:43:33.000Z"
-    },
-    {
-      "id": "hn-48850285",
-      "title": "Nicotine pouches, tobacco's latest ploy",
-      "url": "https://med.stanford.edu/news/insights/2026/06/nicotine-pouches-addiction-tobacco-industry-latest-ploy.html",
+      "id": "hn-48894752",
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
       "source": "HackerNews",
-      "score": 8,
-      "comments": 0,
-      "date": "2026-07-09T18:20:24.000Z"
+      "score": 409,
+      "comments": 172,
+      "date": "2026-07-13T16:06:08.000Z"
     },
     {
-      "id": "hn-48827126",
-      "title": "So you want to learn physics (second edition, 2021)",
-      "url": "https://www.susanrigetti.com/physics",
+      "id": "hn-48893639",
+      "title": "The art and engineering of Sega CD Silpheed",
+      "url": "https://fabiensanglard.net/silpheed/index.html",
       "source": "HackerNews",
-      "score": 56,
-      "comments": 5,
-      "date": "2026-07-08T03:28:00.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
-      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-      "source": "Reddit",
-      "date": "2026-05-23T13:54:37.000Z"
+      "score": 206,
+      "comments": 40,
+      "date": "2026-07-13T14:52:33.000Z"
     }
   ]
 }
