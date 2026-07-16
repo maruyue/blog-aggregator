@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-07-14T23:54:34.224Z",
-  "total": 20,
+  "updatedAt": "2026-07-16T00:00:35.398Z",
+  "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Why Trainy migrated from Amazon RDS Postgres to ClickHouse Managed Postgres",
+      "url": "https://clickhouse.com/blog/trainy-postgres-managed-by-clickhouse",
+      "source": "ClickHouse",
+      "date": "2026-07-16T00:00:35.262Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Replacing the HDB: ClickHouse for historical ticker data",
+      "url": "https://clickhouse.com/blog/historical-ticker-data",
+      "source": "ClickHouse",
+      "date": "2026-07-16T00:00:35.262Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Bullet uses ClickHouse Cloud to give DeFi&#x27;s fastest exchange real-time analytics",
       "url": "https://clickhouse.com/blog/bullet-real-time-analytics",
       "source": "ClickHouse",
-      "date": "2026-07-14T23:54:34.224Z"
+      "date": "2026-07-16T00:00:35.262Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "@clickhouse/rowbinary: when your library is also a parser compiler",
       "url": "https://clickhouse.com/blog/clickhouse-rowbinary-library-parser-compiler",
       "source": "ClickHouse",
-      "date": "2026-07-14T23:54:34.224Z"
+      "date": "2026-07-16T00:00:35.262Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How we configure huge pages in ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/huge-pages-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-14T23:54:34.224Z"
+      "date": "2026-07-16T00:00:35.262Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Insider One uses ClickHouse Cloud to power real-time customer engagement at scale",
       "url": "https://clickhouse.com/blog/insiderone-customer-data-platform",
       "source": "ClickHouse",
-      "date": "2026-07-14T23:54:34.224Z"
+      "date": "2026-07-16T00:00:35.262Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse on Docker Hardened Images",
       "url": "https://clickhouse.com/blog/docker-hardened-images",
       "source": "ClickHouse",
-      "date": "2026-07-14T23:54:34.224Z"
+      "date": "2026-07-16T00:00:35.262Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "One Driver, One Format, Every Language: ADBC",
       "url": "https://clickhouse.com/blog/introducing-the-clickhouse-adbc-driver",
       "source": "ClickHouse",
-      "date": "2026-07-14T23:54:34.224Z"
+      "date": "2026-07-16T00:00:35.262Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Trigger.dev is using ClickHouse to scale observability for long-running AI workflows",
       "url": "https://clickhouse.com/blog/trigger-dev-scaling-observability",
       "source": "ClickHouse",
-      "date": "2026-07-14T23:54:34.224Z"
+      "date": "2026-07-16T00:00:35.262Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing pg_re2, fast, RE2-powered regular expressions in Postgres",
       "url": "https://clickhouse.com/blog/introducing-pg_re2-regex-in-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-14T23:54:34.224Z"
+      "date": "2026-07-16T00:00:35.262Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "AI needs the best-of-breed data stack: Postgres and ClickHouse",
-      "url": "https://clickhouse.com/blog/ai-best-of-breed-data-stack",
-      "source": "ClickHouse",
-      "date": "2026-07-14T23:54:34.224Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "chDB as the Agent&#x27;s Local Data Engine",
-      "url": "https://clickhouse.com/blog/chdb-agents-local-data-engine",
-      "source": "ClickHouse",
-      "date": "2026-07-14T23:54:34.224Z"
-    },
-    {
-      "id": "hn-48913443",
-      "title": "Financing the AI boom: from cash flows to debt [pdf]",
-      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "id": "hn-48928313",
+      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials",
+      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
       "source": "HackerNews",
-      "score": 50,
-      "comments": 8,
-      "date": "2026-07-14T21:58:36.000Z"
+      "score": 18,
+      "comments": 5,
+      "date": "2026-07-15T23:00:31.000Z"
     },
     {
-      "id": "hn-48913050",
-      "title": "Dependabot version updates introduce default package cooldown",
-      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "id": "hn-48928234",
+      "title": "The Anti-Mac User Interface (1996)",
+      "url": "https://www.nngroup.com/articles/anti-mac-interface/",
       "source": "HackerNews",
-      "score": 62,
-      "comments": 41,
-      "date": "2026-07-14T21:15:51.000Z"
+      "score": 28,
+      "comments": 4,
+      "date": "2026-07-15T22:52:36.000Z"
     },
     {
-      "id": "hn-48912175",
-      "title": "How I use HTMX with Go",
-      "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+      "id": "hn-48928135",
+      "title": "SQLite should have (Rust-style) editions",
+      "url": "https://mort.coffee/home/sqlite-editions/",
       "source": "HackerNews",
-      "score": 85,
-      "comments": 16,
-      "date": "2026-07-14T19:55:31.000Z"
+      "score": 53,
+      "comments": 25,
+      "date": "2026-07-15T22:42:58.000Z"
     },
     {
-      "id": "hn-48910676",
+      "id": "hn-48927915",
+      "title": "LLM Networking with MikroTik",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "source": "HackerNews",
+      "score": 18,
+      "comments": 4,
+      "date": "2026-07-15T22:23:27.000Z"
+    },
+    {
+      "id": "hn-48927900",
+      "title": "P2P local file transfer based on WebRTC",
+      "url": "https://pairdrop.net/",
+      "source": "HackerNews",
+      "score": 18,
+      "comments": 10,
+      "date": "2026-07-15T22:22:08.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
       "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "source": "HackerNews",
-      "score": 211,
-      "comments": 89,
-      "date": "2026-07-14T17:58:35.000Z"
+      "url": "https://www.reddit.com/r/programming/comments/1uxjm12/cursor_0day_when_full_disclosure_becomes_the_only/",
+      "source": "Reddit",
+      "date": "2026-07-15T21:52:37.000Z"
     },
     {
-      "id": "hn-48910545",
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "url": "https://prismml.com/news/bonsai-27b",
+      "id": "hn-48927095",
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
       "source": "HackerNews",
-      "score": 365,
-      "comments": 137,
-      "date": "2026-07-14T17:50:48.000Z"
+      "score": 51,
+      "comments": 14,
+      "date": "2026-07-15T21:16:36.000Z"
     },
     {
-      "id": "hn-48909785",
-      "title": "The Tower Keeps Rising",
-      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "id": "hn-48926590",
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
       "source": "HackerNews",
-      "score": 307,
-      "comments": 151,
-      "date": "2026-07-14T16:57:54.000Z"
+      "score": 195,
+      "comments": 228,
+      "date": "2026-07-15T20:24:58.000Z"
     },
     {
-      "id": "hn-48905248",
-      "title": "How to stop Claude from saying load-bearing",
-      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-      "source": "HackerNews",
-      "score": 405,
-      "comments": 468,
-      "date": "2026-07-14T11:46:02.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "SQLite should have (Rust-style) editions",
+      "url": "https://www.reddit.com/r/programming/comments/1uxgmmq/sqlite_should_have_ruststyle_editions/",
+      "source": "Reddit",
+      "date": "2026-07-15T19:58:03.000Z"
     },
     {
-      "id": "hn-48905183",
-      "title": "Mathematical texts from a Maya site in Guatemala identify an ancient astronomer",
-      "url": "https://www.nature.com/articles/d41586-026-02170-8",
+      "id": "hn-48924912",
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
       "source": "HackerNews",
-      "score": 20,
-      "comments": 1,
-      "date": "2026-07-14T11:40:34.000Z"
+      "score": 580,
+      "comments": 143,
+      "date": "2026-07-15T18:12:45.000Z"
     },
     {
-      "id": "hn-48872401",
-      "title": "The largest available Minecraft world, totalling 15 TB",
-      "url": "https://2b2t.place/1million",
-      "source": "HackerNews",
-      "score": 142,
-      "comments": 45,
-      "date": "2026-07-11T14:32:19.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://www.reddit.com/r/programming/comments/1uxcpa8/jurassic_park_computers_in_excruciating_detail/",
+      "source": "Reddit",
+      "date": "2026-07-15T17:32:10.000Z"
     },
     {
-      "id": "hn-48869989",
-      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "id": "hn-48922434",
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
       "source": "HackerNews",
-      "score": 681,
-      "comments": 424,
-      "date": "2026-07-11T08:21:27.000Z"
+      "score": 218,
+      "comments": 140,
+      "date": "2026-07-15T15:34:05.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Requisites change while you iterate: Lessons I learned from building a concurrent DevOps tool for automatically triggering GitHub workflows",
+      "url": "https://www.reddit.com/r/programming/comments/1ux6970/requisites_change_while_you_iterate_lessons_i/",
+      "source": "Reddit",
+      "date": "2026-07-15T13:43:12.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "We compiled our TypeScript parser to WASM",
+      "url": "https://www.reddit.com/r/programming/comments/1ux5sj1/we_compiled_our_typescript_parser_to_wasm/",
+      "source": "Reddit",
+      "date": "2026-07-15T13:24:56.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "End-to-end encrypted secret sharing with the Web Crypto API",
+      "url": "https://www.reddit.com/r/programming/comments/1uwxnox/endtoend_encrypted_secret_sharing_with_the_web/",
+      "source": "Reddit",
+      "date": "2026-07-15T06:25:15.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Ban commits/transactions using AST analysis and linters",
+      "url": "https://www.reddit.com/r/programming/comments/1uwv2xt/ban_commitstransactions_using_ast_analysis_and/",
+      "source": "Reddit",
+      "date": "2026-07-15T04:09:01.000Z"
+    },
+    {
+      "id": "hn-48915953",
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "source": "HackerNews",
+      "score": 318,
+      "comments": 188,
+      "date": "2026-07-15T03:32:45.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How we rebuilt our notification platform to fanout millions of notifications without timing out",
+      "url": "https://www.reddit.com/r/programming/comments/1uwj90b/how_we_rebuilt_our_notification_platform_to/",
+      "source": "Reddit",
+      "date": "2026-07-14T19:48:53.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "git rebase -i is not that scary",
+      "url": "https://www.reddit.com/r/programming/comments/1uwbmr0/git_rebase_i_is_not_that_scary/",
+      "source": "Reddit",
+      "date": "2026-07-14T15:17:44.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "Reddit",
+      "date": "2026-05-23T13:54:37.000Z"
     }
   ]
 }
