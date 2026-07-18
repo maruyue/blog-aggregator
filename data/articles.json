@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-07-17T23:54:46.512Z",
-  "total": 20,
+  "updatedAt": "2026-07-18T23:56:18.685Z",
+  "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "July 2026 newsletter",
       "url": "https://clickhouse.com/blog/202607-newsletter",
       "source": "ClickHouse",
-      "date": "2026-07-17T23:54:46.512Z"
+      "date": "2026-07-18T23:56:18.387Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why Trainy migrated from Amazon RDS Postgres to ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/trainy-postgres-managed-by-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-07-17T23:54:46.512Z"
+      "date": "2026-07-18T23:56:18.387Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Replacing the HDB: ClickHouse for historical ticker data",
       "url": "https://clickhouse.com/blog/historical-ticker-data",
       "source": "ClickHouse",
-      "date": "2026-07-17T23:54:46.512Z"
+      "date": "2026-07-18T23:56:18.387Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Bullet uses ClickHouse Cloud to give DeFi&#x27;s fastest exchange real-time analytics",
       "url": "https://clickhouse.com/blog/bullet-real-time-analytics",
       "source": "ClickHouse",
-      "date": "2026-07-17T23:54:46.512Z"
+      "date": "2026-07-18T23:56:18.387Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "@clickhouse/rowbinary: when your library is also a parser compiler",
       "url": "https://clickhouse.com/blog/clickhouse-rowbinary-library-parser-compiler",
       "source": "ClickHouse",
-      "date": "2026-07-17T23:54:46.512Z"
+      "date": "2026-07-18T23:56:18.387Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How we configure huge pages in ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/huge-pages-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-17T23:54:46.512Z"
+      "date": "2026-07-18T23:56:18.387Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Insider One uses ClickHouse Cloud to power real-time customer engagement at scale",
       "url": "https://clickhouse.com/blog/insiderone-customer-data-platform",
       "source": "ClickHouse",
-      "date": "2026-07-17T23:54:46.512Z"
+      "date": "2026-07-18T23:56:18.387Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse on Docker Hardened Images",
       "url": "https://clickhouse.com/blog/docker-hardened-images",
       "source": "ClickHouse",
-      "date": "2026-07-17T23:54:46.512Z"
+      "date": "2026-07-18T23:56:18.387Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "One Driver, One Format, Every Language: ADBC",
       "url": "https://clickhouse.com/blog/introducing-the-clickhouse-adbc-driver",
       "source": "ClickHouse",
-      "date": "2026-07-17T23:54:46.512Z"
+      "date": "2026-07-18T23:56:18.387Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Trigger.dev is using ClickHouse to scale observability for long-running AI workflows",
       "url": "https://clickhouse.com/blog/trigger-dev-scaling-observability",
       "source": "ClickHouse",
-      "date": "2026-07-17T23:54:46.512Z"
+      "date": "2026-07-18T23:56:18.387Z"
     },
     {
-      "id": "hn-48952939",
-      "title": "Texas wins court order to suspend domain name for violating age-verification law",
-      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
-      "source": "HackerNews",
-      "score": 33,
-      "comments": 20,
-      "date": "2026-07-17T22:35:55.000Z"
-    },
-    {
-      "id": "hn-48952880",
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "source": "HackerNews",
-      "score": 140,
-      "comments": 104,
-      "date": "2026-07-17T22:26:30.000Z"
-    },
-    {
-      "id": "hn-48952439",
-      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-      "source": "HackerNews",
-      "score": 81,
-      "comments": 44,
-      "date": "2026-07-17T21:22:53.000Z"
-    },
-    {
-      "id": "hn-48952135",
-      "title": "Open Book Touch: open-source e-reader",
-      "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+      "id": "hn-48963465",
+      "title": "Codex Resets",
+      "url": "https://codex-resets.com/",
       "source": "HackerNews",
       "score": 25,
-      "comments": 4,
-      "date": "2026-07-17T20:47:57.000Z"
+      "comments": 17,
+      "date": "2026-07-18T23:24:26.000Z"
     },
     {
-      "id": "hn-48952067",
-      "title": "Topcoat: The full full-stack framework for Rust",
-      "url": "https://github.com/tokio-rs/topcoat",
+      "id": "hn-48962944",
+      "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
+      "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
       "source": "HackerNews",
-      "score": 22,
-      "comments": 11,
-      "date": "2026-07-17T20:41:43.000Z"
+      "score": 15,
+      "comments": 3,
+      "date": "2026-07-18T22:09:07.000Z"
     },
     {
-      "id": "hn-48951898",
-      "title": "Static search trees: 40x faster than binary search (2024)",
-      "url": "https://curiouscoding.nl/posts/static-search-tree/",
-      "source": "HackerNews",
-      "score": 19,
-      "comments": 0,
-      "date": "2026-07-17T20:24:55.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The fsync inside the WAL lock",
+      "url": "https://www.reddit.com/r/programming/comments/1v08tqo/the_fsync_inside_the_wal_lock/",
+      "source": "Reddit",
+      "date": "2026-07-18T22:06:52.000Z"
     },
     {
-      "id": "hn-48951461",
-      "title": "The Zilog Z80 has turned 50",
-      "url": "https://goliath32.com/blog/z80.html",
+      "id": "hn-48962893",
+      "title": "Judge a book by its first pages",
+      "url": "https://uncovered.ink",
       "source": "HackerNews",
-      "score": 141,
+      "score": 27,
+      "comments": 21,
+      "date": "2026-07-18T22:02:31.000Z"
+    },
+    {
+      "id": "hn-48962838",
+      "title": "Classic Amiga titles, free to download",
+      "url": "https://amigafreeware.downer.tech/",
+      "source": "HackerNews",
+      "score": 20,
+      "comments": 3,
+      "date": "2026-07-18T21:55:27.000Z"
+    },
+    {
+      "id": "hn-48962758",
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "url": "https://www.neatnik.net/hardcore-indieweb",
+      "source": "HackerNews",
+      "score": 48,
       "comments": 39,
-      "date": "2026-07-17T19:41:02.000Z"
+      "date": "2026-07-18T21:45:12.000Z"
     },
     {
-      "id": "hn-48950122",
-      "title": "Learning a few things about running SQLite",
-      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "source": "HackerNews",
-      "score": 136,
-      "comments": 36,
-      "date": "2026-07-17T17:45:41.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Sometimes the most resilient thing a system can do isn’t retry",
+      "url": "https://www.reddit.com/r/programming/comments/1v05z0d/sometimes_the_most_resilient_thing_a_system_can/",
+      "source": "Reddit",
+      "date": "2026-07-18T20:07:54.000Z"
     },
     {
-      "id": "hn-48947717",
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+      "id": "hn-48961504",
+      "title": "Typing Speed Test, but for Developers",
+      "url": "https://haxxorwpm.0s.is/",
       "source": "HackerNews",
-      "score": 248,
-      "comments": 140,
-      "date": "2026-07-17T14:21:51.000Z"
+      "score": 77,
+      "comments": 47,
+      "date": "2026-07-18T19:38:21.000Z"
     },
     {
-      "id": "hn-48947560",
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Zilog Z80 has turned 50",
+      "url": "https://www.reddit.com/r/programming/comments/1v01zwd/the_zilog_z80_has_turned_50/",
+      "source": "Reddit",
+      "date": "2026-07-18T17:32:02.000Z"
+    },
+    {
+      "id": "hn-48959143",
+      "title": "Gleam Is Now on Tangled",
+      "url": "https://tangled.org/gleam.run/gleam",
       "source": "HackerNews",
-      "score": 345,
-      "comments": 219,
-      "date": "2026-07-17T14:06:13.000Z"
+      "score": 191,
+      "comments": 124,
+      "date": "2026-07-18T15:44:04.000Z"
+    },
+    {
+      "id": "hn-48959090",
+      "title": "If You Build It, They Will Come",
+      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "source": "HackerNews",
+      "score": 229,
+      "comments": 83,
+      "date": "2026-07-18T15:37:01.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Tutorial: Introduction to Formal Verification with Lean (Part 1)",
+      "url": "https://www.reddit.com/r/programming/comments/1uzvfar/tutorial_introduction_to_formal_verification_with/",
+      "source": "Reddit",
+      "date": "2026-07-18T13:06:06.000Z"
+    },
+    {
+      "id": "hn-48957779",
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "source": "HackerNews",
+      "score": 481,
+      "comments": 310,
+      "date": "2026-07-18T13:00:52.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Java Story | The Official Documentary of Java",
+      "url": "https://www.reddit.com/r/programming/comments/1uzkqdg/the_java_story_the_official_documentary_of_java/",
+      "source": "Reddit",
+      "date": "2026-07-18T03:26:58.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "What surprised an engineer after spending 13 years on SQL Server and then working on Postgres? on the Talking Postgres podcast",
+      "url": "https://www.reddit.com/r/programming/comments/1uzerp7/what_surprised_an_engineer_after_spending_13/",
+      "source": "Reddit",
+      "date": "2026-07-17T22:50:43.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Maintaining the code of the man who wrote \"How To Write Unmaintainable Code\"",
+      "url": "https://www.reddit.com/r/programming/comments/1uzadz5/maintaining_the_code_of_the_man_who_wrote_how_to/",
+      "source": "Reddit",
+      "date": "2026-07-17T19:57:00.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The 10 Levels of Building a Data Grid - My 1 Year Journey of Building a Table.",
+      "url": "https://www.reddit.com/r/programming/comments/1uyvq9x/the_10_levels_of_building_a_data_grid_my_1_year/",
+      "source": "Reddit",
+      "date": "2026-07-17T10:21:45.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The most expensive instruction might be… cmov",
+      "url": "https://www.reddit.com/r/programming/comments/1uyt0tf/the_most_expensive_instruction_might_be_cmov/",
+      "source": "Reddit",
+      "date": "2026-07-17T07:44:52.000Z"
+    },
+    {
+      "id": "hn-48911793",
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "source": "HackerNews",
+      "score": 198,
+      "comments": 25,
+      "date": "2026-07-14T19:25:10.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "Reddit",
+      "date": "2026-05-23T13:54:37.000Z"
     }
   ]
 }
