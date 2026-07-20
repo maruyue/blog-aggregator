@@ -1,236 +1,166 @@
 {
-  "updatedAt": "2026-07-18T23:56:18.685Z",
-  "total": 30,
+  "updatedAt": "2026-07-20T00:00:22.035Z",
+  "total": 20,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "July 2026 newsletter",
       "url": "https://clickhouse.com/blog/202607-newsletter",
       "source": "ClickHouse",
-      "date": "2026-07-18T23:56:18.387Z"
+      "date": "2026-07-20T00:00:22.035Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why Trainy migrated from Amazon RDS Postgres to ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/trainy-postgres-managed-by-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-07-18T23:56:18.387Z"
+      "date": "2026-07-20T00:00:22.035Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Replacing the HDB: ClickHouse for historical ticker data",
       "url": "https://clickhouse.com/blog/historical-ticker-data",
       "source": "ClickHouse",
-      "date": "2026-07-18T23:56:18.387Z"
+      "date": "2026-07-20T00:00:22.035Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Bullet uses ClickHouse Cloud to give DeFi&#x27;s fastest exchange real-time analytics",
       "url": "https://clickhouse.com/blog/bullet-real-time-analytics",
       "source": "ClickHouse",
-      "date": "2026-07-18T23:56:18.387Z"
+      "date": "2026-07-20T00:00:22.035Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "@clickhouse/rowbinary: when your library is also a parser compiler",
       "url": "https://clickhouse.com/blog/clickhouse-rowbinary-library-parser-compiler",
       "source": "ClickHouse",
-      "date": "2026-07-18T23:56:18.387Z"
+      "date": "2026-07-20T00:00:22.035Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How we configure huge pages in ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/huge-pages-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-18T23:56:18.387Z"
+      "date": "2026-07-20T00:00:22.035Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Insider One uses ClickHouse Cloud to power real-time customer engagement at scale",
       "url": "https://clickhouse.com/blog/insiderone-customer-data-platform",
       "source": "ClickHouse",
-      "date": "2026-07-18T23:56:18.387Z"
+      "date": "2026-07-20T00:00:22.035Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse on Docker Hardened Images",
       "url": "https://clickhouse.com/blog/docker-hardened-images",
       "source": "ClickHouse",
-      "date": "2026-07-18T23:56:18.387Z"
+      "date": "2026-07-20T00:00:22.035Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "One Driver, One Format, Every Language: ADBC",
       "url": "https://clickhouse.com/blog/introducing-the-clickhouse-adbc-driver",
       "source": "ClickHouse",
-      "date": "2026-07-18T23:56:18.387Z"
+      "date": "2026-07-20T00:00:22.035Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Trigger.dev is using ClickHouse to scale observability for long-running AI workflows",
       "url": "https://clickhouse.com/blog/trigger-dev-scaling-observability",
       "source": "ClickHouse",
-      "date": "2026-07-18T23:56:18.387Z"
+      "date": "2026-07-20T00:00:22.035Z"
     },
     {
-      "id": "hn-48963465",
-      "title": "Codex Resets",
-      "url": "https://codex-resets.com/",
+      "id": "hn-48971847",
+      "title": "Show HN: A canvas-based note taking and organizer app",
+      "url": "https://www.passinote.app/",
       "source": "HackerNews",
       "score": 25,
-      "comments": 17,
-      "date": "2026-07-18T23:24:26.000Z"
+      "comments": 8,
+      "date": "2026-07-19T21:31:48.000Z"
     },
     {
-      "id": "hn-48962944",
-      "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
-      "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
+      "id": "hn-48971738",
+      "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
       "source": "HackerNews",
-      "score": 15,
-      "comments": 3,
-      "date": "2026-07-18T22:09:07.000Z"
+      "score": 212,
+      "comments": 100,
+      "date": "2026-07-19T21:18:10.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The fsync inside the WAL lock",
-      "url": "https://www.reddit.com/r/programming/comments/1v08tqo/the_fsync_inside_the_wal_lock/",
-      "source": "Reddit",
-      "date": "2026-07-18T22:06:52.000Z"
-    },
-    {
-      "id": "hn-48962893",
-      "title": "Judge a book by its first pages",
-      "url": "https://uncovered.ink",
+      "id": "hn-48971566",
+      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
       "source": "HackerNews",
-      "score": 27,
-      "comments": 21,
-      "date": "2026-07-18T22:02:31.000Z"
+      "score": 35,
+      "comments": 22,
+      "date": "2026-07-19T20:50:42.000Z"
     },
     {
-      "id": "hn-48962838",
-      "title": "Classic Amiga titles, free to download",
-      "url": "https://amigafreeware.downer.tech/",
+      "id": "hn-48968063",
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
       "source": "HackerNews",
-      "score": 20,
-      "comments": 3,
-      "date": "2026-07-18T21:55:27.000Z"
+      "score": 113,
+      "comments": 84,
+      "date": "2026-07-19T13:29:29.000Z"
     },
     {
-      "id": "hn-48962758",
-      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-      "url": "https://www.neatnik.net/hardcore-indieweb",
+      "id": "hn-48967256",
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
       "source": "HackerNews",
-      "score": 48,
-      "comments": 39,
-      "date": "2026-07-18T21:45:12.000Z"
+      "score": 258,
+      "comments": 168,
+      "date": "2026-07-19T11:48:18.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Sometimes the most resilient thing a system can do isn’t retry",
-      "url": "https://www.reddit.com/r/programming/comments/1v05z0d/sometimes_the_most_resilient_thing_a_system_can/",
-      "source": "Reddit",
-      "date": "2026-07-18T20:07:54.000Z"
-    },
-    {
-      "id": "hn-48961504",
-      "title": "Typing Speed Test, but for Developers",
-      "url": "https://haxxorwpm.0s.is/",
+      "id": "hn-48966569",
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
       "source": "HackerNews",
-      "score": 77,
-      "comments": 47,
-      "date": "2026-07-18T19:38:21.000Z"
+      "score": 370,
+      "comments": 508,
+      "date": "2026-07-19T10:03:23.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The Zilog Z80 has turned 50",
-      "url": "https://www.reddit.com/r/programming/comments/1v01zwd/the_zilog_z80_has_turned_50/",
-      "source": "Reddit",
-      "date": "2026-07-18T17:32:02.000Z"
-    },
-    {
-      "id": "hn-48959143",
-      "title": "Gleam Is Now on Tangled",
-      "url": "https://tangled.org/gleam.run/gleam",
+      "id": "hn-48966120",
+      "title": "Qwen 3.8",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
       "source": "HackerNews",
-      "score": 191,
-      "comments": 124,
-      "date": "2026-07-18T15:44:04.000Z"
+      "score": 749,
+      "comments": 533,
+      "date": "2026-07-19T08:44:57.000Z"
     },
     {
-      "id": "hn-48959090",
-      "title": "If You Build It, They Will Come",
-      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "id": "hn-48920597",
+      "title": "Talk: The Art of Braiding Algorithms",
+      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
       "source": "HackerNews",
-      "score": 229,
-      "comments": 83,
-      "date": "2026-07-18T15:37:01.000Z"
+      "score": 11,
+      "comments": 0,
+      "date": "2026-07-15T13:31:44.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Tutorial: Introduction to Formal Verification with Lean (Part 1)",
-      "url": "https://www.reddit.com/r/programming/comments/1uzvfar/tutorial_introduction_to_formal_verification_with/",
-      "source": "Reddit",
-      "date": "2026-07-18T13:06:06.000Z"
-    },
-    {
-      "id": "hn-48957779",
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "id": "hn-48911021",
+      "title": "Blender 5.2 LTS",
+      "url": "https://www.blender.org/download/releases/5-2/",
       "source": "HackerNews",
-      "score": 481,
-      "comments": 310,
-      "date": "2026-07-18T13:00:52.000Z"
+      "score": 348,
+      "comments": 137,
+      "date": "2026-07-14T18:22:47.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The Java Story | The Official Documentary of Java",
-      "url": "https://www.reddit.com/r/programming/comments/1uzkqdg/the_java_story_the_official_documentary_of_java/",
-      "source": "Reddit",
-      "date": "2026-07-18T03:26:58.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "What surprised an engineer after spending 13 years on SQL Server and then working on Postgres? on the Talking Postgres podcast",
-      "url": "https://www.reddit.com/r/programming/comments/1uzerp7/what_surprised_an_engineer_after_spending_13/",
-      "source": "Reddit",
-      "date": "2026-07-17T22:50:43.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Maintaining the code of the man who wrote \"How To Write Unmaintainable Code\"",
-      "url": "https://www.reddit.com/r/programming/comments/1uzadz5/maintaining_the_code_of_the_man_who_wrote_how_to/",
-      "source": "Reddit",
-      "date": "2026-07-17T19:57:00.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The 10 Levels of Building a Data Grid - My 1 Year Journey of Building a Table.",
-      "url": "https://www.reddit.com/r/programming/comments/1uyvq9x/the_10_levels_of_building_a_data_grid_my_1_year/",
-      "source": "Reddit",
-      "date": "2026-07-17T10:21:45.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The most expensive instruction might be… cmov",
-      "url": "https://www.reddit.com/r/programming/comments/1uyt0tf/the_most_expensive_instruction_might_be_cmov/",
-      "source": "Reddit",
-      "date": "2026-07-17T07:44:52.000Z"
-    },
-    {
-      "id": "hn-48911793",
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "id": "hn-48907390",
+      "title": "The Zen of Parallel Programming",
+      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
       "source": "HackerNews",
-      "score": 198,
-      "comments": 25,
-      "date": "2026-07-14T19:25:10.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
-      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-      "source": "Reddit",
-      "date": "2026-05-23T13:54:37.000Z"
+      "score": 92,
+      "comments": 5,
+      "date": "2026-07-14T14:23:26.000Z"
     }
   ]
 }
