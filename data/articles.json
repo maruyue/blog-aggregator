@@ -1,236 +1,166 @@
 {
-  "updatedAt": "2026-07-20T23:57:42.185Z",
-  "total": 30,
+  "updatedAt": "2026-07-21T23:57:09.192Z",
+  "total": 20,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Migrate Datadog telemetry with the OpenTelemetry Collector",
+      "url": "https://clickhouse.com/blog/datadog-receiver-opentelemetry-collector",
+      "source": "ClickHouse",
+      "date": "2026-07-21T23:57:09.192Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "PostgresBench: Measuring the impact of High Availability on Managed Postgres performance",
+      "url": "https://clickhouse.com/blog/postgresbench-ha",
+      "source": "ClickHouse",
+      "date": "2026-07-21T23:57:09.192Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse announced as Principal Partner and Front of Shirt Sponsor of Fulham Football Club",
+      "url": "https://clickhouse.com/blog/clickhouse-announced-principal-partner-sponsor-fulham-fc",
+      "source": "ClickHouse",
+      "date": "2026-07-21T23:57:09.192Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "July 2026 newsletter",
       "url": "https://clickhouse.com/blog/202607-newsletter",
       "source": "ClickHouse",
-      "date": "2026-07-20T23:57:41.857Z"
+      "date": "2026-07-21T23:57:09.192Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why Trainy migrated from Amazon RDS Postgres to ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/trainy-postgres-managed-by-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-07-20T23:57:41.857Z"
+      "date": "2026-07-21T23:57:09.192Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Replacing the HDB: ClickHouse for historical ticker data",
       "url": "https://clickhouse.com/blog/historical-ticker-data",
       "source": "ClickHouse",
-      "date": "2026-07-20T23:57:41.857Z"
+      "date": "2026-07-21T23:57:09.192Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Bullet uses ClickHouse Cloud to give DeFi&#x27;s fastest exchange real-time analytics",
       "url": "https://clickhouse.com/blog/bullet-real-time-analytics",
       "source": "ClickHouse",
-      "date": "2026-07-20T23:57:41.857Z"
+      "date": "2026-07-21T23:57:09.192Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "@clickhouse/rowbinary: when your library is also a parser compiler",
       "url": "https://clickhouse.com/blog/clickhouse-rowbinary-library-parser-compiler",
       "source": "ClickHouse",
-      "date": "2026-07-20T23:57:41.857Z"
+      "date": "2026-07-21T23:57:09.192Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How we configure huge pages in ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/huge-pages-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-20T23:57:41.857Z"
+      "date": "2026-07-21T23:57:09.192Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Insider One uses ClickHouse Cloud to power real-time customer engagement at scale",
       "url": "https://clickhouse.com/blog/insiderone-customer-data-platform",
       "source": "ClickHouse",
-      "date": "2026-07-20T23:57:41.857Z"
+      "date": "2026-07-21T23:57:09.192Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse on Docker Hardened Images",
-      "url": "https://clickhouse.com/blog/docker-hardened-images",
-      "source": "ClickHouse",
-      "date": "2026-07-20T23:57:41.857Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "One Driver, One Format, Every Language: ADBC",
-      "url": "https://clickhouse.com/blog/introducing-the-clickhouse-adbc-driver",
-      "source": "ClickHouse",
-      "date": "2026-07-20T23:57:41.857Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Trigger.dev is using ClickHouse to scale observability for long-running AI workflows",
-      "url": "https://clickhouse.com/blog/trigger-dev-scaling-observability",
-      "source": "ClickHouse",
-      "date": "2026-07-20T23:57:41.857Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Threading on Thin Ice: Demystifying the .NET ThreadPool and avoiding starvation",
-      "url": "https://www.reddit.com/r/programming/comments/1v20lx2/threading_on_thin_ice_demystifying_the_net/",
-      "source": "Reddit",
-      "date": "2026-07-20T22:48:47.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Every Microsecond Matters: Achieving Near Speed-of-Light Latency in GPU Collectives",
-      "url": "https://www.reddit.com/r/programming/comments/1v1wzhf/every_microsecond_matters_achieving_near/",
-      "source": "Reddit",
-      "date": "2026-07-20T20:26:07.000Z"
-    },
-    {
-      "id": "hn-48984270",
-      "title": "I wrote an bash enumerator because I was sick of xargs",
-      "url": "https://numerlab.org/2025/07/20/bashumerate-enumerator/",
+      "id": "hn-48999376",
+      "title": "An Engineer's Guide to USB Type-C [pdf]",
+      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf",
       "source": "HackerNews",
-      "score": 34,
+      "score": 18,
+      "comments": 3,
+      "date": "2026-07-21T22:45:27.000Z"
+    },
+    {
+      "id": "hn-48999291",
+      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
+      "url": "https://fireworks.ai/blog/kimik3-fable",
+      "source": "HackerNews",
+      "score": 157,
+      "comments": 87,
+      "date": "2026-07-21T22:35:24.000Z"
+    },
+    {
+      "id": "hn-48998404",
+      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "source": "HackerNews",
+      "score": 68,
+      "comments": 21,
+      "date": "2026-07-21T21:13:20.000Z"
+    },
+    {
+      "id": "hn-48998362",
+      "title": "A digestion of the Jacobian conjecture counterexample",
+      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+      "source": "HackerNews",
+      "score": 118,
       "comments": 29,
-      "date": "2026-07-20T20:12:19.000Z"
+      "date": "2026-07-21T21:09:25.000Z"
     },
     {
-      "id": "hn-48984254",
-      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
-      "url": "https://vincentwoo.com/3d/grace_cathedral/",
+      "id": "hn-48997548",
+      "title": "OpenAI and Hugging Face address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "source": "HackerNews",
-      "score": 44,
-      "comments": 6,
-      "date": "2026-07-20T20:10:44.000Z"
+      "score": 577,
+      "comments": 380,
+      "date": "2026-07-21T20:09:52.000Z"
     },
     {
-      "id": "hn-48983382",
-      "title": "Human mathematicians are being outcounterexampled",
-      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "id": "hn-48996318",
+      "title": "FreeInk: Open ecosystem for e-readers",
+      "url": "https://freeink.org/",
       "source": "HackerNews",
-      "score": 158,
-      "comments": 59,
-      "date": "2026-07-20T19:03:37.000Z"
+      "score": 358,
+      "comments": 82,
+      "date": "2026-07-21T18:39:06.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The Message Arrived. Did the Operation Succeed? On End-to-End Arguments in System Design.",
-      "url": "https://www.reddit.com/r/programming/comments/1v1u07o/the_message_arrived_did_the_operation_succeed_on/",
-      "source": "Reddit",
-      "date": "2026-07-20T18:37:55.000Z"
-    },
-    {
-      "id": "hn-48982681",
-      "title": "Nativ: Run frontier open models locally on your Mac",
-      "url": "https://blaizzy.github.io/nativ/",
+      "id": "hn-48995213",
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
       "source": "HackerNews",
-      "score": 152,
-      "comments": 62,
-      "date": "2026-07-20T18:16:08.000Z"
+      "score": 210,
+      "comments": 198,
+      "date": "2026-07-21T17:14:06.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Throw, Result, or neither?",
-      "url": "https://www.reddit.com/r/programming/comments/1v1sg8b/throw_result_or_neither/",
-      "source": "Reddit",
-      "date": "2026-07-20T17:43:16.000Z"
-    },
-    {
-      "id": "hn-48981703",
-      "title": "Kimi Work",
-      "url": "https://www.kimi.com/products/kimi-work",
+      "id": "hn-48993816",
+      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+      "url": "https://e360.yale.edu/digest/benin-coral-reef",
       "source": "HackerNews",
-      "score": 342,
-      "comments": 163,
-      "date": "2026-07-20T17:13:23.000Z"
+      "score": 285,
+      "comments": 52,
+      "date": "2026-07-21T15:41:51.000Z"
     },
     {
-      "id": "hn-48981620",
-      "title": "Jelly UI: Soft-body physics for native HTML form controls",
-      "url": "https://jelly-ui.com/",
+      "id": "hn-48993414",
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
       "source": "HackerNews",
-      "score": 295,
-      "comments": 123,
-      "date": "2026-07-20T17:07:39.000Z"
+      "score": 585,
+      "comments": 465,
+      "date": "2026-07-21T15:17:16.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Modula-3: the forgotten language that explored memory safety decades ago",
-      "url": "https://www.reddit.com/r/programming/comments/1v1q3sc/modula3_the_forgotten_language_that_explored/",
-      "source": "Reddit",
-      "date": "2026-07-20T16:18:58.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How Generalized Inverted Index works internally in Postgre SQL",
-      "url": "https://www.reddit.com/r/programming/comments/1v1p25q/how_generalized_inverted_index_works_internally/",
-      "source": "Reddit",
-      "date": "2026-07-20T15:40:19.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The LSM Tree",
-      "url": "https://www.reddit.com/r/programming/comments/1v1p0a9/the_lsm_tree/",
-      "source": "Reddit",
-      "date": "2026-07-20T15:38:25.000Z"
-    },
-    {
-      "id": "hn-48979269",
-      "title": "China’s open-weights AI strategy is winning",
-      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "id": "hn-48938395",
+      "title": "Recreating the math behind the first stealth aircraft",
+      "url": "https://www.pramit.gg/post/remaking-echo-1-stealth-physics",
       "source": "HackerNews",
-      "score": 919,
-      "comments": 748,
-      "date": "2026-07-20T14:21:47.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Zig proposes introducing an actually memory safe (unlike Rust) compilation mode inspired by Fil-C at ~1-6x performance penalty",
-      "url": "https://www.reddit.com/r/programming/comments/1v1mpxw/zig_proposes_introducing_an_actually_memory_safe/",
-      "source": "Reddit",
-      "date": "2026-07-20T14:12:27.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Comprehensive JVM Primitive Hashtable Benchmarks",
-      "url": "https://www.reddit.com/r/programming/comments/1v1lqdd/comprehensive_jvm_primitive_hashtable_benchmarks/",
-      "source": "Reddit",
-      "date": "2026-07-20T13:34:32.000Z"
-    },
-    {
-      "id": "hn-48978605",
-      "title": "Hacker wipes Romania's land registry database",
-      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-      "source": "HackerNews",
-      "score": 552,
-      "comments": 308,
-      "date": "2026-07-20T13:28:33.000Z"
-    },
-    {
-      "id": "hn-48977128",
-      "title": "Who's Afraid of Chinese Models?",
-      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-      "source": "HackerNews",
-      "score": 126,
-      "comments": 90,
-      "date": "2026-07-20T11:05:58.000Z"
-    },
-    {
-      "id": "hn-48976846",
-      "title": "Airport Simulator",
-      "url": "https://airport.apunen.com/",
-      "source": "HackerNews",
-      "score": 669,
-      "comments": 134,
-      "date": "2026-07-20T10:30:40.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
-      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-      "source": "Reddit",
-      "date": "2026-05-23T13:54:37.000Z"
+      "score": 14,
+      "comments": 1,
+      "date": "2026-07-16T18:34:56.000Z"
     }
   ]
 }
