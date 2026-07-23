@@ -1,166 +1,166 @@
 {
-  "updatedAt": "2026-07-21T23:57:09.192Z",
+  "updatedAt": "2026-07-23T00:01:42.969Z",
   "total": 20,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Benchmarking the ClickStack MCP Server with hdx-evals",
+      "url": "https://clickhouse.com/blog/benchmarking-the-clickstack-mcp-server-with-hdx-evals",
+      "source": "ClickHouse",
+      "date": "2026-07-23T00:01:42.969Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Migrate Datadog telemetry with the OpenTelemetry Collector",
       "url": "https://clickhouse.com/blog/datadog-receiver-opentelemetry-collector",
       "source": "ClickHouse",
-      "date": "2026-07-21T23:57:09.192Z"
+      "date": "2026-07-23T00:01:42.969Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "PostgresBench: Measuring the impact of High Availability on Managed Postgres performance",
       "url": "https://clickhouse.com/blog/postgresbench-ha",
       "source": "ClickHouse",
-      "date": "2026-07-21T23:57:09.192Z"
+      "date": "2026-07-23T00:01:42.969Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse announced as Principal Partner and Front of Shirt Sponsor of Fulham Football Club",
       "url": "https://clickhouse.com/blog/clickhouse-announced-principal-partner-sponsor-fulham-fc",
       "source": "ClickHouse",
-      "date": "2026-07-21T23:57:09.192Z"
+      "date": "2026-07-23T00:01:42.969Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "July 2026 newsletter",
       "url": "https://clickhouse.com/blog/202607-newsletter",
       "source": "ClickHouse",
-      "date": "2026-07-21T23:57:09.192Z"
+      "date": "2026-07-23T00:01:42.969Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why Trainy migrated from Amazon RDS Postgres to ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/trainy-postgres-managed-by-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-07-21T23:57:09.192Z"
+      "date": "2026-07-23T00:01:42.969Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Replacing the HDB: ClickHouse for historical ticker data",
       "url": "https://clickhouse.com/blog/historical-ticker-data",
       "source": "ClickHouse",
-      "date": "2026-07-21T23:57:09.192Z"
+      "date": "2026-07-23T00:01:42.969Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Bullet uses ClickHouse Cloud to give DeFi&#x27;s fastest exchange real-time analytics",
       "url": "https://clickhouse.com/blog/bullet-real-time-analytics",
       "source": "ClickHouse",
-      "date": "2026-07-21T23:57:09.192Z"
+      "date": "2026-07-23T00:01:42.969Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "@clickhouse/rowbinary: when your library is also a parser compiler",
       "url": "https://clickhouse.com/blog/clickhouse-rowbinary-library-parser-compiler",
       "source": "ClickHouse",
-      "date": "2026-07-21T23:57:09.192Z"
+      "date": "2026-07-23T00:01:42.969Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "How we configure huge pages in ClickHouse Managed Postgres",
-      "url": "https://clickhouse.com/blog/huge-pages-clickhouse-managed-postgres",
+      "title": "Agentic infrastructure with clickhousectl: a distributed ClickStack across three continents",
+      "url": "https://clickhouse.com/blog/agentic-infrastructure-clickhousectl-distributed-clickstack",
       "source": "ClickHouse",
-      "date": "2026-07-21T23:57:09.192Z"
+      "date": "2026-07-23T00:01:42.968Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Insider One uses ClickHouse Cloud to power real-time customer engagement at scale",
-      "url": "https://clickhouse.com/blog/insiderone-customer-data-platform",
-      "source": "ClickHouse",
-      "date": "2026-07-21T23:57:09.192Z"
-    },
-    {
-      "id": "hn-48999376",
-      "title": "An Engineer's Guide to USB Type-C [pdf]",
-      "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf",
+      "id": "hn-49014007",
+      "title": "Medici family mystery may be solved after more than 400 years",
+      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
       "source": "HackerNews",
-      "score": 18,
-      "comments": 3,
-      "date": "2026-07-21T22:45:27.000Z"
+      "score": 57,
+      "comments": 11,
+      "date": "2026-07-22T21:55:34.000Z"
     },
     {
-      "id": "hn-48999291",
-      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "url": "https://fireworks.ai/blog/kimik3-fable",
+      "id": "hn-49013538",
+      "title": "Malleable Computing, Emacs, and You",
+      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
       "source": "HackerNews",
-      "score": 157,
-      "comments": 87,
-      "date": "2026-07-21T22:35:24.000Z"
+      "score": 57,
+      "comments": 7,
+      "date": "2026-07-22T21:15:26.000Z"
     },
     {
-      "id": "hn-48998404",
-      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "id": "hn-49013356",
+      "title": "Safari Technology Preview 248 Released",
+      "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
       "source": "HackerNews",
-      "score": 68,
-      "comments": 21,
-      "date": "2026-07-21T21:13:20.000Z"
+      "score": 65,
+      "comments": 26,
+      "date": "2026-07-22T21:00:26.000Z"
     },
     {
-      "id": "hn-48998362",
-      "title": "A digestion of the Jacobian conjecture counterexample",
-      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+      "id": "hn-49010782",
+      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+      "url": "https://github.com/cactus-compute/cactus-hybrid",
       "source": "HackerNews",
-      "score": 118,
-      "comments": 29,
-      "date": "2026-07-21T21:09:25.000Z"
+      "score": 38,
+      "comments": 6,
+      "date": "2026-07-22T17:56:29.000Z"
     },
     {
-      "id": "hn-48997548",
-      "title": "OpenAI and Hugging Face address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "id": "hn-49010648",
+      "title": "Everyone Should Know SIMD",
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
       "source": "HackerNews",
-      "score": 577,
-      "comments": 380,
-      "date": "2026-07-21T20:09:52.000Z"
+      "score": 208,
+      "comments": 66,
+      "date": "2026-07-22T17:48:18.000Z"
     },
     {
-      "id": "hn-48996318",
-      "title": "FreeInk: Open ecosystem for e-readers",
-      "url": "https://freeink.org/",
+      "id": "hn-49010345",
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
       "source": "HackerNews",
-      "score": 358,
-      "comments": 82,
-      "date": "2026-07-21T18:39:06.000Z"
+      "score": 544,
+      "comments": 339,
+      "date": "2026-07-22T17:30:40.000Z"
     },
     {
-      "id": "hn-48995213",
-      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "id": "hn-49010167",
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "url": "https://github.com/marcelroed/gigatoken/",
       "source": "HackerNews",
-      "score": 210,
-      "comments": 198,
-      "date": "2026-07-21T17:14:06.000Z"
+      "score": 331,
+      "comments": 63,
+      "date": "2026-07-22T17:20:38.000Z"
     },
     {
-      "id": "hn-48993816",
-      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
-      "url": "https://e360.yale.edu/digest/benin-coral-reef",
+      "id": "hn-49010129",
+      "title": "Are AI Labs Pelicanmaxxing?",
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
       "source": "HackerNews",
-      "score": 285,
-      "comments": 52,
-      "date": "2026-07-21T15:41:51.000Z"
+      "score": 350,
+      "comments": 138,
+      "date": "2026-07-22T17:17:54.000Z"
     },
     {
-      "id": "hn-48993414",
-      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "id": "hn-49008211",
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "url": "https://bento.page/slides/",
       "source": "HackerNews",
-      "score": 585,
-      "comments": 465,
-      "date": "2026-07-21T15:17:16.000Z"
+      "score": 603,
+      "comments": 142,
+      "date": "2026-07-22T15:19:23.000Z"
     },
     {
-      "id": "hn-48938395",
-      "title": "Recreating the math behind the first stealth aircraft",
-      "url": "https://www.pramit.gg/post/remaking-echo-1-stealth-physics",
+      "id": "hn-49007247",
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
       "source": "HackerNews",
-      "score": 14,
-      "comments": 1,
-      "date": "2026-07-16T18:34:56.000Z"
+      "score": 75,
+      "comments": 45,
+      "date": "2026-07-22T14:18:05.000Z"
     }
   ]
 }
