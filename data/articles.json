@@ -1,166 +1,166 @@
 {
-  "updatedAt": "2026-07-23T00:01:42.969Z",
+  "updatedAt": "2026-07-24T00:03:13.904Z",
   "total": 20,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "Benchmarking the ClickStack MCP Server with hdx-evals",
-      "url": "https://clickhouse.com/blog/benchmarking-the-clickstack-mcp-server-with-hdx-evals",
+      "title": "ClickHouse achieves AWS Small and Medium Business Competency",
+      "url": "https://clickhouse.com/blog/achieves-aws-smb-competency",
       "source": "ClickHouse",
-      "date": "2026-07-23T00:01:42.969Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Migrate Datadog telemetry with the OpenTelemetry Collector",
-      "url": "https://clickhouse.com/blog/datadog-receiver-opentelemetry-collector",
-      "source": "ClickHouse",
-      "date": "2026-07-23T00:01:42.969Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "PostgresBench: Measuring the impact of High Availability on Managed Postgres performance",
-      "url": "https://clickhouse.com/blog/postgresbench-ha",
-      "source": "ClickHouse",
-      "date": "2026-07-23T00:01:42.969Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse announced as Principal Partner and Front of Shirt Sponsor of Fulham Football Club",
-      "url": "https://clickhouse.com/blog/clickhouse-announced-principal-partner-sponsor-fulham-fc",
-      "source": "ClickHouse",
-      "date": "2026-07-23T00:01:42.969Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "July 2026 newsletter",
-      "url": "https://clickhouse.com/blog/202607-newsletter",
-      "source": "ClickHouse",
-      "date": "2026-07-23T00:01:42.969Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Why Trainy migrated from Amazon RDS Postgres to ClickHouse Managed Postgres",
-      "url": "https://clickhouse.com/blog/trainy-postgres-managed-by-clickhouse",
-      "source": "ClickHouse",
-      "date": "2026-07-23T00:01:42.969Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Replacing the HDB: ClickHouse for historical ticker data",
-      "url": "https://clickhouse.com/blog/historical-ticker-data",
-      "source": "ClickHouse",
-      "date": "2026-07-23T00:01:42.969Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Bullet uses ClickHouse Cloud to give DeFi&#x27;s fastest exchange real-time analytics",
-      "url": "https://clickhouse.com/blog/bullet-real-time-analytics",
-      "source": "ClickHouse",
-      "date": "2026-07-23T00:01:42.969Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "@clickhouse/rowbinary: when your library is also a parser compiler",
-      "url": "https://clickhouse.com/blog/clickhouse-rowbinary-library-parser-compiler",
-      "source": "ClickHouse",
-      "date": "2026-07-23T00:01:42.969Z"
+      "date": "2026-07-24T00:03:13.904Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Agentic infrastructure with clickhousectl: a distributed ClickStack across three continents",
       "url": "https://clickhouse.com/blog/agentic-infrastructure-clickhousectl-distributed-clickstack",
       "source": "ClickHouse",
-      "date": "2026-07-23T00:01:42.968Z"
+      "date": "2026-07-24T00:03:13.904Z"
     },
     {
-      "id": "hn-49014007",
-      "title": "Medici family mystery may be solved after more than 400 years",
-      "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-      "source": "HackerNews",
-      "score": 57,
-      "comments": 11,
-      "date": "2026-07-22T21:55:34.000Z"
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Benchmarking the ClickStack MCP Server with hdx-evals",
+      "url": "https://clickhouse.com/blog/benchmarking-the-clickstack-mcp-server-with-hdx-evals",
+      "source": "ClickHouse",
+      "date": "2026-07-24T00:03:13.904Z"
     },
     {
-      "id": "hn-49013538",
-      "title": "Malleable Computing, Emacs, and You",
-      "url": "http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html",
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Migrate Datadog telemetry with the OpenTelemetry Collector",
+      "url": "https://clickhouse.com/blog/datadog-receiver-opentelemetry-collector",
+      "source": "ClickHouse",
+      "date": "2026-07-24T00:03:13.904Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "PostgresBench: Measuring the impact of High Availability on Managed Postgres performance",
+      "url": "https://clickhouse.com/blog/postgresbench-ha",
+      "source": "ClickHouse",
+      "date": "2026-07-24T00:03:13.904Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse announced as Principal Partner and Front of Shirt Sponsor of Fulham Football Club",
+      "url": "https://clickhouse.com/blog/clickhouse-announced-principal-partner-sponsor-fulham-fc",
+      "source": "ClickHouse",
+      "date": "2026-07-24T00:03:13.904Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "July 2026 newsletter",
+      "url": "https://clickhouse.com/blog/202607-newsletter",
+      "source": "ClickHouse",
+      "date": "2026-07-24T00:03:13.904Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Why Trainy migrated from Amazon RDS Postgres to ClickHouse Managed Postgres",
+      "url": "https://clickhouse.com/blog/trainy-postgres-managed-by-clickhouse",
+      "source": "ClickHouse",
+      "date": "2026-07-24T00:03:13.904Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Replacing the HDB: ClickHouse for historical ticker data",
+      "url": "https://clickhouse.com/blog/historical-ticker-data",
+      "source": "ClickHouse",
+      "date": "2026-07-24T00:03:13.904Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How Bullet uses ClickHouse Cloud to give DeFi&#x27;s fastest exchange real-time analytics",
+      "url": "https://clickhouse.com/blog/bullet-real-time-analytics",
+      "source": "ClickHouse",
+      "date": "2026-07-24T00:03:13.904Z"
+    },
+    {
+      "id": "hn-49029133",
+      "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2507.09369",
       "source": "HackerNews",
-      "score": 57,
+      "score": 19,
       "comments": 7,
-      "date": "2026-07-22T21:15:26.000Z"
+      "date": "2026-07-23T22:51:13.000Z"
     },
     {
-      "id": "hn-49013356",
-      "title": "Safari Technology Preview 248 Released",
-      "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
+      "id": "hn-49028927",
+      "title": "98.css",
+      "url": "https://jdan.github.io/98.css/#status-bar",
       "source": "HackerNews",
-      "score": 65,
-      "comments": 26,
-      "date": "2026-07-22T21:00:26.000Z"
+      "score": 78,
+      "comments": 10,
+      "date": "2026-07-23T22:30:29.000Z"
     },
     {
-      "id": "hn-49010782",
-      "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-      "url": "https://github.com/cactus-compute/cactus-hybrid",
+      "id": "hn-49025984",
+      "title": "Building on ATProto",
+      "url": "https://lukekanies.com/writing/building-on-atproto/",
       "source": "HackerNews",
-      "score": 38,
-      "comments": 6,
-      "date": "2026-07-22T17:56:29.000Z"
+      "score": 117,
+      "comments": 58,
+      "date": "2026-07-23T18:23:50.000Z"
     },
     {
-      "id": "hn-49010648",
-      "title": "Everyone Should Know SIMD",
-      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "id": "hn-49024691",
+      "title": "What happened to TheNumbers.com",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
       "source": "HackerNews",
-      "score": 208,
-      "comments": 66,
-      "date": "2026-07-22T17:48:18.000Z"
+      "score": 268,
+      "comments": 117,
+      "date": "2026-07-23T16:53:33.000Z"
     },
     {
-      "id": "hn-49010345",
-      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "id": "hn-49023016",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
       "source": "HackerNews",
-      "score": 544,
-      "comments": 339,
-      "date": "2026-07-22T17:30:40.000Z"
+      "score": 684,
+      "comments": 613,
+      "date": "2026-07-23T15:18:40.000Z"
     },
     {
-      "id": "hn-49010167",
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "url": "https://github.com/marcelroed/gigatoken/",
+      "id": "hn-49022152",
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
       "source": "HackerNews",
-      "score": 331,
-      "comments": 63,
-      "date": "2026-07-22T17:20:38.000Z"
+      "score": 911,
+      "comments": 454,
+      "date": "2026-07-23T14:24:43.000Z"
     },
     {
-      "id": "hn-49010129",
-      "title": "Are AI Labs Pelicanmaxxing?",
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "id": "hn-49022038",
+      "title": "Software rendering in 500 lines of bare C++",
+      "url": "https://haqr.eu/tinyrenderer/",
       "source": "HackerNews",
-      "score": 350,
-      "comments": 138,
-      "date": "2026-07-22T17:17:54.000Z"
+      "score": 233,
+      "comments": 42,
+      "date": "2026-07-23T14:17:40.000Z"
     },
     {
-      "id": "hn-49008211",
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
+      "id": "hn-49007221",
+      "title": "The Beam Engine",
+      "url": "https://glinscott.github.io/beam-engine/",
       "source": "HackerNews",
-      "score": 603,
-      "comments": 142,
-      "date": "2026-07-22T15:19:23.000Z"
+      "score": 112,
+      "comments": 43,
+      "date": "2026-07-22T14:16:44.000Z"
     },
     {
-      "id": "hn-49007247",
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "id": "hn-48959008",
+      "title": "What else do people draw on gradient.horse?",
+      "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
       "source": "HackerNews",
-      "score": 75,
-      "comments": 45,
-      "date": "2026-07-22T14:18:05.000Z"
+      "score": 18,
+      "comments": 4,
+      "date": "2026-07-18T15:28:56.000Z"
+    },
+    {
+      "id": "hn-48952392",
+      "title": "Interview with Matheus Moreira about Lone Lisp and Linux Kernel",
+      "url": "https://alexalejandre.com/interviews/interview-with-matheus-moreira/",
+      "source": "HackerNews",
+      "score": 27,
+      "comments": 5,
+      "date": "2026-07-17T21:15:36.000Z"
     }
   ]
 }
