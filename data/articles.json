@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-07-24T00:03:13.904Z",
-  "total": 20,
+  "updatedAt": "2026-07-25T00:06:01.816Z",
+  "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse achieves AWS Small and Medium Business Competency",
       "url": "https://clickhouse.com/blog/achieves-aws-smb-competency",
       "source": "ClickHouse",
-      "date": "2026-07-24T00:03:13.904Z"
+      "date": "2026-07-25T00:06:01.690Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Agentic infrastructure with clickhousectl: a distributed ClickStack across three continents",
       "url": "https://clickhouse.com/blog/agentic-infrastructure-clickhousectl-distributed-clickstack",
       "source": "ClickHouse",
-      "date": "2026-07-24T00:03:13.904Z"
+      "date": "2026-07-25T00:06:01.690Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Benchmarking the ClickStack MCP Server with hdx-evals",
       "url": "https://clickhouse.com/blog/benchmarking-the-clickstack-mcp-server-with-hdx-evals",
       "source": "ClickHouse",
-      "date": "2026-07-24T00:03:13.904Z"
+      "date": "2026-07-25T00:06:01.690Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Migrate Datadog telemetry with the OpenTelemetry Collector",
       "url": "https://clickhouse.com/blog/datadog-receiver-opentelemetry-collector",
       "source": "ClickHouse",
-      "date": "2026-07-24T00:03:13.904Z"
+      "date": "2026-07-25T00:06:01.690Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "PostgresBench: Measuring the impact of High Availability on Managed Postgres performance",
       "url": "https://clickhouse.com/blog/postgresbench-ha",
       "source": "ClickHouse",
-      "date": "2026-07-24T00:03:13.904Z"
+      "date": "2026-07-25T00:06:01.690Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse announced as Principal Partner and Front of Shirt Sponsor of Fulham Football Club",
       "url": "https://clickhouse.com/blog/clickhouse-announced-principal-partner-sponsor-fulham-fc",
       "source": "ClickHouse",
-      "date": "2026-07-24T00:03:13.904Z"
+      "date": "2026-07-25T00:06:01.690Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "July 2026 newsletter",
       "url": "https://clickhouse.com/blog/202607-newsletter",
       "source": "ClickHouse",
-      "date": "2026-07-24T00:03:13.904Z"
+      "date": "2026-07-25T00:06:01.690Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why Trainy migrated from Amazon RDS Postgres to ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/trainy-postgres-managed-by-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-07-24T00:03:13.904Z"
+      "date": "2026-07-25T00:06:01.690Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Replacing the HDB: ClickHouse for historical ticker data",
       "url": "https://clickhouse.com/blog/historical-ticker-data",
       "source": "ClickHouse",
-      "date": "2026-07-24T00:03:13.904Z"
+      "date": "2026-07-25T00:06:01.690Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Bullet uses ClickHouse Cloud to give DeFi&#x27;s fastest exchange real-time analytics",
       "url": "https://clickhouse.com/blog/bullet-real-time-analytics",
       "source": "ClickHouse",
-      "date": "2026-07-24T00:03:13.904Z"
+      "date": "2026-07-25T00:06:01.690Z"
     },
     {
-      "id": "hn-49029133",
-      "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence",
-      "url": "https://arxiv.org/abs/2507.09369",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Pushing and Pulling: Three Reactivity Algorithms",
+      "url": "https://www.reddit.com/r/programming/comments/1v5qsjv/pushing_and_pulling_three_reactivity_algorithms/",
+      "source": "Reddit",
+      "date": "2026-07-24T22:53:32.000Z"
+    },
+    {
+      "id": "hn-49042528",
+      "title": "SpaceX Starship Flight 13 livestream [video]",
+      "url": "https://www.spacex.com/launches/starship-flight-13",
       "source": "HackerNews",
-      "score": 19,
-      "comments": 7,
-      "date": "2026-07-23T22:51:13.000Z"
+      "score": 45,
+      "comments": 36,
+      "date": "2026-07-24T22:44:38.000Z"
     },
     {
-      "id": "hn-49028927",
-      "title": "98.css",
-      "url": "https://jdan.github.io/98.css/#status-bar",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "PostgreSQL Extension Catalog",
+      "url": "https://www.reddit.com/r/programming/comments/1v5oal0/postgresql_extension_catalog/",
+      "source": "Reddit",
+      "date": "2026-07-24T21:14:41.000Z"
+    },
+    {
+      "id": "hn-49040741",
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "url": "https://artificialanalysis.ai/models",
+      "source": "HackerNews",
+      "score": 86,
+      "comments": 35,
+      "date": "2026-07-24T19:45:10.000Z"
+    },
+    {
+      "id": "hn-49040296",
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "source": "HackerNews",
+      "score": 176,
+      "comments": 28,
+      "date": "2026-07-24T19:05:53.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "What makes a good build system?",
+      "url": "https://www.reddit.com/r/programming/comments/1v5ip78/what_makes_a_good_build_system/",
+      "source": "Reddit",
+      "date": "2026-07-24T17:53:04.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Carbon: graduating from the experiment - Chandler Carruth - NDC Toronto 2026",
+      "url": "https://www.reddit.com/r/programming/comments/1v5i86w/carbon_graduating_from_the_experiment_chandler/",
+      "source": "Reddit",
+      "date": "2026-07-24T17:36:24.000Z"
+    },
+    {
+      "id": "hn-49038433",
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "source": "HackerNews",
+      "score": 1218,
+      "comments": 663,
+      "date": "2026-07-24T16:57:41.000Z"
+    },
+    {
+      "id": "hn-49035303",
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "source": "HackerNews",
+      "score": 467,
+      "comments": 218,
+      "date": "2026-07-24T13:32:30.000Z"
+    },
+    {
+      "id": "hn-49034292",
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "url": "https://hhh.hn/hanwha-github-token/",
+      "source": "HackerNews",
+      "score": 489,
+      "comments": 168,
+      "date": "2026-07-24T11:54:41.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Golang Maps: How Swiss Tables Replaced the Old Bucket Design",
+      "url": "https://www.reddit.com/r/programming/comments/1v58vch/golang_maps_how_swiss_tables_replaced_the_old/",
+      "source": "Reddit",
+      "date": "2026-07-24T11:37:25.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Transparent high-performance proxy cache for DoorDash services",
+      "url": "https://www.reddit.com/r/programming/comments/1v53o6s/transparent_highperformance_proxy_cache_for/",
+      "source": "Reddit",
+      "date": "2026-07-24T06:50:45.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "A Database Engine Written in SWI-Prolog",
+      "url": "https://www.reddit.com/r/programming/comments/1v505dc/a_database_engine_written_in_swiprolog/",
+      "source": "Reddit",
+      "date": "2026-07-24T03:50:27.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Elm Architecture, without Elm",
+      "url": "https://www.reddit.com/r/programming/comments/1v4pb0a/the_elm_architecture_without_elm/",
+      "source": "Reddit",
+      "date": "2026-07-23T20:13:42.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Everyone Should Know SIMD",
+      "url": "https://www.reddit.com/r/programming/comments/1v4f5gu/everyone_should_know_simd/",
+      "source": "Reddit",
+      "date": "2026-07-23T14:14:00.000Z"
+    },
+    {
+      "id": "hn-49020545",
+      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "url": "https://globaloilnetwork.staffinganalytics.io/",
+      "source": "HackerNews",
+      "score": 59,
+      "comments": 29,
+      "date": "2026-07-23T12:31:21.000Z"
+    },
+    {
+      "id": "hn-49008512",
+      "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+      "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
+      "source": "HackerNews",
+      "score": 104,
+      "comments": 27,
+      "date": "2026-07-22T15:37:25.000Z"
+    },
+    {
+      "id": "hn-48985182",
+      "title": "Designing an Ethernet Switch ASIC",
+      "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
       "source": "HackerNews",
       "score": 78,
-      "comments": 10,
-      "date": "2026-07-23T22:30:29.000Z"
+      "comments": 21,
+      "date": "2026-07-20T21:35:33.000Z"
     },
     {
-      "id": "hn-49025984",
-      "title": "Building on ATProto",
-      "url": "https://lukekanies.com/writing/building-on-atproto/",
+      "id": "hn-48973835",
+      "title": "India's first privately-developed rocket reaches orbit on debut launch",
+      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
       "source": "HackerNews",
-      "score": 117,
-      "comments": 58,
-      "date": "2026-07-23T18:23:50.000Z"
+      "score": 468,
+      "comments": 137,
+      "date": "2026-07-20T02:43:54.000Z"
     },
     {
-      "id": "hn-49024691",
-      "title": "What happened to TheNumbers.com",
-      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "source": "HackerNews",
-      "score": 268,
-      "comments": 117,
-      "date": "2026-07-23T16:53:33.000Z"
-    },
-    {
-      "id": "hn-49023016",
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "source": "HackerNews",
-      "score": 684,
-      "comments": 613,
-      "date": "2026-07-23T15:18:40.000Z"
-    },
-    {
-      "id": "hn-49022152",
-      "title": "Writing by hand is good for your brain",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "source": "HackerNews",
-      "score": 911,
-      "comments": 454,
-      "date": "2026-07-23T14:24:43.000Z"
-    },
-    {
-      "id": "hn-49022038",
-      "title": "Software rendering in 500 lines of bare C++",
-      "url": "https://haqr.eu/tinyrenderer/",
-      "source": "HackerNews",
-      "score": 233,
-      "comments": 42,
-      "date": "2026-07-23T14:17:40.000Z"
-    },
-    {
-      "id": "hn-49007221",
-      "title": "The Beam Engine",
-      "url": "https://glinscott.github.io/beam-engine/",
-      "source": "HackerNews",
-      "score": 112,
-      "comments": 43,
-      "date": "2026-07-22T14:16:44.000Z"
-    },
-    {
-      "id": "hn-48959008",
-      "title": "What else do people draw on gradient.horse?",
-      "url": "https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/",
-      "source": "HackerNews",
-      "score": 18,
-      "comments": 4,
-      "date": "2026-07-18T15:28:56.000Z"
-    },
-    {
-      "id": "hn-48952392",
-      "title": "Interview with Matheus Moreira about Lone Lisp and Linux Kernel",
-      "url": "https://alexalejandre.com/interviews/interview-with-matheus-moreira/",
-      "source": "HackerNews",
-      "score": 27,
-      "comments": 5,
-      "date": "2026-07-17T21:15:36.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "Reddit",
+      "date": "2026-05-23T13:54:37.000Z"
     }
   ]
 }
