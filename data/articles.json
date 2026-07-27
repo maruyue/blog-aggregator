@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-07-26T00:02:07.934Z",
-  "total": 20,
+  "updatedAt": "2026-07-27T00:01:42.571Z",
+  "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse achieves AWS Small and Medium Business Competency",
       "url": "https://clickhouse.com/blog/achieves-aws-smb-competency",
       "source": "ClickHouse",
-      "date": "2026-07-26T00:02:07.894Z"
+      "date": "2026-07-27T00:01:42.254Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Agentic infrastructure with clickhousectl: a distributed ClickStack across three continents",
       "url": "https://clickhouse.com/blog/agentic-infrastructure-clickhousectl-distributed-clickstack",
       "source": "ClickHouse",
-      "date": "2026-07-26T00:02:07.894Z"
+      "date": "2026-07-27T00:01:42.254Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Benchmarking the ClickStack MCP Server with hdx-evals",
       "url": "https://clickhouse.com/blog/benchmarking-the-clickstack-mcp-server-with-hdx-evals",
       "source": "ClickHouse",
-      "date": "2026-07-26T00:02:07.894Z"
+      "date": "2026-07-27T00:01:42.254Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Migrate Datadog telemetry with the OpenTelemetry Collector",
       "url": "https://clickhouse.com/blog/datadog-receiver-opentelemetry-collector",
       "source": "ClickHouse",
-      "date": "2026-07-26T00:02:07.894Z"
+      "date": "2026-07-27T00:01:42.254Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "PostgresBench: Measuring the impact of High Availability on Managed Postgres performance",
       "url": "https://clickhouse.com/blog/postgresbench-ha",
       "source": "ClickHouse",
-      "date": "2026-07-26T00:02:07.894Z"
+      "date": "2026-07-27T00:01:42.254Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse announced as Principal Partner and Front of Shirt Sponsor of Fulham Football Club",
       "url": "https://clickhouse.com/blog/clickhouse-announced-principal-partner-sponsor-fulham-fc",
       "source": "ClickHouse",
-      "date": "2026-07-26T00:02:07.894Z"
+      "date": "2026-07-27T00:01:42.254Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "July 2026 newsletter",
       "url": "https://clickhouse.com/blog/202607-newsletter",
       "source": "ClickHouse",
-      "date": "2026-07-26T00:02:07.894Z"
+      "date": "2026-07-27T00:01:42.254Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why Trainy migrated from Amazon RDS Postgres to ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/trainy-postgres-managed-by-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-07-26T00:02:07.894Z"
+      "date": "2026-07-27T00:01:42.254Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Replacing the HDB: ClickHouse for historical ticker data",
       "url": "https://clickhouse.com/blog/historical-ticker-data",
       "source": "ClickHouse",
-      "date": "2026-07-26T00:02:07.894Z"
+      "date": "2026-07-27T00:01:42.254Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Bullet uses ClickHouse Cloud to give DeFi&#x27;s fastest exchange real-time analytics",
       "url": "https://clickhouse.com/blog/bullet-real-time-analytics",
       "source": "ClickHouse",
-      "date": "2026-07-26T00:02:07.894Z"
+      "date": "2026-07-27T00:01:42.254Z"
     },
     {
-      "id": "hn-49052570",
-      "title": "What is happening to jobs? Separating AI hype from reality",
-      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "id": "hn-49063454",
+      "title": "Show HN: Distill and serve small models with frontier quality for half the cost",
+      "url": "https://github.com/experientiallabs/world-model-optimizer",
       "source": "HackerNews",
       "score": 15,
+      "comments": 0,
+      "date": "2026-07-26T23:35:15.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "I don’t know what to do",
+      "url": "https://www.reddit.com/r/programming/comments/1v7ivgr/i_dont_know_what_to_do/",
+      "source": "Reddit",
+      "date": "2026-07-26T22:55:33.000Z"
+    },
+    {
+      "id": "hn-49063186",
+      "title": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+      "url": "https://github.com/hkc5/cursor-bridge",
+      "source": "HackerNews",
+      "score": 12,
+      "comments": 11,
+      "date": "2026-07-26T22:48:09.000Z"
+    },
+    {
+      "id": "hn-49062700",
+      "title": "Teaching Kids Forth",
+      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
+      "source": "HackerNews",
+      "score": 33,
       "comments": 8,
-      "date": "2026-07-25T22:51:10.000Z"
+      "date": "2026-07-26T21:39:17.000Z"
     },
     {
-      "id": "hn-49052074",
-      "title": "Kimi K3 built a Windows XP in browser",
-      "url": "https://windows-xp.kimi.site/",
+      "id": "hn-49062120",
+      "title": "Plasma Tunnels Reveal How Dying Satellites Fall to Earth",
+      "url": "https://spectrum.ieee.org/space-debris-atmosphere-burn-up",
       "source": "HackerNews",
-      "score": 40,
-      "comments": 21,
-      "date": "2026-07-25T22:03:22.000Z"
+      "score": 35,
+      "comments": 8,
+      "date": "2026-07-26T20:31:57.000Z"
     },
     {
-      "id": "hn-49051947",
-      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+      "id": "hn-49061887",
+      "title": "Simulate cassette tape audio profiles using FFmpeg",
+      "url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation",
       "source": "HackerNews",
-      "score": 86,
+      "score": 49,
+      "comments": 25,
+      "date": "2026-07-26T20:02:15.000Z"
+    },
+    {
+      "id": "hn-49060856",
+      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
+      "url": "https://beyondloom.com/decker/",
+      "source": "HackerNews",
+      "score": 186,
+      "comments": 42,
+      "date": "2026-07-26T18:23:06.000Z"
+    },
+    {
+      "id": "hn-49060724",
+      "title": "Introduction to Data-Oriented Design [pdf]",
+      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "source": "HackerNews",
+      "score": 89,
       "comments": 26,
-      "date": "2026-07-25T21:48:22.000Z"
+      "date": "2026-07-26T18:11:16.000Z"
     },
     {
-      "id": "hn-49051463",
-      "title": "Multicast TV Distribution on My Home Network",
-      "url": "https://www.apalrd.net/posts/2026/isp_mcast/",
+      "id": "hn-49060495",
+      "title": "French firefighters face 'pyrocumulonimbus' for first time",
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
       "source": "HackerNews",
-      "score": 27,
-      "comments": 5,
-      "date": "2026-07-25T20:55:12.000Z"
+      "score": 129,
+      "comments": 59,
+      "date": "2026-07-26T17:49:44.000Z"
     },
     {
-      "id": "hn-49051361",
-      "title": "The new rules of context engineering for Claude 5 generation models",
-      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "source": "HackerNews",
-      "score": 119,
-      "comments": 70,
-      "date": "2026-07-25T20:42:35.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Using the CodeRabbit Preview on a Go codebase",
+      "url": "https://www.reddit.com/r/programming/comments/1v77rya/using_the_coderabbit_preview_on_a_go_codebase/",
+      "source": "Reddit",
+      "date": "2026-07-26T15:57:45.000Z"
     },
     {
-      "id": "hn-49051120",
-      "title": "Did They Ghost You?",
-      "url": "https://didtheyghostyou.com/",
+      "id": "hn-49059367",
+      "title": "Design is compromise",
+      "url": "https://stephango.com/design-is-compromise",
       "source": "HackerNews",
-      "score": 201,
-      "comments": 75,
-      "date": "2026-07-25T20:18:03.000Z"
+      "score": 174,
+      "comments": 67,
+      "date": "2026-07-26T15:51:12.000Z"
     },
     {
-      "id": "hn-49050735",
-      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-      "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
-      "source": "HackerNews",
-      "score": 77,
-      "comments": 49,
-      "date": "2026-07-25T19:30:24.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Modeling Facts and Reactions with Domain Events",
+      "url": "https://www.reddit.com/r/programming/comments/1v6xuqc/modeling_facts_and_reactions_with_domain_events/",
+      "source": "Reddit",
+      "date": "2026-07-26T08:21:51.000Z"
     },
     {
-      "id": "hn-49039868",
-      "title": "Show HN: I made some transistor animations",
-      "url": "https://brandonli.net/semisim/animations",
-      "source": "HackerNews",
-      "score": 113,
-      "comments": 10,
-      "date": "2026-07-24T18:37:06.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Introducing Triton: DirectX 11 driver for QEMU",
+      "url": "https://www.reddit.com/r/programming/comments/1v6ijz9/introducing_triton_directx_11_driver_for_qemu/",
+      "source": "Reddit",
+      "date": "2026-07-25T20:09:08.000Z"
     },
     {
-      "id": "hn-49013464",
-      "title": "SIMD for Collision",
-      "url": "https://box2d.org/posts/2026/07/simd-for-collision/",
-      "source": "HackerNews",
-      "score": 32,
-      "comments": 6,
-      "date": "2026-07-22T21:09:59.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Writing a (valid) C program without main()",
+      "url": "https://www.reddit.com/r/programming/comments/1v68yb8/writing_a_valid_c_program_without_main/",
+      "source": "Reddit",
+      "date": "2026-07-25T13:50:28.000Z"
     },
     {
-      "id": "hn-48976262",
-      "title": "Stolen Buttons",
-      "url": "https://anatolyzenkov.com/stolen-buttons",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "[Sebastian Lague] - I Tried Coding my own Graphics Library",
+      "url": "https://www.reddit.com/r/programming/comments/1v67ohp/sebastian_lague_i_tried_coding_my_own_graphics/",
+      "source": "Reddit",
+      "date": "2026-07-25T12:55:58.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Reusing Buffers in Multicore OCaml",
+      "url": "https://www.reddit.com/r/programming/comments/1v5wthf/reusing_buffers_in_multicore_ocaml/",
+      "source": "Reddit",
+      "date": "2026-07-25T03:24:41.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Pushing and Pulling: Three Reactivity Algorithms",
+      "url": "https://www.reddit.com/r/programming/comments/1v5qsjv/pushing_and_pulling_three_reactivity_algorithms/",
+      "source": "Reddit",
+      "date": "2026-07-24T22:53:32.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "What makes a good build system?",
+      "url": "https://www.reddit.com/r/programming/comments/1v5ip78/what_makes_a_good_build_system/",
+      "source": "Reddit",
+      "date": "2026-07-24T17:53:04.000Z"
+    },
+    {
+      "id": "hn-49020219",
+      "title": "I wanted a clock that never needed setting. Things escalated",
+      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
       "source": "HackerNews",
-      "score": 524,
-      "comments": 123,
-      "date": "2026-07-20T09:23:42.000Z"
+      "score": 11,
+      "comments": 2,
+      "date": "2026-07-23T12:01:52.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "Reddit",
+      "date": "2026-05-23T13:54:37.000Z"
     }
   ]
 }
