@@ -1,166 +1,166 @@
 {
-  "updatedAt": "2026-07-28T00:04:12.182Z",
+  "updatedAt": "2026-07-28T23:59:25.791Z",
   "total": 20,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Why strict memory overcommit matters for Postgres",
+      "url": "https://clickhouse.com/blog/strict-memory-overcommit-for-postgres",
+      "source": "ClickHouse",
+      "date": "2026-07-28T23:59:25.790Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How Fetch built its flexible agentic analytics tool on ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/fetch-agentic-analytics",
+      "source": "ClickHouse",
+      "date": "2026-07-28T23:59:25.790Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse docs relaunch",
       "url": "https://clickhouse.com/blog/clickhouse-docs-on-mintlify",
       "source": "ClickHouse",
-      "date": "2026-07-28T00:04:12.181Z"
+      "date": "2026-07-28T23:59:25.790Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse achieves AWS Small and Medium Business Competency",
       "url": "https://clickhouse.com/blog/achieves-aws-smb-competency",
       "source": "ClickHouse",
-      "date": "2026-07-28T00:04:12.181Z"
+      "date": "2026-07-28T23:59:25.790Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How we build and evaluate our MCP server for SRE agents",
+      "url": "https://clickhouse.com/blog/benchmarking-the-clickstack-mcp-server-with-hdx-evals",
+      "source": "ClickHouse",
+      "date": "2026-07-28T23:59:25.790Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Agentic infrastructure with clickhousectl: a distributed ClickStack across three continents",
       "url": "https://clickhouse.com/blog/agentic-infrastructure-clickhousectl-distributed-clickstack",
       "source": "ClickHouse",
-      "date": "2026-07-28T00:04:12.181Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Benchmarking the ClickStack MCP Server with hdx-evals",
-      "url": "https://clickhouse.com/blog/benchmarking-the-clickstack-mcp-server-with-hdx-evals",
-      "source": "ClickHouse",
-      "date": "2026-07-28T00:04:12.181Z"
+      "date": "2026-07-28T23:59:25.790Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Migrate Datadog telemetry with the OpenTelemetry Collector",
       "url": "https://clickhouse.com/blog/datadog-receiver-opentelemetry-collector",
       "source": "ClickHouse",
-      "date": "2026-07-28T00:04:12.181Z"
+      "date": "2026-07-28T23:59:25.790Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "PostgresBench: Measuring the impact of High Availability on Managed Postgres performance",
       "url": "https://clickhouse.com/blog/postgresbench-ha",
       "source": "ClickHouse",
-      "date": "2026-07-28T00:04:12.181Z"
+      "date": "2026-07-28T23:59:25.790Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse announced as Principal Partner and Front of Shirt Sponsor of Fulham Football Club",
       "url": "https://clickhouse.com/blog/clickhouse-announced-principal-partner-sponsor-fulham-fc",
       "source": "ClickHouse",
-      "date": "2026-07-28T00:04:12.181Z"
+      "date": "2026-07-28T23:59:25.790Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "July 2026 newsletter",
       "url": "https://clickhouse.com/blog/202607-newsletter",
       "source": "ClickHouse",
-      "date": "2026-07-28T00:04:12.181Z"
+      "date": "2026-07-28T23:59:25.790Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Why Trainy migrated from Amazon RDS Postgres to ClickHouse Managed Postgres",
-      "url": "https://clickhouse.com/blog/trainy-postgres-managed-by-clickhouse",
-      "source": "ClickHouse",
-      "date": "2026-07-28T00:04:12.181Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Replacing the HDB: ClickHouse for historical ticker data",
-      "url": "https://clickhouse.com/blog/historical-ticker-data",
-      "source": "ClickHouse",
-      "date": "2026-07-28T00:04:12.181Z"
-    },
-    {
-      "id": "hn-49076975",
-      "title": "Show HN: Dowe – A full-stack language for server, web, desktop, Android, and iOS",
-      "url": "https://www.dowe.dev",
+      "id": "hn-49090607",
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "url": "https://github.com/twalichiewicz/HNewhere",
       "source": "HackerNews",
-      "score": 9,
-      "comments": 4,
-      "date": "2026-07-27T23:26:05.000Z"
+      "score": 67,
+      "comments": 26,
+      "date": "2026-07-28T22:09:06.000Z"
     },
     {
-      "id": "hn-49076840",
-      "title": "DConf 2026 in London",
-      "url": "https://dconf.org/2026/index.html",
+      "id": "hn-49090083",
+      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+      "url": "https://github.com/anthropics/cryptography-research-demo",
       "source": "HackerNews",
-      "score": 25,
+      "score": 50,
       "comments": 2,
-      "date": "2026-07-27T23:14:19.000Z"
+      "date": "2026-07-28T21:22:48.000Z"
     },
     {
-      "id": "hn-49076791",
-      "title": "C/C++ projects packaged for Zig",
-      "url": "https://github.com/allyourcodebase",
+      "id": "hn-49089814",
+      "title": "Half-Life ported to Mac OS 9",
+      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
       "source": "HackerNews",
-      "score": 14,
-      "comments": 2,
-      "date": "2026-07-27T23:09:50.000Z"
+      "score": 109,
+      "comments": 35,
+      "date": "2026-07-28T20:58:39.000Z"
     },
     {
-      "id": "hn-49076712",
-      "title": "America has become an entrepreneur's paradise",
-      "url": "https://www.economist.com/business/2026/07/27/america-has-become-an-entrepreneurs-paradise",
+      "id": "hn-49089755",
+      "title": "Codex Security",
+      "url": "https://github.com/openai/codex-security",
       "source": "HackerNews",
-      "score": 28,
-      "comments": 31,
-      "date": "2026-07-27T23:04:13.000Z"
+      "score": 287,
+      "comments": 62,
+      "date": "2026-07-28T20:52:55.000Z"
     },
     {
-      "id": "hn-49076391",
-      "title": "Benchmarking Opus 5 on SlopCodeBench",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "id": "hn-49087306",
+      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+      "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
       "source": "HackerNews",
-      "score": 37,
-      "comments": 7,
-      "date": "2026-07-27T22:37:52.000Z"
+      "score": 126,
+      "comments": 217,
+      "date": "2026-07-28T17:37:12.000Z"
     },
     {
-      "id": "hn-49076382",
-      "title": "Hard Road – A beautiful procedural post-apocalyptic game",
-      "url": "https://hardroad.xyz/",
+      "id": "hn-49086971",
+      "title": "Steel Bank Common Lisp version 2.6.7",
+      "url": "https://sbcl.org/all-news.html?2.6.7",
       "source": "HackerNews",
-      "score": 16,
-      "comments": 1,
-      "date": "2026-07-27T22:36:55.000Z"
+      "score": 184,
+      "comments": 78,
+      "date": "2026-07-28T17:11:54.000Z"
     },
     {
-      "id": "hn-49076057",
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "id": "hn-49086788",
+      "title": "Substack writers, you need a website",
+      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
       "source": "HackerNews",
-      "score": 321,
-      "comments": 388,
-      "date": "2026-07-27T22:03:49.000Z"
+      "score": 379,
+      "comments": 195,
+      "date": "2026-07-28T16:58:31.000Z"
     },
     {
-      "id": "hn-49074817",
-      "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-      "url": "https://www.rise-reforming.com",
+      "id": "hn-49085731",
+      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+      "url": "https://www.slow-journalism.com/",
       "source": "HackerNews",
-      "score": 56,
-      "comments": 19,
-      "date": "2026-07-27T19:58:22.000Z"
+      "score": 224,
+      "comments": 124,
+      "date": "2026-07-28T15:50:38.000Z"
     },
     {
-      "id": "hn-49045474",
-      "title": "Watching Go's new garbage collector move through the heap",
-      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "id": "hn-49085698",
+      "title": "Kimi K3 Architecture Overview and Notes",
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
       "source": "HackerNews",
-      "score": 157,
-      "comments": 16,
-      "date": "2026-07-25T07:55:19.000Z"
+      "score": 279,
+      "comments": 34,
+      "date": "2026-07-28T15:48:34.000Z"
     },
     {
-      "id": "hn-49021024",
-      "title": "Securing Services with Rootless Containers",
-      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
+      "id": "hn-49036460",
+      "title": "The Fabled Flatbreads of Uzbekistan (2015)",
+      "url": "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan",
       "source": "HackerNews",
-      "score": 49,
-      "comments": 17,
-      "date": "2026-07-23T13:11:30.000Z"
+      "score": 64,
+      "comments": 45,
+      "date": "2026-07-24T14:43:57.000Z"
     }
   ]
 }
