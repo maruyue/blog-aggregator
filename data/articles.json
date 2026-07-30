@@ -1,166 +1,166 @@
 {
-  "updatedAt": "2026-07-28T23:59:25.791Z",
+  "updatedAt": "2026-07-30T00:01:47.002Z",
   "total": 20,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Instrumenting my espresso machine with OpenTelemetry",
+      "url": "https://clickhouse.com/blog/espresso-machine-observability-with-otel",
+      "source": "ClickHouse",
+      "date": "2026-07-30T00:01:47.002Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why strict memory overcommit matters for Postgres",
       "url": "https://clickhouse.com/blog/strict-memory-overcommit-for-postgres",
       "source": "ClickHouse",
-      "date": "2026-07-28T23:59:25.790Z"
+      "date": "2026-07-30T00:01:47.002Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Fetch built its flexible agentic analytics tool on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/fetch-agentic-analytics",
       "source": "ClickHouse",
-      "date": "2026-07-28T23:59:25.790Z"
+      "date": "2026-07-30T00:01:47.002Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse docs relaunch",
       "url": "https://clickhouse.com/blog/clickhouse-docs-on-mintlify",
       "source": "ClickHouse",
-      "date": "2026-07-28T23:59:25.790Z"
+      "date": "2026-07-30T00:01:47.002Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse achieves AWS Small and Medium Business Competency",
       "url": "https://clickhouse.com/blog/achieves-aws-smb-competency",
       "source": "ClickHouse",
-      "date": "2026-07-28T23:59:25.790Z"
+      "date": "2026-07-30T00:01:47.002Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How we build and evaluate our MCP server for SRE agents",
       "url": "https://clickhouse.com/blog/benchmarking-the-clickstack-mcp-server-with-hdx-evals",
       "source": "ClickHouse",
-      "date": "2026-07-28T23:59:25.790Z"
+      "date": "2026-07-30T00:01:47.002Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Agentic infrastructure with clickhousectl: a distributed ClickStack across three continents",
       "url": "https://clickhouse.com/blog/agentic-infrastructure-clickhousectl-distributed-clickstack",
       "source": "ClickHouse",
-      "date": "2026-07-28T23:59:25.790Z"
+      "date": "2026-07-30T00:01:47.002Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Migrate Datadog telemetry with the OpenTelemetry Collector",
       "url": "https://clickhouse.com/blog/datadog-receiver-opentelemetry-collector",
       "source": "ClickHouse",
-      "date": "2026-07-28T23:59:25.790Z"
+      "date": "2026-07-30T00:01:47.002Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "PostgresBench: Measuring the impact of High Availability on Managed Postgres performance",
       "url": "https://clickhouse.com/blog/postgresbench-ha",
       "source": "ClickHouse",
-      "date": "2026-07-28T23:59:25.790Z"
+      "date": "2026-07-30T00:01:47.002Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse announced as Principal Partner and Front of Shirt Sponsor of Fulham Football Club",
       "url": "https://clickhouse.com/blog/clickhouse-announced-principal-partner-sponsor-fulham-fc",
       "source": "ClickHouse",
-      "date": "2026-07-28T23:59:25.790Z"
+      "date": "2026-07-30T00:01:47.002Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "July 2026 newsletter",
-      "url": "https://clickhouse.com/blog/202607-newsletter",
-      "source": "ClickHouse",
-      "date": "2026-07-28T23:59:25.790Z"
-    },
-    {
-      "id": "hn-49090607",
-      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "url": "https://github.com/twalichiewicz/HNewhere",
+      "id": "hn-49103910",
+      "title": "GitHub is the wrong shape for this new world",
+      "url": "https://depot.dev/blog/github-is-the-wrong-shape-for-this-new-world",
       "source": "HackerNews",
-      "score": 67,
-      "comments": 26,
-      "date": "2026-07-28T22:09:06.000Z"
+      "score": 25,
+      "comments": 8,
+      "date": "2026-07-29T22:27:09.000Z"
     },
     {
-      "id": "hn-49090083",
-      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-      "url": "https://github.com/anthropics/cryptography-research-demo",
+      "id": "hn-49103285",
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
       "source": "HackerNews",
-      "score": 50,
-      "comments": 2,
-      "date": "2026-07-28T21:22:48.000Z"
+      "score": 124,
+      "comments": 81,
+      "date": "2026-07-29T21:25:40.000Z"
     },
     {
-      "id": "hn-49089814",
-      "title": "Half-Life ported to Mac OS 9",
-      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+      "id": "hn-49103089",
+      "title": "The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
       "source": "HackerNews",
-      "score": 109,
-      "comments": 35,
-      "date": "2026-07-28T20:58:39.000Z"
+      "score": 47,
+      "comments": 20,
+      "date": "2026-07-29T21:06:42.000Z"
     },
     {
-      "id": "hn-49089755",
-      "title": "Codex Security",
-      "url": "https://github.com/openai/codex-security",
+      "id": "hn-49102774",
+      "title": "The coolest use for the Vision Pro",
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
       "source": "HackerNews",
-      "score": 287,
-      "comments": 62,
-      "date": "2026-07-28T20:52:55.000Z"
+      "score": 304,
+      "comments": 143,
+      "date": "2026-07-29T20:39:40.000Z"
     },
     {
-      "id": "hn-49087306",
-      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
-      "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+      "id": "hn-49101852",
+      "title": "Kimi K3-256k",
+      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
       "source": "HackerNews",
-      "score": 126,
-      "comments": 217,
-      "date": "2026-07-28T17:37:12.000Z"
+      "score": 313,
+      "comments": 89,
+      "date": "2026-07-29T19:25:33.000Z"
     },
     {
-      "id": "hn-49086971",
-      "title": "Steel Bank Common Lisp version 2.6.7",
-      "url": "https://sbcl.org/all-news.html?2.6.7",
+      "id": "hn-49099715",
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
       "source": "HackerNews",
-      "score": 184,
-      "comments": 78,
-      "date": "2026-07-28T17:11:54.000Z"
+      "score": 263,
+      "comments": 97,
+      "date": "2026-07-29T16:36:59.000Z"
     },
     {
-      "id": "hn-49086788",
-      "title": "Substack writers, you need a website",
-      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
+      "id": "hn-49098965",
+      "title": "Superlogical",
+      "url": "https://www.superlogical.com/",
       "source": "HackerNews",
-      "score": 379,
-      "comments": 195,
-      "date": "2026-07-28T16:58:31.000Z"
+      "score": 486,
+      "comments": 300,
+      "date": "2026-07-29T15:41:33.000Z"
     },
     {
-      "id": "hn-49085731",
-      "title": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
-      "url": "https://www.slow-journalism.com/",
+      "id": "hn-49098510",
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "url": "https://github.com/drumih/turbo-fieldfare",
       "source": "HackerNews",
-      "score": 224,
-      "comments": 124,
-      "date": "2026-07-28T15:50:38.000Z"
+      "score": 617,
+      "comments": 215,
+      "date": "2026-07-29T15:05:43.000Z"
     },
     {
-      "id": "hn-49085698",
-      "title": "Kimi K3 Architecture Overview and Notes",
-      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "id": "hn-49095865",
+      "title": "KOReader",
+      "url": "https://koreader.rocks/",
       "source": "HackerNews",
-      "score": 279,
-      "comments": 34,
-      "date": "2026-07-28T15:48:34.000Z"
+      "score": 648,
+      "comments": 207,
+      "date": "2026-07-29T11:05:08.000Z"
     },
     {
-      "id": "hn-49036460",
-      "title": "The Fabled Flatbreads of Uzbekistan (2015)",
-      "url": "https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan",
+      "id": "hn-49089500",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
       "source": "HackerNews",
-      "score": 64,
-      "comments": 45,
-      "date": "2026-07-24T14:43:57.000Z"
+      "score": 266,
+      "comments": 147,
+      "date": "2026-07-28T20:28:33.000Z"
     }
   ]
 }
