@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-08-01T00:03:14.499Z",
-  "total": 20,
+  "updatedAt": "2026-08-01T23:58:28.571Z",
+  "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in clickhousectl v0.4.0",
       "url": "https://clickhouse.com/blog/clickhousectl-v0-4-0",
       "source": "ClickHouse",
-      "date": "2026-08-01T00:03:14.168Z"
+      "date": "2026-08-01T23:58:28.491Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse joins the Open Secure AI Alliance",
       "url": "https://clickhouse.com/blog/open-secure-ai-alliance",
       "source": "ClickHouse",
-      "date": "2026-08-01T00:03:14.168Z"
+      "date": "2026-08-01T23:58:28.491Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Jump Trading uses ClickHouse with Iceberg for analytics",
       "url": "https://clickhouse.com/blog/jump-trading-uses-clickhouse-with-iceberg",
       "source": "ClickHouse",
-      "date": "2026-08-01T00:03:14.168Z"
+      "date": "2026-08-01T23:58:28.491Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Choosing Between ClickStack and Grafana for ClickHouse Observability",
       "url": "https://clickhouse.com/blog/choosing-between-clickstack-and-grafana-for-clickhouse-observability",
       "source": "ClickHouse",
-      "date": "2026-08-01T00:03:14.168Z"
+      "date": "2026-08-01T23:58:28.491Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Benchmarking NVMe-backed Managed Postgres: PlanetScale and ClickHouse",
       "url": "https://clickhouse.com/blog/benchmarking-nvme-managed-postgres-planetscale-vs-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-08-01T00:03:14.168Z"
+      "date": "2026-08-01T23:58:28.491Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Instrumenting my espresso machine with OpenTelemetry",
       "url": "https://clickhouse.com/blog/espresso-machine-observability-with-otel",
       "source": "ClickHouse",
-      "date": "2026-08-01T00:03:14.168Z"
+      "date": "2026-08-01T23:58:28.491Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why strict memory overcommit matters for Postgres",
       "url": "https://clickhouse.com/blog/strict-memory-overcommit-for-postgres",
       "source": "ClickHouse",
-      "date": "2026-08-01T00:03:14.168Z"
+      "date": "2026-08-01T23:58:28.491Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Fetch built its flexible agentic analytics tool on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/fetch-agentic-analytics",
       "source": "ClickHouse",
-      "date": "2026-08-01T00:03:14.168Z"
+      "date": "2026-08-01T23:58:28.491Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse docs relaunch",
       "url": "https://clickhouse.com/blog/clickhouse-docs-on-mintlify",
       "source": "ClickHouse",
-      "date": "2026-08-01T00:03:14.168Z"
+      "date": "2026-08-01T23:58:28.491Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse achieves AWS Small and Medium Business Competency",
       "url": "https://clickhouse.com/blog/achieves-aws-smb-competency",
       "source": "ClickHouse",
-      "date": "2026-08-01T00:03:14.168Z"
+      "date": "2026-08-01T23:58:28.491Z"
     },
     {
-      "id": "hn-49128323",
-      "title": "Demystifying DRAM Read Disturbance: RowHammer and RowPress Phenomena",
-      "url": "https://arxiv.org/abs/2607.28233",
+      "id": "hn-49139562",
+      "title": "A stray commit buried multiple levels deep cost me months",
+      "url": "https://www.droppedasbaby.com/posts/db-commits/",
       "source": "HackerNews",
-      "score": 24,
-      "comments": 14,
-      "date": "2026-07-31T20:44:29.000Z"
+      "score": 22,
+      "comments": 7,
+      "date": "2026-08-01T23:19:23.000Z"
     },
     {
-      "id": "hn-49127306",
-      "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "id": "hn-49139383",
+      "title": "Unraveling the mysteries of habit formation",
+      "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
       "source": "HackerNews",
-      "score": 378,
-      "comments": 153,
-      "date": "2026-07-31T19:03:45.000Z"
+      "score": 11,
+      "comments": 5,
+      "date": "2026-08-01T22:55:52.000Z"
     },
     {
-      "id": "hn-49127031",
-      "title": "Golang proposal: container/: generic collection types",
-      "url": "https://github.com/golang/go/issues/80590",
+      "id": "hn-49139352",
+      "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
+      "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
       "source": "HackerNews",
-      "score": 110,
-      "comments": 65,
-      "date": "2026-07-31T18:39:47.000Z"
+      "score": 1,
+      "comments": 0,
+      "date": "2026-08-01T22:52:44.000Z"
     },
     {
-      "id": "hn-49126765",
-      "title": "June in Servo: real world compat, media queries, SharedWorker, and more",
-      "url": "https://servo.org/blog/2026/07/31/june-in-servo/",
+      "id": "hn-49139102",
+      "title": "AI financial advice is surprisingly good if you ask the right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
       "source": "HackerNews",
-      "score": 87,
-      "comments": 29,
-      "date": "2026-07-31T18:17:52.000Z"
+      "score": 78,
+      "comments": 52,
+      "date": "2026-08-01T22:25:12.000Z"
     },
     {
-      "id": "hn-49126604",
-      "title": "qm",
-      "url": "https://github.com/yc-software/qm",
-      "source": "HackerNews",
-      "score": 393,
-      "comments": 89,
-      "date": "2026-07-31T18:04:58.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Tech Market Situation is Crazy",
+      "url": "https://www.reddit.com/r/programming/comments/1vcyuc6/the_tech_market_situation_is_crazy/",
+      "source": "Reddit",
+      "date": "2026-08-01T21:09:19.000Z"
     },
     {
-      "id": "hn-49124858",
-      "title": "Big Food vs. the People",
-      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+      "id": "hn-49138302",
+      "title": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
       "source": "HackerNews",
-      "score": 177,
-      "comments": 121,
-      "date": "2026-07-31T16:04:32.000Z"
+      "score": 100,
+      "comments": 34,
+      "date": "2026-08-01T20:45:12.000Z"
     },
     {
-      "id": "hn-49124218",
-      "title": "Elevators",
-      "url": "https://john.fun/elevators",
+      "id": "hn-49138188",
+      "title": "Diátaxis",
+      "url": "https://diataxis.fr/",
       "source": "HackerNews",
-      "score": 814,
-      "comments": 209,
-      "date": "2026-07-31T15:17:28.000Z"
+      "score": 139,
+      "comments": 21,
+      "date": "2026-08-01T20:33:27.000Z"
     },
     {
-      "id": "hn-49121196",
-      "title": "Progressive Web Components",
-      "url": "https://arielsalminen.com/2026/progressive-web-components/",
+      "id": "hn-49137713",
+      "title": "But can your calculator run Linux?",
+      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
       "source": "HackerNews",
-      "score": 62,
-      "comments": 8,
-      "date": "2026-07-31T10:04:40.000Z"
+      "score": 54,
+      "comments": 3,
+      "date": "2026-08-01T19:44:48.000Z"
     },
     {
-      "id": "hn-49117089",
-      "title": "The Absurdity of Albert Camus",
-      "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+      "id": "hn-49137228",
+      "title": "CISA Alert: Water Sector PLC Targeting",
+      "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
       "source": "HackerNews",
-      "score": 27,
-      "comments": 11,
-      "date": "2026-07-30T23:21:17.000Z"
+      "score": 51,
+      "comments": 39,
+      "date": "2026-08-01T18:50:17.000Z"
     },
     {
-      "id": "hn-49083599",
-      "title": "Twenty-five years ago it was cryptography, today it's model weights",
-      "url": "https://weeraman.com/because-we-can/",
+      "id": "hn-49137060",
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
       "source": "HackerNews",
-      "score": 106,
-      "comments": 35,
-      "date": "2026-07-28T13:31:25.000Z"
+      "score": 104,
+      "comments": 38,
+      "date": "2026-08-01T18:32:20.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The History of Pets vs Cattle and How to Use the Analogy Properly",
+      "url": "https://www.reddit.com/r/programming/comments/1vcsm8w/the_history_of_pets_vs_cattle_and_how_to_use_the/",
+      "source": "Reddit",
+      "date": "2026-08-01T17:01:13.000Z"
+    },
+    {
+      "id": "hn-49134599",
+      "title": "The Art of 64-bit Assembly",
+      "url": "https://nostarch.com/art-64-bit-assembly-v2",
+      "source": "HackerNews",
+      "score": 172,
+      "comments": 83,
+      "date": "2026-08-01T14:09:00.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Flycast WASM JIT v1 released (Dreamcast emulator in browser) with technical write-up",
+      "url": "https://www.reddit.com/r/programming/comments/1vcmpgl/flycast_wasm_jit_v1_released_dreamcast_emulator/",
+      "source": "Reddit",
+      "date": "2026-08-01T12:55:56.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Bedrock of Software Design",
+      "url": "https://www.reddit.com/r/programming/comments/1vcl5bj/the_bedrock_of_software_design/",
+      "source": "Reddit",
+      "date": "2026-08-01T11:41:38.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
+      "url": "https://www.reddit.com/r/programming/comments/1vc25gi/pwnd_blaster_hacking_your_pc_using_your_speaker/",
+      "source": "Reddit",
+      "date": "2026-07-31T20:21:35.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "On Type Inference",
+      "url": "https://www.reddit.com/r/programming/comments/1vbp0vm/on_type_inference/",
+      "source": "Reddit",
+      "date": "2026-07-31T12:03:50.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Methinks it is a weasel",
+      "url": "https://www.reddit.com/r/programming/comments/1vbofod/methinks_it_is_a_weasel/",
+      "source": "Reddit",
+      "date": "2026-07-31T11:35:55.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "JEP 401: Value Objects And JEP 539: Strict Field Initialization Merged Into JDK",
+      "url": "https://www.reddit.com/r/programming/comments/1vbocji/jep_401_value_objects_and_jep_539_strict_field/",
+      "source": "Reddit",
+      "date": "2026-07-31T11:31:31.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Stacked pull requests are now in public preview - GitHub Changelog",
+      "url": "https://www.reddit.com/r/programming/comments/1vayhxm/stacked_pull_requests_are_now_in_public_preview/",
+      "source": "Reddit",
+      "date": "2026-07-30T16:27:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "Reddit",
+      "date": "2026-05-23T13:54:37.000Z"
     }
   ]
 }
