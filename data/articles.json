@@ -1,164 +1,179 @@
 {
-  "updatedAt": "2026-08-01T23:58:28.571Z",
+  "updatedAt": "2026-08-03T00:00:03.734Z",
   "total": 30,
   "articles": [
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "What&#x27;s new in clickhousectl v0.4.0",
-      "url": "https://clickhouse.com/blog/clickhousectl-v0-4-0",
-      "source": "ClickHouse",
-      "date": "2026-08-01T23:58:28.491Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse joins the Open Secure AI Alliance",
-      "url": "https://clickhouse.com/blog/open-secure-ai-alliance",
-      "source": "ClickHouse",
-      "date": "2026-08-01T23:58:28.491Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Jump Trading uses ClickHouse with Iceberg for analytics",
-      "url": "https://clickhouse.com/blog/jump-trading-uses-clickhouse-with-iceberg",
-      "source": "ClickHouse",
-      "date": "2026-08-01T23:58:28.491Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Choosing Between ClickStack and Grafana for ClickHouse Observability",
-      "url": "https://clickhouse.com/blog/choosing-between-clickstack-and-grafana-for-clickhouse-observability",
-      "source": "ClickHouse",
-      "date": "2026-08-01T23:58:28.491Z"
-    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Benchmarking NVMe-backed Managed Postgres: PlanetScale and ClickHouse",
       "url": "https://clickhouse.com/blog/benchmarking-nvme-managed-postgres-planetscale-vs-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-08-01T23:58:28.491Z"
+      "date": "2026-08-03T00:00:03.338Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Instrumenting my espresso machine with OpenTelemetry",
       "url": "https://clickhouse.com/blog/espresso-machine-observability-with-otel",
       "source": "ClickHouse",
-      "date": "2026-08-01T23:58:28.491Z"
+      "date": "2026-08-03T00:00:03.338Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why strict memory overcommit matters for Postgres",
       "url": "https://clickhouse.com/blog/strict-memory-overcommit-for-postgres",
       "source": "ClickHouse",
-      "date": "2026-08-01T23:58:28.491Z"
+      "date": "2026-08-03T00:00:03.338Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Fetch built its flexible agentic analytics tool on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/fetch-agentic-analytics",
       "source": "ClickHouse",
-      "date": "2026-08-01T23:58:28.491Z"
+      "date": "2026-08-03T00:00:03.338Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse docs relaunch",
       "url": "https://clickhouse.com/blog/clickhouse-docs-on-mintlify",
       "source": "ClickHouse",
-      "date": "2026-08-01T23:58:28.491Z"
+      "date": "2026-08-03T00:00:03.338Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse achieves AWS Small and Medium Business Competency",
       "url": "https://clickhouse.com/blog/achieves-aws-smb-competency",
       "source": "ClickHouse",
-      "date": "2026-08-01T23:58:28.491Z"
+      "date": "2026-08-03T00:00:03.338Z"
     },
     {
-      "id": "hn-49139562",
-      "title": "A stray commit buried multiple levels deep cost me months",
-      "url": "https://www.droppedasbaby.com/posts/db-commits/",
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What&#x27;s new in clickhousectl v0.4.0",
+      "url": "https://clickhouse.com/blog/clickhousectl-v0-4-0",
+      "source": "ClickHouse",
+      "date": "2026-08-03T00:00:03.337Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse joins the Open Secure AI Alliance",
+      "url": "https://clickhouse.com/blog/open-secure-ai-alliance",
+      "source": "ClickHouse",
+      "date": "2026-08-03T00:00:03.337Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How Jump Trading uses ClickHouse with Iceberg for analytics",
+      "url": "https://clickhouse.com/blog/jump-trading-uses-clickhouse-with-iceberg",
+      "source": "ClickHouse",
+      "date": "2026-08-03T00:00:03.337Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Choosing Between ClickStack and Grafana for ClickHouse Observability",
+      "url": "https://clickhouse.com/blog/choosing-between-clickstack-and-grafana-for-clickhouse-observability",
+      "source": "ClickHouse",
+      "date": "2026-08-03T00:00:03.337Z"
+    },
+    {
+      "id": "hn-49149326",
+      "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+      "url": "https://github.com/pg83/shitty",
       "source": "HackerNews",
       "score": 22,
-      "comments": 7,
-      "date": "2026-08-01T23:19:23.000Z"
+      "comments": 3,
+      "date": "2026-08-02T23:05:41.000Z"
     },
     {
-      "id": "hn-49139383",
-      "title": "Unraveling the mysteries of habit formation",
-      "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+      "id": "hn-49149188",
+      "title": "AI poster wins Ohio State Fair contest",
+      "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
       "source": "HackerNews",
-      "score": 11,
-      "comments": 5,
-      "date": "2026-08-01T22:55:52.000Z"
+      "score": 64,
+      "comments": 38,
+      "date": "2026-08-02T22:43:47.000Z"
     },
     {
-      "id": "hn-49139352",
-      "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
-      "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
+      "id": "hn-49147978",
+      "title": "Sharing an X11 Server Across Hosts with FamilyWild",
+      "url": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
       "source": "HackerNews",
-      "score": 1,
-      "comments": 0,
-      "date": "2026-08-01T22:52:44.000Z"
+      "score": 28,
+      "comments": 8,
+      "date": "2026-08-02T20:26:47.000Z"
     },
     {
-      "id": "hn-49139102",
-      "title": "AI financial advice is surprisingly good if you ask the right questions",
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "id": "hn-49146267",
+      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+      "url": "https://github.com/graham33/nixos-dgx-spark",
       "source": "HackerNews",
-      "score": 78,
-      "comments": 52,
-      "date": "2026-08-01T22:25:12.000Z"
+      "score": 87,
+      "comments": 25,
+      "date": "2026-08-02T17:05:54.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "The Tech Market Situation is Crazy",
-      "url": "https://www.reddit.com/r/programming/comments/1vcyuc6/the_tech_market_situation_is_crazy/",
+      "title": "The Debate of Mockist v Classicist TDD Is Like OOP v FP.",
+      "url": "https://www.reddit.com/r/programming/comments/1vdnb3e/the_debate_of_mockist_v_classicist_tdd_is_like/",
       "source": "Reddit",
-      "date": "2026-08-01T21:09:19.000Z"
+      "date": "2026-08-02T17:00:53.000Z"
     },
     {
-      "id": "hn-49138302",
-      "title": "Seedance 2.5",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "id": "hn-49145937",
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
       "source": "HackerNews",
-      "score": 100,
+      "score": 159,
       "comments": 34,
-      "date": "2026-08-01T20:45:12.000Z"
+      "date": "2026-08-02T16:26:40.000Z"
     },
     {
-      "id": "hn-49138188",
-      "title": "Diátaxis",
-      "url": "https://diataxis.fr/",
-      "source": "HackerNews",
-      "score": 139,
-      "comments": 21,
-      "date": "2026-08-01T20:33:27.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Should you normalize RGB values by 255 or 256?",
+      "url": "https://www.reddit.com/r/programming/comments/1vdjt5i/should_you_normalize_rgb_values_by_255_or_256/",
+      "source": "Reddit",
+      "date": "2026-08-02T14:40:56.000Z"
     },
     {
-      "id": "hn-49137713",
-      "title": "But can your calculator run Linux?",
-      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
-      "source": "HackerNews",
-      "score": 54,
-      "comments": 3,
-      "date": "2026-08-01T19:44:48.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "An Unexpected Computer – Universal computing with echo, ed, test and exec [pdf]",
+      "url": "https://www.reddit.com/r/programming/comments/1vdiryk/an_unexpected_computer_universal_computing_with/",
+      "source": "Reddit",
+      "date": "2026-08-02T13:57:33.000Z"
     },
     {
-      "id": "hn-49137228",
-      "title": "CISA Alert: Water Sector PLC Targeting",
-      "url": "https://censys.com/blog/cisa-alert-water-tower-plc-targeting/",
-      "source": "HackerNews",
-      "score": 51,
-      "comments": 39,
-      "date": "2026-08-01T18:50:17.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Every byte matters",
+      "url": "https://www.reddit.com/r/programming/comments/1vdfij8/every_byte_matters/",
+      "source": "Reddit",
+      "date": "2026-08-02T11:20:40.000Z"
     },
     {
-      "id": "hn-49137060",
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Develop Cross-Platform CLI and GUI Tools With Tcl/Tk. Powerful, Event-Driven, Open-Source And Future-Proof Toolkit… From the Past?!",
+      "url": "https://www.reddit.com/r/programming/comments/1vdcv3x/develop_crossplatform_cli_and_gui_tools_with/",
+      "source": "Reddit",
+      "date": "2026-08-02T08:46:57.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Understanding Raft Leader Election by building from scratch",
+      "url": "https://www.reddit.com/r/programming/comments/1vd9q70/understanding_raft_leader_election_by_building/",
+      "source": "Reddit",
+      "date": "2026-08-02T05:47:21.000Z"
+    },
+    {
+      "id": "hn-49140998",
+      "title": "Karpathy’s Pelican",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
       "source": "HackerNews",
-      "score": 104,
-      "comments": 38,
-      "date": "2026-08-01T18:32:20.000Z"
+      "score": 403,
+      "comments": 316,
+      "date": "2026-08-02T04:05:56.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Quantum Computers May Put Internet Traffic at Risk. NIST Is Safeguarding Computers With New Standards.",
+      "url": "https://www.reddit.com/r/programming/comments/1vd7jnr/quantum_computers_may_put_internet_traffic_at/",
+      "source": "Reddit",
+      "date": "2026-08-02T03:53:03.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -168,22 +183,6 @@
       "date": "2026-08-01T17:01:13.000Z"
     },
     {
-      "id": "hn-49134599",
-      "title": "The Art of 64-bit Assembly",
-      "url": "https://nostarch.com/art-64-bit-assembly-v2",
-      "source": "HackerNews",
-      "score": 172,
-      "comments": 83,
-      "date": "2026-08-01T14:09:00.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Flycast WASM JIT v1 released (Dreamcast emulator in browser) with technical write-up",
-      "url": "https://www.reddit.com/r/programming/comments/1vcmpgl/flycast_wasm_jit_v1_released_dreamcast_emulator/",
-      "source": "Reddit",
-      "date": "2026-08-01T12:55:56.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "The Bedrock of Software Design",
       "url": "https://www.reddit.com/r/programming/comments/1vcl5bj/the_bedrock_of_software_design/",
@@ -191,39 +190,40 @@
       "date": "2026-08-01T11:41:38.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-      "url": "https://www.reddit.com/r/programming/comments/1vc25gi/pwnd_blaster_hacking_your_pc_using_your_speaker/",
-      "source": "Reddit",
-      "date": "2026-07-31T20:21:35.000Z"
+      "id": "hn-49129676",
+      "title": "Read the Novels and Forget Everything Else",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
+      "source": "HackerNews",
+      "score": 33,
+      "comments": 9,
+      "date": "2026-07-31T23:31:28.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "On Type Inference",
-      "url": "https://www.reddit.com/r/programming/comments/1vbp0vm/on_type_inference/",
-      "source": "Reddit",
-      "date": "2026-07-31T12:03:50.000Z"
+      "id": "hn-49122655",
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "url": "https://mattbeton.com/blog/bitnet-6502.html",
+      "source": "HackerNews",
+      "score": 32,
+      "comments": 5,
+      "date": "2026-07-31T13:08:30.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Methinks it is a weasel",
-      "url": "https://www.reddit.com/r/programming/comments/1vbofod/methinks_it_is_a_weasel/",
-      "source": "Reddit",
-      "date": "2026-07-31T11:35:55.000Z"
+      "id": "hn-49097961",
+      "title": "Developers are attached to tools because tools encode trust",
+      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+      "source": "HackerNews",
+      "score": 128,
+      "comments": 61,
+      "date": "2026-07-29T14:25:54.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "JEP 401: Value Objects And JEP 539: Strict Field Initialization Merged Into JDK",
-      "url": "https://www.reddit.com/r/programming/comments/1vbocji/jep_401_value_objects_and_jep_539_strict_field/",
-      "source": "Reddit",
-      "date": "2026-07-31T11:31:31.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Stacked pull requests are now in public preview - GitHub Changelog",
-      "url": "https://www.reddit.com/r/programming/comments/1vayhxm/stacked_pull_requests_are_now_in_public_preview/",
-      "source": "Reddit",
-      "date": "2026-07-30T16:27:18.000Z"
+      "id": "hn-49084324",
+      "title": "Note-Taking and Personal Knowledge Management",
+      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+      "source": "HackerNews",
+      "score": 106,
+      "comments": 28,
+      "date": "2026-07-28T14:21:10.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
