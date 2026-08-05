@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-08-04T00:11:05.389Z",
-  "total": 20,
+  "updatedAt": "2026-08-05T00:05:21.163Z",
+  "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
       "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-08-04T00:11:05.386Z"
+      "date": "2026-08-05T00:05:21.163Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How Mercado Libre rebuilt its observability platform on ClickHouse Cloud with 50x faster trace queries",
+      "url": "https://clickhouse.com/blog/mercado-libre-observability-on-clickhouse-cloud",
+      "source": "ClickHouse",
+      "date": "2026-08-05T00:05:21.163Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Fixed cadence to seconds: making ClickHouse Cloud autoscaling more reactive",
+      "url": "https://clickhouse.com/blog/making-clickhouse-cloud-autoscaling-more-reactive",
+      "source": "ClickHouse",
+      "date": "2026-08-05T00:05:21.163Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse launches ClickHouse Labs with Andy Pavlo as VP of Database Research",
       "url": "https://clickhouse.com/blog/andy-pavlo-founding-clickhouse-labs",
       "source": "ClickHouse",
-      "date": "2026-08-04T00:11:05.386Z"
+      "date": "2026-08-05T00:05:21.163Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "I created a playground for 110 database systems",
       "url": "https://clickhouse.com/blog/clickbench-playground",
       "source": "ClickHouse",
-      "date": "2026-08-04T00:11:05.386Z"
+      "date": "2026-08-05T00:05:21.163Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in clickhousectl v0.4.0",
       "url": "https://clickhouse.com/blog/clickhousectl-v0-4-0",
       "source": "ClickHouse",
-      "date": "2026-08-04T00:11:05.386Z"
+      "date": "2026-08-05T00:05:21.163Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse joins the Open Secure AI Alliance",
       "url": "https://clickhouse.com/blog/open-secure-ai-alliance",
       "source": "ClickHouse",
-      "date": "2026-08-04T00:11:05.386Z"
+      "date": "2026-08-05T00:05:21.163Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Jump Trading uses ClickHouse with Iceberg for analytics",
       "url": "https://clickhouse.com/blog/jump-trading-uses-clickhouse-with-iceberg",
       "source": "ClickHouse",
-      "date": "2026-08-04T00:11:05.386Z"
+      "date": "2026-08-05T00:05:21.163Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Choosing Between ClickStack and Grafana for ClickHouse Observability",
       "url": "https://clickhouse.com/blog/choosing-between-clickstack-and-grafana-for-clickhouse-observability",
       "source": "ClickHouse",
-      "date": "2026-08-04T00:11:05.386Z"
+      "date": "2026-08-05T00:05:21.163Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Benchmarking NVMe-backed Managed Postgres: PlanetScale and ClickHouse",
       "url": "https://clickhouse.com/blog/benchmarking-nvme-managed-postgres-planetscale-vs-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-08-04T00:11:05.386Z"
+      "date": "2026-08-05T00:05:21.163Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Instrumenting my espresso machine with OpenTelemetry",
-      "url": "https://clickhouse.com/blog/espresso-machine-observability-with-otel",
-      "source": "ClickHouse",
-      "date": "2026-08-04T00:11:05.386Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How Zanzlanz released a game that has no assets",
+      "url": "https://www.reddit.com/r/programming/comments/1vfqtn6/how_zanzlanz_released_a_game_that_has_no_assets/",
+      "source": "Reddit",
+      "date": "2026-08-04T23:39:45.000Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Why strict memory overcommit matters for Postgres",
-      "url": "https://clickhouse.com/blog/strict-memory-overcommit-for-postgres",
-      "source": "ClickHouse",
-      "date": "2026-08-04T00:11:05.386Z"
-    },
-    {
-      "id": "hn-49162086",
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+      "id": "hn-49176644",
+      "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+      "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
       "source": "HackerNews",
-      "score": 38,
-      "comments": 9,
-      "date": "2026-08-03T22:04:49.000Z"
+      "score": 10,
+      "comments": 6,
+      "date": "2026-08-04T23:22:37.000Z"
     },
     {
-      "id": "hn-49161518",
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "id": "hn-49176606",
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
       "source": "HackerNews",
-      "score": 327,
-      "comments": 147,
-      "date": "2026-08-03T21:13:53.000Z"
-    },
-    {
-      "id": "hn-49158581",
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-      "source": "HackerNews",
-      "score": 129,
-      "comments": 35,
-      "date": "2026-08-03T17:08:46.000Z"
-    },
-    {
-      "id": "hn-49158474",
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-      "source": "HackerNews",
-      "score": 120,
-      "comments": 33,
-      "date": "2026-08-03T17:02:10.000Z"
-    },
-    {
-      "id": "hn-49157930",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "source": "HackerNews",
-      "score": 391,
-      "comments": 677,
-      "date": "2026-08-03T16:27:12.000Z"
-    },
-    {
-      "id": "hn-49156111",
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "source": "HackerNews",
-      "score": 480,
-      "comments": 173,
-      "date": "2026-08-03T14:15:47.000Z"
-    },
-    {
-      "id": "hn-49155629",
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "source": "HackerNews",
-      "score": 242,
-      "comments": 76,
-      "date": "2026-08-03T13:34:43.000Z"
-    },
-    {
-      "id": "hn-49153374",
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "source": "HackerNews",
-      "score": 364,
-      "comments": 302,
-      "date": "2026-08-03T09:32:07.000Z"
-    },
-    {
-      "id": "hn-49131250",
-      "title": "Battle of the Beams",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Beams",
-      "source": "HackerNews",
-      "score": 21,
+      "score": 52,
       "comments": 3,
-      "date": "2026-08-01T05:14:51.000Z"
+      "date": "2026-08-04T23:18:12.000Z"
     },
     {
-      "id": "hn-49106935",
-      "title": "Replacing the Kobo Libra H2O Battery",
-      "url": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/",
+      "id": "hn-49176055",
+      "title": "We finally learned to center a div, then browsers added sidebars",
+      "url": "https://seg6.space/posts/center-div/",
       "source": "HackerNews",
-      "score": 42,
-      "comments": 10,
-      "date": "2026-07-30T07:15:33.000Z"
+      "score": 29,
+      "comments": 17,
+      "date": "2026-08-04T22:24:00.000Z"
+    },
+    {
+      "id": "hn-49176038",
+      "title": "Pi's Minimalism Is Its Advantage",
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "source": "HackerNews",
+      "score": 23,
+      "comments": 5,
+      "date": "2026-08-04T22:22:12.000Z"
+    },
+    {
+      "id": "hn-49175924",
+      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+      "url": "https://techascent.com/blog/just-ducking-around.html",
+      "source": "HackerNews",
+      "score": 29,
+      "comments": 0,
+      "date": "2026-08-04T22:09:43.000Z"
+    },
+    {
+      "id": "hn-49175826",
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "source": "HackerNews",
+      "score": 110,
+      "comments": 55,
+      "date": "2026-08-04T22:01:41.000Z"
+    },
+    {
+      "id": "hn-49174900",
+      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+      "url": "https://twitter.com/gwern/status/2084739205071343837",
+      "source": "HackerNews",
+      "score": 91,
+      "comments": 31,
+      "date": "2026-08-04T20:48:17.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Lua community needs to learn to move on",
+      "url": "https://www.reddit.com/r/programming/comments/1vfjdqy/the_lua_community_needs_to_learn_to_move_on/",
+      "source": "Reddit",
+      "date": "2026-08-04T18:52:44.000Z"
+    },
+    {
+      "id": "hn-49173165",
+      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+      "source": "HackerNews",
+      "score": 795,
+      "comments": 44,
+      "date": "2026-08-04T18:51:38.000Z"
+    },
+    {
+      "id": "hn-49171268",
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "source": "HackerNews",
+      "score": 286,
+      "comments": 69,
+      "date": "2026-08-04T16:36:05.000Z"
+    },
+    {
+      "id": "hn-49170165",
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "source": "HackerNews",
+      "score": 448,
+      "comments": 87,
+      "date": "2026-08-04T15:16:22.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Front End Testing with GitHub Actions • Amy Kapernick",
+      "url": "https://www.reddit.com/r/programming/comments/1vf8x07/front_end_testing_with_github_actions_amy/",
+      "source": "Reddit",
+      "date": "2026-08-04T12:27:20.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Why I’m Writing Pure HTML & CSS in 2025",
+      "url": "https://www.reddit.com/r/programming/comments/1vf6msi/why_im_writing_pure_html_css_in_2025/",
+      "source": "Reddit",
+      "date": "2026-08-04T10:35:34.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Safe Lock-free Primitives with iceoryx2's ByteAtomic",
+      "url": "https://www.reddit.com/r/programming/comments/1vf68qb/safe_lockfree_primitives_with_iceoryx2s_byteatomic/",
+      "source": "Reddit",
+      "date": "2026-08-04T10:14:56.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Cloudflare introduced tool that synchronize its servers",
+      "url": "https://www.reddit.com/r/programming/comments/1veq9ff/cloudflare_introduced_tool_that_synchronize_its/",
+      "source": "Reddit",
+      "date": "2026-08-03T21:16:26.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Reliability Lessons From SQLite - Richard Hipp | SSW 2026",
+      "url": "https://www.reddit.com/r/programming/comments/1vejwan/reliability_lessons_from_sqlite_richard_hipp_ssw/",
+      "source": "Reddit",
+      "date": "2026-08-03T17:24:14.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The true power of regular expressions",
+      "url": "https://www.reddit.com/r/programming/comments/1ve9ow7/the_true_power_of_regular_expressions/",
+      "source": "Reddit",
+      "date": "2026-08-03T10:31:02.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Rust Immobile types and guaranteed destructors",
+      "url": "https://www.reddit.com/r/programming/comments/1ve71ag/rust_immobile_types_and_guaranteed_destructors/",
+      "source": "Reddit",
+      "date": "2026-08-03T08:00:10.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "Reddit",
+      "date": "2026-05-23T13:54:37.000Z"
     }
   ]
 }
