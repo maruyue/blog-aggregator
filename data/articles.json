@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T00:05:21.163Z",
+  "updatedAt": "2026-08-06T00:01:26.538Z",
   "total": 30,
   "articles": [
     {
@@ -7,70 +7,209 @@
       "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
       "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-08-05T00:05:21.163Z"
+      "date": "2026-08-06T00:01:21.483Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What is WAL backpressure, and why does ClickHouse Managed Postgres need it?",
+      "url": "https://clickhouse.com/blog/wal-backpressure-clickhouse-managed-postgres",
+      "source": "ClickHouse",
+      "date": "2026-08-06T00:01:21.483Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Mercado Libre rebuilt its observability platform on ClickHouse Cloud with 50x faster trace queries",
       "url": "https://clickhouse.com/blog/mercado-libre-observability-on-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-08-05T00:05:21.163Z"
+      "date": "2026-08-06T00:01:21.483Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Fixed cadence to seconds: making ClickHouse Cloud autoscaling more reactive",
       "url": "https://clickhouse.com/blog/making-clickhouse-cloud-autoscaling-more-reactive",
       "source": "ClickHouse",
-      "date": "2026-08-05T00:05:21.163Z"
+      "date": "2026-08-06T00:01:21.483Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse launches ClickHouse Labs with Andy Pavlo as VP of Database Research",
       "url": "https://clickhouse.com/blog/andy-pavlo-founding-clickhouse-labs",
       "source": "ClickHouse",
-      "date": "2026-08-05T00:05:21.163Z"
+      "date": "2026-08-06T00:01:21.483Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "I created a playground for 110 database systems",
       "url": "https://clickhouse.com/blog/clickbench-playground",
       "source": "ClickHouse",
-      "date": "2026-08-05T00:05:21.163Z"
+      "date": "2026-08-06T00:01:21.483Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in clickhousectl v0.4.0",
       "url": "https://clickhouse.com/blog/clickhousectl-v0-4-0",
       "source": "ClickHouse",
-      "date": "2026-08-05T00:05:21.163Z"
+      "date": "2026-08-06T00:01:21.483Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse joins the Open Secure AI Alliance",
       "url": "https://clickhouse.com/blog/open-secure-ai-alliance",
       "source": "ClickHouse",
-      "date": "2026-08-05T00:05:21.163Z"
+      "date": "2026-08-06T00:01:21.483Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Jump Trading uses ClickHouse with Iceberg for analytics",
       "url": "https://clickhouse.com/blog/jump-trading-uses-clickhouse-with-iceberg",
       "source": "ClickHouse",
-      "date": "2026-08-05T00:05:21.163Z"
+      "date": "2026-08-06T00:01:21.483Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Choosing Between ClickStack and Grafana for ClickHouse Observability",
       "url": "https://clickhouse.com/blog/choosing-between-clickstack-and-grafana-for-clickhouse-observability",
       "source": "ClickHouse",
-      "date": "2026-08-05T00:05:21.163Z"
+      "date": "2026-08-06T00:01:21.483Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Benchmarking NVMe-backed Managed Postgres: PlanetScale and ClickHouse",
-      "url": "https://clickhouse.com/blog/benchmarking-nvme-managed-postgres-planetscale-vs-clickhouse",
-      "source": "ClickHouse",
-      "date": "2026-08-05T00:05:21.163Z"
+      "id": "hn-49189287",
+      "title": "The title cards in Blade Runner are amazing",
+      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "source": "HackerNews",
+      "score": 102,
+      "comments": 28,
+      "date": "2026-08-05T21:29:23.000Z"
+    },
+    {
+      "id": "hn-49189234",
+      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+      "source": "HackerNews",
+      "score": 62,
+      "comments": 6,
+      "date": "2026-08-05T21:24:45.000Z"
+    },
+    {
+      "id": "hn-49189075",
+      "title": "Prime Agent: A self-improving RLM agent",
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "source": "HackerNews",
+      "score": 71,
+      "comments": 10,
+      "date": "2026-08-05T21:11:57.000Z"
+    },
+    {
+      "id": "hn-49188022",
+      "title": "I'm switching my phone from Android to Linux",
+      "url": "https://runarcn.no/android-to-linux/",
+      "source": "HackerNews",
+      "score": 167,
+      "comments": 141,
+      "date": "2026-08-05T19:50:13.000Z"
+    },
+    {
+      "id": "hn-49187575",
+      "title": "Muse Code and Muse Spark 1.2",
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "source": "HackerNews",
+      "score": 143,
+      "comments": 85,
+      "date": "2026-08-05T19:15:52.000Z"
+    },
+    {
+      "id": "hn-49187256",
+      "title": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb",
+      "source": "HackerNews",
+      "score": 267,
+      "comments": 135,
+      "date": "2026-08-05T18:52:54.000Z"
+    },
+    {
+      "id": "hn-49186762",
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "source": "HackerNews",
+      "score": 189,
+      "comments": 35,
+      "date": "2026-08-05T18:18:56.000Z"
+    },
+    {
+      "id": "hn-49185983",
+      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+      "source": "HackerNews",
+      "score": 154,
+      "comments": 56,
+      "date": "2026-08-05T17:23:25.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Linux Processes: Threads & Concurrency",
+      "url": "https://www.reddit.com/r/programming/comments/1vgc4xz/linux_processes_threads_concurrency/",
+      "source": "Reddit",
+      "date": "2026-08-05T16:23:46.000Z"
+    },
+    {
+      "id": "hn-49184960",
+      "title": "Discovery Loop",
+      "url": "https://www.discoveryloop.com/",
+      "source": "HackerNews",
+      "score": 529,
+      "comments": 327,
+      "date": "2026-08-05T16:19:44.000Z"
+    },
+    {
+      "id": "hn-49184755",
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "source": "HackerNews",
+      "score": 420,
+      "comments": 544,
+      "date": "2026-08-05T16:05:31.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How fuzzy search works in a search engine: Levenshtein automata and n-gram similarity",
+      "url": "https://www.reddit.com/r/programming/comments/1vg8iyl/how_fuzzy_search_works_in_a_search_engine/",
+      "source": "Reddit",
+      "date": "2026-08-05T14:12:52.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Gödel, Escher, Elisp: The Beauty of Macros",
+      "url": "https://www.reddit.com/r/programming/comments/1vg8bi5/gödel_escher_elisp_the_beauty_of_macros/",
+      "source": "Reddit",
+      "date": "2026-08-05T14:04:41.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Painting with Gaussians",
+      "url": "https://www.reddit.com/r/programming/comments/1vg7jad/painting_with_gaussians/",
+      "source": "Reddit",
+      "date": "2026-08-05T13:34:04.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The rust programming language is adopting a new contributing policy",
+      "url": "https://www.reddit.com/r/programming/comments/1vg555b/the_rust_programming_language_is_adopting_a_new/",
+      "source": "Reddit",
+      "date": "2026-08-05T11:50:06.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Your SQS consumer can hang forever by default",
+      "url": "https://www.reddit.com/r/programming/comments/1vg4nwf/your_sqs_consumer_can_hang_forever_by_default/",
+      "source": "Reddit",
+      "date": "2026-08-05T11:26:12.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Reverse Engineering Google Slides",
+      "url": "https://www.reddit.com/r/programming/comments/1vfrjfk/reverse_engineering_google_slides/",
+      "source": "Reddit",
+      "date": "2026-08-05T00:09:52.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -80,150 +219,11 @@
       "date": "2026-08-04T23:39:45.000Z"
     },
     {
-      "id": "hn-49176644",
-      "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
-      "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
-      "source": "HackerNews",
-      "score": 10,
-      "comments": 6,
-      "date": "2026-08-04T23:22:37.000Z"
-    },
-    {
-      "id": "hn-49176606",
-      "title": "libexpat now funded by the City of Munich for up to 6 months",
-      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-      "source": "HackerNews",
-      "score": 52,
-      "comments": 3,
-      "date": "2026-08-04T23:18:12.000Z"
-    },
-    {
-      "id": "hn-49176055",
-      "title": "We finally learned to center a div, then browsers added sidebars",
-      "url": "https://seg6.space/posts/center-div/",
-      "source": "HackerNews",
-      "score": 29,
-      "comments": 17,
-      "date": "2026-08-04T22:24:00.000Z"
-    },
-    {
-      "id": "hn-49176038",
-      "title": "Pi's Minimalism Is Its Advantage",
-      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "source": "HackerNews",
-      "score": 23,
-      "comments": 5,
-      "date": "2026-08-04T22:22:12.000Z"
-    },
-    {
-      "id": "hn-49175924",
-      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-      "url": "https://techascent.com/blog/just-ducking-around.html",
-      "source": "HackerNews",
-      "score": 29,
-      "comments": 0,
-      "date": "2026-08-04T22:09:43.000Z"
-    },
-    {
-      "id": "hn-49175826",
-      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-      "source": "HackerNews",
-      "score": 110,
-      "comments": 55,
-      "date": "2026-08-04T22:01:41.000Z"
-    },
-    {
-      "id": "hn-49174900",
-      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-      "url": "https://twitter.com/gwern/status/2084739205071343837",
-      "source": "HackerNews",
-      "score": 91,
-      "comments": 31,
-      "date": "2026-08-04T20:48:17.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "The Lua community needs to learn to move on",
       "url": "https://www.reddit.com/r/programming/comments/1vfjdqy/the_lua_community_needs_to_learn_to_move_on/",
       "source": "Reddit",
       "date": "2026-08-04T18:52:44.000Z"
-    },
-    {
-      "id": "hn-49173165",
-      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "source": "HackerNews",
-      "score": 795,
-      "comments": 44,
-      "date": "2026-08-04T18:51:38.000Z"
-    },
-    {
-      "id": "hn-49171268",
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "url": "https://mistral.ai/news/shieldstral/",
-      "source": "HackerNews",
-      "score": 286,
-      "comments": 69,
-      "date": "2026-08-04T16:36:05.000Z"
-    },
-    {
-      "id": "hn-49170165",
-      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-      "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "source": "HackerNews",
-      "score": 448,
-      "comments": 87,
-      "date": "2026-08-04T15:16:22.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Front End Testing with GitHub Actions • Amy Kapernick",
-      "url": "https://www.reddit.com/r/programming/comments/1vf8x07/front_end_testing_with_github_actions_amy/",
-      "source": "Reddit",
-      "date": "2026-08-04T12:27:20.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Why I’m Writing Pure HTML & CSS in 2025",
-      "url": "https://www.reddit.com/r/programming/comments/1vf6msi/why_im_writing_pure_html_css_in_2025/",
-      "source": "Reddit",
-      "date": "2026-08-04T10:35:34.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Safe Lock-free Primitives with iceoryx2's ByteAtomic",
-      "url": "https://www.reddit.com/r/programming/comments/1vf68qb/safe_lockfree_primitives_with_iceoryx2s_byteatomic/",
-      "source": "Reddit",
-      "date": "2026-08-04T10:14:56.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Cloudflare introduced tool that synchronize its servers",
-      "url": "https://www.reddit.com/r/programming/comments/1veq9ff/cloudflare_introduced_tool_that_synchronize_its/",
-      "source": "Reddit",
-      "date": "2026-08-03T21:16:26.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Reliability Lessons From SQLite - Richard Hipp | SSW 2026",
-      "url": "https://www.reddit.com/r/programming/comments/1vejwan/reliability_lessons_from_sqlite_richard_hipp_ssw/",
-      "source": "Reddit",
-      "date": "2026-08-03T17:24:14.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The true power of regular expressions",
-      "url": "https://www.reddit.com/r/programming/comments/1ve9ow7/the_true_power_of_regular_expressions/",
-      "source": "Reddit",
-      "date": "2026-08-03T10:31:02.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Rust Immobile types and guaranteed destructors",
-      "url": "https://www.reddit.com/r/programming/comments/1ve71ag/rust_immobile_types_and_guaranteed_destructors/",
-      "source": "Reddit",
-      "date": "2026-08-03T08:00:10.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
