@@ -1,236 +1,166 @@
 {
-  "updatedAt": "2026-08-07T01:41:56.480Z",
-  "total": 30,
+  "updatedAt": "2026-08-07T23:35:40.700Z",
+  "total": 20,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+      "title": "How Physical Intelligence unified its robotics data stack with Postgres managed by ClickHouse",
+      "url": "https://clickhouse.com/blog/physical-intelligence-rds-to-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-08-07T01:41:56.428Z"
+      "date": "2026-08-07T23:35:40.700Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickHouse Managed Postgres: Customer notifications, better observability, faster backups, extensions, and more",
       "url": "https://clickhouse.com/blog/managed-postgres-notifications-observability-backups",
       "source": "ClickHouse",
-      "date": "2026-08-07T01:41:56.428Z"
+      "date": "2026-08-07T23:35:40.700Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.7",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-07",
       "source": "ClickHouse",
-      "date": "2026-08-07T01:41:56.428Z"
+      "date": "2026-08-07T23:35:40.700Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What is WAL backpressure, and why does ClickHouse Managed Postgres need it?",
       "url": "https://clickhouse.com/blog/wal-backpressure-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-08-07T01:41:56.428Z"
+      "date": "2026-08-07T23:35:40.700Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Mercado Libre rebuilt its observability platform on ClickHouse Cloud with 50x faster trace queries",
       "url": "https://clickhouse.com/blog/mercado-libre-observability-on-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-08-07T01:41:56.428Z"
+      "date": "2026-08-07T23:35:40.700Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Fixed cadence to seconds: making ClickHouse Cloud autoscaling more reactive",
       "url": "https://clickhouse.com/blog/making-clickhouse-cloud-autoscaling-more-reactive",
       "source": "ClickHouse",
-      "date": "2026-08-07T01:41:56.428Z"
+      "date": "2026-08-07T23:35:40.700Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse launches ClickHouse Labs with Andy Pavlo as VP of Database Research",
       "url": "https://clickhouse.com/blog/andy-pavlo-founding-clickhouse-labs",
       "source": "ClickHouse",
-      "date": "2026-08-07T01:41:56.428Z"
+      "date": "2026-08-07T23:35:40.700Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+      "source": "ClickHouse",
+      "date": "2026-08-07T23:35:40.700Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "I created a playground for 110 database systems",
       "url": "https://clickhouse.com/blog/clickbench-playground",
       "source": "ClickHouse",
-      "date": "2026-08-07T01:41:56.428Z"
+      "date": "2026-08-07T23:35:40.700Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in clickhousectl v0.4.0",
       "url": "https://clickhouse.com/blog/clickhousectl-v0-4-0",
       "source": "ClickHouse",
-      "date": "2026-08-07T01:41:56.428Z"
+      "date": "2026-08-07T23:35:40.700Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse joins the Open Secure AI Alliance",
-      "url": "https://clickhouse.com/blog/open-secure-ai-alliance",
-      "source": "ClickHouse",
-      "date": "2026-08-07T01:41:56.428Z"
-    },
-    {
-      "id": "hn-49203105",
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "id": "hn-49216362",
+      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
       "source": "HackerNews",
-      "score": 80,
-      "comments": 14,
-      "date": "2026-08-06T21:52:16.000Z"
+      "score": 78,
+      "comments": 45,
+      "date": "2026-08-07T21:19:57.000Z"
     },
     {
-      "id": "hn-49202716",
-      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "id": "hn-49214770",
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
       "source": "HackerNews",
-      "score": 49,
-      "comments": 6,
-      "date": "2026-08-06T21:18:32.000Z"
+      "score": 123,
+      "comments": 43,
+      "date": "2026-08-07T18:51:14.000Z"
     },
     {
-      "id": "hn-49201970",
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "id": "hn-49214098",
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
       "source": "HackerNews",
-      "score": 362,
-      "comments": 282,
-      "date": "2026-08-06T20:23:11.000Z"
+      "score": 216,
+      "comments": 45,
+      "date": "2026-08-07T18:01:30.000Z"
     },
     {
-      "id": "hn-49201003",
-      "title": "Herdr is joining Y Combinator. The runtime stays open",
-      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "id": "hn-49214008",
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "source": "HackerNews",
+      "score": 384,
+      "comments": 234,
+      "date": "2026-08-07T17:56:20.000Z"
+    },
+    {
+      "id": "hn-49213754",
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "source": "HackerNews",
+      "score": 348,
+      "comments": 237,
+      "date": "2026-08-07T17:36:30.000Z"
+    },
+    {
+      "id": "hn-49213029",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
       "source": "HackerNews",
       "score": 142,
-      "comments": 95,
-      "date": "2026-08-06T19:14:21.000Z"
+      "comments": 159,
+      "date": "2026-08-07T16:39:36.000Z"
     },
     {
-      "id": "hn-49199346",
-      "title": "Taste Is All That's Left",
-      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "id": "hn-49211921",
+      "title": "An all-sky map of half a million supermassive black holes",
+      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
       "source": "HackerNews",
-      "score": 203,
-      "comments": 158,
-      "date": "2026-08-06T17:01:33.000Z"
+      "score": 129,
+      "comments": 33,
+      "date": "2026-08-07T15:24:53.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Designing a Movement Transaction System for a Sokoban Game",
-      "url": "https://www.reddit.com/r/programming/comments/1vh96pd/designing_a_movement_transaction_system_for_a/",
-      "source": "Reddit",
-      "date": "2026-08-06T16:30:07.000Z"
-    },
-    {
-      "id": "hn-49198464",
-      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-      "url": "https://provenmetal.com",
+      "id": "hn-49209539",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
       "source": "HackerNews",
-      "score": 187,
-      "comments": 129,
-      "date": "2026-08-06T15:59:15.000Z"
+      "score": 337,
+      "comments": 477,
+      "date": "2026-08-07T12:42:27.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Build a Local Kubernetes Platform with kubara, kind, and Argo CD",
-      "url": "https://www.reddit.com/r/programming/comments/1vh7kf7/build_a_local_kubernetes_platform_with_kubara/",
-      "source": "Reddit",
-      "date": "2026-08-06T15:32:30.000Z"
-    },
-    {
-      "id": "hn-49198069",
-      "title": "Almost no skill required to cook a steak",
-      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "id": "hn-49157770",
+      "title": "Guarded Methods in OCaml",
+      "url": "https://xvw.lol/en/articles/oop-refl.html",
       "source": "HackerNews",
-      "score": 277,
-      "comments": 317,
-      "date": "2026-08-06T15:30:48.000Z"
+      "score": 42,
+      "comments": 4,
+      "date": "2026-08-03T16:15:44.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Building a RISC-V emulator that boots in a browser via Wasm",
-      "url": "https://www.reddit.com/r/programming/comments/1vh6t0z/building_a_riscv_emulator_that_boots_in_a_browser/",
-      "source": "Reddit",
-      "date": "2026-08-06T15:04:41.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Bringing Post-Quantum Cryptography to Java LTS Releases",
-      "url": "https://www.reddit.com/r/programming/comments/1vh24uw/bringing_postquantum_cryptography_to_java_lts/",
-      "source": "Reddit",
-      "date": "2026-08-06T11:56:21.000Z"
-    },
-    {
-      "id": "hn-49195231",
-      "title": "Mario Meets Pareto",
-      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "id": "hn-49135457",
+      "title": "Carl's Required Reading",
+      "url": "https://carlkolon.com/reading/",
       "source": "HackerNews",
-      "score": 870,
-      "comments": 150,
-      "date": "2026-08-06T11:24:53.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How to Make a Nintendo 64 Game in 2026",
-      "url": "https://www.reddit.com/r/programming/comments/1vgzrrt/how_to_make_a_nintendo_64_game_in_2026/",
-      "source": "Reddit",
-      "date": "2026-08-06T09:53:17.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The LuaJIT NYI That Silently Poisoned an Unrelated Hot Loop",
-      "url": "https://www.reddit.com/r/programming/comments/1vgzqd3/the_luajit_nyi_that_silently_poisoned_an/",
-      "source": "Reddit",
-      "date": "2026-08-06T09:50:58.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Shrinking Ruby Hashes",
-      "url": "https://www.reddit.com/r/programming/comments/1vgznmp/shrinking_ruby_hashes/",
-      "source": "Reddit",
-      "date": "2026-08-06T09:46:14.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Linux Processes: Threads & Concurrency",
-      "url": "https://www.reddit.com/r/programming/comments/1vgc4xz/linux_processes_threads_concurrency/",
-      "source": "Reddit",
-      "date": "2026-08-05T16:23:46.000Z"
-    },
-    {
-      "id": "hn-49184355",
-      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "source": "HackerNews",
-      "score": 137,
-      "comments": 26,
-      "date": "2026-08-05T15:33:23.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The rust programming language is adopting a new contributing policy",
-      "url": "https://www.reddit.com/r/programming/comments/1vg555b/the_rust_programming_language_is_adopting_a_new/",
-      "source": "Reddit",
-      "date": "2026-08-05T11:50:06.000Z"
-    },
-    {
-      "id": "hn-49152255",
-      "title": "I stopped trusting USB-C cable labels and started testing them",
-      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
-      "source": "HackerNews",
-      "score": 64,
-      "comments": 42,
-      "date": "2026-08-03T07:12:57.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
-      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-      "source": "Reddit",
-      "date": "2026-05-23T13:54:37.000Z"
+      "score": 82,
+      "comments": 10,
+      "date": "2026-08-01T15:51:15.000Z"
     }
   ]
 }
