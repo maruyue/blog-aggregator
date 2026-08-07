@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T00:01:26.538Z",
+  "updatedAt": "2026-08-07T01:41:56.480Z",
   "total": 30,
   "articles": [
     {
@@ -7,142 +7,191 @@
       "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
       "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-08-06T00:01:21.483Z"
+      "date": "2026-08-07T01:41:56.428Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What&#x27;s new in ClickHouse Managed Postgres: Customer notifications, better observability, faster backups, extensions, and more",
+      "url": "https://clickhouse.com/blog/managed-postgres-notifications-observability-backups",
+      "source": "ClickHouse",
+      "date": "2026-08-07T01:41:56.428Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse Release 26.7",
+      "url": "https://clickhouse.com/blog/clickhouse-release-26-07",
+      "source": "ClickHouse",
+      "date": "2026-08-07T01:41:56.428Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What is WAL backpressure, and why does ClickHouse Managed Postgres need it?",
       "url": "https://clickhouse.com/blog/wal-backpressure-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-08-06T00:01:21.483Z"
+      "date": "2026-08-07T01:41:56.428Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Mercado Libre rebuilt its observability platform on ClickHouse Cloud with 50x faster trace queries",
       "url": "https://clickhouse.com/blog/mercado-libre-observability-on-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-08-06T00:01:21.483Z"
+      "date": "2026-08-07T01:41:56.428Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Fixed cadence to seconds: making ClickHouse Cloud autoscaling more reactive",
       "url": "https://clickhouse.com/blog/making-clickhouse-cloud-autoscaling-more-reactive",
       "source": "ClickHouse",
-      "date": "2026-08-06T00:01:21.483Z"
+      "date": "2026-08-07T01:41:56.428Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse launches ClickHouse Labs with Andy Pavlo as VP of Database Research",
       "url": "https://clickhouse.com/blog/andy-pavlo-founding-clickhouse-labs",
       "source": "ClickHouse",
-      "date": "2026-08-06T00:01:21.483Z"
+      "date": "2026-08-07T01:41:56.428Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "I created a playground for 110 database systems",
       "url": "https://clickhouse.com/blog/clickbench-playground",
       "source": "ClickHouse",
-      "date": "2026-08-06T00:01:21.483Z"
+      "date": "2026-08-07T01:41:56.428Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in clickhousectl v0.4.0",
       "url": "https://clickhouse.com/blog/clickhousectl-v0-4-0",
       "source": "ClickHouse",
-      "date": "2026-08-06T00:01:21.483Z"
+      "date": "2026-08-07T01:41:56.428Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse joins the Open Secure AI Alliance",
       "url": "https://clickhouse.com/blog/open-secure-ai-alliance",
       "source": "ClickHouse",
-      "date": "2026-08-06T00:01:21.483Z"
+      "date": "2026-08-07T01:41:56.428Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Jump Trading uses ClickHouse with Iceberg for analytics",
-      "url": "https://clickhouse.com/blog/jump-trading-uses-clickhouse-with-iceberg",
-      "source": "ClickHouse",
-      "date": "2026-08-06T00:01:21.483Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Choosing Between ClickStack and Grafana for ClickHouse Observability",
-      "url": "https://clickhouse.com/blog/choosing-between-clickstack-and-grafana-for-clickhouse-observability",
-      "source": "ClickHouse",
-      "date": "2026-08-06T00:01:21.483Z"
-    },
-    {
-      "id": "hn-49189287",
-      "title": "The title cards in Blade Runner are amazing",
-      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "id": "hn-49203105",
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
       "source": "HackerNews",
-      "score": 102,
-      "comments": 28,
-      "date": "2026-08-05T21:29:23.000Z"
+      "score": 80,
+      "comments": 14,
+      "date": "2026-08-06T21:52:16.000Z"
     },
     {
-      "id": "hn-49189234",
-      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
-      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+      "id": "hn-49202716",
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
       "source": "HackerNews",
-      "score": 62,
+      "score": 49,
       "comments": 6,
-      "date": "2026-08-05T21:24:45.000Z"
+      "date": "2026-08-06T21:18:32.000Z"
     },
     {
-      "id": "hn-49189075",
-      "title": "Prime Agent: A self-improving RLM agent",
-      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "id": "hn-49201970",
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
       "source": "HackerNews",
-      "score": 71,
-      "comments": 10,
-      "date": "2026-08-05T21:11:57.000Z"
+      "score": 362,
+      "comments": 282,
+      "date": "2026-08-06T20:23:11.000Z"
     },
     {
-      "id": "hn-49188022",
-      "title": "I'm switching my phone from Android to Linux",
-      "url": "https://runarcn.no/android-to-linux/",
+      "id": "hn-49201003",
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
       "source": "HackerNews",
-      "score": 167,
-      "comments": 141,
-      "date": "2026-08-05T19:50:13.000Z"
+      "score": 142,
+      "comments": 95,
+      "date": "2026-08-06T19:14:21.000Z"
     },
     {
-      "id": "hn-49187575",
-      "title": "Muse Code and Muse Spark 1.2",
-      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "id": "hn-49199346",
+      "title": "Taste Is All That's Left",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
       "source": "HackerNews",
-      "score": 143,
-      "comments": 85,
-      "date": "2026-08-05T19:15:52.000Z"
+      "score": 203,
+      "comments": 158,
+      "date": "2026-08-06T17:01:33.000Z"
     },
     {
-      "id": "hn-49187256",
-      "title": "Zed DeltaDB",
-      "url": "https://zed.dev/deltadb",
-      "source": "HackerNews",
-      "score": 267,
-      "comments": 135,
-      "date": "2026-08-05T18:52:54.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Designing a Movement Transaction System for a Sokoban Game",
+      "url": "https://www.reddit.com/r/programming/comments/1vh96pd/designing_a_movement_transaction_system_for_a/",
+      "source": "Reddit",
+      "date": "2026-08-06T16:30:07.000Z"
     },
     {
-      "id": "hn-49186762",
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "id": "hn-49198464",
+      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "url": "https://provenmetal.com",
       "source": "HackerNews",
-      "score": 189,
-      "comments": 35,
-      "date": "2026-08-05T18:18:56.000Z"
+      "score": 187,
+      "comments": 129,
+      "date": "2026-08-06T15:59:15.000Z"
     },
     {
-      "id": "hn-49185983",
-      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Build a Local Kubernetes Platform with kubara, kind, and Argo CD",
+      "url": "https://www.reddit.com/r/programming/comments/1vh7kf7/build_a_local_kubernetes_platform_with_kubara/",
+      "source": "Reddit",
+      "date": "2026-08-06T15:32:30.000Z"
+    },
+    {
+      "id": "hn-49198069",
+      "title": "Almost no skill required to cook a steak",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
       "source": "HackerNews",
-      "score": 154,
-      "comments": 56,
-      "date": "2026-08-05T17:23:25.000Z"
+      "score": 277,
+      "comments": 317,
+      "date": "2026-08-06T15:30:48.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Building a RISC-V emulator that boots in a browser via Wasm",
+      "url": "https://www.reddit.com/r/programming/comments/1vh6t0z/building_a_riscv_emulator_that_boots_in_a_browser/",
+      "source": "Reddit",
+      "date": "2026-08-06T15:04:41.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Bringing Post-Quantum Cryptography to Java LTS Releases",
+      "url": "https://www.reddit.com/r/programming/comments/1vh24uw/bringing_postquantum_cryptography_to_java_lts/",
+      "source": "Reddit",
+      "date": "2026-08-06T11:56:21.000Z"
+    },
+    {
+      "id": "hn-49195231",
+      "title": "Mario Meets Pareto",
+      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "source": "HackerNews",
+      "score": 870,
+      "comments": 150,
+      "date": "2026-08-06T11:24:53.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How to Make a Nintendo 64 Game in 2026",
+      "url": "https://www.reddit.com/r/programming/comments/1vgzrrt/how_to_make_a_nintendo_64_game_in_2026/",
+      "source": "Reddit",
+      "date": "2026-08-06T09:53:17.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The LuaJIT NYI That Silently Poisoned an Unrelated Hot Loop",
+      "url": "https://www.reddit.com/r/programming/comments/1vgzqd3/the_luajit_nyi_that_silently_poisoned_an/",
+      "source": "Reddit",
+      "date": "2026-08-06T09:50:58.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Shrinking Ruby Hashes",
+      "url": "https://www.reddit.com/r/programming/comments/1vgznmp/shrinking_ruby_hashes/",
+      "source": "Reddit",
+      "date": "2026-08-06T09:46:14.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -152,43 +201,13 @@
       "date": "2026-08-05T16:23:46.000Z"
     },
     {
-      "id": "hn-49184960",
-      "title": "Discovery Loop",
-      "url": "https://www.discoveryloop.com/",
+      "id": "hn-49184355",
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
       "source": "HackerNews",
-      "score": 529,
-      "comments": 327,
-      "date": "2026-08-05T16:19:44.000Z"
-    },
-    {
-      "id": "hn-49184755",
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "source": "HackerNews",
-      "score": 420,
-      "comments": 544,
-      "date": "2026-08-05T16:05:31.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How fuzzy search works in a search engine: Levenshtein automata and n-gram similarity",
-      "url": "https://www.reddit.com/r/programming/comments/1vg8iyl/how_fuzzy_search_works_in_a_search_engine/",
-      "source": "Reddit",
-      "date": "2026-08-05T14:12:52.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Gödel, Escher, Elisp: The Beauty of Macros",
-      "url": "https://www.reddit.com/r/programming/comments/1vg8bi5/gödel_escher_elisp_the_beauty_of_macros/",
-      "source": "Reddit",
-      "date": "2026-08-05T14:04:41.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Painting with Gaussians",
-      "url": "https://www.reddit.com/r/programming/comments/1vg7jad/painting_with_gaussians/",
-      "source": "Reddit",
-      "date": "2026-08-05T13:34:04.000Z"
+      "score": 137,
+      "comments": 26,
+      "date": "2026-08-05T15:33:23.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -198,32 +217,13 @@
       "date": "2026-08-05T11:50:06.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Your SQS consumer can hang forever by default",
-      "url": "https://www.reddit.com/r/programming/comments/1vg4nwf/your_sqs_consumer_can_hang_forever_by_default/",
-      "source": "Reddit",
-      "date": "2026-08-05T11:26:12.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Reverse Engineering Google Slides",
-      "url": "https://www.reddit.com/r/programming/comments/1vfrjfk/reverse_engineering_google_slides/",
-      "source": "Reddit",
-      "date": "2026-08-05T00:09:52.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How Zanzlanz released a game that has no assets",
-      "url": "https://www.reddit.com/r/programming/comments/1vfqtn6/how_zanzlanz_released_a_game_that_has_no_assets/",
-      "source": "Reddit",
-      "date": "2026-08-04T23:39:45.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The Lua community needs to learn to move on",
-      "url": "https://www.reddit.com/r/programming/comments/1vfjdqy/the_lua_community_needs_to_learn_to_move_on/",
-      "source": "Reddit",
-      "date": "2026-08-04T18:52:44.000Z"
+      "id": "hn-49152255",
+      "title": "I stopped trusting USB-C cable labels and started testing them",
+      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+      "source": "HackerNews",
+      "score": 64,
+      "comments": 42,
+      "date": "2026-08-03T07:12:57.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
