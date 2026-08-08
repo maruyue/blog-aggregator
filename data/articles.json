@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-08-07T23:35:40.700Z",
-  "total": 20,
+  "updatedAt": "2026-08-08T23:31:34.373Z",
+  "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Physical Intelligence unified its robotics data stack with Postgres managed by ClickHouse",
       "url": "https://clickhouse.com/blog/physical-intelligence-rds-to-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-08-07T23:35:40.700Z"
+      "date": "2026-08-08T23:31:34.334Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickHouse Managed Postgres: Customer notifications, better observability, faster backups, extensions, and more",
       "url": "https://clickhouse.com/blog/managed-postgres-notifications-observability-backups",
       "source": "ClickHouse",
-      "date": "2026-08-07T23:35:40.700Z"
+      "date": "2026-08-08T23:31:34.334Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.7",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-07",
       "source": "ClickHouse",
-      "date": "2026-08-07T23:35:40.700Z"
+      "date": "2026-08-08T23:31:34.334Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What is WAL backpressure, and why does ClickHouse Managed Postgres need it?",
       "url": "https://clickhouse.com/blog/wal-backpressure-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-08-07T23:35:40.700Z"
+      "date": "2026-08-08T23:31:34.334Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Mercado Libre rebuilt its observability platform on ClickHouse Cloud with 50x faster trace queries",
       "url": "https://clickhouse.com/blog/mercado-libre-observability-on-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-08-07T23:35:40.700Z"
+      "date": "2026-08-08T23:31:34.334Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Fixed cadence to seconds: making ClickHouse Cloud autoscaling more reactive",
       "url": "https://clickhouse.com/blog/making-clickhouse-cloud-autoscaling-more-reactive",
       "source": "ClickHouse",
-      "date": "2026-08-07T23:35:40.700Z"
+      "date": "2026-08-08T23:31:34.334Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse launches ClickHouse Labs with Andy Pavlo as VP of Database Research",
       "url": "https://clickhouse.com/blog/andy-pavlo-founding-clickhouse-labs",
       "source": "ClickHouse",
-      "date": "2026-08-07T23:35:40.700Z"
+      "date": "2026-08-08T23:31:34.334Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
       "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-08-07T23:35:40.700Z"
+      "date": "2026-08-08T23:31:34.334Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "I created a playground for 110 database systems",
       "url": "https://clickhouse.com/blog/clickbench-playground",
       "source": "ClickHouse",
-      "date": "2026-08-07T23:35:40.700Z"
+      "date": "2026-08-08T23:31:34.334Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in clickhousectl v0.4.0",
       "url": "https://clickhouse.com/blog/clickhousectl-v0-4-0",
       "source": "ClickHouse",
-      "date": "2026-08-07T23:35:40.700Z"
+      "date": "2026-08-08T23:31:34.334Z"
     },
     {
-      "id": "hn-49216362",
-      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
-      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+      "id": "hn-49226636",
+      "title": "My server is a phone now",
+      "url": "https://seg6.space/posts/phone-server/",
       "source": "HackerNews",
-      "score": 78,
-      "comments": 45,
-      "date": "2026-08-07T21:19:57.000Z"
+      "score": 5,
+      "comments": 0,
+      "date": "2026-08-08T22:49:23.000Z"
     },
     {
-      "id": "hn-49214770",
-      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-      "url": "https://ancientlibrary.net/",
-      "source": "HackerNews",
-      "score": 123,
-      "comments": 43,
-      "date": "2026-08-07T18:51:14.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Kafka Producer Callback Precautions",
+      "url": "https://www.reddit.com/r/programming/comments/1vj7sf7/kafka_producer_callback_precautions/",
+      "source": "Reddit",
+      "date": "2026-08-08T21:37:10.000Z"
     },
     {
-      "id": "hn-49214098",
-      "title": "Assembly Hall of Shame",
-      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "id": "hn-49225918",
+      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
+      "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
       "source": "HackerNews",
-      "score": 216,
-      "comments": 45,
-      "date": "2026-08-07T18:01:30.000Z"
+      "score": 60,
+      "comments": 29,
+      "date": "2026-08-08T21:07:10.000Z"
     },
     {
-      "id": "hn-49214008",
-      "title": "DeepSeek V4 Flash 0731",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "id": "hn-49225139",
+      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
       "source": "HackerNews",
-      "score": 384,
-      "comments": 234,
-      "date": "2026-08-07T17:56:20.000Z"
+      "score": 63,
+      "comments": 14,
+      "date": "2026-08-08T19:38:08.000Z"
     },
     {
-      "id": "hn-49213754",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "source": "HackerNews",
-      "score": 348,
-      "comments": 237,
-      "date": "2026-08-07T17:36:30.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Differential heuristics: learning about a way to optimize the A* heuristic",
+      "url": "https://www.reddit.com/r/programming/comments/1vj4cdd/differential_heuristics_learning_about_a_way_to/",
+      "source": "Reddit",
+      "date": "2026-08-08T19:09:40.000Z"
     },
     {
-      "id": "hn-49213029",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "id": "hn-49224294",
+      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
       "source": "HackerNews",
-      "score": 142,
-      "comments": 159,
-      "date": "2026-08-07T16:39:36.000Z"
+      "score": 460,
+      "comments": 219,
+      "date": "2026-08-08T18:09:31.000Z"
     },
     {
-      "id": "hn-49211921",
-      "title": "An all-sky map of half a million supermassive black holes",
-      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "source": "HackerNews",
-      "score": 129,
-      "comments": 33,
-      "date": "2026-08-07T15:24:53.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The advantage of using program images as a flight recorder instead of relying on logs",
+      "url": "https://www.reddit.com/r/programming/comments/1vj203j/the_advantage_of_using_program_images_as_a_flight/",
+      "source": "Reddit",
+      "date": "2026-08-08T17:35:30.000Z"
     },
     {
-      "id": "hn-49209539",
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "id": "hn-49223475",
+      "title": "LinkedIn Feed Blocker",
+      "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
       "source": "HackerNews",
-      "score": 337,
-      "comments": 477,
-      "date": "2026-08-07T12:42:27.000Z"
+      "score": 157,
+      "comments": 92,
+      "date": "2026-08-08T16:49:07.000Z"
     },
     {
-      "id": "hn-49157770",
-      "title": "Guarded Methods in OCaml",
-      "url": "https://xvw.lol/en/articles/oop-refl.html",
+      "id": "hn-49223082",
+      "title": "Fastmail offers EU data region",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
       "source": "HackerNews",
-      "score": 42,
-      "comments": 4,
-      "date": "2026-08-03T16:15:44.000Z"
+      "score": 292,
+      "comments": 133,
+      "date": "2026-08-08T16:04:51.000Z"
     },
     {
-      "id": "hn-49135457",
-      "title": "Carl's Required Reading",
-      "url": "https://carlkolon.com/reading/",
+      "id": "hn-49223079",
+      "title": "Can Intel finally beat ARM on performance per Watt?",
+      "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
       "source": "HackerNews",
-      "score": 82,
-      "comments": 10,
-      "date": "2026-08-01T15:51:15.000Z"
+      "score": 141,
+      "comments": 65,
+      "date": "2026-08-08T16:04:36.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Why I Stopped Grinding LeetCode",
+      "url": "https://www.reddit.com/r/programming/comments/1vix13t/why_i_stopped_grinding_leetcode/",
+      "source": "Reddit",
+      "date": "2026-08-08T14:11:12.000Z"
+    },
+    {
+      "id": "hn-49221668",
+      "title": "A domain can now say it is for sale, in DNS",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "source": "HackerNews",
+      "score": 325,
+      "comments": 128,
+      "date": "2026-08-08T13:26:51.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "DRY vs. SRP",
+      "url": "https://www.reddit.com/r/programming/comments/1virrlk/dry_vs_srp/",
+      "source": "Reddit",
+      "date": "2026-08-08T09:44:06.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "A shell exclamation mark is not for yelling. Be lazy. | Filip Roséen",
+      "url": "https://www.reddit.com/r/programming/comments/1vilqxz/a_shell_exclamation_mark_is_not_for_yelling_be/",
+      "source": "Reddit",
+      "date": "2026-08-08T03:57:59.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Solving and benchmarking QUBO problems with Gurobi in Python",
+      "url": "https://www.reddit.com/r/programming/comments/1vija3m/solving_and_benchmarking_qubo_problems_with/",
+      "source": "Reddit",
+      "date": "2026-08-08T01:55:19.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "JDK 28 EA Build10 is now available for download and includes JEP 401: Value Objects (Preview) from Project Valhalla",
+      "url": "https://www.reddit.com/r/programming/comments/1vii2vi/jdk_28_ea_build10_is_now_available_for_download/",
+      "source": "Reddit",
+      "date": "2026-08-08T00:56:24.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "From constraint models to playable puzzle games",
+      "url": "https://www.reddit.com/r/programming/comments/1vhxjpv/from_constraint_models_to_playable_puzzle_games/",
+      "source": "Reddit",
+      "date": "2026-08-07T11:05:10.000Z"
+    },
+    {
+      "id": "hn-49180649",
+      "title": "Making difficulty curves in games",
+      "url": "http://www.davetech.co.uk/difficultycurves",
+      "source": "HackerNews",
+      "score": 29,
+      "comments": 6,
+      "date": "2026-08-05T09:59:34.000Z"
+    },
+    {
+      "id": "hn-49151146",
+      "title": "DDisasm: Reversible (bi-directional) Disassembler",
+      "url": "https://github.com/GrammaTech/ddisasm",
+      "source": "HackerNews",
+      "score": 7,
+      "comments": 1,
+      "date": "2026-08-03T04:13:48.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "Reddit",
+      "date": "2026-05-23T13:54:37.000Z"
     }
   ]
 }
