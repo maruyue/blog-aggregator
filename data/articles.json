@@ -1,236 +1,166 @@
 {
-  "updatedAt": "2026-08-08T23:31:34.373Z",
-  "total": 30,
+  "updatedAt": "2026-08-09T23:33:17.392Z",
+  "total": 20,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Physical Intelligence unified its robotics data stack with Postgres managed by ClickHouse",
       "url": "https://clickhouse.com/blog/physical-intelligence-rds-to-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-08-08T23:31:34.334Z"
+      "date": "2026-08-09T23:33:12.036Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickHouse Managed Postgres: Customer notifications, better observability, faster backups, extensions, and more",
       "url": "https://clickhouse.com/blog/managed-postgres-notifications-observability-backups",
       "source": "ClickHouse",
-      "date": "2026-08-08T23:31:34.334Z"
+      "date": "2026-08-09T23:33:12.036Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.7",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-07",
       "source": "ClickHouse",
-      "date": "2026-08-08T23:31:34.334Z"
+      "date": "2026-08-09T23:33:12.036Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What is WAL backpressure, and why does ClickHouse Managed Postgres need it?",
       "url": "https://clickhouse.com/blog/wal-backpressure-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-08-08T23:31:34.334Z"
+      "date": "2026-08-09T23:33:12.036Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Mercado Libre rebuilt its observability platform on ClickHouse Cloud with 50x faster trace queries",
       "url": "https://clickhouse.com/blog/mercado-libre-observability-on-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-08-08T23:31:34.334Z"
+      "date": "2026-08-09T23:33:12.036Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Fixed cadence to seconds: making ClickHouse Cloud autoscaling more reactive",
       "url": "https://clickhouse.com/blog/making-clickhouse-cloud-autoscaling-more-reactive",
       "source": "ClickHouse",
-      "date": "2026-08-08T23:31:34.334Z"
+      "date": "2026-08-09T23:33:12.036Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse launches ClickHouse Labs with Andy Pavlo as VP of Database Research",
       "url": "https://clickhouse.com/blog/andy-pavlo-founding-clickhouse-labs",
       "source": "ClickHouse",
-      "date": "2026-08-08T23:31:34.334Z"
+      "date": "2026-08-09T23:33:12.036Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
       "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-08-08T23:31:34.334Z"
+      "date": "2026-08-09T23:33:12.036Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "I created a playground for 110 database systems",
       "url": "https://clickhouse.com/blog/clickbench-playground",
       "source": "ClickHouse",
-      "date": "2026-08-08T23:31:34.334Z"
+      "date": "2026-08-09T23:33:12.036Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in clickhousectl v0.4.0",
       "url": "https://clickhouse.com/blog/clickhousectl-v0-4-0",
       "source": "ClickHouse",
-      "date": "2026-08-08T23:31:34.334Z"
+      "date": "2026-08-09T23:33:12.036Z"
     },
     {
-      "id": "hn-49226636",
-      "title": "My server is a phone now",
-      "url": "https://seg6.space/posts/phone-server/",
+      "id": "hn-49235697",
+      "title": "Tuxedo No. 2 – Cocktail recipes",
+      "url": "https://tuxedono2.com",
       "source": "HackerNews",
-      "score": 5,
-      "comments": 0,
-      "date": "2026-08-08T22:49:23.000Z"
+      "score": 25,
+      "comments": 7,
+      "date": "2026-08-09T20:48:46.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Kafka Producer Callback Precautions",
-      "url": "https://www.reddit.com/r/programming/comments/1vj7sf7/kafka_producer_callback_precautions/",
-      "source": "Reddit",
-      "date": "2026-08-08T21:37:10.000Z"
-    },
-    {
-      "id": "hn-49225918",
-      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
-      "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
+      "id": "hn-49235641",
+      "title": "New Zealand lost its music media, and what we're building to replace it",
+      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
       "source": "HackerNews",
-      "score": 60,
-      "comments": 29,
-      "date": "2026-08-08T21:07:10.000Z"
+      "score": 48,
+      "comments": 24,
+      "date": "2026-08-09T20:42:29.000Z"
     },
     {
-      "id": "hn-49225139",
-      "title": "Open-source interactive map for the Aug 12 total solar eclipse",
-      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "id": "hn-49235378",
+      "title": "The Hacker's Renaissance",
+      "url": "https://phrack.org/issues/72/19#article",
       "source": "HackerNews",
-      "score": 63,
-      "comments": 14,
-      "date": "2026-08-08T19:38:08.000Z"
+      "score": 70,
+      "comments": 49,
+      "date": "2026-08-09T20:18:44.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Differential heuristics: learning about a way to optimize the A* heuristic",
-      "url": "https://www.reddit.com/r/programming/comments/1vj4cdd/differential_heuristics_learning_about_a_way_to/",
-      "source": "Reddit",
-      "date": "2026-08-08T19:09:40.000Z"
-    },
-    {
-      "id": "hn-49224294",
-      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+      "id": "hn-49235011",
+      "title": "The tragedy of the commons, AI edition",
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
       "source": "HackerNews",
-      "score": 460,
-      "comments": 219,
-      "date": "2026-08-08T18:09:31.000Z"
+      "score": 56,
+      "comments": 23,
+      "date": "2026-08-09T19:43:52.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The advantage of using program images as a flight recorder instead of relying on logs",
-      "url": "https://www.reddit.com/r/programming/comments/1vj203j/the_advantage_of_using_program_images_as_a_flight/",
-      "source": "Reddit",
-      "date": "2026-08-08T17:35:30.000Z"
-    },
-    {
-      "id": "hn-49223475",
-      "title": "LinkedIn Feed Blocker",
-      "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
+      "id": "hn-49234675",
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
       "source": "HackerNews",
-      "score": 157,
-      "comments": 92,
-      "date": "2026-08-08T16:49:07.000Z"
+      "score": 301,
+      "comments": 162,
+      "date": "2026-08-09T19:16:49.000Z"
     },
     {
-      "id": "hn-49223082",
-      "title": "Fastmail offers EU data region",
-      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "id": "hn-49234271",
+      "title": "I made tinnitus my friend, then it disappeared [video]",
+      "url": "https://mynoise.net/vlog.php?ep=20260803",
       "source": "HackerNews",
-      "score": 292,
-      "comments": 133,
-      "date": "2026-08-08T16:04:51.000Z"
+      "score": 46,
+      "comments": 20,
+      "date": "2026-08-09T18:41:35.000Z"
     },
     {
-      "id": "hn-49223079",
-      "title": "Can Intel finally beat ARM on performance per Watt?",
-      "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
+      "id": "hn-49232253",
+      "title": "Taxi drivers rarely die of Alzheimer's",
+      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
       "source": "HackerNews",
-      "score": 141,
-      "comments": 65,
-      "date": "2026-08-08T16:04:36.000Z"
+      "score": 150,
+      "comments": 112,
+      "date": "2026-08-09T15:21:46.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Why I Stopped Grinding LeetCode",
-      "url": "https://www.reddit.com/r/programming/comments/1vix13t/why_i_stopped_grinding_leetcode/",
-      "source": "Reddit",
-      "date": "2026-08-08T14:11:12.000Z"
-    },
-    {
-      "id": "hn-49221668",
-      "title": "A domain can now say it is for sale, in DNS",
-      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "id": "hn-49231809",
+      "title": "Cool URIs Don't Change (1998)",
+      "url": "https://www.w3.org/Provider/Style/URI",
       "source": "HackerNews",
-      "score": 325,
-      "comments": 128,
-      "date": "2026-08-08T13:26:51.000Z"
+      "score": 167,
+      "comments": 30,
+      "date": "2026-08-09T14:32:53.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "DRY vs. SRP",
-      "url": "https://www.reddit.com/r/programming/comments/1virrlk/dry_vs_srp/",
-      "source": "Reddit",
-      "date": "2026-08-08T09:44:06.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "A shell exclamation mark is not for yelling. Be lazy. | Filip Roséen",
-      "url": "https://www.reddit.com/r/programming/comments/1vilqxz/a_shell_exclamation_mark_is_not_for_yelling_be/",
-      "source": "Reddit",
-      "date": "2026-08-08T03:57:59.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Solving and benchmarking QUBO problems with Gurobi in Python",
-      "url": "https://www.reddit.com/r/programming/comments/1vija3m/solving_and_benchmarking_qubo_problems_with/",
-      "source": "Reddit",
-      "date": "2026-08-08T01:55:19.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "JDK 28 EA Build10 is now available for download and includes JEP 401: Value Objects (Preview) from Project Valhalla",
-      "url": "https://www.reddit.com/r/programming/comments/1vii2vi/jdk_28_ea_build10_is_now_available_for_download/",
-      "source": "Reddit",
-      "date": "2026-08-08T00:56:24.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "From constraint models to playable puzzle games",
-      "url": "https://www.reddit.com/r/programming/comments/1vhxjpv/from_constraint_models_to_playable_puzzle_games/",
-      "source": "Reddit",
-      "date": "2026-08-07T11:05:10.000Z"
-    },
-    {
-      "id": "hn-49180649",
-      "title": "Making difficulty curves in games",
-      "url": "http://www.davetech.co.uk/difficultycurves",
+      "id": "hn-49231154",
+      "title": "Mea Culpa – Dark Hours",
+      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
       "source": "HackerNews",
-      "score": 29,
-      "comments": 6,
-      "date": "2026-08-05T09:59:34.000Z"
+      "score": 530,
+      "comments": 242,
+      "date": "2026-08-09T13:20:43.000Z"
     },
     {
-      "id": "hn-49151146",
-      "title": "DDisasm: Reversible (bi-directional) Disassembler",
-      "url": "https://github.com/GrammaTech/ddisasm",
+      "id": "hn-49203626",
+      "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
+      "url": "https://www.youtube.com/watch?v=GS7CxAtV5Ks",
       "source": "HackerNews",
-      "score": 7,
-      "comments": 1,
-      "date": "2026-08-03T04:13:48.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
-      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-      "source": "Reddit",
-      "date": "2026-05-23T13:54:37.000Z"
+      "score": 23,
+      "comments": 12,
+      "date": "2026-08-06T22:41:24.000Z"
     }
   ]
 }
