@@ -1,166 +1,166 @@
 {
-  "updatedAt": "2026-08-09T23:33:17.392Z",
+  "updatedAt": "2026-08-10T23:36:53.452Z",
   "total": 20,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How Musinsa scaled its audience engine with ClickHouse Cloud and reduced TCO by 71.4%",
+      "url": "https://clickhouse.com/blog/musinsa-customer-data-platform",
+      "source": "ClickHouse",
+      "date": "2026-08-10T23:36:53.099Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Physical Intelligence unified its robotics data stack with Postgres managed by ClickHouse",
       "url": "https://clickhouse.com/blog/physical-intelligence-rds-to-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-08-09T23:33:12.036Z"
+      "date": "2026-08-10T23:36:53.099Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickHouse Managed Postgres: Customer notifications, better observability, faster backups, extensions, and more",
       "url": "https://clickhouse.com/blog/managed-postgres-notifications-observability-backups",
       "source": "ClickHouse",
-      "date": "2026-08-09T23:33:12.036Z"
+      "date": "2026-08-10T23:36:53.099Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.7",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-07",
       "source": "ClickHouse",
-      "date": "2026-08-09T23:33:12.036Z"
+      "date": "2026-08-10T23:36:53.099Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What is WAL backpressure, and why does ClickHouse Managed Postgres need it?",
       "url": "https://clickhouse.com/blog/wal-backpressure-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-08-09T23:33:12.036Z"
+      "date": "2026-08-10T23:36:53.099Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Mercado Libre rebuilt its observability platform on ClickHouse Cloud with 50x faster trace queries",
       "url": "https://clickhouse.com/blog/mercado-libre-observability-on-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-08-09T23:33:12.036Z"
+      "date": "2026-08-10T23:36:53.099Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Fixed cadence to seconds: making ClickHouse Cloud autoscaling more reactive",
       "url": "https://clickhouse.com/blog/making-clickhouse-cloud-autoscaling-more-reactive",
       "source": "ClickHouse",
-      "date": "2026-08-09T23:33:12.036Z"
+      "date": "2026-08-10T23:36:53.099Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse launches ClickHouse Labs with Andy Pavlo as VP of Database Research",
       "url": "https://clickhouse.com/blog/andy-pavlo-founding-clickhouse-labs",
       "source": "ClickHouse",
-      "date": "2026-08-09T23:33:12.036Z"
+      "date": "2026-08-10T23:36:53.099Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
       "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-08-09T23:33:12.036Z"
+      "date": "2026-08-10T23:36:53.099Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "I created a playground for 110 database systems",
-      "url": "https://clickhouse.com/blog/clickbench-playground",
+      "title": "Whats new in ClickStack - June + July",
+      "url": "https://clickhouse.com/blog/whats-new-in-clickstack-june-2026",
       "source": "ClickHouse",
-      "date": "2026-08-09T23:33:12.036Z"
+      "date": "2026-08-10T23:36:53.098Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "What&#x27;s new in clickhousectl v0.4.0",
-      "url": "https://clickhouse.com/blog/clickhousectl-v0-4-0",
-      "source": "ClickHouse",
-      "date": "2026-08-09T23:33:12.036Z"
-    },
-    {
-      "id": "hn-49235697",
-      "title": "Tuxedo No. 2 – Cocktail recipes",
-      "url": "https://tuxedono2.com",
+      "id": "hn-49249555",
+      "title": "Confessions of a Long-Distance Sailor",
+      "url": "https://arachnoid.com/lutusp/sailbook.html",
       "source": "HackerNews",
-      "score": 25,
-      "comments": 7,
-      "date": "2026-08-09T20:48:46.000Z"
+      "score": 37,
+      "comments": 4,
+      "date": "2026-08-10T20:52:55.000Z"
     },
     {
-      "id": "hn-49235641",
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+      "id": "hn-49249481",
+      "title": "Stop Killing Games: It's time to sue Sony, join us",
+      "url": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
       "source": "HackerNews",
-      "score": 48,
-      "comments": 24,
-      "date": "2026-08-09T20:42:29.000Z"
+      "score": 102,
+      "comments": 41,
+      "date": "2026-08-10T20:47:13.000Z"
     },
     {
-      "id": "hn-49235378",
-      "title": "The Hacker's Renaissance",
-      "url": "https://phrack.org/issues/72/19#article",
+      "id": "hn-49247477",
+      "title": "Rust SIMD on the GPU",
+      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
       "source": "HackerNews",
-      "score": 70,
-      "comments": 49,
-      "date": "2026-08-09T20:18:44.000Z"
+      "score": 105,
+      "comments": 52,
+      "date": "2026-08-10T18:12:49.000Z"
     },
     {
-      "id": "hn-49235011",
-      "title": "The tragedy of the commons, AI edition",
-      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "id": "hn-49246804",
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
       "source": "HackerNews",
-      "score": 56,
-      "comments": 23,
-      "date": "2026-08-09T19:43:52.000Z"
+      "score": 99,
+      "comments": 56,
+      "date": "2026-08-10T17:22:07.000Z"
     },
     {
-      "id": "hn-49234675",
-      "title": "How I use LLMs to learn complex topics",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "id": "hn-49245491",
+      "title": "Exploiting System Management Mode with a very long interrupt",
+      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
       "source": "HackerNews",
-      "score": 301,
-      "comments": 162,
-      "date": "2026-08-09T19:16:49.000Z"
+      "score": 112,
+      "comments": 35,
+      "date": "2026-08-10T16:03:14.000Z"
     },
     {
-      "id": "hn-49234271",
-      "title": "I made tinnitus my friend, then it disappeared [video]",
-      "url": "https://mynoise.net/vlog.php?ep=20260803",
+      "id": "hn-49243880",
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
       "source": "HackerNews",
-      "score": 46,
-      "comments": 20,
-      "date": "2026-08-09T18:41:35.000Z"
+      "score": 327,
+      "comments": 349,
+      "date": "2026-08-10T14:06:22.000Z"
     },
     {
-      "id": "hn-49232253",
-      "title": "Taxi drivers rarely die of Alzheimer's",
-      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "id": "hn-49241679",
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
       "source": "HackerNews",
-      "score": 150,
-      "comments": 112,
-      "date": "2026-08-09T15:21:46.000Z"
+      "score": 985,
+      "comments": 559,
+      "date": "2026-08-10T10:10:02.000Z"
     },
     {
-      "id": "hn-49231809",
-      "title": "Cool URIs Don't Change (1998)",
-      "url": "https://www.w3.org/Provider/Style/URI",
+      "id": "hn-49212449",
+      "title": "Publishing Schematics Before “Open Source” Was a Word",
+      "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
       "source": "HackerNews",
-      "score": 167,
-      "comments": 30,
-      "date": "2026-08-09T14:32:53.000Z"
+      "score": 38,
+      "comments": 10,
+      "date": "2026-08-07T15:59:08.000Z"
     },
     {
-      "id": "hn-49231154",
-      "title": "Mea Culpa – Dark Hours",
-      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+      "id": "hn-49209918",
+      "title": "Stowaway – take the window seat on any plane or satellite overhead",
+      "url": "https://stowaway.live/",
       "source": "HackerNews",
-      "score": 530,
-      "comments": 242,
-      "date": "2026-08-09T13:20:43.000Z"
+      "score": 63,
+      "comments": 5,
+      "date": "2026-08-07T13:15:10.000Z"
     },
     {
-      "id": "hn-49203626",
-      "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
-      "url": "https://www.youtube.com/watch?v=GS7CxAtV5Ks",
+      "id": "hn-49208296",
+      "title": "Sonic Pi v5",
+      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
       "source": "HackerNews",
-      "score": 23,
-      "comments": 12,
-      "date": "2026-08-06T22:41:24.000Z"
+      "score": 282,
+      "comments": 76,
+      "date": "2026-08-07T10:26:34.000Z"
     }
   ]
 }
