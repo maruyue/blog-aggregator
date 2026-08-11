@@ -1,166 +1,166 @@
 {
-  "updatedAt": "2026-08-10T23:36:53.452Z",
+  "updatedAt": "2026-08-11T23:42:19.274Z",
   "total": 20,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Musinsa scaled its audience engine with ClickHouse Cloud and reduced TCO by 71.4%",
-      "url": "https://clickhouse.com/blog/musinsa-customer-data-platform",
+      "title": "What&#x27;s new in pg_clickhouse v0.10.0: Subqueries, TPC-H Speedups, C Driver, and Aggregates",
+      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
       "source": "ClickHouse",
-      "date": "2026-08-10T23:36:53.099Z"
+      "date": "2026-08-11T23:42:19.182Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Physical Intelligence unified its robotics data stack with Postgres managed by ClickHouse",
-      "url": "https://clickhouse.com/blog/physical-intelligence-rds-to-clickhouse-managed-postgres",
+      "title": "bitdrift brings ClickHouse-powered mobile observability to ClickStack",
+      "url": "https://clickhouse.com/blog/bitdrift-clickhouse-mobile-observability-for-clickstack",
       "source": "ClickHouse",
-      "date": "2026-08-10T23:36:53.099Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "What&#x27;s new in ClickHouse Managed Postgres: Customer notifications, better observability, faster backups, extensions, and more",
-      "url": "https://clickhouse.com/blog/managed-postgres-notifications-observability-backups",
-      "source": "ClickHouse",
-      "date": "2026-08-10T23:36:53.099Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse Release 26.7",
-      "url": "https://clickhouse.com/blog/clickhouse-release-26-07",
-      "source": "ClickHouse",
-      "date": "2026-08-10T23:36:53.099Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "What is WAL backpressure, and why does ClickHouse Managed Postgres need it?",
-      "url": "https://clickhouse.com/blog/wal-backpressure-clickhouse-managed-postgres",
-      "source": "ClickHouse",
-      "date": "2026-08-10T23:36:53.099Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Mercado Libre rebuilt its observability platform on ClickHouse Cloud with 50x faster trace queries",
-      "url": "https://clickhouse.com/blog/mercado-libre-observability-on-clickhouse-cloud",
-      "source": "ClickHouse",
-      "date": "2026-08-10T23:36:53.099Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Fixed cadence to seconds: making ClickHouse Cloud autoscaling more reactive",
-      "url": "https://clickhouse.com/blog/making-clickhouse-cloud-autoscaling-more-reactive",
-      "source": "ClickHouse",
-      "date": "2026-08-10T23:36:53.099Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse launches ClickHouse Labs with Andy Pavlo as VP of Database Research",
-      "url": "https://clickhouse.com/blog/andy-pavlo-founding-clickhouse-labs",
-      "source": "ClickHouse",
-      "date": "2026-08-10T23:36:53.099Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-      "source": "ClickHouse",
-      "date": "2026-08-10T23:36:53.099Z"
+      "date": "2026-08-11T23:42:19.182Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Whats new in ClickStack - June + July",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-june-2026",
       "source": "ClickHouse",
-      "date": "2026-08-10T23:36:53.098Z"
+      "date": "2026-08-11T23:42:19.182Z"
     },
     {
-      "id": "hn-49249555",
-      "title": "Confessions of a Long-Distance Sailor",
-      "url": "https://arachnoid.com/lutusp/sailbook.html",
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How Musinsa scaled its audience engine with ClickHouse Cloud and reduced TCO by 71.4%",
+      "url": "https://clickhouse.com/blog/musinsa-customer-data-platform",
+      "source": "ClickHouse",
+      "date": "2026-08-11T23:42:19.182Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How Physical Intelligence unified its robotics data stack with Postgres managed by ClickHouse",
+      "url": "https://clickhouse.com/blog/physical-intelligence-rds-to-clickhouse-managed-postgres",
+      "source": "ClickHouse",
+      "date": "2026-08-11T23:42:19.182Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What&#x27;s new in ClickHouse Managed Postgres: Customer notifications, better observability, faster backups, extensions, and more",
+      "url": "https://clickhouse.com/blog/managed-postgres-notifications-observability-backups",
+      "source": "ClickHouse",
+      "date": "2026-08-11T23:42:19.182Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse Release 26.7",
+      "url": "https://clickhouse.com/blog/clickhouse-release-26-07",
+      "source": "ClickHouse",
+      "date": "2026-08-11T23:42:19.182Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What is WAL backpressure, and why does ClickHouse Managed Postgres need it?",
+      "url": "https://clickhouse.com/blog/wal-backpressure-clickhouse-managed-postgres",
+      "source": "ClickHouse",
+      "date": "2026-08-11T23:42:19.182Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How Mercado Libre rebuilt its observability platform on ClickHouse Cloud with 50x faster trace queries",
+      "url": "https://clickhouse.com/blog/mercado-libre-observability-on-clickhouse-cloud",
+      "source": "ClickHouse",
+      "date": "2026-08-11T23:42:19.182Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Fixed cadence to seconds: making ClickHouse Cloud autoscaling more reactive",
+      "url": "https://clickhouse.com/blog/making-clickhouse-cloud-autoscaling-more-reactive",
+      "source": "ClickHouse",
+      "date": "2026-08-11T23:42:19.182Z"
+    },
+    {
+      "id": "hn-49265051",
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
       "source": "HackerNews",
-      "score": 37,
-      "comments": 4,
-      "date": "2026-08-10T20:52:55.000Z"
+      "score": 58,
+      "comments": 22,
+      "date": "2026-08-11T21:56:18.000Z"
     },
     {
-      "id": "hn-49249481",
-      "title": "Stop Killing Games: It's time to sue Sony, join us",
-      "url": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
+      "id": "hn-49265031",
+      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
       "source": "HackerNews",
-      "score": 102,
-      "comments": 41,
-      "date": "2026-08-10T20:47:13.000Z"
+      "score": 23,
+      "comments": 0,
+      "date": "2026-08-11T21:54:25.000Z"
     },
     {
-      "id": "hn-49247477",
-      "title": "Rust SIMD on the GPU",
-      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+      "id": "hn-49263497",
+      "title": "Compression is prediction",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
       "source": "HackerNews",
-      "score": 105,
-      "comments": 52,
-      "date": "2026-08-10T18:12:49.000Z"
+      "score": 191,
+      "comments": 83,
+      "date": "2026-08-11T19:49:44.000Z"
     },
     {
-      "id": "hn-49246804",
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "url": "https://cactuscompute.com/needle",
+      "id": "hn-49263340",
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "source": "HackerNews",
+      "score": 154,
+      "comments": 79,
+      "date": "2026-08-11T19:35:52.000Z"
+    },
+    {
+      "id": "hn-49262811",
+      "title": "Making holograms with a pen plotter",
+      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
       "source": "HackerNews",
       "score": 99,
-      "comments": 56,
-      "date": "2026-08-10T17:22:07.000Z"
+      "comments": 11,
+      "date": "2026-08-11T18:51:35.000Z"
     },
     {
-      "id": "hn-49245491",
-      "title": "Exploiting System Management Mode with a very long interrupt",
-      "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
+      "id": "hn-49262172",
+      "title": "Ethical Cold Outreach",
+      "url": "https://blog.val.town/ethical-cold-outreach",
       "source": "HackerNews",
-      "score": 112,
-      "comments": 35,
-      "date": "2026-08-10T16:03:14.000Z"
+      "score": 11,
+      "comments": 0,
+      "date": "2026-08-11T18:06:55.000Z"
     },
     {
-      "id": "hn-49243880",
-      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "id": "hn-49261128",
+      "title": "Mojo 1.0",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
       "source": "HackerNews",
-      "score": 327,
-      "comments": 349,
-      "date": "2026-08-10T14:06:22.000Z"
+      "score": 251,
+      "comments": 114,
+      "date": "2026-08-11T16:56:46.000Z"
     },
     {
-      "id": "hn-49241679",
-      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "id": "hn-49257876",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
       "source": "HackerNews",
-      "score": 985,
-      "comments": 559,
-      "date": "2026-08-10T10:10:02.000Z"
+      "score": 457,
+      "comments": 199,
+      "date": "2026-08-11T13:22:00.000Z"
     },
     {
-      "id": "hn-49212449",
-      "title": "Publishing Schematics Before “Open Source” Was a Word",
-      "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
+      "id": "hn-49257160",
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
       "source": "HackerNews",
-      "score": 38,
-      "comments": 10,
-      "date": "2026-08-07T15:59:08.000Z"
+      "score": 242,
+      "comments": 319,
+      "date": "2026-08-11T12:23:07.000Z"
     },
     {
-      "id": "hn-49209918",
-      "title": "Stowaway – take the window seat on any plane or satellite overhead",
-      "url": "https://stowaway.live/",
+      "id": "hn-49226623",
+      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
+      "url": "https://photosynthesis.camera",
       "source": "HackerNews",
-      "score": 63,
-      "comments": 5,
-      "date": "2026-08-07T13:15:10.000Z"
-    },
-    {
-      "id": "hn-49208296",
-      "title": "Sonic Pi v5",
-      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "source": "HackerNews",
-      "score": 282,
-      "comments": 76,
-      "date": "2026-08-07T10:26:34.000Z"
+      "score": 178,
+      "comments": 182,
+      "date": "2026-08-08T22:47:10.000Z"
     }
   ]
 }
