@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-08-11T23:42:19.274Z",
-  "total": 20,
+  "updatedAt": "2026-08-12T23:43:38.948Z",
+  "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "What&#x27;s new in pg_clickhouse v0.10.0: Subqueries, TPC-H Speedups, C Driver, and Aggregates",
-      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+      "title": "How iFood built its agentic security platform on ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/ifood-agentic-security-platform",
       "source": "ClickHouse",
-      "date": "2026-08-11T23:42:19.182Z"
+      "date": "2026-08-12T23:43:36.689Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "bitdrift brings ClickHouse-powered mobile observability to ClickStack",
       "url": "https://clickhouse.com/blog/bitdrift-clickhouse-mobile-observability-for-clickstack",
       "source": "ClickHouse",
-      "date": "2026-08-11T23:42:19.182Z"
+      "date": "2026-08-12T23:43:36.689Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What&#x27;s new in pg_clickhouse v0.10.0: Subqueries, TPC-H Speedups, C Driver, and Aggregates",
+      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+      "source": "ClickHouse",
+      "date": "2026-08-12T23:43:36.689Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Whats new in ClickStack - June + July",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-june-2026",
       "source": "ClickHouse",
-      "date": "2026-08-11T23:42:19.182Z"
+      "date": "2026-08-12T23:43:36.689Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Musinsa scaled its audience engine with ClickHouse Cloud and reduced TCO by 71.4%",
       "url": "https://clickhouse.com/blog/musinsa-customer-data-platform",
       "source": "ClickHouse",
-      "date": "2026-08-11T23:42:19.182Z"
+      "date": "2026-08-12T23:43:36.689Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Physical Intelligence unified its robotics data stack with Postgres managed by ClickHouse",
       "url": "https://clickhouse.com/blog/physical-intelligence-rds-to-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-08-11T23:42:19.182Z"
+      "date": "2026-08-12T23:43:36.689Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickHouse Managed Postgres: Customer notifications, better observability, faster backups, extensions, and more",
       "url": "https://clickhouse.com/blog/managed-postgres-notifications-observability-backups",
       "source": "ClickHouse",
-      "date": "2026-08-11T23:42:19.182Z"
+      "date": "2026-08-12T23:43:36.689Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Release 26.7",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-07",
       "source": "ClickHouse",
-      "date": "2026-08-11T23:42:19.182Z"
+      "date": "2026-08-12T23:43:36.689Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What is WAL backpressure, and why does ClickHouse Managed Postgres need it?",
       "url": "https://clickhouse.com/blog/wal-backpressure-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-08-11T23:42:19.182Z"
+      "date": "2026-08-12T23:43:36.689Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Mercado Libre rebuilt its observability platform on ClickHouse Cloud with 50x faster trace queries",
       "url": "https://clickhouse.com/blog/mercado-libre-observability-on-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-08-11T23:42:19.182Z"
+      "date": "2026-08-12T23:43:36.689Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Fixed cadence to seconds: making ClickHouse Cloud autoscaling more reactive",
-      "url": "https://clickhouse.com/blog/making-clickhouse-cloud-autoscaling-more-reactive",
-      "source": "ClickHouse",
-      "date": "2026-08-11T23:42:19.182Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Degradability",
+      "url": "https://www.reddit.com/r/programming/comments/1vmssvs/degradability/",
+      "source": "Reddit",
+      "date": "2026-08-12T22:30:53.000Z"
     },
     {
-      "id": "hn-49265051",
-      "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Node.js creator liberates Durable Objects from Cloudflare",
+      "url": "https://www.reddit.com/r/programming/comments/1vmrnni/nodejs_creator_liberates_durable_objects_from/",
+      "source": "Reddit",
+      "date": "2026-08-12T21:45:23.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Linus Torvalds Explains What Makes Linux So Fast",
+      "url": "https://www.reddit.com/r/programming/comments/1vmoddq/linus_torvalds_explains_what_makes_linux_so_fast/",
+      "source": "Reddit",
+      "date": "2026-08-12T19:40:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Preparing for Change: Safe Switching over Sealed APIs (Java)",
+      "url": "https://www.reddit.com/r/programming/comments/1vmnuu2/preparing_for_change_safe_switching_over_sealed/",
+      "source": "Reddit",
+      "date": "2026-08-12T19:20:47.000Z"
+    },
+    {
+      "id": "hn-49276574",
+      "title": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
       "source": "HackerNews",
-      "score": 58,
-      "comments": 22,
-      "date": "2026-08-11T21:56:18.000Z"
+      "score": 339,
+      "comments": 112,
+      "date": "2026-08-12T18:19:59.000Z"
     },
     {
-      "id": "hn-49265031",
-      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
-      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+      "id": "hn-49275335",
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
       "source": "HackerNews",
-      "score": 23,
-      "comments": 0,
-      "date": "2026-08-11T21:54:25.000Z"
+      "score": 125,
+      "comments": 97,
+      "date": "2026-08-12T16:51:25.000Z"
     },
     {
-      "id": "hn-49263497",
-      "title": "Compression is prediction",
-      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "id": "hn-49274600",
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
       "source": "HackerNews",
-      "score": 191,
-      "comments": 83,
-      "date": "2026-08-11T19:49:44.000Z"
+      "score": 692,
+      "comments": 245,
+      "date": "2026-08-12T16:04:50.000Z"
     },
     {
-      "id": "hn-49263340",
-      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "source": "HackerNews",
-      "score": 154,
-      "comments": 79,
-      "date": "2026-08-11T19:35:52.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Hardware researcher spins up 'CPU deoptimization' project to find the slowest single x86 instruction, creates hall of shame — worst offender takes 198 billion cycles spanning 62 seconds to execute",
+      "url": "https://www.reddit.com/r/programming/comments/1vmhj23/hardware_researcher_spins_up_cpu_deoptimization/",
+      "source": "Reddit",
+      "date": "2026-08-12T15:34:56.000Z"
     },
     {
-      "id": "hn-49262811",
-      "title": "Making holograms with a pen plotter",
-      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "id": "hn-49274027",
+      "title": "Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6",
       "source": "HackerNews",
-      "score": 99,
-      "comments": 11,
-      "date": "2026-08-11T18:51:35.000Z"
+      "score": 358,
+      "comments": 367,
+      "date": "2026-08-12T15:32:50.000Z"
     },
     {
-      "id": "hn-49262172",
-      "title": "Ethical Cold Outreach",
-      "url": "https://blog.val.town/ethical-cold-outreach",
-      "source": "HackerNews",
-      "score": 11,
-      "comments": 0,
-      "date": "2026-08-11T18:06:55.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How Tailscale helped discover a 16+ year old SQLite WAL-Reset bug",
+      "url": "https://www.reddit.com/r/programming/comments/1vmglvj/how_tailscale_helped_discover_a_16_year_old/",
+      "source": "Reddit",
+      "date": "2026-08-12T15:01:31.000Z"
     },
     {
-      "id": "hn-49261128",
-      "title": "Mojo 1.0",
-      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "id": "hn-49273478",
+      "title": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
       "source": "HackerNews",
-      "score": 251,
-      "comments": 114,
-      "date": "2026-08-11T16:56:46.000Z"
+      "score": 455,
+      "comments": 95,
+      "date": "2026-08-12T15:01:17.000Z"
     },
     {
-      "id": "hn-49257876",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://stolen-thoughts.com/",
+      "id": "hn-49272832",
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
       "source": "HackerNews",
-      "score": 457,
-      "comments": 199,
-      "date": "2026-08-11T13:22:00.000Z"
+      "score": 737,
+      "comments": 120,
+      "date": "2026-08-12T14:22:30.000Z"
     },
     {
-      "id": "hn-49257160",
-      "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "id": "hn-49272655",
+      "title": "Tim King, AmigaDOS developer, has died",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
       "source": "HackerNews",
-      "score": 242,
-      "comments": 319,
-      "date": "2026-08-11T12:23:07.000Z"
+      "score": 219,
+      "comments": 28,
+      "date": "2026-08-12T14:09:11.000Z"
     },
     {
-      "id": "hn-49226623",
-      "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
-      "url": "https://photosynthesis.camera",
+      "id": "hn-49272569",
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
       "source": "HackerNews",
-      "score": 178,
-      "comments": 182,
-      "date": "2026-08-08T22:47:10.000Z"
+      "score": 218,
+      "comments": 142,
+      "date": "2026-08-12T14:02:46.000Z"
+    },
+    {
+      "id": "hn-49270953",
+      "title": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "source": "HackerNews",
+      "score": 453,
+      "comments": 122,
+      "date": "2026-08-12T11:53:01.000Z"
+    },
+    {
+      "id": "hn-49269429",
+      "title": "Why Target Common Lisp for Code Generation?",
+      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+      "source": "HackerNews",
+      "score": 12,
+      "comments": 2,
+      "date": "2026-08-12T08:40:53.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The fastest double-to-string algorithm you’ve never heard of",
+      "url": "https://www.reddit.com/r/programming/comments/1vm65dm/the_fastest_doubletostring_algorithm_youve_never/",
+      "source": "Reddit",
+      "date": "2026-08-12T06:25:39.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Squeak 6.1 (a modern Smalltalk programming environment implemented in itself) was released!",
+      "url": "https://www.reddit.com/r/programming/comments/1vlqtmx/squeak_61_a_modern_smalltalk_programming/",
+      "source": "Reddit",
+      "date": "2026-08-11T19:08:00.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Change Your Root: Chroot Basics",
+      "url": "https://www.reddit.com/r/programming/comments/1vllv5l/change_your_root_chroot_basics/",
+      "source": "Reddit",
+      "date": "2026-08-11T16:11:40.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "Reddit",
+      "date": "2026-05-23T13:54:37.000Z"
     }
   ]
 }
