@@ -1,166 +1,166 @@
 {
-  "updatedAt": "2026-08-13T23:43:20.731Z",
+  "updatedAt": "2026-08-14T23:23:51.531Z",
   "total": 20,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Announcing support for ClickStack in the ClickHouse Terraform provider",
+      "url": "https://clickhouse.com/blog/clickstack-terraform-provider",
+      "source": "ClickHouse",
+      "date": "2026-08-14T23:23:51.531Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What’s new in the ClickHouse Grafana plugin",
       "url": "https://clickhouse.com/blog/clickhouse-grafana-plugin-4-20",
       "source": "ClickHouse",
-      "date": "2026-08-13T23:43:20.730Z"
+      "date": "2026-08-14T23:23:51.531Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickStack and Hud bring runtime intelligence to AI-powered development",
       "url": "https://clickhouse.com/blog/clickstack-hud-runtime-intelligence",
       "source": "ClickHouse",
-      "date": "2026-08-13T23:43:20.730Z"
+      "date": "2026-08-14T23:23:51.531Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How iFood built its agentic security platform on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/ifood-agentic-security-platform",
       "source": "ClickHouse",
-      "date": "2026-08-13T23:43:20.730Z"
+      "date": "2026-08-14T23:23:51.531Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "bitdrift brings ClickHouse-powered mobile observability to ClickStack",
       "url": "https://clickhouse.com/blog/bitdrift-clickhouse-mobile-observability-for-clickstack",
       "source": "ClickHouse",
-      "date": "2026-08-13T23:43:20.730Z"
+      "date": "2026-08-14T23:23:51.531Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in pg_clickhouse v0.10.0: Subqueries, TPC-H Speedups, C Driver, and Aggregates",
       "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
       "source": "ClickHouse",
-      "date": "2026-08-13T23:43:20.730Z"
+      "date": "2026-08-14T23:23:51.531Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Whats new in ClickStack - June + July",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-june-2026",
       "source": "ClickHouse",
-      "date": "2026-08-13T23:43:20.730Z"
+      "date": "2026-08-14T23:23:51.531Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Musinsa scaled its audience engine with ClickHouse Cloud and reduced TCO by 71.4%",
       "url": "https://clickhouse.com/blog/musinsa-customer-data-platform",
       "source": "ClickHouse",
-      "date": "2026-08-13T23:43:20.730Z"
+      "date": "2026-08-14T23:23:51.531Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Physical Intelligence unified its robotics data stack with Postgres managed by ClickHouse",
       "url": "https://clickhouse.com/blog/physical-intelligence-rds-to-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-08-13T23:43:20.730Z"
+      "date": "2026-08-14T23:23:51.531Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickHouse Managed Postgres: Customer notifications, better observability, faster backups, extensions, and more",
       "url": "https://clickhouse.com/blog/managed-postgres-notifications-observability-backups",
       "source": "ClickHouse",
-      "date": "2026-08-13T23:43:20.730Z"
+      "date": "2026-08-14T23:23:51.531Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse Release 26.7",
-      "url": "https://clickhouse.com/blog/clickhouse-release-26-07",
-      "source": "ClickHouse",
-      "date": "2026-08-13T23:43:20.730Z"
-    },
-    {
-      "id": "hn-49291268",
-      "title": "NP-Overrated",
-      "url": "https://gruhn.me/blog/2026-08-13/",
-      "source": "HackerNews",
-      "score": 105,
-      "comments": 54,
-      "date": "2026-08-13T20:14:17.000Z"
-    },
-    {
-      "id": "hn-49290299",
-      "title": "Understanding is the new bottleneck",
-      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "source": "HackerNews",
-      "score": 150,
-      "comments": 76,
-      "date": "2026-08-13T18:47:19.000Z"
-    },
-    {
-      "id": "hn-49289844",
-      "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "source": "HackerNews",
-      "score": 378,
-      "comments": 151,
-      "date": "2026-08-13T18:10:02.000Z"
-    },
-    {
-      "id": "hn-49289512",
-      "title": "Choose Boring Technology (2015)",
-      "url": "https://mcfunley.com/choose-boring-technology",
-      "source": "HackerNews",
-      "score": 214,
-      "comments": 117,
-      "date": "2026-08-13T17:48:13.000Z"
-    },
-    {
-      "id": "hn-49289465",
-      "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
-      "url": "https://donkeybas.com/",
-      "source": "HackerNews",
-      "score": 170,
-      "comments": 72,
-      "date": "2026-08-13T17:45:50.000Z"
-    },
-    {
-      "id": "hn-49289112",
-      "title": "Gemini 3.7 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "source": "HackerNews",
-      "score": 554,
-      "comments": 321,
-      "date": "2026-08-13T17:23:22.000Z"
-    },
-    {
-      "id": "hn-49288889",
-      "title": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "source": "HackerNews",
-      "score": 232,
-      "comments": 91,
-      "date": "2026-08-13T17:05:12.000Z"
-    },
-    {
-      "id": "hn-49286341",
-      "title": "Spaghettifying DRAM",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "source": "HackerNews",
-      "score": 467,
-      "comments": 135,
-      "date": "2026-08-13T14:17:13.000Z"
-    },
-    {
-      "id": "hn-49285244",
-      "title": "DeepSeek Harness developer preview",
-      "url": "https://deepseek.com/harness/en/",
-      "source": "HackerNews",
-      "score": 528,
-      "comments": 231,
-      "date": "2026-08-13T12:58:02.000Z"
-    },
-    {
-      "id": "hn-49223964",
-      "title": "Finite State Machines in Forth (1994)",
-      "url": "https://www.forth.org/literature/noble.html",
+      "id": "hn-49305492",
+      "title": "RISC-V: They should have known better",
+      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
       "source": "HackerNews",
       "score": 27,
-      "comments": 0,
-      "date": "2026-08-08T17:38:15.000Z"
+      "comments": 3,
+      "date": "2026-08-14T22:38:34.000Z"
+    },
+    {
+      "id": "hn-49304447",
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "source": "HackerNews",
+      "score": 121,
+      "comments": 83,
+      "date": "2026-08-14T20:52:44.000Z"
+    },
+    {
+      "id": "hn-49303202",
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "source": "HackerNews",
+      "score": 228,
+      "comments": 72,
+      "date": "2026-08-14T19:03:20.000Z"
+    },
+    {
+      "id": "hn-49300759",
+      "title": "RustDesk now supports true unattended remote access on Wayland",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "source": "HackerNews",
+      "score": 197,
+      "comments": 89,
+      "date": "2026-08-14T16:12:52.000Z"
+    },
+    {
+      "id": "hn-49300568",
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "source": "HackerNews",
+      "score": 169,
+      "comments": 14,
+      "date": "2026-08-14T15:58:59.000Z"
+    },
+    {
+      "id": "hn-49300314",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "source": "HackerNews",
+      "score": 239,
+      "comments": 148,
+      "date": "2026-08-14T15:43:10.000Z"
+    },
+    {
+      "id": "hn-49299746",
+      "title": "Introducing Toast 1",
+      "url": "https://www.mixedbread.com/blog/toast-1",
+      "source": "HackerNews",
+      "score": 171,
+      "comments": 57,
+      "date": "2026-08-14T15:07:57.000Z"
+    },
+    {
+      "id": "hn-49299605",
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "source": "HackerNews",
+      "score": 806,
+      "comments": 531,
+      "date": "2026-08-14T15:00:00.000Z"
+    },
+    {
+      "id": "hn-49296740",
+      "title": "Why does Opus 5 feel worse to work with?",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "source": "HackerNews",
+      "score": 733,
+      "comments": 668,
+      "date": "2026-08-14T10:12:48.000Z"
+    },
+    {
+      "id": "hn-49215682",
+      "title": "Super Mario Derivations",
+      "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
+      "source": "HackerNews",
+      "score": 25,
+      "comments": 2,
+      "date": "2026-08-07T20:16:10.000Z"
     }
   ]
 }
