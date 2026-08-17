@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T23:21:29.456Z",
+  "updatedAt": "2026-08-17T23:24:35.824Z",
   "total": 20,
   "articles": [
     {
@@ -7,160 +7,160 @@
       "title": "Announcing support for ClickStack in the ClickHouse Terraform provider",
       "url": "https://clickhouse.com/blog/clickstack-terraform-provider",
       "source": "ClickHouse",
-      "date": "2026-08-16T23:21:29.456Z"
+      "date": "2026-08-17T23:24:35.564Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What’s new in the ClickHouse Grafana plugin",
       "url": "https://clickhouse.com/blog/clickhouse-grafana-plugin-4-20",
       "source": "ClickHouse",
-      "date": "2026-08-16T23:21:29.456Z"
+      "date": "2026-08-17T23:24:35.564Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickStack and Hud bring runtime intelligence to AI-powered development",
       "url": "https://clickhouse.com/blog/clickstack-hud-runtime-intelligence",
       "source": "ClickHouse",
-      "date": "2026-08-16T23:21:29.456Z"
+      "date": "2026-08-17T23:24:35.564Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How iFood built its agentic security platform on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/ifood-agentic-security-platform",
       "source": "ClickHouse",
-      "date": "2026-08-16T23:21:29.456Z"
+      "date": "2026-08-17T23:24:35.564Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "bitdrift brings ClickHouse-powered mobile observability to ClickStack",
       "url": "https://clickhouse.com/blog/bitdrift-clickhouse-mobile-observability-for-clickstack",
       "source": "ClickHouse",
-      "date": "2026-08-16T23:21:29.456Z"
+      "date": "2026-08-17T23:24:35.564Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in pg_clickhouse v0.10.0: Subqueries, TPC-H Speedups, C Driver, and Aggregates",
       "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
       "source": "ClickHouse",
-      "date": "2026-08-16T23:21:29.456Z"
+      "date": "2026-08-17T23:24:35.564Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Whats new in ClickStack - June + July",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-june-2026",
       "source": "ClickHouse",
-      "date": "2026-08-16T23:21:29.456Z"
+      "date": "2026-08-17T23:24:35.564Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Musinsa scaled its audience engine with ClickHouse Cloud and reduced TCO by 71.4%",
       "url": "https://clickhouse.com/blog/musinsa-customer-data-platform",
       "source": "ClickHouse",
-      "date": "2026-08-16T23:21:29.456Z"
+      "date": "2026-08-17T23:24:35.564Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Physical Intelligence unified its robotics data stack with Postgres managed by ClickHouse",
       "url": "https://clickhouse.com/blog/physical-intelligence-rds-to-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-08-16T23:21:29.456Z"
+      "date": "2026-08-17T23:24:35.564Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickHouse Managed Postgres: Customer notifications, better observability, faster backups, extensions, and more",
       "url": "https://clickhouse.com/blog/managed-postgres-notifications-observability-backups",
       "source": "ClickHouse",
-      "date": "2026-08-16T23:21:29.456Z"
+      "date": "2026-08-17T23:24:35.564Z"
     },
     {
-      "id": "hn-49324087",
-      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "id": "hn-49338459",
+      "title": "How Bluesky draws its logo on screenshots",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
       "source": "HackerNews",
-      "score": 72,
-      "comments": 51,
-      "date": "2026-08-16T21:53:43.000Z"
+      "score": 84,
+      "comments": 62,
+      "date": "2026-08-17T22:20:40.000Z"
     },
     {
-      "id": "hn-49323381",
-      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-      "source": "HackerNews",
-      "score": 107,
-      "comments": 76,
-      "date": "2026-08-16T20:31:16.000Z"
-    },
-    {
-      "id": "hn-49322695",
-      "title": "Models Are Getting Dumber on Purpose",
-      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-      "source": "HackerNews",
-      "score": 217,
-      "comments": 130,
-      "date": "2026-08-16T19:04:26.000Z"
-    },
-    {
-      "id": "hn-49322573",
-      "title": "Protobuf has LSP support. You're welcome",
-      "url": "https://buf.build/blog/protobuf-lsp",
-      "source": "HackerNews",
-      "score": 92,
-      "comments": 60,
-      "date": "2026-08-16T18:48:27.000Z"
-    },
-    {
-      "id": "hn-49321717",
-      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-      "url": "https://rvembedded.com/blog_post/12/",
-      "source": "HackerNews",
-      "score": 305,
-      "comments": 160,
-      "date": "2026-08-16T17:01:07.000Z"
-    },
-    {
-      "id": "hn-49320611",
-      "title": "The AI Credit Resale Economy",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "source": "HackerNews",
-      "score": 209,
-      "comments": 80,
-      "date": "2026-08-16T14:44:55.000Z"
-    },
-    {
-      "id": "hn-49319556",
-      "title": "Claude: System Prompts",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "source": "HackerNews",
-      "score": 486,
-      "comments": 211,
-      "date": "2026-08-16T12:48:21.000Z"
-    },
-    {
-      "id": "hn-49303776",
-      "title": "A quick look at zero-knowledge proofs",
-      "url": "https://bernsteinbear.com/blog/zkp/",
-      "source": "HackerNews",
-      "score": 19,
-      "comments": 0,
-      "date": "2026-08-14T19:52:05.000Z"
-    },
-    {
-      "id": "hn-49285096",
-      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
-      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-      "source": "HackerNews",
-      "score": 51,
-      "comments": 21,
-      "date": "2026-08-13T12:44:05.000Z"
-    },
-    {
-      "id": "hn-49259980",
-      "title": "Low-Tech Ceramic Water Filter",
-      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+      "id": "hn-49338328",
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
       "source": "HackerNews",
       "score": 63,
       "comments": 17,
-      "date": "2026-08-11T15:36:27.000Z"
+      "date": "2026-08-17T22:06:14.000Z"
+    },
+    {
+      "id": "hn-49338285",
+      "title": "Fairphone 6 and PostmarketOS working main camera",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "source": "HackerNews",
+      "score": 36,
+      "comments": 6,
+      "date": "2026-08-17T22:01:17.000Z"
+    },
+    {
+      "id": "hn-49338139",
+      "title": "My friends all hate AI; I just joined an AI startup",
+      "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
+      "source": "HackerNews",
+      "score": 11,
+      "comments": 4,
+      "date": "2026-08-17T21:47:30.000Z"
+    },
+    {
+      "id": "hn-49336573",
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "source": "HackerNews",
+      "score": 493,
+      "comments": 302,
+      "date": "2026-08-17T19:47:15.000Z"
+    },
+    {
+      "id": "hn-49334991",
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "source": "HackerNews",
+      "score": 140,
+      "comments": 30,
+      "date": "2026-08-17T17:54:59.000Z"
+    },
+    {
+      "id": "hn-49331423",
+      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "source": "HackerNews",
+      "score": 299,
+      "comments": 122,
+      "date": "2026-08-17T14:18:38.000Z"
+    },
+    {
+      "id": "hn-49331220",
+      "title": "How to disable or avoid intrusive AI",
+      "url": "https://www.librarian.net/notoai/",
+      "source": "HackerNews",
+      "score": 237,
+      "comments": 133,
+      "date": "2026-08-17T14:07:56.000Z"
+    },
+    {
+      "id": "hn-49330781",
+      "title": "A Preview of DuckDB v2.0",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "source": "HackerNews",
+      "score": 502,
+      "comments": 87,
+      "date": "2026-08-17T13:46:27.000Z"
+    },
+    {
+      "id": "hn-49330597",
+      "title": "Incident with Github.com",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "source": "HackerNews",
+      "score": 493,
+      "comments": 873,
+      "date": "2026-08-17T13:35:06.000Z"
     }
   ]
 }
