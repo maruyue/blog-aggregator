@@ -1,166 +1,166 @@
 {
-  "updatedAt": "2026-08-17T23:24:35.824Z",
+  "updatedAt": "2026-08-18T23:24:06.408Z",
   "total": 20,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How Sony LIV uses ClickHouse Cloud to deliver live streaming analytics at billion-row scale",
+      "url": "https://clickhouse.com/blog/sony-liv-real-time-analytics",
+      "source": "ClickHouse",
+      "date": "2026-08-18T23:24:06.408Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What&#x27;s New with Monitoring in PostgreSQL 19",
+      "url": "https://clickhouse.com/blog/postgres-19-monitoring-whats-new",
+      "source": "ClickHouse",
+      "date": "2026-08-18T23:24:06.408Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing support for ClickStack in the ClickHouse Terraform provider",
       "url": "https://clickhouse.com/blog/clickstack-terraform-provider",
       "source": "ClickHouse",
-      "date": "2026-08-17T23:24:35.564Z"
+      "date": "2026-08-18T23:24:06.408Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What’s new in the ClickHouse Grafana plugin",
       "url": "https://clickhouse.com/blog/clickhouse-grafana-plugin-4-20",
       "source": "ClickHouse",
-      "date": "2026-08-17T23:24:35.564Z"
+      "date": "2026-08-18T23:24:06.408Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickStack and Hud bring runtime intelligence to AI-powered development",
       "url": "https://clickhouse.com/blog/clickstack-hud-runtime-intelligence",
       "source": "ClickHouse",
-      "date": "2026-08-17T23:24:35.564Z"
+      "date": "2026-08-18T23:24:06.408Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How iFood built its agentic security platform on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/ifood-agentic-security-platform",
       "source": "ClickHouse",
-      "date": "2026-08-17T23:24:35.564Z"
+      "date": "2026-08-18T23:24:06.408Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "bitdrift brings ClickHouse-powered mobile observability to ClickStack",
       "url": "https://clickhouse.com/blog/bitdrift-clickhouse-mobile-observability-for-clickstack",
       "source": "ClickHouse",
-      "date": "2026-08-17T23:24:35.564Z"
+      "date": "2026-08-18T23:24:06.408Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in pg_clickhouse v0.10.0: Subqueries, TPC-H Speedups, C Driver, and Aggregates",
       "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
       "source": "ClickHouse",
-      "date": "2026-08-17T23:24:35.564Z"
+      "date": "2026-08-18T23:24:06.408Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Whats new in ClickStack - June + July",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-june-2026",
       "source": "ClickHouse",
-      "date": "2026-08-17T23:24:35.564Z"
+      "date": "2026-08-18T23:24:06.408Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Musinsa scaled its audience engine with ClickHouse Cloud and reduced TCO by 71.4%",
       "url": "https://clickhouse.com/blog/musinsa-customer-data-platform",
       "source": "ClickHouse",
-      "date": "2026-08-17T23:24:35.564Z"
+      "date": "2026-08-18T23:24:06.408Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Physical Intelligence unified its robotics data stack with Postgres managed by ClickHouse",
-      "url": "https://clickhouse.com/blog/physical-intelligence-rds-to-clickhouse-managed-postgres",
-      "source": "ClickHouse",
-      "date": "2026-08-17T23:24:35.564Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "What&#x27;s new in ClickHouse Managed Postgres: Customer notifications, better observability, faster backups, extensions, and more",
-      "url": "https://clickhouse.com/blog/managed-postgres-notifications-observability-backups",
-      "source": "ClickHouse",
-      "date": "2026-08-17T23:24:35.564Z"
-    },
-    {
-      "id": "hn-49338459",
-      "title": "How Bluesky draws its logo on screenshots",
-      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "id": "hn-49353603",
+      "title": "Who owns the code?",
+      "url": "https://whoownsthecode.com/",
       "source": "HackerNews",
-      "score": 84,
-      "comments": 62,
-      "date": "2026-08-17T22:20:40.000Z"
+      "score": 26,
+      "comments": 34,
+      "date": "2026-08-18T22:21:30.000Z"
     },
     {
-      "id": "hn-49338328",
-      "title": "Quake Shareware, a CD-ROM just a little too full",
-      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "id": "hn-49353407",
+      "title": "GLM-5.3 Artificial Analysis Benchmarks",
+      "url": "https://artificialanalysis.ai/models/glm-5-3",
       "source": "HackerNews",
-      "score": 63,
-      "comments": 17,
-      "date": "2026-08-17T22:06:14.000Z"
+      "score": 40,
+      "comments": 12,
+      "date": "2026-08-18T22:06:10.000Z"
     },
     {
-      "id": "hn-49338285",
-      "title": "Fairphone 6 and PostmarketOS working main camera",
-      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "id": "hn-49353339",
+      "title": "fx :Tiny, open, native coding agent.",
+      "url": "https://fx.sh",
       "source": "HackerNews",
       "score": 36,
-      "comments": 6,
-      "date": "2026-08-17T22:01:17.000Z"
+      "comments": 19,
+      "date": "2026-08-18T22:00:21.000Z"
     },
     {
-      "id": "hn-49338139",
-      "title": "My friends all hate AI; I just joined an AI startup",
-      "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
+      "id": "hn-49353221",
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
       "source": "HackerNews",
-      "score": 11,
-      "comments": 4,
-      "date": "2026-08-17T21:47:30.000Z"
+      "score": 50,
+      "comments": 10,
+      "date": "2026-08-18T21:50:33.000Z"
     },
     {
-      "id": "hn-49336573",
-      "title": "AI;DR (AI; Didn't Read)",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "id": "hn-49352806",
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
       "source": "HackerNews",
-      "score": 493,
-      "comments": 302,
-      "date": "2026-08-17T19:47:15.000Z"
+      "score": 84,
+      "comments": 54,
+      "date": "2026-08-18T21:14:21.000Z"
     },
     {
-      "id": "hn-49334991",
-      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-      "url": "https://arxiv.org/abs/2608.13759",
+      "id": "hn-49351324",
+      "title": "Beware Management Consultants",
+      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
       "source": "HackerNews",
-      "score": 140,
-      "comments": 30,
-      "date": "2026-08-17T17:54:59.000Z"
+      "score": 409,
+      "comments": 103,
+      "date": "2026-08-18T19:29:51.000Z"
     },
     {
-      "id": "hn-49331423",
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "id": "hn-49349984",
+      "title": "How does IKEA come up with names for its products?",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
       "source": "HackerNews",
-      "score": 299,
-      "comments": 122,
-      "date": "2026-08-17T14:18:38.000Z"
+      "score": 193,
+      "comments": 124,
+      "date": "2026-08-18T18:11:53.000Z"
     },
     {
-      "id": "hn-49331220",
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://www.librarian.net/notoai/",
+      "id": "hn-49349898",
+      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "url": "https://github.com/RyanCodrai/turbovec",
       "source": "HackerNews",
-      "score": 237,
-      "comments": 133,
-      "date": "2026-08-17T14:07:56.000Z"
+      "score": 187,
+      "comments": 23,
+      "date": "2026-08-18T18:07:21.000Z"
     },
     {
-      "id": "hn-49330781",
-      "title": "A Preview of DuckDB v2.0",
-      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "id": "hn-49345263",
+      "title": "The Amazon tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
       "source": "HackerNews",
-      "score": 502,
-      "comments": 87,
-      "date": "2026-08-17T13:46:27.000Z"
+      "score": 825,
+      "comments": 505,
+      "date": "2026-08-18T13:22:38.000Z"
     },
     {
-      "id": "hn-49330597",
-      "title": "Incident with Github.com",
-      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "id": "hn-49321298",
+      "title": "Being ambitious and being a dad",
+      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
       "source": "HackerNews",
-      "score": 493,
-      "comments": 873,
-      "date": "2026-08-17T13:35:06.000Z"
+      "score": 142,
+      "comments": 63,
+      "date": "2026-08-16T16:08:57.000Z"
     }
   ]
 }
