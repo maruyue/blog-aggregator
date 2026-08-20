@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-08-19T23:24:35.862Z",
-  "total": 20,
+  "updatedAt": "2026-08-20T23:27:07.875Z",
+  "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "POSETTE Talk Recap - Postgres Isn&#x27;t Slow. Your Storage Is",
+      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+      "source": "ClickHouse",
+      "date": "2026-08-20T23:27:07.783Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Shopify powers observability for global-scale commerce with ClickHouse",
+      "url": "https://clickhouse.com/blog/shopify-observability-at-global-scale",
+      "source": "ClickHouse",
+      "date": "2026-08-20T23:27:07.783Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Sony LIV uses ClickHouse Cloud to deliver live streaming analytics at billion-row scale",
       "url": "https://clickhouse.com/blog/sony-liv-real-time-analytics",
       "source": "ClickHouse",
-      "date": "2026-08-19T23:24:35.862Z"
+      "date": "2026-08-20T23:27:07.783Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s New with Monitoring in PostgreSQL 19",
       "url": "https://clickhouse.com/blog/postgres-19-monitoring-whats-new",
       "source": "ClickHouse",
-      "date": "2026-08-19T23:24:35.862Z"
+      "date": "2026-08-20T23:27:07.783Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing support for ClickStack in the ClickHouse Terraform provider",
       "url": "https://clickhouse.com/blog/clickstack-terraform-provider",
       "source": "ClickHouse",
-      "date": "2026-08-19T23:24:35.862Z"
+      "date": "2026-08-20T23:27:07.783Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What’s new in the ClickHouse Grafana plugin",
       "url": "https://clickhouse.com/blog/clickhouse-grafana-plugin-4-20",
       "source": "ClickHouse",
-      "date": "2026-08-19T23:24:35.862Z"
+      "date": "2026-08-20T23:27:07.783Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickStack and Hud bring runtime intelligence to AI-powered development",
       "url": "https://clickhouse.com/blog/clickstack-hud-runtime-intelligence",
       "source": "ClickHouse",
-      "date": "2026-08-19T23:24:35.862Z"
+      "date": "2026-08-20T23:27:07.783Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How iFood built its agentic security platform on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/ifood-agentic-security-platform",
       "source": "ClickHouse",
-      "date": "2026-08-19T23:24:35.862Z"
+      "date": "2026-08-20T23:27:07.783Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "bitdrift brings ClickHouse-powered mobile observability to ClickStack",
       "url": "https://clickhouse.com/blog/bitdrift-clickhouse-mobile-observability-for-clickstack",
       "source": "ClickHouse",
-      "date": "2026-08-19T23:24:35.862Z"
+      "date": "2026-08-20T23:27:07.783Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in pg_clickhouse v0.10.0: Subqueries, TPC-H Speedups, C Driver, and Aggregates",
       "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
       "source": "ClickHouse",
-      "date": "2026-08-19T23:24:35.862Z"
+      "date": "2026-08-20T23:27:07.783Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Whats new in ClickStack - June + July",
-      "url": "https://clickhouse.com/blog/whats-new-in-clickstack-june-2026",
-      "source": "ClickHouse",
-      "date": "2026-08-19T23:24:35.862Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Musinsa scaled its audience engine with ClickHouse Cloud and reduced TCO by 71.4%",
-      "url": "https://clickhouse.com/blog/musinsa-customer-data-platform",
-      "source": "ClickHouse",
-      "date": "2026-08-19T23:24:35.862Z"
-    },
-    {
-      "id": "hn-49367350",
-      "title": "Feature Request: Support AGENTS.md",
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "id": "hn-49379550",
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
       "source": "HackerNews",
-      "score": 74,
-      "comments": 33,
-      "date": "2026-08-19T21:19:50.000Z"
+      "score": 640,
+      "comments": 125,
+      "date": "2026-08-20T20:07:26.000Z"
     },
     {
-      "id": "hn-49367256",
-      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-      "url": "https://os8088.com/spotlight/",
-      "source": "HackerNews",
-      "score": 23,
-      "comments": 9,
-      "date": "2026-08-19T21:11:31.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The August 17 outage, and the work ahead",
+      "url": "https://www.reddit.com/r/programming/comments/1vttlns/the_august_17_outage_and_the_work_ahead/",
+      "source": "Reddit",
+      "date": "2026-08-20T19:35:06.000Z"
     },
     {
-      "id": "hn-49365841",
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "id": "hn-49378957",
+      "title": "The August 17 outage, and the work ahead",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
       "source": "HackerNews",
-      "score": 104,
-      "comments": 26,
-      "date": "2026-08-19T19:06:16.000Z"
+      "score": 225,
+      "comments": 265,
+      "date": "2026-08-20T19:22:24.000Z"
     },
     {
-      "id": "hn-49365443",
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "id": "hn-49378768",
+      "title": "Show HN: Huzzah – a novel approach to coding with AI",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
       "source": "HackerNews",
-      "score": 157,
-      "comments": 53,
-      "date": "2026-08-19T18:36:45.000Z"
+      "score": 184,
+      "comments": 104,
+      "date": "2026-08-20T19:05:36.000Z"
     },
     {
-      "id": "hn-49365405",
-      "title": "Go 1.27",
-      "url": "https://go.dev/blog/go1.27",
+      "id": "hn-49378243",
+      "title": "Consumer Rights Wiki",
+      "url": "https://consumerrights.wiki/w/Main_Page",
       "source": "HackerNews",
-      "score": 390,
-      "comments": 87,
-      "date": "2026-08-19T18:33:49.000Z"
-    },
-    {
-      "id": "hn-49364745",
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "source": "HackerNews",
-      "score": 229,
-      "comments": 75,
-      "date": "2026-08-19T17:47:29.000Z"
-    },
-    {
-      "id": "hn-49364559",
-      "title": "OpenRouter is joining Stripe",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "source": "HackerNews",
-      "score": 539,
-      "comments": 295,
-      "date": "2026-08-19T17:32:38.000Z"
-    },
-    {
-      "id": "hn-49362887",
-      "title": "Casio F-B100W-1A",
-      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-      "source": "HackerNews",
-      "score": 244,
-      "comments": 196,
-      "date": "2026-08-19T15:28:01.000Z"
-    },
-    {
-      "id": "hn-49360015",
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "source": "HackerNews",
-      "score": 708,
-      "comments": 106,
-      "date": "2026-08-19T11:21:50.000Z"
-    },
-    {
-      "id": "hn-49348189",
-      "title": "Sol Loves to Cheat",
-      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
-      "source": "HackerNews",
-      "score": 42,
+      "score": 167,
       "comments": 10,
-      "date": "2026-08-18T16:29:51.000Z"
+      "date": "2026-08-20T18:19:51.000Z"
+    },
+    {
+      "id": "hn-49377853",
+      "title": "I should have loved biology (2020)",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "source": "HackerNews",
+      "score": 172,
+      "comments": 64,
+      "date": "2026-08-20T17:50:02.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Rebuilding the Linux microVM stack on Apple Silicon",
+      "url": "https://www.reddit.com/r/programming/comments/1vtq4qt/rebuilding_the_linux_microvm_stack_on_apple/",
+      "source": "Reddit",
+      "date": "2026-08-20T17:34:13.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Building certgrep.sh: a free CT search engine",
+      "url": "https://www.reddit.com/r/programming/comments/1vtpng5/building_certgrepsh_a_free_ct_search_engine/",
+      "source": "Reddit",
+      "date": "2026-08-20T17:16:38.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "TypeScript : Migrate repo to TypeScript 7",
+      "url": "https://www.reddit.com/r/programming/comments/1vtn0qa/typescript_migrate_repo_to_typescript_7/",
+      "source": "Reddit",
+      "date": "2026-08-20T15:41:21.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Music theory for programmers",
+      "url": "https://www.reddit.com/r/programming/comments/1vtm44m/music_theory_for_programmers/",
+      "source": "Reddit",
+      "date": "2026-08-20T15:08:03.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Supply chain attack on arrayref",
+      "url": "https://www.reddit.com/r/programming/comments/1vtm22r/supply_chain_attack_on_arrayref/",
+      "source": "Reddit",
+      "date": "2026-08-20T15:05:52.000Z"
+    },
+    {
+      "id": "hn-49374269",
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "source": "HackerNews",
+      "score": 361,
+      "comments": 349,
+      "date": "2026-08-20T13:23:12.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Quake Shareware, a CD-ROM just a little too full - Fabien Sanglard",
+      "url": "https://www.reddit.com/r/programming/comments/1vtih22/quake_shareware_a_cdrom_just_a_little_too_full/",
+      "source": "Reddit",
+      "date": "2026-08-20T12:44:02.000Z"
+    },
+    {
+      "id": "hn-49372583",
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "source": "HackerNews",
+      "score": 836,
+      "comments": 277,
+      "date": "2026-08-20T10:08:52.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Succinct and Fast Tiny Pointer Hash Tables",
+      "url": "https://www.reddit.com/r/programming/comments/1vtaprg/succinct_and_fast_tiny_pointer_hash_tables/",
+      "source": "Reddit",
+      "date": "2026-08-20T05:42:09.000Z"
+    },
+    {
+      "id": "hn-49368886",
+      "title": "CIA funding helped keep NeXT afloat in the 80s",
+      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+      "source": "HackerNews",
+      "score": 302,
+      "comments": 195,
+      "date": "2026-08-20T00:15:01.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Turns are Better than Radians",
+      "url": "https://www.reddit.com/r/programming/comments/1vt2lzu/turns_are_better_than_radians/",
+      "source": "Reddit",
+      "date": "2026-08-19T23:22:08.000Z"
+    },
+    {
+      "id": "hn-49362689",
+      "title": "HTML Can Do That",
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "source": "HackerNews",
+      "score": 523,
+      "comments": 148,
+      "date": "2026-08-19T15:11:36.000Z"
+    },
+    {
+      "id": "hn-49347543",
+      "title": "I like 'em thick: an apology to my English teachers",
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "source": "HackerNews",
+      "score": 506,
+      "comments": 243,
+      "date": "2026-08-18T15:50:52.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "Reddit",
+      "date": "2026-05-23T13:54:37.000Z"
     }
   ]
 }
