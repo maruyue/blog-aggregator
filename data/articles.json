@@ -1,85 +1,185 @@
 {
-  "updatedAt": "2026-08-20T23:27:07.875Z",
+  "updatedAt": "2026-08-21T23:26:10.382Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What else runs on your Postgres server, and how do we stop it from taking the database down?",
+      "url": "https://clickhouse.com/blog/protect-postgres-from-supporting-processes",
+      "source": "ClickHouse",
+      "date": "2026-08-21T23:26:09.749Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "August 2026 newsletter",
+      "url": "https://clickhouse.com/blog/202608-newsletter",
+      "source": "ClickHouse",
+      "date": "2026-08-21T23:26:09.749Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "POSETTE Talk Recap - Postgres Isn&#x27;t Slow. Your Storage Is",
       "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
       "source": "ClickHouse",
-      "date": "2026-08-20T23:27:07.783Z"
+      "date": "2026-08-21T23:26:09.749Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Shopify powers observability for global-scale commerce with ClickHouse",
       "url": "https://clickhouse.com/blog/shopify-observability-at-global-scale",
       "source": "ClickHouse",
-      "date": "2026-08-20T23:27:07.783Z"
+      "date": "2026-08-21T23:26:09.749Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Sony LIV uses ClickHouse Cloud to deliver live streaming analytics at billion-row scale",
       "url": "https://clickhouse.com/blog/sony-liv-real-time-analytics",
       "source": "ClickHouse",
-      "date": "2026-08-20T23:27:07.783Z"
+      "date": "2026-08-21T23:26:09.749Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s New with Monitoring in PostgreSQL 19",
       "url": "https://clickhouse.com/blog/postgres-19-monitoring-whats-new",
       "source": "ClickHouse",
-      "date": "2026-08-20T23:27:07.783Z"
+      "date": "2026-08-21T23:26:09.749Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing support for ClickStack in the ClickHouse Terraform provider",
       "url": "https://clickhouse.com/blog/clickstack-terraform-provider",
       "source": "ClickHouse",
-      "date": "2026-08-20T23:27:07.783Z"
+      "date": "2026-08-21T23:26:09.749Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What’s new in the ClickHouse Grafana plugin",
       "url": "https://clickhouse.com/blog/clickhouse-grafana-plugin-4-20",
       "source": "ClickHouse",
-      "date": "2026-08-20T23:27:07.783Z"
+      "date": "2026-08-21T23:26:09.749Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickStack and Hud bring runtime intelligence to AI-powered development",
       "url": "https://clickhouse.com/blog/clickstack-hud-runtime-intelligence",
       "source": "ClickHouse",
-      "date": "2026-08-20T23:27:07.783Z"
+      "date": "2026-08-21T23:26:09.749Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How iFood built its agentic security platform on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/ifood-agentic-security-platform",
       "source": "ClickHouse",
-      "date": "2026-08-20T23:27:07.783Z"
+      "date": "2026-08-21T23:26:09.749Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "bitdrift brings ClickHouse-powered mobile observability to ClickStack",
-      "url": "https://clickhouse.com/blog/bitdrift-clickhouse-mobile-observability-for-clickstack",
-      "source": "ClickHouse",
-      "date": "2026-08-20T23:27:07.783Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "What&#x27;s new in pg_clickhouse v0.10.0: Subqueries, TPC-H Speedups, C Driver, and Aggregates",
-      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
-      "source": "ClickHouse",
-      "date": "2026-08-20T23:27:07.783Z"
-    },
-    {
-      "id": "hn-49379550",
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "id": "hn-49394827",
+      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+      "url": "https://ozbrain.com",
       "source": "HackerNews",
-      "score": 640,
-      "comments": 125,
-      "date": "2026-08-20T20:07:26.000Z"
+      "score": 4,
+      "comments": 1,
+      "date": "2026-08-21T23:09:06.000Z"
+    },
+    {
+      "id": "hn-49392200",
+      "title": "Scientists release biggest 2D map of the universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "source": "HackerNews",
+      "score": 121,
+      "comments": 37,
+      "date": "2026-08-21T18:36:34.000Z"
+    },
+    {
+      "id": "hn-49390427",
+      "title": "Kobo can run apps now",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "source": "HackerNews",
+      "score": 371,
+      "comments": 130,
+      "date": "2026-08-21T16:25:25.000Z"
+    },
+    {
+      "id": "hn-49389952",
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "source": "HackerNews",
+      "score": 91,
+      "comments": 19,
+      "date": "2026-08-21T15:51:10.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Finding a hidden Mersenne Twister implementation inside a 15 year old game binary",
+      "url": "https://www.reddit.com/r/programming/comments/1vuk4b5/finding_a_hidden_mersenne_twister_implementation/",
+      "source": "Reddit",
+      "date": "2026-08-21T15:49:54.000Z"
+    },
+    {
+      "id": "hn-49389430",
+      "title": "Felony Bench",
+      "url": "https://www.felonybench.com/",
+      "source": "HackerNews",
+      "score": 451,
+      "comments": 209,
+      "date": "2026-08-21T15:17:04.000Z"
+    },
+    {
+      "id": "hn-49388154",
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "url": "https://kagi.com/changelog#11296",
+      "source": "HackerNews",
+      "score": 955,
+      "comments": 327,
+      "date": "2026-08-21T13:56:37.000Z"
+    },
+    {
+      "id": "hn-49387570",
+      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
+      "url": "https://lina.sh/blog/hijacking-e164-arpa",
+      "source": "HackerNews",
+      "score": 398,
+      "comments": 43,
+      "date": "2026-08-21T13:11:28.000Z"
+    },
+    {
+      "id": "hn-49386895",
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "source": "HackerNews",
+      "score": 453,
+      "comments": 600,
+      "date": "2026-08-21T12:10:13.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Building Mini Spark, a Tiny Distributed Computing Engine",
+      "url": "https://www.reddit.com/r/programming/comments/1vuctzc/building_mini_spark_a_tiny_distributed_computing/",
+      "source": "Reddit",
+      "date": "2026-08-21T10:44:46.000Z"
+    },
+    {
+      "id": "hn-49386163",
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "source": "HackerNews",
+      "score": 443,
+      "comments": 141,
+      "date": "2026-08-21T10:33:56.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Great Android Stack Reset: Mobile System Design History",
+      "url": "https://www.reddit.com/r/programming/comments/1vuaimm/the_great_android_stack_reset_mobile_system/",
+      "source": "Reddit",
+      "date": "2026-08-21T08:36:28.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Pitfalls of Benchmarking on Modern Systems",
+      "url": "https://www.reddit.com/r/programming/comments/1vu7o3x/pitfalls_of_benchmarking_on_modern_systems/",
+      "source": "Reddit",
+      "date": "2026-08-21T05:50:37.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -87,56 +187,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1vttlns/the_august_17_outage_and_the_work_ahead/",
       "source": "Reddit",
       "date": "2026-08-20T19:35:06.000Z"
-    },
-    {
-      "id": "hn-49378957",
-      "title": "The August 17 outage, and the work ahead",
-      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "source": "HackerNews",
-      "score": 225,
-      "comments": 265,
-      "date": "2026-08-20T19:22:24.000Z"
-    },
-    {
-      "id": "hn-49378768",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "source": "HackerNews",
-      "score": 184,
-      "comments": 104,
-      "date": "2026-08-20T19:05:36.000Z"
-    },
-    {
-      "id": "hn-49378243",
-      "title": "Consumer Rights Wiki",
-      "url": "https://consumerrights.wiki/w/Main_Page",
-      "source": "HackerNews",
-      "score": 167,
-      "comments": 10,
-      "date": "2026-08-20T18:19:51.000Z"
-    },
-    {
-      "id": "hn-49377853",
-      "title": "I should have loved biology (2020)",
-      "url": "https://jsomers.net/i-should-have-loved-biology/",
-      "source": "HackerNews",
-      "score": 172,
-      "comments": 64,
-      "date": "2026-08-20T17:50:02.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Rebuilding the Linux microVM stack on Apple Silicon",
-      "url": "https://www.reddit.com/r/programming/comments/1vtq4qt/rebuilding_the_linux_microvm_stack_on_apple/",
-      "source": "Reddit",
-      "date": "2026-08-20T17:34:13.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Building certgrep.sh: a free CT search engine",
-      "url": "https://www.reddit.com/r/programming/comments/1vtpng5/building_certgrepsh_a_free_ct_search_engine/",
-      "source": "Reddit",
-      "date": "2026-08-20T17:16:38.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -160,15 +210,6 @@
       "date": "2026-08-20T15:05:52.000Z"
     },
     {
-      "id": "hn-49374269",
-      "title": "Malicious Rust crate Arrayref runs a build-time payload",
-      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "source": "HackerNews",
-      "score": 361,
-      "comments": 349,
-      "date": "2026-08-20T13:23:12.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "Quake Shareware, a CD-ROM just a little too full - Fabien Sanglard",
       "url": "https://www.reddit.com/r/programming/comments/1vtih22/quake_shareware_a_cdrom_just_a_little_too_full/",
@@ -176,54 +217,13 @@
       "date": "2026-08-20T12:44:02.000Z"
     },
     {
-      "id": "hn-49372583",
-      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "id": "hn-49357530",
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
       "source": "HackerNews",
-      "score": 836,
-      "comments": 277,
-      "date": "2026-08-20T10:08:52.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Succinct and Fast Tiny Pointer Hash Tables",
-      "url": "https://www.reddit.com/r/programming/comments/1vtaprg/succinct_and_fast_tiny_pointer_hash_tables/",
-      "source": "Reddit",
-      "date": "2026-08-20T05:42:09.000Z"
-    },
-    {
-      "id": "hn-49368886",
-      "title": "CIA funding helped keep NeXT afloat in the 80s",
-      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-      "source": "HackerNews",
-      "score": 302,
-      "comments": 195,
-      "date": "2026-08-20T00:15:01.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Turns are Better than Radians",
-      "url": "https://www.reddit.com/r/programming/comments/1vt2lzu/turns_are_better_than_radians/",
-      "source": "Reddit",
-      "date": "2026-08-19T23:22:08.000Z"
-    },
-    {
-      "id": "hn-49362689",
-      "title": "HTML Can Do That",
-      "url": "https://chrisburnell.com/html-can-do-that/",
-      "source": "HackerNews",
-      "score": 523,
-      "comments": 148,
-      "date": "2026-08-19T15:11:36.000Z"
-    },
-    {
-      "id": "hn-49347543",
-      "title": "I like 'em thick: an apology to my English teachers",
-      "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "source": "HackerNews",
-      "score": 506,
-      "comments": 243,
-      "date": "2026-08-18T15:50:52.000Z"
+      "score": 206,
+      "comments": 266,
+      "date": "2026-08-19T06:13:31.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
