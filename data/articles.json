@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T23:26:10.382Z",
+  "updatedAt": "2026-08-22T23:22:54.493Z",
   "total": 30,
   "articles": [
     {
@@ -7,106 +7,138 @@
       "title": "What else runs on your Postgres server, and how do we stop it from taking the database down?",
       "url": "https://clickhouse.com/blog/protect-postgres-from-supporting-processes",
       "source": "ClickHouse",
-      "date": "2026-08-21T23:26:09.749Z"
+      "date": "2026-08-22T23:22:54.124Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "August 2026 newsletter",
       "url": "https://clickhouse.com/blog/202608-newsletter",
       "source": "ClickHouse",
-      "date": "2026-08-21T23:26:09.749Z"
+      "date": "2026-08-22T23:22:54.124Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "POSETTE Talk Recap - Postgres Isn&#x27;t Slow. Your Storage Is",
       "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
       "source": "ClickHouse",
-      "date": "2026-08-21T23:26:09.749Z"
+      "date": "2026-08-22T23:22:54.124Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Shopify powers observability for global-scale commerce with ClickHouse",
       "url": "https://clickhouse.com/blog/shopify-observability-at-global-scale",
       "source": "ClickHouse",
-      "date": "2026-08-21T23:26:09.749Z"
+      "date": "2026-08-22T23:22:54.124Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Sony LIV uses ClickHouse Cloud to deliver live streaming analytics at billion-row scale",
       "url": "https://clickhouse.com/blog/sony-liv-real-time-analytics",
       "source": "ClickHouse",
-      "date": "2026-08-21T23:26:09.749Z"
+      "date": "2026-08-22T23:22:54.124Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s New with Monitoring in PostgreSQL 19",
       "url": "https://clickhouse.com/blog/postgres-19-monitoring-whats-new",
       "source": "ClickHouse",
-      "date": "2026-08-21T23:26:09.749Z"
+      "date": "2026-08-22T23:22:54.124Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing support for ClickStack in the ClickHouse Terraform provider",
       "url": "https://clickhouse.com/blog/clickstack-terraform-provider",
       "source": "ClickHouse",
-      "date": "2026-08-21T23:26:09.749Z"
+      "date": "2026-08-22T23:22:54.124Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What’s new in the ClickHouse Grafana plugin",
       "url": "https://clickhouse.com/blog/clickhouse-grafana-plugin-4-20",
       "source": "ClickHouse",
-      "date": "2026-08-21T23:26:09.749Z"
+      "date": "2026-08-22T23:22:54.124Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickStack and Hud bring runtime intelligence to AI-powered development",
       "url": "https://clickhouse.com/blog/clickstack-hud-runtime-intelligence",
       "source": "ClickHouse",
-      "date": "2026-08-21T23:26:09.749Z"
+      "date": "2026-08-22T23:22:54.124Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How iFood built its agentic security platform on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/ifood-agentic-security-platform",
       "source": "ClickHouse",
-      "date": "2026-08-21T23:26:09.749Z"
+      "date": "2026-08-22T23:22:54.124Z"
     },
     {
-      "id": "hn-49394827",
-      "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-      "url": "https://ozbrain.com",
+      "id": "hn-49402781",
+      "title": "NetBSD and my life (2005)",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
       "source": "HackerNews",
-      "score": 4,
-      "comments": 1,
-      "date": "2026-08-21T23:09:06.000Z"
+      "score": 81,
+      "comments": 20,
+      "date": "2026-08-22T19:07:46.000Z"
     },
     {
-      "id": "hn-49392200",
-      "title": "Scientists release biggest 2D map of the universe",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "id": "hn-49402741",
+      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
       "source": "HackerNews",
-      "score": 121,
+      "score": 148,
+      "comments": 54,
+      "date": "2026-08-22T19:04:41.000Z"
+    },
+    {
+      "id": "hn-49402232",
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "source": "HackerNews",
+      "score": 134,
       "comments": 37,
-      "date": "2026-08-21T18:36:34.000Z"
+      "date": "2026-08-22T18:14:16.000Z"
     },
     {
-      "id": "hn-49390427",
-      "title": "Kobo can run apps now",
-      "url": "https://bandarlabs.github.io/Cobalt/",
+      "id": "hn-49402189",
+      "title": "Scrap",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
       "source": "HackerNews",
-      "score": 371,
-      "comments": 130,
-      "date": "2026-08-21T16:25:25.000Z"
+      "score": 234,
+      "comments": 94,
+      "date": "2026-08-22T18:08:56.000Z"
     },
     {
-      "id": "hn-49389952",
-      "title": "How we made a text-to-speech model respond in sub-50 ms",
-      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Next.js Dynamic Routes now also available in Faces!",
+      "url": "https://www.reddit.com/r/programming/comments/1vvf3p0/nextjs_dynamic_routes_now_also_available_in_faces/",
+      "source": "Reddit",
+      "date": "2026-08-22T15:17:41.000Z"
+    },
+    {
+      "id": "hn-49400408",
+      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+      "url": "https://quantumi.sh/public/labs.html",
       "source": "HackerNews",
-      "score": 91,
-      "comments": 19,
-      "date": "2026-08-21T15:51:10.000Z"
+      "score": 281,
+      "comments": 92,
+      "date": "2026-08-22T14:54:07.000Z"
+    },
+    {
+      "id": "hn-49399898",
+      "title": "A Friendly Introduction to Racket",
+      "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+      "source": "HackerNews",
+      "score": 175,
+      "comments": 81,
+      "date": "2026-08-22T14:08:19.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Pit Of Success",
+      "url": "https://www.reddit.com/r/programming/comments/1vv78fc/the_pit_of_success/",
+      "source": "Reddit",
+      "date": "2026-08-22T08:57:36.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -116,56 +148,13 @@
       "date": "2026-08-21T15:49:54.000Z"
     },
     {
-      "id": "hn-49389430",
-      "title": "Felony Bench",
-      "url": "https://www.felonybench.com/",
+      "id": "hn-49387959",
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
       "source": "HackerNews",
-      "score": 451,
-      "comments": 209,
-      "date": "2026-08-21T15:17:04.000Z"
-    },
-    {
-      "id": "hn-49388154",
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "url": "https://kagi.com/changelog#11296",
-      "source": "HackerNews",
-      "score": 955,
-      "comments": 327,
-      "date": "2026-08-21T13:56:37.000Z"
-    },
-    {
-      "id": "hn-49387570",
-      "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
-      "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "source": "HackerNews",
-      "score": 398,
-      "comments": 43,
-      "date": "2026-08-21T13:11:28.000Z"
-    },
-    {
-      "id": "hn-49386895",
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "source": "HackerNews",
-      "score": 453,
-      "comments": 600,
-      "date": "2026-08-21T12:10:13.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Building Mini Spark, a Tiny Distributed Computing Engine",
-      "url": "https://www.reddit.com/r/programming/comments/1vuctzc/building_mini_spark_a_tiny_distributed_computing/",
-      "source": "Reddit",
-      "date": "2026-08-21T10:44:46.000Z"
-    },
-    {
-      "id": "hn-49386163",
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "url": "https://api-docs.deepseek.com/guides/vision/",
-      "source": "HackerNews",
-      "score": 443,
-      "comments": 141,
-      "date": "2026-08-21T10:33:56.000Z"
+      "score": 88,
+      "comments": 24,
+      "date": "2026-08-21T13:43:33.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -190,13 +179,6 @@
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "TypeScript : Migrate repo to TypeScript 7",
-      "url": "https://www.reddit.com/r/programming/comments/1vtn0qa/typescript_migrate_repo_to_typescript_7/",
-      "source": "Reddit",
-      "date": "2026-08-20T15:41:21.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
       "title": "Music theory for programmers",
       "url": "https://www.reddit.com/r/programming/comments/1vtm44m/music_theory_for_programmers/",
       "source": "Reddit",
@@ -217,13 +199,31 @@
       "date": "2026-08-20T12:44:02.000Z"
     },
     {
-      "id": "hn-49357530",
-      "title": "AI boosted homework scores, then exam scores dropped: study",
-      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "id": "hn-49355659",
+      "title": "RF Cafe",
+      "url": "https://www.rfcafe.com/",
       "source": "HackerNews",
-      "score": 206,
-      "comments": 266,
-      "date": "2026-08-19T06:13:31.000Z"
+      "score": 126,
+      "comments": 16,
+      "date": "2026-08-19T02:05:43.000Z"
+    },
+    {
+      "id": "hn-49351802",
+      "title": "Hister – A private, full content search index that you control",
+      "url": "https://hister.org/",
+      "source": "HackerNews",
+      "score": 194,
+      "comments": 62,
+      "date": "2026-08-18T20:00:50.000Z"
+    },
+    {
+      "id": "hn-49346854",
+      "title": "typ.ing",
+      "url": "https://typ.ing/",
+      "source": "HackerNews",
+      "score": 151,
+      "comments": 44,
+      "date": "2026-08-18T15:12:53.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
