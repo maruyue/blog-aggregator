@@ -1,128 +1,194 @@
 {
-  "updatedAt": "2026-08-23T23:23:03.580Z",
+  "updatedAt": "2026-08-24T23:24:11.087Z",
   "total": 30,
   "articles": [
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "What else runs on your Postgres server, and how do we stop it from taking the database down?",
-      "url": "https://clickhouse.com/blog/protect-postgres-from-supporting-processes",
-      "source": "ClickHouse",
-      "date": "2026-08-23T23:23:03.551Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "August 2026 newsletter",
-      "url": "https://clickhouse.com/blog/202608-newsletter",
-      "source": "ClickHouse",
-      "date": "2026-08-23T23:23:03.551Z"
-    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "POSETTE Talk Recap - Postgres Isn&#x27;t Slow. Your Storage Is",
       "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
       "source": "ClickHouse",
-      "date": "2026-08-23T23:23:03.551Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Shopify powers observability for global-scale commerce with ClickHouse",
-      "url": "https://clickhouse.com/blog/shopify-observability-at-global-scale",
-      "source": "ClickHouse",
-      "date": "2026-08-23T23:23:03.551Z"
+      "date": "2026-08-24T23:24:10.930Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Sony LIV uses ClickHouse Cloud to deliver live streaming analytics at billion-row scale",
       "url": "https://clickhouse.com/blog/sony-liv-real-time-analytics",
       "source": "ClickHouse",
-      "date": "2026-08-23T23:23:03.551Z"
+      "date": "2026-08-24T23:24:10.930Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s New with Monitoring in PostgreSQL 19",
       "url": "https://clickhouse.com/blog/postgres-19-monitoring-whats-new",
       "source": "ClickHouse",
-      "date": "2026-08-23T23:23:03.551Z"
+      "date": "2026-08-24T23:24:10.930Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing support for ClickStack in the ClickHouse Terraform provider",
       "url": "https://clickhouse.com/blog/clickstack-terraform-provider",
       "source": "ClickHouse",
-      "date": "2026-08-23T23:23:03.551Z"
+      "date": "2026-08-24T23:24:10.930Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What’s new in the ClickHouse Grafana plugin",
       "url": "https://clickhouse.com/blog/clickhouse-grafana-plugin-4-20",
       "source": "ClickHouse",
-      "date": "2026-08-23T23:23:03.551Z"
+      "date": "2026-08-24T23:24:10.930Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickStack and Hud bring runtime intelligence to AI-powered development",
       "url": "https://clickhouse.com/blog/clickstack-hud-runtime-intelligence",
       "source": "ClickHouse",
-      "date": "2026-08-23T23:23:03.551Z"
+      "date": "2026-08-24T23:24:10.930Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "How iFood built its agentic security platform on ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/ifood-agentic-security-platform",
+      "title": "Ensuring reliable OpenTelemetry ingestion at scale",
+      "url": "https://clickhouse.com/blog/reliable-opentelemetry-ingestion-at-scale",
       "source": "ClickHouse",
-      "date": "2026-08-23T23:23:03.551Z"
+      "date": "2026-08-24T23:24:10.929Z"
     },
     {
-      "id": "hn-49413320",
-      "title": "Everything I own, owned",
-      "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "source": "HackerNews",
-      "score": 45,
-      "comments": 9,
-      "date": "2026-08-23T22:41:04.000Z"
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What else runs on your Postgres server, and how do we stop it from taking the database down?",
+      "url": "https://clickhouse.com/blog/protect-postgres-from-supporting-processes",
+      "source": "ClickHouse",
+      "date": "2026-08-24T23:24:10.929Z"
     },
     {
-      "id": "hn-49411717",
-      "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "source": "HackerNews",
-      "score": 111,
-      "comments": 30,
-      "date": "2026-08-23T19:29:32.000Z"
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "August 2026 newsletter",
+      "url": "https://clickhouse.com/blog/202608-newsletter",
+      "source": "ClickHouse",
+      "date": "2026-08-24T23:24:10.929Z"
     },
     {
-      "id": "hn-49411643",
-      "title": "How I find problems to solve as a staff engineer",
-      "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Shopify powers observability for global-scale commerce with ClickHouse",
+      "url": "https://clickhouse.com/blog/shopify-observability-at-global-scale",
+      "source": "ClickHouse",
+      "date": "2026-08-24T23:24:10.929Z"
+    },
+    {
+      "id": "hn-49426564",
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
       "source": "HackerNews",
-      "score": 211,
-      "comments": 76,
-      "date": "2026-08-23T19:23:29.000Z"
+      "score": 106,
+      "comments": 23,
+      "date": "2026-08-24T22:13:40.000Z"
+    },
+    {
+      "id": "hn-49426466",
+      "title": "Moon",
+      "url": "https://ciechanow.ski/moon/",
+      "source": "HackerNews",
+      "score": 44,
+      "comments": 4,
+      "date": "2026-08-24T22:06:02.000Z"
+    },
+    {
+      "id": "hn-49425819",
+      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
+      "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+      "source": "HackerNews",
+      "score": 91,
+      "comments": 65,
+      "date": "2026-08-24T21:03:06.000Z"
+    },
+    {
+      "id": "hn-49425800",
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+      "source": "HackerNews",
+      "score": 36,
+      "comments": 2,
+      "date": "2026-08-24T21:01:38.000Z"
+    },
+    {
+      "id": "hn-49424606",
+      "title": "Oceans hit highest temperature on record",
+      "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+      "source": "HackerNews",
+      "score": 344,
+      "comments": 210,
+      "date": "2026-08-24T19:19:08.000Z"
+    },
+    {
+      "id": "hn-49422784",
+      "title": "The entire city of San Francisco as a video game",
+      "url": "https://sf.thijs.gg/",
+      "source": "HackerNews",
+      "score": 300,
+      "comments": 105,
+      "date": "2026-08-24T17:05:38.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Stop Using Conventional Commits",
-      "url": "https://www.reddit.com/r/programming/comments/1vwfrbg/stop_using_conventional_commits/",
+      "title": "Your executable is a SQLite database",
+      "url": "https://www.reddit.com/r/programming/comments/1vx81cr/your_executable_is_a_sqlite_database/",
       "source": "Reddit",
-      "date": "2026-08-23T19:00:31.000Z"
+      "date": "2026-08-24T16:41:19.000Z"
     },
     {
-      "id": "hn-49411102",
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "id": "hn-49421489",
+      "title": "IPFS Maintainers Winding Down",
+      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
       "source": "HackerNews",
-      "score": 89,
-      "comments": 84,
-      "date": "2026-08-23T18:16:37.000Z"
+      "score": 308,
+      "comments": 156,
+      "date": "2026-08-24T15:48:45.000Z"
     },
     {
-      "id": "hn-49410932",
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "url": "https://fabiensanglard.net/agent.md/index.html",
+      "id": "hn-49421158",
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
       "source": "HackerNews",
-      "score": 113,
-      "comments": 51,
-      "date": "2026-08-23T17:59:52.000Z"
+      "score": 509,
+      "comments": 209,
+      "date": "2026-08-24T15:28:04.000Z"
+    },
+    {
+      "id": "hn-49420873",
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "url": "https://twitter.com/lemire/status/2091894299289874926",
+      "source": "HackerNews",
+      "score": 684,
+      "comments": 466,
+      "date": "2026-08-24T15:08:17.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Block-layer error injection",
+      "url": "https://www.reddit.com/r/programming/comments/1vx3ygt/blocklayer_error_injection/",
+      "source": "Reddit",
+      "date": "2026-08-24T14:11:31.000Z"
+    },
+    {
+      "id": "hn-49419237",
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+      "source": "HackerNews",
+      "score": 1005,
+      "comments": 627,
+      "date": "2026-08-24T13:05:25.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "What Zig felt like, coming from Rust",
+      "url": "https://www.reddit.com/r/programming/comments/1vwyjg2/what_zig_felt_like_coming_from_rust/",
+      "source": "Reddit",
+      "date": "2026-08-24T10:06:30.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How an Underrated Refactor Saved 90% Memory Usage",
+      "url": "https://www.reddit.com/r/programming/comments/1vwvdom/how_an_underrated_refactor_saved_90_memory_usage/",
+      "source": "Reddit",
+      "date": "2026-08-24T07:00:20.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -132,63 +198,11 @@
       "date": "2026-08-23T16:08:26.000Z"
     },
     {
-      "id": "hn-49409862",
-      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-      "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-      "source": "HackerNews",
-      "score": 116,
-      "comments": 77,
-      "date": "2026-08-23T15:59:08.000Z"
-    },
-    {
-      "id": "hn-49409473",
-      "title": "How Complex Systems Fail (1998)",
-      "url": "https://how.complexsystems.fail/",
-      "source": "HackerNews",
-      "score": 214,
-      "comments": 58,
-      "date": "2026-08-23T15:13:31.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "How to Design an Animation",
       "url": "https://www.reddit.com/r/programming/comments/1vw91lz/how_to_design_an_animation/",
       "source": "Reddit",
       "date": "2026-08-23T14:44:41.000Z"
-    },
-    {
-      "id": "hn-49409092",
-      "title": "What Is a Harness?",
-      "url": "https://earendil.com/posts/what-is-a-harness/",
-      "source": "HackerNews",
-      "score": 256,
-      "comments": 123,
-      "date": "2026-08-23T14:24:21.000Z"
-    },
-    {
-      "id": "hn-49408858",
-      "title": "My favorite nonfiction books about cults, scams, and schemes",
-      "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-      "source": "HackerNews",
-      "score": 181,
-      "comments": 63,
-      "date": "2026-08-23T13:51:10.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Why so many languages use LLVM",
-      "url": "https://www.reddit.com/r/programming/comments/1vw6z10/why_so_many_languages_use_llvm/",
-      "source": "Reddit",
-      "date": "2026-08-23T13:17:17.000Z"
-    },
-    {
-      "id": "hn-49408550",
-      "title": "Malware infects Android-based automotive head unit firmware",
-      "url": "https://securelist.com/android-head-unit-malware/121106/",
-      "source": "HackerNews",
-      "score": 196,
-      "comments": 95,
-      "date": "2026-08-23T13:05:38.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -210,20 +224,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1vvrbyb/the_unlikely_linux_macro/",
       "source": "Reddit",
       "date": "2026-08-22T23:33:30.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The Pit Of Success",
-      "url": "https://www.reddit.com/r/programming/comments/1vv78fc/the_pit_of_success/",
-      "source": "Reddit",
-      "date": "2026-08-22T08:57:36.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Finding a hidden Mersenne Twister implementation inside a 15 year old game binary",
-      "url": "https://www.reddit.com/r/programming/comments/1vuk4b5/finding_a_hidden_mersenne_twister_implementation/",
-      "source": "Reddit",
-      "date": "2026-08-21T15:49:54.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
