@@ -1,187 +1,222 @@
 {
-  "updatedAt": "2026-08-25T23:26:15.476Z",
+  "updatedAt": "2026-08-27T04:23:10.066Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What&#x27;s new in the ClickHouse .NET Driver: the road from 1.0 to 1.3",
+      "url": "https://clickhouse.com/blog/whats-new-clickhouse-net-driver-10-to-13",
+      "source": "ClickHouse",
+      "date": "2026-08-27T04:23:09.951Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Suprema Gaming made its data platform agent-ready with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/suprema-gaming-agent-ready-platform",
       "source": "ClickHouse",
-      "date": "2026-08-25T23:26:15.433Z"
+      "date": "2026-08-27T04:23:09.951Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Read your writes: WAIT FOR in PostgreSQL 19",
       "url": "https://clickhouse.com/blog/postgresql-19-wait-for-read-your-writes",
       "source": "ClickHouse",
-      "date": "2026-08-25T23:26:15.433Z"
+      "date": "2026-08-27T04:23:09.951Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickGap: Autonomous QA for ClickHouse",
       "url": "https://clickhouse.com/blog/clickgap-autonomous-qa-for-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-08-25T23:26:15.433Z"
+      "date": "2026-08-27T04:23:09.951Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Ensuring reliable OpenTelemetry ingestion at scale",
       "url": "https://clickhouse.com/blog/reliable-opentelemetry-ingestion-at-scale",
       "source": "ClickHouse",
-      "date": "2026-08-25T23:26:15.433Z"
+      "date": "2026-08-27T04:23:09.951Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What else runs on your Postgres server, and how do we stop it from taking the database down?",
       "url": "https://clickhouse.com/blog/protect-postgres-from-supporting-processes",
       "source": "ClickHouse",
-      "date": "2026-08-25T23:26:15.433Z"
+      "date": "2026-08-27T04:23:09.951Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "August 2026 newsletter",
       "url": "https://clickhouse.com/blog/202608-newsletter",
       "source": "ClickHouse",
-      "date": "2026-08-25T23:26:15.433Z"
+      "date": "2026-08-27T04:23:09.951Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Shopify powers observability for global-scale commerce with ClickHouse",
       "url": "https://clickhouse.com/blog/shopify-observability-at-global-scale",
       "source": "ClickHouse",
-      "date": "2026-08-25T23:26:15.433Z"
+      "date": "2026-08-27T04:23:09.951Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "POSETTE Talk Recap - Postgres Isn&#x27;t Slow. Your Storage Is",
       "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
       "source": "ClickHouse",
-      "date": "2026-08-25T23:26:15.433Z"
+      "date": "2026-08-27T04:23:09.951Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Sony LIV uses ClickHouse Cloud to deliver live streaming analytics at billion-row scale",
       "url": "https://clickhouse.com/blog/sony-liv-real-time-analytics",
       "source": "ClickHouse",
-      "date": "2026-08-25T23:26:15.433Z"
+      "date": "2026-08-27T04:23:09.951Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "What&#x27;s New with Monitoring in PostgreSQL 19",
-      "url": "https://clickhouse.com/blog/postgres-19-monitoring-whats-new",
-      "source": "ClickHouse",
-      "date": "2026-08-25T23:26:15.433Z"
-    },
-    {
-      "id": "hn-49441375",
-      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
-      "url": "https://github.com/swimmingbrain/texbrain",
+      "id": "hn-49458709",
+      "title": "Kusama Yayoi Dies at 97",
+      "url": "https://news.jp/i/1465528042000662661",
       "source": "HackerNews",
-      "score": 16,
+      "score": 72,
+      "comments": 6,
+      "date": "2026-08-27T02:21:18.000Z"
+    },
+    {
+      "id": "hn-49458478",
+      "title": "Laion Big Video Dataset",
+      "url": "https://projects.laion.ai/bvd/",
+      "source": "HackerNews",
+      "score": 26,
       "comments": 2,
-      "date": "2026-08-25T22:08:50.000Z"
+      "date": "2026-08-27T01:50:26.000Z"
     },
     {
-      "id": "hn-49441033",
-      "title": "Python's pre-declared constants are kinda weird",
-      "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+      "id": "hn-49458418",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
       "source": "HackerNews",
-      "score": 81,
-      "comments": 27,
-      "date": "2026-08-25T21:39:02.000Z"
+      "score": 199,
+      "comments": 124,
+      "date": "2026-08-27T01:46:22.000Z"
+    },
+    {
+      "id": "hn-49458161",
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "source": "HackerNews",
+      "score": 511,
+      "comments": 226,
+      "date": "2026-08-27T01:12:55.000Z"
+    },
+    {
+      "id": "hn-49457545",
+      "title": "Mechanical Turk shutting down September 30",
+      "url": "https://www.mturk.com/",
+      "source": "HackerNews",
+      "score": 206,
+      "comments": 69,
+      "date": "2026-08-26T23:55:44.000Z"
+    },
+    {
+      "id": "hn-49456929",
+      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+      "source": "HackerNews",
+      "score": 100,
+      "comments": 43,
+      "date": "2026-08-26T22:44:03.000Z"
+    },
+    {
+      "id": "hn-49456851",
+      "title": "Asahi Linux Progress Report: Linux 7.2",
+      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "source": "HackerNews",
+      "score": 144,
+      "comments": 31,
+      "date": "2026-08-26T22:35:02.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Latency optimizations on the system level",
-      "url": "https://www.reddit.com/r/programming/comments/1vycpx9/latency_optimizations_on_the_system_level/",
+      "title": "mold: A Massively Parallel Linker",
+      "url": "https://www.reddit.com/r/programming/comments/1vz921w/mold_a_massively_parallel_linker/",
       "source": "Reddit",
-      "date": "2026-08-25T21:11:41.000Z"
-    },
-    {
-      "id": "hn-49440410",
-      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
-      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "source": "HackerNews",
-      "score": 34,
-      "comments": 21,
-      "date": "2026-08-25T20:49:03.000Z"
+      "date": "2026-08-26T20:37:45.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Memory ordering in CPUs",
-      "url": "https://www.reddit.com/r/programming/comments/1vyb1js/memory_ordering_in_cpus/",
+      "title": "How to drive your frontend from the backend",
+      "url": "https://www.reddit.com/r/programming/comments/1vz715a/how_to_drive_your_frontend_from_the_backend/",
       "source": "Reddit",
-      "date": "2026-08-25T20:11:46.000Z"
-    },
-    {
-      "id": "hn-49439499",
-      "title": "C2PA Cameras Do Not Survive Contact with Reality",
-      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "source": "HackerNews",
-      "score": 53,
-      "comments": 18,
-      "date": "2026-08-25T19:38:24.000Z"
-    },
-    {
-      "id": "hn-49439017",
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "source": "HackerNews",
-      "score": 204,
-      "comments": 122,
-      "date": "2026-08-25T19:07:01.000Z"
+      "date": "2026-08-26T19:26:11.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "How to test if your numerical code is Mathematically correct?",
-      "url": "https://www.reddit.com/r/programming/comments/1vy6tks/how_to_test_if_your_numerical_code_is/",
+      "title": "SQLite in Production with Built-In Litestream Replication",
+      "url": "https://www.reddit.com/r/programming/comments/1vz5v47/sqlite_in_production_with_builtin_litestream/",
       "source": "Reddit",
-      "date": "2026-08-25T17:43:44.000Z"
+      "date": "2026-08-26T18:44:55.000Z"
     },
     {
-      "id": "hn-49437210",
-      "title": "Black hole singularity is a surface not a point",
-      "url": "https://arxiv.org/abs/2608.21590",
+      "id": "hn-49452990",
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "url": "https://github.com/tailscale/tailcat",
       "source": "HackerNews",
-      "score": 160,
-      "comments": 119,
-      "date": "2026-08-25T17:02:49.000Z"
+      "score": 505,
+      "comments": 94,
+      "date": "2026-08-26T17:42:22.000Z"
     },
     {
-      "id": "hn-49435675",
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "url": "https://github.com/ThinkOffApp/CarWatch",
-      "source": "HackerNews",
-      "score": 81,
-      "comments": 16,
-      "date": "2026-08-25T15:20:20.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Flat vs segmented memory -- it's recursive",
+      "url": "https://www.reddit.com/r/programming/comments/1vz2tvh/flat_vs_segmented_memory_its_recursive/",
+      "source": "Reddit",
+      "date": "2026-08-26T16:58:51.000Z"
     },
     {
-      "id": "hn-49434378",
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "source": "HackerNews",
-      "score": 268,
-      "comments": 186,
-      "date": "2026-08-25T14:06:02.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "GitHub confirms Actions outage caused by database issue",
+      "url": "https://www.reddit.com/r/programming/comments/1vz0z6b/github_confirms_actions_outage_caused_by_database/",
+      "source": "Reddit",
+      "date": "2026-08-26T15:53:21.000Z"
     },
     {
-      "id": "hn-49433316",
-      "title": "New Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "id": "hn-49449507",
+      "title": "GLM-5.3-Flash",
+      "url": "https://z.ai/blog/glm-5.3-flash",
       "source": "HackerNews",
-      "score": 678,
-      "comments": 416,
-      "date": "2026-08-25T13:03:17.000Z"
+      "score": 929,
+      "comments": 466,
+      "date": "2026-08-26T14:08:50.000Z"
     },
     {
-      "id": "hn-49433292",
-      "title": "Apple introduces M6 and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "DuckLabs to Join AWS, Projects to Remain Open Source",
+      "url": "https://www.reddit.com/r/programming/comments/1vyxi4r/ducklabs_to_join_aws_projects_to_remain_open/",
+      "source": "Reddit",
+      "date": "2026-08-26T13:43:10.000Z"
+    },
+    {
+      "id": "hn-49448321",
+      "title": "AWS Acquires DuckLabs",
+      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
       "source": "HackerNews",
-      "score": 898,
-      "comments": 850,
-      "date": "2026-08-25T13:01:22.000Z"
+      "score": 1007,
+      "comments": 297,
+      "date": "2026-08-26T12:59:26.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Depths of JavaScript: Minesweeper in 247 Bytes",
+      "url": "https://www.reddit.com/r/programming/comments/1vyuagp/the_depths_of_javascript_minesweeper_in_247_bytes/",
+      "source": "Reddit",
+      "date": "2026-08-26T11:23:10.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Casey Muratori – The Root of The Root of All Evil – BSC 2026",
+      "url": "https://www.reddit.com/r/programming/comments/1vynzwf/casey_muratori_the_root_of_the_root_of_all_evil/",
+      "source": "Reddit",
+      "date": "2026-08-26T05:30:55.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -189,41 +224,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1vxz0z4/eve_online_the_move_to_python_3_begins/",
       "source": "Reddit",
       "date": "2026-08-25T12:53:38.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Every Event, Everywhere, All at Once • Jacqui Read",
-      "url": "https://www.reddit.com/r/programming/comments/1vxyb6o/every_event_everywhere_all_at_once_jacqui_read/",
-      "source": "Reddit",
-      "date": "2026-08-25T12:22:35.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Solving the 1+N Query Problem",
-      "url": "https://www.reddit.com/r/programming/comments/1vxud0f/solving_the_1n_query_problem/",
-      "source": "Reddit",
-      "date": "2026-08-25T08:56:56.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Running a Java Spring Boot app on a 512 MB VPS with lightweight monitoring",
-      "url": "https://www.reddit.com/r/programming/comments/1vxl0w4/running_a_java_spring_boot_app_on_a_512_mb_vps/",
-      "source": "Reddit",
-      "date": "2026-08-25T00:49:17.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Your executable is a SQLite database",
-      "url": "https://www.reddit.com/r/programming/comments/1vx81cr/your_executable_is_a_sqlite_database/",
-      "source": "Reddit",
-      "date": "2026-08-24T16:41:19.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "What Zig felt like, coming from Rust",
-      "url": "https://www.reddit.com/r/programming/comments/1vwyjg2/what_zig_felt_like_coming_from_rust/",
-      "source": "Reddit",
-      "date": "2026-08-24T10:06:30.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
