@@ -1,139 +1,180 @@
 {
-  "updatedAt": "2026-08-27T04:23:10.066Z",
+  "updatedAt": "2026-08-28T06:48:29.256Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "So, is ClickHouse winning the observability wars?",
+      "url": "https://clickhouse.com/blog/is-clickhouse-winning-the-observability-wars",
+      "source": "ClickHouse",
+      "date": "2026-08-28T06:48:29.256Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in the ClickHouse .NET Driver: the road from 1.0 to 1.3",
       "url": "https://clickhouse.com/blog/whats-new-clickhouse-net-driver-10-to-13",
       "source": "ClickHouse",
-      "date": "2026-08-27T04:23:09.951Z"
+      "date": "2026-08-28T06:48:29.256Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Suprema Gaming made its data platform agent-ready with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/suprema-gaming-agent-ready-platform",
       "source": "ClickHouse",
-      "date": "2026-08-27T04:23:09.951Z"
+      "date": "2026-08-28T06:48:29.256Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Read your writes: WAIT FOR in PostgreSQL 19",
       "url": "https://clickhouse.com/blog/postgresql-19-wait-for-read-your-writes",
       "source": "ClickHouse",
-      "date": "2026-08-27T04:23:09.951Z"
+      "date": "2026-08-28T06:48:29.256Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickGap: Autonomous QA for ClickHouse",
       "url": "https://clickhouse.com/blog/clickgap-autonomous-qa-for-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-08-27T04:23:09.951Z"
+      "date": "2026-08-28T06:48:29.256Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Ensuring reliable OpenTelemetry ingestion at scale",
       "url": "https://clickhouse.com/blog/reliable-opentelemetry-ingestion-at-scale",
       "source": "ClickHouse",
-      "date": "2026-08-27T04:23:09.951Z"
+      "date": "2026-08-28T06:48:29.256Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What else runs on your Postgres server, and how do we stop it from taking the database down?",
       "url": "https://clickhouse.com/blog/protect-postgres-from-supporting-processes",
       "source": "ClickHouse",
-      "date": "2026-08-27T04:23:09.951Z"
+      "date": "2026-08-28T06:48:29.256Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "August 2026 newsletter",
       "url": "https://clickhouse.com/blog/202608-newsletter",
       "source": "ClickHouse",
-      "date": "2026-08-27T04:23:09.951Z"
+      "date": "2026-08-28T06:48:29.256Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Shopify powers observability for global-scale commerce with ClickHouse",
       "url": "https://clickhouse.com/blog/shopify-observability-at-global-scale",
       "source": "ClickHouse",
-      "date": "2026-08-27T04:23:09.951Z"
+      "date": "2026-08-28T06:48:29.256Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "POSETTE Talk Recap - Postgres Isn&#x27;t Slow. Your Storage Is",
       "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
       "source": "ClickHouse",
-      "date": "2026-08-27T04:23:09.951Z"
+      "date": "2026-08-28T06:48:29.256Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Sony LIV uses ClickHouse Cloud to deliver live streaming analytics at billion-row scale",
-      "url": "https://clickhouse.com/blog/sony-liv-real-time-analytics",
-      "source": "ClickHouse",
-      "date": "2026-08-27T04:23:09.951Z"
-    },
-    {
-      "id": "hn-49458709",
-      "title": "Kusama Yayoi Dies at 97",
-      "url": "https://news.jp/i/1465528042000662661",
+      "id": "hn-49474776",
+      "title": "My Business Is Dying",
+      "url": "https://bankstatementconverter.com/blog/posts/2026-08-28-business-is-dying/",
       "source": "HackerNews",
-      "score": 72,
-      "comments": 6,
-      "date": "2026-08-27T02:21:18.000Z"
+      "score": 48,
+      "comments": 24,
+      "date": "2026-08-28T05:41:03.000Z"
     },
     {
-      "id": "hn-49458478",
-      "title": "Laion Big Video Dataset",
-      "url": "https://projects.laion.ai/bvd/",
+      "id": "hn-49474143",
+      "title": "Please stop flooding our projects with AI slop to furnish your CV",
+      "url": "https://neilalexander.dev/2026/06/30/flooding-contributions",
       "source": "HackerNews",
-      "score": 26,
-      "comments": 2,
-      "date": "2026-08-27T01:50:26.000Z"
+      "score": 148,
+      "comments": 74,
+      "date": "2026-08-28T03:49:33.000Z"
     },
     {
-      "id": "hn-49458418",
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "id": "hn-49472820",
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "url": "https://www.terminal-bench-science.ai/announcement",
       "source": "HackerNews",
-      "score": 199,
-      "comments": 124,
-      "date": "2026-08-27T01:46:22.000Z"
+      "score": 68,
+      "comments": 17,
+      "date": "2026-08-28T00:06:51.000Z"
     },
     {
-      "id": "hn-49458161",
-      "title": "Nvidia agrees to acquire Hugging Face for $13B",
-      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "id": "hn-49471965",
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "url": "https://github.com/elyosh/OpenTIE/",
       "source": "HackerNews",
-      "score": 511,
-      "comments": 226,
-      "date": "2026-08-27T01:12:55.000Z"
+      "score": 139,
+      "comments": 30,
+      "date": "2026-08-27T22:10:47.000Z"
     },
     {
-      "id": "hn-49457545",
-      "title": "Mechanical Turk shutting down September 30",
-      "url": "https://www.mturk.com/",
-      "source": "HackerNews",
-      "score": 206,
-      "comments": 69,
-      "date": "2026-08-26T23:55:44.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
+      "url": "https://www.reddit.com/r/programming/comments/1w06vn1/how_we_saved_100_terabytes_of_memory_by/",
+      "source": "Reddit",
+      "date": "2026-08-27T21:19:39.000Z"
     },
     {
-      "id": "hn-49456929",
-      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
-      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+      "id": "hn-49471407",
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "url": "https://github.com/experientiallabs/experiential",
       "source": "HackerNews",
-      "score": 100,
-      "comments": 43,
-      "date": "2026-08-26T22:44:03.000Z"
+      "score": 162,
+      "comments": 26,
+      "date": "2026-08-27T21:18:35.000Z"
     },
     {
-      "id": "hn-49456851",
-      "title": "Asahi Linux Progress Report: Linux 7.2",
-      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "id": "hn-49468818",
+      "title": "Gemini-3.5-Transcribe",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
       "source": "HackerNews",
-      "score": 144,
-      "comments": 31,
-      "date": "2026-08-26T22:35:02.000Z"
+      "score": 237,
+      "comments": 71,
+      "date": "2026-08-27T18:03:42.000Z"
+    },
+    {
+      "id": "hn-49468083",
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "source": "HackerNews",
+      "score": 674,
+      "comments": 200,
+      "date": "2026-08-27T17:17:57.000Z"
+    },
+    {
+      "id": "hn-49466917",
+      "title": "Small Models Have Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "source": "HackerNews",
+      "score": 591,
+      "comments": 267,
+      "date": "2026-08-27T15:56:58.000Z"
+    },
+    {
+      "id": "hn-49465169",
+      "title": "507 Mechanical Movements",
+      "url": "https://507movements.com/",
+      "source": "HackerNews",
+      "score": 550,
+      "comments": 70,
+      "date": "2026-08-27T14:08:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How Jekyll Works",
+      "url": "https://www.reddit.com/r/programming/comments/1vztl74/how_jekyll_works/",
+      "source": "Reddit",
+      "date": "2026-08-27T13:11:45.000Z"
+    },
+    {
+      "id": "hn-49462763",
+      "title": "Microduck",
+      "url": "https://pollen-robotics.com/microduck/",
+      "source": "HackerNews",
+      "score": 609,
+      "comments": 207,
+      "date": "2026-08-27T10:57:56.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -157,22 +198,6 @@
       "date": "2026-08-26T18:44:55.000Z"
     },
     {
-      "id": "hn-49452990",
-      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
-      "url": "https://github.com/tailscale/tailcat",
-      "source": "HackerNews",
-      "score": 505,
-      "comments": 94,
-      "date": "2026-08-26T17:42:22.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Flat vs segmented memory -- it's recursive",
-      "url": "https://www.reddit.com/r/programming/comments/1vz2tvh/flat_vs_segmented_memory_its_recursive/",
-      "source": "Reddit",
-      "date": "2026-08-26T16:58:51.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "GitHub confirms Actions outage caused by database issue",
       "url": "https://www.reddit.com/r/programming/comments/1vz0z6b/github_confirms_actions_outage_caused_by_database/",
@@ -180,29 +205,11 @@
       "date": "2026-08-26T15:53:21.000Z"
     },
     {
-      "id": "hn-49449507",
-      "title": "GLM-5.3-Flash",
-      "url": "https://z.ai/blog/glm-5.3-flash",
-      "source": "HackerNews",
-      "score": 929,
-      "comments": 466,
-      "date": "2026-08-26T14:08:50.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "DuckLabs to Join AWS, Projects to Remain Open Source",
       "url": "https://www.reddit.com/r/programming/comments/1vyxi4r/ducklabs_to_join_aws_projects_to_remain_open/",
       "source": "Reddit",
       "date": "2026-08-26T13:43:10.000Z"
-    },
-    {
-      "id": "hn-49448321",
-      "title": "AWS Acquires DuckLabs",
-      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-      "source": "HackerNews",
-      "score": 1007,
-      "comments": 297,
-      "date": "2026-08-26T12:59:26.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -217,13 +224,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1vynzwf/casey_muratori_the_root_of_the_root_of_all_evil/",
       "source": "Reddit",
       "date": "2026-08-26T05:30:55.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "EVE Online: The Move to Python 3 Begins!",
-      "url": "https://www.reddit.com/r/programming/comments/1vxz0z4/eve_online_the_move_to_python_3_begins/",
-      "source": "Reddit",
-      "date": "2026-08-25T12:53:38.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
