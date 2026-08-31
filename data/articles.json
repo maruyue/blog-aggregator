@@ -1,236 +1,166 @@
 {
-  "updatedAt": "2026-08-30T01:08:50.892Z",
-  "total": 30,
+  "updatedAt": "2026-08-31T01:11:02.927Z",
+  "total": 20,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "A new getting started experience for ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/clickhouse-managed-postgres-onboarding",
       "source": "ClickHouse",
-      "date": "2026-08-30T01:08:50.892Z"
+      "date": "2026-08-31T01:11:02.688Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "A universal interface: How QuintoAndar made ClickHouse plug-and-play with managed Postgres",
       "url": "https://clickhouse.com/blog/quintoandar-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-08-30T01:08:50.892Z"
+      "date": "2026-08-31T01:11:02.688Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "So, is ClickHouse winning the observability wars?",
       "url": "https://clickhouse.com/blog/is-clickhouse-winning-the-observability-wars",
       "source": "ClickHouse",
-      "date": "2026-08-30T01:08:50.892Z"
+      "date": "2026-08-31T01:11:02.688Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in the ClickHouse .NET Driver: the road from 1.0 to 1.3",
       "url": "https://clickhouse.com/blog/whats-new-clickhouse-net-driver-10-to-13",
       "source": "ClickHouse",
-      "date": "2026-08-30T01:08:50.892Z"
+      "date": "2026-08-31T01:11:02.688Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Suprema Gaming made its data platform agent-ready with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/suprema-gaming-agent-ready-platform",
       "source": "ClickHouse",
-      "date": "2026-08-30T01:08:50.892Z"
+      "date": "2026-08-31T01:11:02.688Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Read your writes: WAIT FOR in PostgreSQL 19",
       "url": "https://clickhouse.com/blog/postgresql-19-wait-for-read-your-writes",
       "source": "ClickHouse",
-      "date": "2026-08-30T01:08:50.892Z"
+      "date": "2026-08-31T01:11:02.688Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickGap: Autonomous QA for ClickHouse",
       "url": "https://clickhouse.com/blog/clickgap-autonomous-qa-for-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-08-30T01:08:50.892Z"
+      "date": "2026-08-31T01:11:02.688Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Ensuring reliable OpenTelemetry ingestion at scale",
       "url": "https://clickhouse.com/blog/reliable-opentelemetry-ingestion-at-scale",
       "source": "ClickHouse",
-      "date": "2026-08-30T01:08:50.892Z"
+      "date": "2026-08-31T01:11:02.688Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What else runs on your Postgres server, and how do we stop it from taking the database down?",
       "url": "https://clickhouse.com/blog/protect-postgres-from-supporting-processes",
       "source": "ClickHouse",
-      "date": "2026-08-30T01:08:50.892Z"
+      "date": "2026-08-31T01:11:02.688Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "August 2026 newsletter",
       "url": "https://clickhouse.com/blog/202608-newsletter",
       "source": "ClickHouse",
-      "date": "2026-08-30T01:08:50.892Z"
+      "date": "2026-08-31T01:11:02.688Z"
     },
     {
-      "id": "hn-49494520",
-      "title": "Bug Blindness",
-      "url": "https://danluu.com/bug-blind/",
+      "id": "hn-49503601",
+      "title": "“I just chose words carefully”",
+      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
       "source": "HackerNews",
-      "score": 10,
-      "comments": 1,
-      "date": "2026-08-30T00:21:40.000Z"
+      "score": 224,
+      "comments": 58,
+      "date": "2026-08-30T22:49:48.000Z"
     },
     {
-      "id": "hn-49494231",
-      "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
-      "url": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+      "id": "hn-49502611",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
       "source": "HackerNews",
-      "score": 66,
-      "comments": 32,
-      "date": "2026-08-29T23:26:44.000Z"
+      "score": 52,
+      "comments": 14,
+      "date": "2026-08-30T20:46:53.000Z"
     },
     {
-      "id": "hn-49494182",
-      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+      "id": "hn-49502214",
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
       "source": "HackerNews",
-      "score": 51,
-      "comments": 18,
-      "date": "2026-08-29T23:17:17.000Z"
+      "score": 71,
+      "comments": 12,
+      "date": "2026-08-30T20:00:25.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Inside the TypeScript Checker: From Text to Types",
-      "url": "https://www.reddit.com/r/programming/comments/1w1y2m3/inside_the_typescript_checker_from_text_to_types/",
-      "source": "Reddit",
-      "date": "2026-08-29T21:06:41.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "</> htmx ~ Building Critical Infrastructure with htmx: Network Automation for the Paris 2024 Olympics",
-      "url": "https://www.reddit.com/r/programming/comments/1w1wspl/htmx_building_critical_infrastructure_with_htmx/",
-      "source": "Reddit",
-      "date": "2026-08-29T20:15:55.000Z"
-    },
-    {
-      "id": "hn-49492632",
-      "title": "Hy4 preview",
-      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "id": "hn-49501611",
+      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "url": "https://github.com/KodeMunkie/sm750hdmifb",
       "source": "HackerNews",
-      "score": 183,
-      "comments": 115,
-      "date": "2026-08-29T19:33:23.000Z"
+      "score": 65,
+      "comments": 33,
+      "date": "2026-08-30T18:49:08.000Z"
     },
     {
-      "id": "hn-49492584",
-      "title": "Domain-Driven Agents",
-      "url": "https://coldtake.dev/blog/domain-driven-agents",
+      "id": "hn-49499867",
+      "title": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
       "source": "HackerNews",
-      "score": 47,
-      "comments": 6,
-      "date": "2026-08-29T19:28:28.000Z"
+      "score": 248,
+      "comments": 75,
+      "date": "2026-08-30T16:01:10.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Pattern in Number Spirals",
-      "url": "https://www.reddit.com/r/programming/comments/1w1tqvu/pattern_in_number_spirals/",
-      "source": "Reddit",
-      "date": "2026-08-29T18:16:45.000Z"
-    },
-    {
-      "id": "hn-49491714",
-      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-      "url": "https://tucker.wales/writing/bias-towards-action/",
+      "id": "hn-49491791",
+      "title": "Creepy Crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
       "source": "HackerNews",
-      "score": 105,
-      "comments": 42,
-      "date": "2026-08-29T17:39:18.000Z"
+      "score": 911,
+      "comments": 420,
+      "date": "2026-08-29T17:49:01.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Zod v4.5 adds schema compilation (3-9x faster validation)",
-      "url": "https://www.reddit.com/r/programming/comments/1w1sl70/zod_v45_adds_schema_compilation_39x_faster/",
-      "source": "Reddit",
-      "date": "2026-08-29T17:30:54.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Crossing Boundaries with Integration Events",
-      "url": "https://www.reddit.com/r/programming/comments/1w1q308/crossing_boundaries_with_integration_events/",
-      "source": "Reddit",
-      "date": "2026-08-29T15:52:00.000Z"
-    },
-    {
-      "id": "hn-49490870",
-      "title": "Nancy Grace Roman Space Telescope",
-      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "id": "hn-49478426",
+      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+      "url": "https://wilsonharper.net/projects/businesscard/",
       "source": "HackerNews",
-      "score": 118,
-      "comments": 57,
-      "date": "2026-08-29T15:48:02.000Z"
+      "score": 90,
+      "comments": 9,
+      "date": "2026-08-28T13:48:12.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Coding a database proxy for fun",
-      "url": "https://www.reddit.com/r/programming/comments/1w1iiaw/coding_a_database_proxy_for_fun/",
-      "source": "Reddit",
-      "date": "2026-08-29T10:01:37.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Crystal Lang: Releasing Execution Contexts",
-      "url": "https://www.reddit.com/r/programming/comments/1w1bjk0/crystal_lang_releasing_execution_contexts/",
-      "source": "Reddit",
-      "date": "2026-08-29T03:34:16.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Lean explained with TypeScript",
-      "url": "https://www.reddit.com/r/programming/comments/1w190pi/lean_explained_with_typescript/",
-      "source": "Reddit",
-      "date": "2026-08-29T01:30:41.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "htmx 4.0.0 has been released!",
-      "url": "https://www.reddit.com/r/programming/comments/1w0w1pp/htmx_400_has_been_released/",
-      "source": "Reddit",
-      "date": "2026-08-28T16:54:22.000Z"
-    },
-    {
-      "id": "hn-49450248",
-      "title": "Is it safe to call print in a Python signal handler?",
-      "url": "https://iafisher.com/2026/08/sigprint",
+      "id": "hn-49450461",
+      "title": "Commercially Available Bike Generators Are Not Sustainable (2011)",
+      "url": "https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/",
       "source": "HackerNews",
-      "score": 9,
-      "comments": 0,
-      "date": "2026-08-26T14:53:41.000Z"
+      "score": 21,
+      "comments": 13,
+      "date": "2026-08-26T15:04:44.000Z"
     },
     {
-      "id": "hn-49426995",
-      "title": "SQLite as a Document Database (2020)",
-      "url": "https://dgl.cx/2020/06/sqlite-json-support",
+      "id": "hn-49446705",
+      "title": "Relm4 makes developing beautiful cross-platform applications idiomatic",
+      "url": "https://relm4.org/",
       "source": "HackerNews",
-      "score": 169,
-      "comments": 45,
-      "date": "2026-08-24T23:00:10.000Z"
+      "score": 11,
+      "comments": 3,
+      "date": "2026-08-26T10:38:56.000Z"
     },
     {
-      "id": "hn-49415386",
-      "title": "Tether: iMessage, SMS, etc. on Linux",
-      "url": "https://zackbartel.com/blog/2026/08/tether/",
+      "id": "hn-49435285",
+      "title": "Sort branches by last commit date",
+      "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
       "source": "HackerNews",
-      "score": 338,
-      "comments": 135,
-      "date": "2026-08-24T05:09:23.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
-      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-      "source": "Reddit",
-      "date": "2026-05-23T13:54:37.000Z"
+      "score": 84,
+      "comments": 26,
+      "date": "2026-08-25T14:57:00.000Z"
     }
   ]
 }
