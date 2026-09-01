@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-08-31T01:11:02.927Z",
-  "total": 20,
+  "updatedAt": "2026-09-01T01:42:50.434Z",
+  "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "A new getting started experience for ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/clickhouse-managed-postgres-onboarding",
       "source": "ClickHouse",
-      "date": "2026-08-31T01:11:02.688Z"
+      "date": "2026-09-01T01:42:49.901Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "A universal interface: How QuintoAndar made ClickHouse plug-and-play with managed Postgres",
       "url": "https://clickhouse.com/blog/quintoandar-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-08-31T01:11:02.688Z"
+      "date": "2026-09-01T01:42:49.901Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "So, is ClickHouse winning the observability wars?",
       "url": "https://clickhouse.com/blog/is-clickhouse-winning-the-observability-wars",
       "source": "ClickHouse",
-      "date": "2026-08-31T01:11:02.688Z"
+      "date": "2026-09-01T01:42:49.901Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in the ClickHouse .NET Driver: the road from 1.0 to 1.3",
       "url": "https://clickhouse.com/blog/whats-new-clickhouse-net-driver-10-to-13",
       "source": "ClickHouse",
-      "date": "2026-08-31T01:11:02.688Z"
+      "date": "2026-09-01T01:42:49.901Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Suprema Gaming made its data platform agent-ready with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/suprema-gaming-agent-ready-platform",
       "source": "ClickHouse",
-      "date": "2026-08-31T01:11:02.688Z"
+      "date": "2026-09-01T01:42:49.901Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Read your writes: WAIT FOR in PostgreSQL 19",
       "url": "https://clickhouse.com/blog/postgresql-19-wait-for-read-your-writes",
       "source": "ClickHouse",
-      "date": "2026-08-31T01:11:02.688Z"
+      "date": "2026-09-01T01:42:49.901Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickGap: Autonomous QA for ClickHouse",
       "url": "https://clickhouse.com/blog/clickgap-autonomous-qa-for-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-08-31T01:11:02.688Z"
+      "date": "2026-09-01T01:42:49.901Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Ensuring reliable OpenTelemetry ingestion at scale",
       "url": "https://clickhouse.com/blog/reliable-opentelemetry-ingestion-at-scale",
       "source": "ClickHouse",
-      "date": "2026-08-31T01:11:02.688Z"
+      "date": "2026-09-01T01:42:49.901Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What else runs on your Postgres server, and how do we stop it from taking the database down?",
       "url": "https://clickhouse.com/blog/protect-postgres-from-supporting-processes",
       "source": "ClickHouse",
-      "date": "2026-08-31T01:11:02.688Z"
+      "date": "2026-09-01T01:42:49.901Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "August 2026 newsletter",
       "url": "https://clickhouse.com/blog/202608-newsletter",
       "source": "ClickHouse",
-      "date": "2026-08-31T01:11:02.688Z"
+      "date": "2026-09-01T01:42:49.901Z"
     },
     {
-      "id": "hn-49503601",
-      "title": "“I just chose words carefully”",
-      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "id": "hn-49516199",
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "url": "https://datacolada.org/138",
       "source": "HackerNews",
-      "score": 224,
-      "comments": 58,
-      "date": "2026-08-30T22:49:48.000Z"
+      "score": 64,
+      "comments": 35,
+      "date": "2026-08-31T23:45:56.000Z"
     },
     {
-      "id": "hn-49502611",
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "id": "hn-49515830",
+      "title": "Run macOS Software on Linux",
+      "url": "https://www.darlinghq.org/",
       "source": "HackerNews",
-      "score": 52,
-      "comments": 14,
-      "date": "2026-08-30T20:46:53.000Z"
+      "score": 91,
+      "comments": 23,
+      "date": "2026-08-31T22:53:45.000Z"
     },
     {
-      "id": "hn-49502214",
-      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+      "id": "hn-49515662",
+      "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+      "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
       "source": "HackerNews",
-      "score": 71,
-      "comments": 12,
-      "date": "2026-08-30T20:00:25.000Z"
+      "score": 37,
+      "comments": 24,
+      "date": "2026-08-31T22:32:22.000Z"
     },
     {
-      "id": "hn-49501611",
-      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-      "url": "https://github.com/KodeMunkie/sm750hdmifb",
-      "source": "HackerNews",
-      "score": 65,
-      "comments": 33,
-      "date": "2026-08-30T18:49:08.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "io_uring without readahead",
+      "url": "https://www.reddit.com/r/programming/comments/1w3sd0i/io_uring_without_readahead/",
+      "source": "Reddit",
+      "date": "2026-08-31T21:54:51.000Z"
     },
     {
-      "id": "hn-49499867",
-      "title": "Haiku R1/beta6 has been released",
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "id": "hn-49514878",
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
       "source": "HackerNews",
-      "score": 248,
-      "comments": 75,
-      "date": "2026-08-30T16:01:10.000Z"
+      "score": 498,
+      "comments": 398,
+      "date": "2026-08-31T21:10:58.000Z"
     },
     {
-      "id": "hn-49491791",
-      "title": "Creepy Crawlies",
-      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-      "source": "HackerNews",
-      "score": 911,
-      "comments": 420,
-      "date": "2026-08-29T17:49:01.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Terminating elegantly: a guide to graceful shutdowns",
+      "url": "https://www.reddit.com/r/programming/comments/1w3qjlo/terminating_elegantly_a_guide_to_graceful/",
+      "source": "Reddit",
+      "date": "2026-08-31T20:50:00.000Z"
     },
     {
-      "id": "hn-49478426",
-      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
-      "url": "https://wilsonharper.net/projects/businesscard/",
-      "source": "HackerNews",
-      "score": 90,
-      "comments": 9,
-      "date": "2026-08-28T13:48:12.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "35 years later, Torvalds' hobby project remains developed worldwide.",
+      "url": "https://www.reddit.com/r/programming/comments/1w3nct8/35_years_later_torvalds_hobby_project_remains/",
+      "source": "Reddit",
+      "date": "2026-08-31T19:01:04.000Z"
     },
     {
-      "id": "hn-49450461",
-      "title": "Commercially Available Bike Generators Are Not Sustainable (2011)",
-      "url": "https://solar.lowtechmagazine.com/2011/05/bike-powered-electricity-generators-are-not-sustainable/",
+      "id": "hn-49512975",
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
       "source": "HackerNews",
-      "score": 21,
-      "comments": 13,
-      "date": "2026-08-26T15:04:44.000Z"
+      "score": 209,
+      "comments": 29,
+      "date": "2026-08-31T18:21:33.000Z"
     },
     {
-      "id": "hn-49446705",
-      "title": "Relm4 makes developing beautiful cross-platform applications idiomatic",
-      "url": "https://relm4.org/",
+      "id": "hn-49511856",
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
       "source": "HackerNews",
-      "score": 11,
-      "comments": 3,
-      "date": "2026-08-26T10:38:56.000Z"
+      "score": 361,
+      "comments": 93,
+      "date": "2026-08-31T16:47:11.000Z"
     },
     {
-      "id": "hn-49435285",
-      "title": "Sort branches by last commit date",
-      "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Node.js sandboxes powered by QuickJS and WebAssembly",
+      "url": "https://www.reddit.com/r/programming/comments/1w3j5hj/nodejs_sandboxes_powered_by_quickjs_and/",
+      "source": "Reddit",
+      "date": "2026-08-31T16:39:10.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "A Self-Baked Async FFI Framework for Rust C# Interop",
+      "url": "https://www.reddit.com/r/programming/comments/1w3gj0n/a_selfbaked_async_ffi_framework_for_rust_c_interop/",
+      "source": "Reddit",
+      "date": "2026-08-31T15:07:26.000Z"
+    },
+    {
+      "id": "hn-49510514",
+      "title": "Playa Phone",
+      "url": "https://playaphone.com/",
       "source": "HackerNews",
-      "score": 84,
-      "comments": 26,
-      "date": "2026-08-25T14:57:00.000Z"
+      "score": 495,
+      "comments": 182,
+      "date": "2026-08-31T14:52:26.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Please, I beg you, we need to stop using Stored Procedures (from applications)",
+      "url": "https://www.reddit.com/r/programming/comments/1w3blbq/please_i_beg_you_we_need_to_stop_using_stored/",
+      "source": "Reddit",
+      "date": "2026-08-31T11:56:12.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Hugging Face incident from a security engineering perspective",
+      "url": "https://www.reddit.com/r/programming/comments/1w39te8/the_hugging_face_incident_from_a_security/",
+      "source": "Reddit",
+      "date": "2026-08-31T10:29:41.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "a CVE dispute",
+      "url": "https://www.reddit.com/r/programming/comments/1w39988/a_cve_dispute/",
+      "source": "Reddit",
+      "date": "2026-08-31T10:00:30.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "p99 0 ms* autocomplete for 240 million domain names",
+      "url": "https://www.reddit.com/r/programming/comments/1w2yw8j/p99_0_ms_autocomplete_for_240_million_domain_names/",
+      "source": "Reddit",
+      "date": "2026-08-31T01:00:56.000Z"
+    },
+    {
+      "id": "hn-49503521",
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "source": "HackerNews",
+      "score": 203,
+      "comments": 23,
+      "date": "2026-08-30T22:37:01.000Z"
+    },
+    {
+      "id": "hn-49494181",
+      "title": "Lion-man – the oldest confirmed statue ever discovered",
+      "url": "https://en.wikipedia.org/wiki/Lion-man",
+      "source": "HackerNews",
+      "score": 44,
+      "comments": 18,
+      "date": "2026-08-29T23:17:15.000Z"
+    },
+    {
+      "id": "hn-49476239",
+      "title": "'Mad honey' that can stop your heart is being sold online",
+      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
+      "source": "HackerNews",
+      "score": 130,
+      "comments": 82,
+      "date": "2026-08-28T09:17:27.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "Reddit",
+      "date": "2026-05-23T13:54:37.000Z"
     }
   ]
 }
