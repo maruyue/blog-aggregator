@@ -1,92 +1,206 @@
 {
-  "updatedAt": "2026-09-03T00:59:55.739Z",
+  "updatedAt": "2026-09-04T00:55:43.308Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "From Neon Postgres to ClickHouse Managed Postgres",
+      "url": "https://clickhouse.com/blog/neon-to-clickhouse-managed-postgres",
+      "source": "ClickHouse",
+      "date": "2026-09-04T00:55:43.308Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "MySQL CDC connector for ClickPipes is now Generally Available",
       "url": "https://clickhouse.com/blog/mysql-cdc-connector-for-clickpipes-is-now-generally-available",
       "source": "ClickHouse",
-      "date": "2026-09-03T00:59:55.702Z"
+      "date": "2026-09-04T00:55:43.308Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "New system views in PostgreSQL 19",
       "url": "https://clickhouse.com/blog/postgres-19-new-system-views",
       "source": "ClickHouse",
-      "date": "2026-09-03T00:59:55.702Z"
+      "date": "2026-09-04T00:55:43.308Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse welcomes RunReveal",
       "url": "https://clickhouse.com/blog/clickhouse-welcomes-runreveal",
       "source": "ClickHouse",
-      "date": "2026-09-03T00:59:55.702Z"
+      "date": "2026-09-04T00:55:43.308Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The Agentic Analytics Benchmark: Measuring model accuracy and efficiency in analytical agents",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-data-agent-mnist",
       "source": "ClickHouse",
-      "date": "2026-09-03T00:59:55.702Z"
+      "date": "2026-09-04T00:55:43.308Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Uken Games reduces observability costs by 87% with ClickHouse",
       "url": "https://clickhouse.com/blog/uken-games-clickhouse-observability-stack",
       "source": "ClickHouse",
-      "date": "2026-09-03T00:59:55.702Z"
+      "date": "2026-09-04T00:55:43.308Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "A new getting started experience for ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/clickhouse-managed-postgres-onboarding",
       "source": "ClickHouse",
-      "date": "2026-09-03T00:59:55.702Z"
+      "date": "2026-09-04T00:55:43.308Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "A universal interface: How QuintoAndar made ClickHouse plug-and-play with managed Postgres",
       "url": "https://clickhouse.com/blog/quintoandar-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-09-03T00:59:55.702Z"
+      "date": "2026-09-04T00:55:43.308Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "So, is ClickHouse winning the observability wars?",
       "url": "https://clickhouse.com/blog/is-clickhouse-winning-the-observability-wars",
       "source": "ClickHouse",
-      "date": "2026-09-03T00:59:55.702Z"
+      "date": "2026-09-04T00:55:43.308Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "What&#x27;s new in the ClickHouse .NET Driver: the road from 1.0 to 1.3",
-      "url": "https://clickhouse.com/blog/whats-new-clickhouse-net-driver-10-to-13",
+      "title": "Introducing Scheduled Upgrades in ClickHouse Managed Postgres",
+      "url": "https://clickhouse.com/blog/introducing-scheduled-upgrades-in-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-09-03T00:59:55.702Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Suprema Gaming made its data platform agent-ready with ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/suprema-gaming-agent-ready-platform",
-      "source": "ClickHouse",
-      "date": "2026-09-03T00:59:55.702Z"
-    },
-    {
-      "id": "hn-49543530",
-      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
-      "url": "https://ronanrx.com/",
-      "source": "HackerNews",
-      "score": 21,
-      "comments": 20,
-      "date": "2026-09-02T22:36:04.000Z"
+      "date": "2026-09-04T00:55:43.307Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Squeezing Performance out of eBPF",
-      "url": "https://www.reddit.com/r/programming/comments/1w5p84l/squeezing_performance_out_of_ebpf/",
+      "title": "Linked Lists in the Linux kernel",
+      "url": "https://www.reddit.com/r/programming/comments/1w6m8qg/linked_lists_in_the_linux_kernel/",
       "source": "Reddit",
-      "date": "2026-09-02T22:23:00.000Z"
+      "date": "2026-09-03T22:25:43.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Performance Characterization of SPEC CPU 2026 on AMD EPYC 9755 Processor",
+      "url": "https://www.reddit.com/r/programming/comments/1w6lyus/performance_characterization_of_spec_cpu_2026_on/",
+      "source": "Reddit",
+      "date": "2026-09-03T22:14:47.000Z"
+    },
+    {
+      "id": "hn-49557206",
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "source": "HackerNews",
+      "score": 79,
+      "comments": 22,
+      "date": "2026-09-03T21:20:34.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "[PDF] Lost Bytes At The Crossroads Between User- And Kernel-Level Memory Allocation",
+      "url": "https://www.reddit.com/r/programming/comments/1w6hm8j/pdf_lost_bytes_at_the_crossroads_between_user_and/",
+      "source": "Reddit",
+      "date": "2026-09-03T19:34:37.000Z"
+    },
+    {
+      "id": "hn-49554643",
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "source": "HackerNews",
+      "score": 1258,
+      "comments": 988,
+      "date": "2026-09-03T18:41:05.000Z"
+    },
+    {
+      "id": "hn-49554520",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "source": "HackerNews",
+      "score": 439,
+      "comments": 128,
+      "date": "2026-09-03T18:32:13.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Zig's Io.Threaded is Neat",
+      "url": "https://www.reddit.com/r/programming/comments/1w6cr6j/zigs_iothreaded_is_neat/",
+      "source": "Reddit",
+      "date": "2026-09-03T16:44:15.000Z"
+    },
+    {
+      "id": "hn-49552572",
+      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+      "source": "HackerNews",
+      "score": 138,
+      "comments": 43,
+      "date": "2026-09-03T16:21:33.000Z"
+    },
+    {
+      "id": "hn-49551760",
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "url": "https://ifm.ai/blog/k2/",
+      "source": "HackerNews",
+      "score": 248,
+      "comments": 82,
+      "date": "2026-09-03T15:36:43.000Z"
+    },
+    {
+      "id": "hn-49550772",
+      "title": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "source": "HackerNews",
+      "score": 1311,
+      "comments": 369,
+      "date": "2026-09-03T14:54:39.000Z"
+    },
+    {
+      "id": "hn-49550698",
+      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+      "url": "https://anyhumanever.com/",
+      "source": "HackerNews",
+      "score": 459,
+      "comments": 229,
+      "date": "2026-09-03T14:51:10.000Z"
+    },
+    {
+      "id": "hn-49550375",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "source": "HackerNews",
+      "score": 187,
+      "comments": 57,
+      "date": "2026-09-03T14:28:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Maybe you don't need GraphQL",
+      "url": "https://www.reddit.com/r/programming/comments/1w67dpg/maybe_you_dont_need_graphql/",
+      "source": "Reddit",
+      "date": "2026-09-03T13:26:30.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Virtual Memory: Page Tables, TLBs, and Linux Internals",
+      "url": "https://www.reddit.com/r/programming/comments/1w66qky/virtual_memory_page_tables_tlbs_and_linux/",
+      "source": "Reddit",
+      "date": "2026-09-03T13:00:28.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Branch‑Avoidant Programming",
+      "url": "https://www.reddit.com/r/programming/comments/1w630ne/branchavoidant_programming/",
+      "source": "Reddit",
+      "date": "2026-09-03T10:00:28.000Z"
+    },
+    {
+      "id": "hn-49544618",
+      "title": "GPS glitched across the US by as much as 33 feet",
+      "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+      "source": "HackerNews",
+      "score": 109,
+      "comments": 52,
+      "date": "2026-09-03T00:49:07.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -96,40 +210,6 @@
       "date": "2026-09-02T22:08:52.000Z"
     },
     {
-      "id": "hn-49543007",
-      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
-      "url": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
-      "source": "HackerNews",
-      "score": 84,
-      "comments": 41,
-      "date": "2026-09-02T21:46:33.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Let's build a compressor from scratch",
-      "url": "https://www.reddit.com/r/programming/comments/1w5l8wx/lets_build_a_compressor_from_scratch/",
-      "source": "Reddit",
-      "date": "2026-09-02T19:56:50.000Z"
-    },
-    {
-      "id": "hn-49541458",
-      "title": "Fable 5.1 World Modeling",
-      "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "source": "HackerNews",
-      "score": 135,
-      "comments": 44,
-      "date": "2026-09-02T19:49:01.000Z"
-    },
-    {
-      "id": "hn-49541256",
-      "title": "Muse Spark 1.3",
-      "url": "https://developer.meta.com/ai/models/muse-spark/",
-      "source": "HackerNews",
-      "score": 371,
-      "comments": 244,
-      "date": "2026-09-02T19:35:04.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "Postgres Calculations and the Ambiguity of NULL",
       "url": "https://www.reddit.com/r/programming/comments/1w5gtxg/postgres_calculations_and_the_ambiguity_of_null/",
@@ -137,93 +217,13 @@
       "date": "2026-09-02T17:22:58.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "This Fence Has No Farmer",
-      "url": "https://www.reddit.com/r/programming/comments/1w5ff6s/this_fence_has_no_farmer/",
-      "source": "Reddit",
-      "date": "2026-09-02T16:34:12.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Data Access Patterns That Makes Your CPU Really Angry",
-      "url": "https://www.reddit.com/r/programming/comments/1w5ehl9/data_access_patterns_that_makes_your_cpu_really/",
-      "source": "Reddit",
-      "date": "2026-09-02T16:00:54.000Z"
-    },
-    {
-      "id": "hn-49537553",
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "id": "hn-49526453",
+      "title": "The largest electric aircraft just flew [video]",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
       "source": "HackerNews",
-      "score": 811,
-      "comments": 478,
-      "date": "2026-09-02T15:12:40.000Z"
-    },
-    {
-      "id": "hn-49537131",
-      "title": "Google avoids a breakup of its ad tech business",
-      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-      "source": "HackerNews",
-      "score": 250,
-      "comments": 163,
-      "date": "2026-09-02T14:46:16.000Z"
-    },
-    {
-      "id": "hn-49536375",
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "source": "HackerNews",
-      "score": 300,
-      "comments": 137,
-      "date": "2026-09-02T13:59:59.000Z"
-    },
-    {
-      "id": "hn-49535284",
-      "title": "Can I opt out of my input or output data being used for training?",
-      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "source": "HackerNews",
-      "score": 365,
-      "comments": 160,
-      "date": "2026-09-02T12:30:39.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Apache Kafka vs Apache Iggy: A Technical Comparison",
-      "url": "https://www.reddit.com/r/programming/comments/1w57nle/apache_kafka_vs_apache_iggy_a_technical_comparison/",
-      "source": "Reddit",
-      "date": "2026-09-02T11:28:12.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Beyond Lambdas: Raising the Abstraction Level of Functional Code",
-      "url": "https://www.reddit.com/r/programming/comments/1w53v9c/beyond_lambdas_raising_the_abstraction_level_of/",
-      "source": "Reddit",
-      "date": "2026-09-02T07:56:02.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Bazel's UX is really, really, really bad",
-      "url": "https://www.reddit.com/r/programming/comments/1w4fp67/bazels_ux_is_really_really_really_bad/",
-      "source": "Reddit",
-      "date": "2026-09-01T15:43:51.000Z"
-    },
-    {
-      "id": "hn-49508608",
-      "title": "Reverse Engineering Unknown File Formats with ImHex",
-      "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
-      "source": "HackerNews",
-      "score": 86,
-      "comments": 16,
-      "date": "2026-08-31T12:01:05.000Z"
-    },
-    {
-      "id": "hn-49508405",
-      "title": "Holden's Lightning Flight",
-      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
-      "source": "HackerNews",
-      "score": 46,
-      "comments": 1,
-      "date": "2026-08-31T11:29:44.000Z"
+      "score": 175,
+      "comments": 121,
+      "date": "2026-09-01T19:02:34.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
