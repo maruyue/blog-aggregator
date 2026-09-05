@@ -1,76 +1,192 @@
 {
-  "updatedAt": "2026-09-04T00:55:43.308Z",
+  "updatedAt": "2026-09-05T00:42:23.310Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "From Neon Postgres to ClickHouse Managed Postgres",
-      "url": "https://clickhouse.com/blog/neon-to-clickhouse-managed-postgres",
+      "title": "ClickHouse as a streaming HTTP API",
+      "url": "https://clickhouse.com/blog/clickhouse-streaming-http-api",
       "source": "ClickHouse",
-      "date": "2026-09-04T00:55:43.308Z"
+      "date": "2026-09-05T00:42:23.179Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "MySQL CDC connector for ClickPipes is now Generally Available",
-      "url": "https://clickhouse.com/blog/mysql-cdc-connector-for-clickpipes-is-now-generally-available",
+      "title": "Pipelined SQL in ClickHouse 26.8",
+      "url": "https://clickhouse.com/blog/pipelined-sql-26.8",
       "source": "ClickHouse",
-      "date": "2026-09-04T00:55:43.308Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "New system views in PostgreSQL 19",
-      "url": "https://clickhouse.com/blog/postgres-19-new-system-views",
-      "source": "ClickHouse",
-      "date": "2026-09-04T00:55:43.308Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse welcomes RunReveal",
-      "url": "https://clickhouse.com/blog/clickhouse-welcomes-runreveal",
-      "source": "ClickHouse",
-      "date": "2026-09-04T00:55:43.308Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "The Agentic Analytics Benchmark: Measuring model accuracy and efficiency in analytical agents",
-      "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-data-agent-mnist",
-      "source": "ClickHouse",
-      "date": "2026-09-04T00:55:43.308Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Uken Games reduces observability costs by 87% with ClickHouse",
-      "url": "https://clickhouse.com/blog/uken-games-clickhouse-observability-stack",
-      "source": "ClickHouse",
-      "date": "2026-09-04T00:55:43.308Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "A new getting started experience for ClickHouse Managed Postgres",
-      "url": "https://clickhouse.com/blog/clickhouse-managed-postgres-onboarding",
-      "source": "ClickHouse",
-      "date": "2026-09-04T00:55:43.308Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "A universal interface: How QuintoAndar made ClickHouse plug-and-play with managed Postgres",
-      "url": "https://clickhouse.com/blog/quintoandar-managed-postgres",
-      "source": "ClickHouse",
-      "date": "2026-09-04T00:55:43.308Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "So, is ClickHouse winning the observability wars?",
-      "url": "https://clickhouse.com/blog/is-clickhouse-winning-the-observability-wars",
-      "source": "ClickHouse",
-      "date": "2026-09-04T00:55:43.308Z"
+      "date": "2026-09-05T00:42:23.179Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing Scheduled Upgrades in ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/introducing-scheduled-upgrades-in-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-09-04T00:55:43.307Z"
+      "date": "2026-09-05T00:42:23.179Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "From Neon Postgres to ClickHouse Managed Postgres",
+      "url": "https://clickhouse.com/blog/neon-to-clickhouse-managed-postgres",
+      "source": "ClickHouse",
+      "date": "2026-09-05T00:42:23.179Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "MySQL CDC connector for ClickPipes is now Generally Available",
+      "url": "https://clickhouse.com/blog/mysql-cdc-connector-for-clickpipes-is-now-generally-available",
+      "source": "ClickHouse",
+      "date": "2026-09-05T00:42:23.179Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "New system views in PostgreSQL 19",
+      "url": "https://clickhouse.com/blog/postgres-19-new-system-views",
+      "source": "ClickHouse",
+      "date": "2026-09-05T00:42:23.179Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse welcomes RunReveal",
+      "url": "https://clickhouse.com/blog/clickhouse-welcomes-runreveal",
+      "source": "ClickHouse",
+      "date": "2026-09-05T00:42:23.179Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "The Agentic Analytics Benchmark: Measuring model accuracy and efficiency in analytical agents",
+      "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-data-agent-mnist",
+      "source": "ClickHouse",
+      "date": "2026-09-05T00:42:23.179Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How Uken Games reduces observability costs by 87% with ClickHouse",
+      "url": "https://clickhouse.com/blog/uken-games-clickhouse-observability-stack",
+      "source": "ClickHouse",
+      "date": "2026-09-05T00:42:23.179Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "A new getting started experience for ClickHouse Managed Postgres",
+      "url": "https://clickhouse.com/blog/clickhouse-managed-postgres-onboarding",
+      "source": "ClickHouse",
+      "date": "2026-09-05T00:42:23.179Z"
+    },
+    {
+      "id": "hn-49571632",
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "source": "HackerNews",
+      "score": 12,
+      "comments": 0,
+      "date": "2026-09-05T00:04:14.000Z"
+    },
+    {
+      "id": "hn-49571047",
+      "title": "Can guitar frets perform multiplication?",
+      "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
+      "source": "HackerNews",
+      "score": 20,
+      "comments": 2,
+      "date": "2026-09-04T22:40:30.000Z"
+    },
+    {
+      "id": "hn-49570669",
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "source": "HackerNews",
+      "score": 171,
+      "comments": 85,
+      "date": "2026-09-04T21:52:01.000Z"
+    },
+    {
+      "id": "hn-49570545",
+      "title": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "source": "HackerNews",
+      "score": 100,
+      "comments": 46,
+      "date": "2026-09-04T21:39:19.000Z"
+    },
+    {
+      "id": "hn-49569896",
+      "title": "Statichost.eu – European static site hosting",
+      "url": "https://www.statichost.eu/",
+      "source": "HackerNews",
+      "score": 161,
+      "comments": 53,
+      "date": "2026-09-04T20:34:49.000Z"
+    },
+    {
+      "id": "hn-49569366",
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "source": "HackerNews",
+      "score": 147,
+      "comments": 87,
+      "date": "2026-09-04T19:48:29.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": ".name Termination",
+      "url": "https://www.reddit.com/r/programming/comments/1w7dn8q/name_termination/",
+      "source": "Reddit",
+      "date": "2026-09-04T19:06:31.000Z"
+    },
+    {
+      "id": "hn-49568579",
+      "title": "Shutting down our public encrypted DNS",
+      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+      "source": "HackerNews",
+      "score": 236,
+      "comments": 86,
+      "date": "2026-09-04T18:50:28.000Z"
+    },
+    {
+      "id": "hn-49568506",
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "source": "HackerNews",
+      "score": 455,
+      "comments": 302,
+      "date": "2026-09-04T18:42:56.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Digital audio between synthesizers",
+      "url": "https://www.reddit.com/r/programming/comments/1w768jr/digital_audio_between_synthesizers/",
+      "source": "Reddit",
+      "date": "2026-09-04T14:38:48.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How Email Actually Works",
+      "url": "https://www.reddit.com/r/programming/comments/1w76479/how_email_actually_works/",
+      "source": "Reddit",
+      "date": "2026-09-04T14:34:11.000Z"
+    },
+    {
+      "id": "hn-49563355",
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "source": "HackerNews",
+      "score": 1448,
+      "comments": 1165,
+      "date": "2026-09-04T11:54:53.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Avoid adding new library to project: 10-year retrospective",
+      "url": "https://www.reddit.com/r/programming/comments/1w721ry/avoid_adding_new_library_to_project_10year/",
+      "source": "Reddit",
+      "date": "2026-09-04T11:44:45.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Understanding RabbitMQ in Simple Terms",
+      "url": "https://www.reddit.com/r/programming/comments/1w6tdke/understanding_rabbitmq_in_simple_terms/",
+      "source": "Reddit",
+      "date": "2026-09-04T03:50:09.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -78,99 +194,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1w6m8qg/linked_lists_in_the_linux_kernel/",
       "source": "Reddit",
       "date": "2026-09-03T22:25:43.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Performance Characterization of SPEC CPU 2026 on AMD EPYC 9755 Processor",
-      "url": "https://www.reddit.com/r/programming/comments/1w6lyus/performance_characterization_of_spec_cpu_2026_on/",
-      "source": "Reddit",
-      "date": "2026-09-03T22:14:47.000Z"
-    },
-    {
-      "id": "hn-49557206",
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "source": "HackerNews",
-      "score": 79,
-      "comments": 22,
-      "date": "2026-09-03T21:20:34.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "[PDF] Lost Bytes At The Crossroads Between User- And Kernel-Level Memory Allocation",
-      "url": "https://www.reddit.com/r/programming/comments/1w6hm8j/pdf_lost_bytes_at_the_crossroads_between_user_and/",
-      "source": "Reddit",
-      "date": "2026-09-03T19:34:37.000Z"
-    },
-    {
-      "id": "hn-49554643",
-      "title": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "source": "HackerNews",
-      "score": 1258,
-      "comments": 988,
-      "date": "2026-09-03T18:41:05.000Z"
-    },
-    {
-      "id": "hn-49554520",
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "source": "HackerNews",
-      "score": 439,
-      "comments": 128,
-      "date": "2026-09-03T18:32:13.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Zig's Io.Threaded is Neat",
-      "url": "https://www.reddit.com/r/programming/comments/1w6cr6j/zigs_iothreaded_is_neat/",
-      "source": "Reddit",
-      "date": "2026-09-03T16:44:15.000Z"
-    },
-    {
-      "id": "hn-49552572",
-      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
-      "source": "HackerNews",
-      "score": 138,
-      "comments": 43,
-      "date": "2026-09-03T16:21:33.000Z"
-    },
-    {
-      "id": "hn-49551760",
-      "title": "K2 Horizon: A connected fleet of six open models",
-      "url": "https://ifm.ai/blog/k2/",
-      "source": "HackerNews",
-      "score": 248,
-      "comments": 82,
-      "date": "2026-09-03T15:36:43.000Z"
-    },
-    {
-      "id": "hn-49550772",
-      "title": ".name Termination",
-      "url": "https://neil.fraser.name/news/2026/09/03/",
-      "source": "HackerNews",
-      "score": 1311,
-      "comments": 369,
-      "date": "2026-09-03T14:54:39.000Z"
-    },
-    {
-      "id": "hn-49550698",
-      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
-      "url": "https://anyhumanever.com/",
-      "source": "HackerNews",
-      "score": 459,
-      "comments": 229,
-      "date": "2026-09-03T14:51:10.000Z"
-    },
-    {
-      "id": "hn-49550375",
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "source": "HackerNews",
-      "score": 187,
-      "comments": 57,
-      "date": "2026-09-03T14:28:18.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -194,36 +217,13 @@
       "date": "2026-09-03T10:00:28.000Z"
     },
     {
-      "id": "hn-49544618",
-      "title": "GPS glitched across the US by as much as 33 feet",
-      "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+      "id": "hn-49546284",
+      "title": "RSA-260 Factorized",
+      "url": "https://twitter.com/penlume/status/2095372672356212876",
       "source": "HackerNews",
-      "score": 109,
-      "comments": 52,
-      "date": "2026-09-03T00:49:07.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "CTTI is Exponential, RTTI is Linear",
-      "url": "https://www.reddit.com/r/programming/comments/1w5ov1s/ctti_is_exponential_rtti_is_linear/",
-      "source": "Reddit",
-      "date": "2026-09-02T22:08:52.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Postgres Calculations and the Ambiguity of NULL",
-      "url": "https://www.reddit.com/r/programming/comments/1w5gtxg/postgres_calculations_and_the_ambiguity_of_null/",
-      "source": "Reddit",
-      "date": "2026-09-02T17:22:58.000Z"
-    },
-    {
-      "id": "hn-49526453",
-      "title": "The largest electric aircraft just flew [video]",
-      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-      "source": "HackerNews",
-      "score": 175,
-      "comments": 121,
-      "date": "2026-09-01T19:02:34.000Z"
+      "score": 50,
+      "comments": 17,
+      "date": "2026-09-03T05:35:31.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
