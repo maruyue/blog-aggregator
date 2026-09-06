@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T00:42:23.310Z",
+  "updatedAt": "2026-09-06T00:41:59.237Z",
   "total": 30,
   "articles": [
     {
@@ -7,124 +7,168 @@
       "title": "ClickHouse as a streaming HTTP API",
       "url": "https://clickhouse.com/blog/clickhouse-streaming-http-api",
       "source": "ClickHouse",
-      "date": "2026-09-05T00:42:23.179Z"
+      "date": "2026-09-06T00:41:59.237Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Pipelined SQL in ClickHouse 26.8",
       "url": "https://clickhouse.com/blog/pipelined-sql-26.8",
       "source": "ClickHouse",
-      "date": "2026-09-05T00:42:23.179Z"
+      "date": "2026-09-06T00:41:59.237Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing Scheduled Upgrades in ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/introducing-scheduled-upgrades-in-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-09-05T00:42:23.179Z"
+      "date": "2026-09-06T00:41:59.237Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "From Neon Postgres to ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/neon-to-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-09-05T00:42:23.179Z"
+      "date": "2026-09-06T00:41:59.237Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "MySQL CDC connector for ClickPipes is now Generally Available",
       "url": "https://clickhouse.com/blog/mysql-cdc-connector-for-clickpipes-is-now-generally-available",
       "source": "ClickHouse",
-      "date": "2026-09-05T00:42:23.179Z"
+      "date": "2026-09-06T00:41:59.237Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "New system views in PostgreSQL 19",
       "url": "https://clickhouse.com/blog/postgres-19-new-system-views",
       "source": "ClickHouse",
-      "date": "2026-09-05T00:42:23.179Z"
+      "date": "2026-09-06T00:41:59.237Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse welcomes RunReveal",
       "url": "https://clickhouse.com/blog/clickhouse-welcomes-runreveal",
       "source": "ClickHouse",
-      "date": "2026-09-05T00:42:23.179Z"
+      "date": "2026-09-06T00:41:59.237Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The Agentic Analytics Benchmark: Measuring model accuracy and efficiency in analytical agents",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-data-agent-mnist",
       "source": "ClickHouse",
-      "date": "2026-09-05T00:42:23.179Z"
+      "date": "2026-09-06T00:41:59.237Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Uken Games reduces observability costs by 87% with ClickHouse",
       "url": "https://clickhouse.com/blog/uken-games-clickhouse-observability-stack",
       "source": "ClickHouse",
-      "date": "2026-09-05T00:42:23.179Z"
+      "date": "2026-09-06T00:41:59.237Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "A new getting started experience for ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/clickhouse-managed-postgres-onboarding",
       "source": "ClickHouse",
-      "date": "2026-09-05T00:42:23.179Z"
+      "date": "2026-09-06T00:41:59.237Z"
     },
     {
-      "id": "hn-49571632",
-      "title": "Artificial Analysis Intelligence Index v4.2",
-      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "id": "hn-49582000",
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "url": "https://cloudinabottle.org/blog/launch-post",
       "source": "HackerNews",
-      "score": 12,
-      "comments": 0,
-      "date": "2026-09-05T00:04:14.000Z"
+      "score": 32,
+      "comments": 10,
+      "date": "2026-09-06T00:03:29.000Z"
     },
     {
-      "id": "hn-49571047",
-      "title": "Can guitar frets perform multiplication?",
-      "url": "https://www.charlespetzold.com/blog/2026/09/Can-Guitar-Frets-Perform-Multiplication.html",
-      "source": "HackerNews",
-      "score": 20,
-      "comments": 2,
-      "date": "2026-09-04T22:40:30.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "I wrote a lighthearted guide to learning Monads - maybe you like",
+      "url": "https://www.reddit.com/r/programming/comments/1w8ft2i/i_wrote_a_lighthearted_guide_to_learning_monads/",
+      "source": "Reddit",
+      "date": "2026-09-05T23:23:34.000Z"
     },
     {
-      "id": "hn-49570669",
-      "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "id": "hn-49580939",
+      "title": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
       "source": "HackerNews",
-      "score": 171,
-      "comments": 85,
-      "date": "2026-09-04T21:52:01.000Z"
+      "score": 42,
+      "comments": 14,
+      "date": "2026-09-05T21:37:49.000Z"
     },
     {
-      "id": "hn-49570545",
-      "title": "GPT-6 Astra on OpenRouter",
-      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "id": "hn-49580369",
+      "title": "Private German rocket makes history, reaches orbit from European soil",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
       "source": "HackerNews",
-      "score": 100,
-      "comments": 46,
-      "date": "2026-09-04T21:39:19.000Z"
+      "score": 335,
+      "comments": 170,
+      "date": "2026-09-05T20:31:38.000Z"
     },
     {
-      "id": "hn-49569896",
-      "title": "Statichost.eu – European static site hosting",
-      "url": "https://www.statichost.eu/",
+      "id": "hn-49580329",
+      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
       "source": "HackerNews",
-      "score": 161,
-      "comments": 53,
-      "date": "2026-09-04T20:34:49.000Z"
+      "score": 55,
+      "comments": 21,
+      "date": "2026-09-05T20:25:59.000Z"
     },
     {
-      "id": "hn-49569366",
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "id": "hn-49578280",
+      "title": "Learn Programming with OCaml",
+      "url": "https://usr.lmf.cnrs.fr/lpo/",
       "source": "HackerNews",
-      "score": 147,
-      "comments": 87,
-      "date": "2026-09-04T19:48:29.000Z"
+      "score": 164,
+      "comments": 69,
+      "date": "2026-09-05T16:45:02.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "There's No Limit to How Bad Code Can Get",
+      "url": "https://www.reddit.com/r/programming/comments/1w81w2j/theres_no_limit_to_how_bad_code_can_get/",
+      "source": "Reddit",
+      "date": "2026-09-05T14:14:26.000Z"
+    },
+    {
+      "id": "hn-49576386",
+      "title": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
+      "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
+      "source": "HackerNews",
+      "score": 271,
+      "comments": 84,
+      "date": "2026-09-05T13:36:38.000Z"
+    },
+    {
+      "id": "hn-49576343",
+      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+      "source": "HackerNews",
+      "score": 126,
+      "comments": 14,
+      "date": "2026-09-05T13:31:05.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": ".gitignore everything by default",
+      "url": "https://www.reddit.com/r/programming/comments/1w80olh/gitignore_everything_by_default/",
+      "source": "Reddit",
+      "date": "2026-09-05T13:23:49.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The NX bit is not just about security",
+      "url": "https://www.reddit.com/r/programming/comments/1w7vcf3/the_nx_bit_is_not_just_about_security/",
+      "source": "Reddit",
+      "date": "2026-09-05T08:50:06.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Principles of Memory Management in Java",
+      "url": "https://www.reddit.com/r/programming/comments/1w7rkbm/principles_of_memory_management_in_java/",
+      "source": "Reddit",
+      "date": "2026-09-05T05:18:39.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -132,24 +176,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1w7dn8q/name_termination/",
       "source": "Reddit",
       "date": "2026-09-04T19:06:31.000Z"
-    },
-    {
-      "id": "hn-49568579",
-      "title": "Shutting down our public encrypted DNS",
-      "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-      "source": "HackerNews",
-      "score": 236,
-      "comments": 86,
-      "date": "2026-09-04T18:50:28.000Z"
-    },
-    {
-      "id": "hn-49568506",
-      "title": "Formalizing Fermat's Last Theorem",
-      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-      "source": "HackerNews",
-      "score": 455,
-      "comments": 302,
-      "date": "2026-09-04T18:42:56.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -170,8 +196,8 @@
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
       "source": "HackerNews",
-      "score": 1448,
-      "comments": 1165,
+      "score": 2090,
+      "comments": 1514,
       "date": "2026-09-04T11:54:53.000Z"
     },
     {
@@ -182,48 +208,22 @@
       "date": "2026-09-04T11:44:45.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Understanding RabbitMQ in Simple Terms",
-      "url": "https://www.reddit.com/r/programming/comments/1w6tdke/understanding_rabbitmq_in_simple_terms/",
-      "source": "Reddit",
-      "date": "2026-09-04T03:50:09.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Linked Lists in the Linux kernel",
-      "url": "https://www.reddit.com/r/programming/comments/1w6m8qg/linked_lists_in_the_linux_kernel/",
-      "source": "Reddit",
-      "date": "2026-09-03T22:25:43.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Maybe you don't need GraphQL",
-      "url": "https://www.reddit.com/r/programming/comments/1w67dpg/maybe_you_dont_need_graphql/",
-      "source": "Reddit",
-      "date": "2026-09-03T13:26:30.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Virtual Memory: Page Tables, TLBs, and Linux Internals",
-      "url": "https://www.reddit.com/r/programming/comments/1w66qky/virtual_memory_page_tables_tlbs_and_linux/",
-      "source": "Reddit",
-      "date": "2026-09-03T13:00:28.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Branch‑Avoidant Programming",
-      "url": "https://www.reddit.com/r/programming/comments/1w630ne/branchavoidant_programming/",
-      "source": "Reddit",
-      "date": "2026-09-03T10:00:28.000Z"
-    },
-    {
-      "id": "hn-49546284",
-      "title": "RSA-260 Factorized",
-      "url": "https://twitter.com/penlume/status/2095372672356212876",
+      "id": "hn-49549778",
+      "title": "Balrogg: Demonically compacting (up to 15%) lossless Vorbis/Opus recompressor",
+      "url": "https://github.com/iczelia/balrogg",
       "source": "HackerNews",
-      "score": 50,
-      "comments": 17,
-      "date": "2026-09-03T05:35:31.000Z"
+      "score": 56,
+      "comments": 8,
+      "date": "2026-09-03T13:37:22.000Z"
+    },
+    {
+      "id": "hn-49548852",
+      "title": "How Swiss tables work in Go built-in map",
+      "url": "https://victoriametrics.com/blog/go-swiss-table-map/index.html",
+      "source": "HackerNews",
+      "score": 32,
+      "comments": 3,
+      "date": "2026-09-03T11:59:17.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
