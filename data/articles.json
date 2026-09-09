@@ -1,142 +1,213 @@
 {
-  "updatedAt": "2026-09-08T00:59:39.564Z",
+  "updatedAt": "2026-09-09T01:05:17.580Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Measuring real-time performance per dollar under continuous load: CostBench’s first end-to-end results",
+      "url": "https://clickhouse.com/blog/costbench-real-time-performance-per-dollar",
+      "source": "ClickHouse",
+      "date": "2026-09-09T01:05:17.545Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Introducing chdb Postgres extension: High-performance imports from cloud storage",
+      "url": "https://clickhouse.com/blog/introducing-chdb-postgres",
+      "source": "ClickHouse",
+      "date": "2026-09-09T01:05:17.545Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How MCP Toolbox turns agent text into ClickHouse vectors",
       "url": "https://clickhouse.com/blog/mcp-toolbox-clickhouse-vectors",
       "source": "ClickHouse",
-      "date": "2026-09-08T00:59:39.319Z"
+      "date": "2026-09-09T01:05:17.545Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse as a streaming HTTP API",
       "url": "https://clickhouse.com/blog/clickhouse-streaming-http-api",
       "source": "ClickHouse",
-      "date": "2026-09-08T00:59:39.319Z"
+      "date": "2026-09-09T01:05:17.545Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Build a real-time market data app with ClickHouse and Massive",
       "url": "https://clickhouse.com/blog/build-a-real-time-market-data-app-with-clickhouse-and-polygonio",
       "source": "ClickHouse",
-      "date": "2026-09-08T00:59:39.319Z"
+      "date": "2026-09-09T01:05:17.545Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Pipelined SQL in ClickHouse 26.8",
       "url": "https://clickhouse.com/blog/pipelined-sql-26.8",
       "source": "ClickHouse",
-      "date": "2026-09-08T00:59:39.319Z"
+      "date": "2026-09-09T01:05:17.545Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing Scheduled Upgrades in ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/introducing-scheduled-upgrades-in-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-09-08T00:59:39.319Z"
+      "date": "2026-09-09T01:05:17.545Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "From Neon Postgres to ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/neon-to-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-09-08T00:59:39.319Z"
+      "date": "2026-09-09T01:05:17.545Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "MySQL CDC connector for ClickPipes is now Generally Available",
       "url": "https://clickhouse.com/blog/mysql-cdc-connector-for-clickpipes-is-now-generally-available",
       "source": "ClickHouse",
-      "date": "2026-09-08T00:59:39.319Z"
+      "date": "2026-09-09T01:05:17.545Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "New system views in PostgreSQL 19",
       "url": "https://clickhouse.com/blog/postgres-19-new-system-views",
       "source": "ClickHouse",
-      "date": "2026-09-08T00:59:39.319Z"
+      "date": "2026-09-09T01:05:17.545Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse welcomes RunReveal",
-      "url": "https://clickhouse.com/blog/clickhouse-welcomes-runreveal",
-      "source": "ClickHouse",
-      "date": "2026-09-08T00:59:39.319Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "The Agentic Analytics Benchmark: Measuring model accuracy and efficiency in analytical agents",
-      "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-data-agent-mnist",
-      "source": "ClickHouse",
-      "date": "2026-09-08T00:59:39.319Z"
-    },
-    {
-      "id": "hn-49604150",
-      "title": "TALA Is Open-Source",
-      "url": "https://d2lang.com/blog/tala-is-open-source/",
+      "id": "hn-49618050",
+      "title": "A Topological Picture Book, Rendered",
+      "url": "https://e-infinity.space/picture-book/",
       "source": "HackerNews",
-      "score": 42,
-      "comments": 2,
-      "date": "2026-09-07T23:37:42.000Z"
+      "score": 40,
+      "comments": 5,
+      "date": "2026-09-08T22:28:14.000Z"
+    },
+    {
+      "id": "hn-49617581",
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "source": "HackerNews",
+      "score": 84,
+      "comments": 44,
+      "date": "2026-09-08T21:47:38.000Z"
+    },
+    {
+      "id": "hn-49617255",
+      "title": "How to build a printer",
+      "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "source": "HackerNews",
+      "score": 118,
+      "comments": 25,
+      "date": "2026-09-08T21:22:11.000Z"
+    },
+    {
+      "id": "hn-49615537",
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "source": "HackerNews",
+      "score": 275,
+      "comments": 267,
+      "date": "2026-09-08T19:25:00.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "[ Removed by Reddit ]",
-      "url": "https://www.reddit.com/r/programming/comments/1wa770d/removed_by_reddit/",
+      "title": "1996 dial-up simulator. A full working desktop, a browser, and a web that loads at actual 56k.",
+      "url": "https://www.reddit.com/r/programming/comments/1wawcq6/1996_dialup_simulator_a_full_working_desktop_a/",
       "source": "Reddit",
-      "date": "2026-09-07T22:56:38.000Z"
-    },
-    {
-      "id": "hn-49603546",
-      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
-      "url": "https://github.com/Sadpainy/Stuxnet",
-      "source": "HackerNews",
-      "score": 54,
-      "comments": 12,
-      "date": "2026-09-07T22:12:38.000Z"
-    },
-    {
-      "id": "hn-49603086",
-      "title": "Working on Economics with Fable 5",
-      "url": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
-      "source": "HackerNews",
-      "score": 49,
-      "comments": 33,
-      "date": "2026-09-07T21:18:15.000Z"
-    },
-    {
-      "id": "hn-49602699",
-      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-      "source": "HackerNews",
-      "score": 77,
-      "comments": 33,
-      "date": "2026-09-07T20:32:55.000Z"
-    },
-    {
-      "id": "hn-49601655",
-      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
-      "url": "https://lax-skyline.parcelscope.net/",
-      "source": "HackerNews",
-      "score": 205,
-      "comments": 97,
-      "date": "2026-09-07T18:52:06.000Z"
+      "date": "2026-09-08T18:16:34.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Implementing the Karatsuba multiplication algorithm on an 8-bit computer",
-      "url": "https://www.reddit.com/r/programming/comments/1wa0ja2/implementing_the_karatsuba_multiplication/",
+      "title": "Testing race conditions with memory access tracing and stack-based delay injection",
+      "url": "https://www.reddit.com/r/programming/comments/1waw73j/testing_race_conditions_with_memory_access/",
       "source": "Reddit",
-      "date": "2026-09-07T18:40:16.000Z"
+      "date": "2026-09-08T18:11:04.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Nuxt co-creator Alexandre Chopin joins Encore",
-      "url": "https://www.reddit.com/r/programming/comments/1w9rerx/nuxt_cocreator_alexandre_chopin_joins_encore/",
+      "title": "What every compiler writer should know about programmers or “Optimization” based on undefined behaviour hurts performance",
+      "url": "https://www.reddit.com/r/programming/comments/1waw4mb/what_every_compiler_writer_should_know_about/",
       "source": "Reddit",
-      "date": "2026-09-07T12:55:35.000Z"
+      "date": "2026-09-08T18:08:40.000Z"
+    },
+    {
+      "id": "hn-49613262",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "source": "HackerNews",
+      "score": 1088,
+      "comments": 949,
+      "date": "2026-09-08T17:13:21.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Spring Boot vs Quarkus on a 512 MB VPS with JDK 25",
+      "url": "https://www.reddit.com/r/programming/comments/1waubo1/spring_boot_vs_quarkus_on_a_512_mb_vps_with_jdk_25/",
+      "source": "Reddit",
+      "date": "2026-09-08T17:06:13.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "video on improving performance of arctan for Nintendo 64 by Kaze Emanuar \"spent weeks to save 100 Microseconds\"",
+      "url": "https://www.reddit.com/r/programming/comments/1was1gb/video_on_improving_performance_of_arctan_for/",
+      "source": "Reddit",
+      "date": "2026-09-08T15:44:51.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How to Read Server Monitoring Graphs",
+      "url": "https://www.reddit.com/r/programming/comments/1war2cw/how_to_read_server_monitoring_graphs/",
+      "source": "Reddit",
+      "date": "2026-09-08T15:08:53.000Z"
+    },
+    {
+      "id": "hn-49611251",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "source": "HackerNews",
+      "score": 485,
+      "comments": 115,
+      "date": "2026-09-08T14:55:45.000Z"
+    },
+    {
+      "id": "hn-49611128",
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "source": "HackerNews",
+      "score": 207,
+      "comments": 105,
+      "date": "2026-09-08T14:49:19.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Swap, memory pressure and the Go GC",
+      "url": "https://www.reddit.com/r/programming/comments/1waowcp/swap_memory_pressure_and_the_go_gc/",
+      "source": "Reddit",
+      "date": "2026-09-08T13:47:37.000Z"
+    },
+    {
+      "id": "hn-49610181",
+      "title": "DaVinci Resolve 21.1",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "source": "HackerNews",
+      "score": 345,
+      "comments": 154,
+      "date": "2026-09-08T13:36:53.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Surviving Black Friday: 329 billion requests with Falcon",
+      "url": "https://www.reddit.com/r/programming/comments/1wafqim/surviving_black_friday_329_billion_requests_with/",
+      "source": "Reddit",
+      "date": "2026-09-08T05:46:25.000Z"
+    },
+    {
+      "id": "hn-49605915",
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "source": "HackerNews",
+      "score": 1218,
+      "comments": 533,
+      "date": "2026-09-08T05:42:28.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -146,84 +217,13 @@
       "date": "2026-09-07T11:20:07.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Making a Python interpreter in 1024 bytes",
-      "url": "https://www.reddit.com/r/programming/comments/1w9c0an/making_a_python_interpreter_in_1024_bytes/",
-      "source": "Reddit",
-      "date": "2026-09-06T23:43:55.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "url": "https://www.reddit.com/r/programming/comments/1w9brw5/it_took_a_year_to_ship_webassembly_in_anubis/",
-      "source": "Reddit",
-      "date": "2026-09-06T23:33:13.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "From a Chocolate Wrapper to Concurrent InnoDB Page Splits",
-      "url": "https://www.reddit.com/r/programming/comments/1w96yd1/from_a_chocolate_wrapper_to_concurrent_innodb/",
-      "source": "Reddit",
-      "date": "2026-09-06T20:16:19.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Modding a 20-year-old game to make it even better (part 2!)",
-      "url": "https://www.reddit.com/r/programming/comments/1w90tg1/modding_a_20yearold_game_to_make_it_even_better/",
-      "source": "Reddit",
-      "date": "2026-09-06T16:30:33.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "There's No Limit to How Bad Code Can Get",
-      "url": "https://www.reddit.com/r/programming/comments/1w81w2j/theres_no_limit_to_how_bad_code_can_get/",
-      "source": "Reddit",
-      "date": "2026-09-05T14:14:26.000Z"
-    },
-    {
-      "id": "hn-49575515",
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "url": "https://arxiv.org/abs/2607.24888",
+      "id": "hn-49591112",
+      "title": "The Microeconomics of Artificial Intelligence (2025)",
+      "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
       "source": "HackerNews",
-      "score": 136,
-      "comments": 34,
-      "date": "2026-09-05T11:25:18.000Z"
-    },
-    {
-      "id": "hn-49569838",
-      "title": "Scientists observe Einstein's gravity in the quantum world",
-      "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-      "source": "HackerNews",
-      "score": 131,
-      "comments": 29,
-      "date": "2026-09-04T20:28:52.000Z"
-    },
-    {
-      "id": "hn-49569748",
-      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
-      "url": "https://kallus.org/blog/dummit_and_foote.html",
-      "source": "HackerNews",
-      "score": 62,
-      "comments": 32,
-      "date": "2026-09-04T20:20:07.000Z"
-    },
-    {
-      "id": "hn-49568162",
-      "title": "Show HN: I built an aesthetically pleasing puzzle",
-      "url": "https://jigsawhaiku.com/",
-      "source": "HackerNews",
-      "score": 37,
-      "comments": 8,
-      "date": "2026-09-04T18:14:44.000Z"
-    },
-    {
-      "id": "hn-49552299",
-      "title": "WeatherNext 3",
-      "url": "https://deepmind.google/science/weathernext/",
-      "source": "HackerNews",
-      "score": 215,
-      "comments": 44,
-      "date": "2026-09-03T16:06:08.000Z"
+      "score": 21,
+      "comments": 6,
+      "date": "2026-09-06T21:24:23.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
