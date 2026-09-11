@@ -1,236 +1,166 @@
 {
-  "updatedAt": "2026-09-10T00:54:26.038Z",
-  "total": 30,
+  "updatedAt": "2026-09-11T00:51:52.916Z",
+  "total": 20,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Introducing WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
+      "url": "https://clickhouse.com/blog/introducing-walshadow",
+      "source": "ClickHouse",
+      "date": "2026-09-11T00:51:52.915Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse is a launch partner for the Data agent in ChatGPT Work",
+      "url": "https://clickhouse.com/blog/chatgpt-data-plugin",
+      "source": "ClickHouse",
+      "date": "2026-09-11T00:51:52.915Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Announcing On-Demand Compute: Instant compute for your most intensive workloads",
+      "url": "https://clickhouse.com/blog/on-demand-compute",
+      "source": "ClickHouse",
+      "date": "2026-09-11T00:51:52.915Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud vs. Snowflake: What drives the real-time performance-per-dollar gap",
       "url": "https://clickhouse.com/blog/clickhouse-vs-snowflake-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-09-10T00:54:25.973Z"
+      "date": "2026-09-11T00:51:52.915Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing ClickHouse Managed Postgres on Google Cloud",
       "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-gcp-private-preview",
       "source": "ClickHouse",
-      "date": "2026-09-10T00:54:25.973Z"
+      "date": "2026-09-11T00:51:52.915Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Measuring real-time performance per dollar under continuous load: CostBench’s first end-to-end results",
       "url": "https://clickhouse.com/blog/costbench-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-09-10T00:54:25.973Z"
+      "date": "2026-09-11T00:51:52.915Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing chdb Postgres extension: High-performance imports from cloud storage",
       "url": "https://clickhouse.com/blog/introducing-chdb-postgres",
       "source": "ClickHouse",
-      "date": "2026-09-10T00:54:25.973Z"
+      "date": "2026-09-11T00:51:52.915Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How MCP Toolbox turns agent text into ClickHouse vectors",
       "url": "https://clickhouse.com/blog/mcp-toolbox-clickhouse-vectors",
       "source": "ClickHouse",
-      "date": "2026-09-10T00:54:25.973Z"
+      "date": "2026-09-11T00:51:52.915Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse as a streaming HTTP API",
       "url": "https://clickhouse.com/blog/clickhouse-streaming-http-api",
       "source": "ClickHouse",
-      "date": "2026-09-10T00:54:25.973Z"
+      "date": "2026-09-11T00:51:52.915Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Build a real-time market data app with ClickHouse and Massive",
       "url": "https://clickhouse.com/blog/build-a-real-time-market-data-app-with-clickhouse-and-polygonio",
       "source": "ClickHouse",
-      "date": "2026-09-10T00:54:25.973Z"
+      "date": "2026-09-11T00:51:52.915Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Pipelined SQL in ClickHouse 26.8",
-      "url": "https://clickhouse.com/blog/pipelined-sql-26.8",
-      "source": "ClickHouse",
-      "date": "2026-09-10T00:54:25.973Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Introducing Scheduled Upgrades in ClickHouse Managed Postgres",
-      "url": "https://clickhouse.com/blog/introducing-scheduled-upgrades-in-clickhouse-managed-postgres",
-      "source": "ClickHouse",
-      "date": "2026-09-10T00:54:25.973Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "From Neon Postgres to ClickHouse Managed Postgres",
-      "url": "https://clickhouse.com/blog/neon-to-clickhouse-managed-postgres",
-      "source": "ClickHouse",
-      "date": "2026-09-10T00:54:25.973Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Decoding the NEC V20 Microcode",
-      "url": "https://www.reddit.com/r/programming/comments/1wc3hjq/decoding_the_nec_v20_microcode/",
-      "source": "Reddit",
-      "date": "2026-09-10T00:30:15.000Z"
-    },
-    {
-      "id": "hn-49636345",
-      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
-      "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+      "id": "hn-49652105",
+      "title": "Google will buy half the electricity of a nuclear power plant",
+      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
       "source": "HackerNews",
-      "score": 95,
-      "comments": 35,
-      "date": "2026-09-09T23:57:29.000Z"
+      "score": 3,
+      "comments": 0,
+      "date": "2026-09-11T00:42:41.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "High-performance Database Architecture - Interview with Tyler Cloutier",
-      "url": "https://www.reddit.com/r/programming/comments/1wbwkvz/highperformance_database_architecture_interview/",
-      "source": "Reddit",
-      "date": "2026-09-09T20:02:37.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "A Design Space Exploration of Async/Await",
-      "url": "https://www.reddit.com/r/programming/comments/1wbw0pa/a_design_space_exploration_of_asyncawait/",
-      "source": "Reddit",
-      "date": "2026-09-09T19:43:05.000Z"
-    },
-    {
-      "id": "hn-49630931",
-      "title": "iPhone Duo",
-      "url": "https://www.apple.com/iphone-duo/",
+      "id": "hn-49650418",
+      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
+      "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
       "source": "HackerNews",
-      "score": 835,
-      "comments": 1644,
-      "date": "2026-09-09T18:15:43.000Z"
+      "score": 47,
+      "comments": 64,
+      "date": "2026-09-10T21:30:55.000Z"
     },
     {
-      "id": "hn-49630566",
-      "title": "Apple Watch Series 12",
-      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "id": "hn-49649213",
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
       "source": "HackerNews",
-      "score": 199,
-      "comments": 233,
-      "date": "2026-09-09T17:56:17.000Z"
+      "score": 110,
+      "comments": 71,
+      "date": "2026-09-10T19:43:22.000Z"
     },
     {
-      "id": "hn-49630253",
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "id": "hn-49649124",
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "url": "https://auberon.xyz/blog/posts/deathray/",
       "source": "HackerNews",
-      "score": 362,
-      "comments": 300,
-      "date": "2026-09-09T17:39:24.000Z"
+      "score": 67,
+      "comments": 44,
+      "date": "2026-09-10T19:34:20.000Z"
     },
     {
-      "id": "hn-49630151",
-      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "id": "hn-49647134",
+      "title": "Music Theory for the 21st-Century Classroom",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
       "source": "HackerNews",
-      "score": 261,
-      "comments": 274,
-      "date": "2026-09-09T17:33:20.000Z"
+      "score": 153,
+      "comments": 74,
+      "date": "2026-09-10T17:14:12.000Z"
     },
     {
-      "id": "hn-49629886",
-      "title": "Growing proof that autonomous cars save lives",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "id": "hn-49645443",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
       "source": "HackerNews",
-      "score": 198,
-      "comments": 340,
-      "date": "2026-09-09T17:14:59.000Z"
+      "score": 343,
+      "comments": 141,
+      "date": "2026-09-10T15:29:47.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Optimizing a Spin-Lock",
-      "url": "https://www.reddit.com/r/programming/comments/1wbr6an/optimizing_a_spinlock/",
-      "source": "Reddit",
-      "date": "2026-09-09T16:54:06.000Z"
-    },
-    {
-      "id": "hn-49628493",
-      "title": "No Man's Sky Cosmos",
-      "url": "https://www.nomanssky.com/cosmos-update/",
+      "id": "hn-49645437",
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
       "source": "HackerNews",
-      "score": 284,
-      "comments": 304,
-      "date": "2026-09-09T15:47:42.000Z"
+      "score": 262,
+      "comments": 40,
+      "date": "2026-09-10T15:29:30.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
-      "url": "https://www.reddit.com/r/programming/comments/1wboyhf/implementation_of_gccs_nested_functions_vs_c/",
-      "source": "Reddit",
-      "date": "2026-09-09T15:34:37.000Z"
-    },
-    {
-      "id": "hn-49627370",
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "id": "hn-49645393",
+      "title": "Don't let anyone take away your big box of cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
       "source": "HackerNews",
-      "score": 334,
-      "comments": 118,
-      "date": "2026-09-09T14:37:47.000Z"
+      "score": 304,
+      "comments": 238,
+      "date": "2026-09-10T15:27:22.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
-      "url": "https://www.reddit.com/r/programming/comments/1wblvwx/introducing_cuda_rust_two_tracks_for_writing_gpu/",
-      "source": "Reddit",
-      "date": "2026-09-09T13:39:17.000Z"
-    },
-    {
-      "id": "hn-49626190",
-      "title": "Shopify acquires Tailwind",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "id": "hn-49643982",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
       "source": "HackerNews",
-      "score": 874,
-      "comments": 348,
-      "date": "2026-09-09T13:27:11.000Z"
+      "score": 748,
+      "comments": 499,
+      "date": "2026-09-10T14:09:31.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "I spend a stupid amount of time on an issue I only half-care about. Now I will foist it on all of you! Enjoy :P",
-      "url": "https://www.reddit.com/r/programming/comments/1wbhjda/i_spend_a_stupid_amount_of_time_on_an_issue_i/",
-      "source": "Reddit",
-      "date": "2026-09-09T10:15:40.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Compute Polynomials Twice as Fast",
-      "url": "https://www.reddit.com/r/programming/comments/1wbgcke/compute_polynomials_twice_as_fast/",
-      "source": "Reddit",
-      "date": "2026-09-09T09:08:35.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Announcing .NET 11 Release Candidate 1 - .NET Blog",
-      "url": "https://www.reddit.com/r/programming/comments/1wbb73b/announcing_net_11_release_candidate_1_net_blog/",
-      "source": "Reddit",
-      "date": "2026-09-09T04:18:40.000Z"
-    },
-    {
-      "id": "hn-49614280",
-      "title": "What do Visa and Mastercard do? An intro to card networks",
-      "url": "https://tautology.town/2026/06/01/card-networks.html",
+      "id": "hn-49639408",
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
       "source": "HackerNews",
-      "score": 347,
-      "comments": 216,
-      "date": "2026-09-08T18:11:05.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
-      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-      "source": "Reddit",
-      "date": "2026-05-23T13:54:37.000Z"
+      "score": 638,
+      "comments": 615,
+      "date": "2026-09-10T06:49:43.000Z"
     }
   ]
 }
