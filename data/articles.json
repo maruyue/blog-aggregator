@@ -1,166 +1,166 @@
 {
-  "updatedAt": "2026-09-11T00:51:52.916Z",
+  "updatedAt": "2026-09-12T00:56:58.207Z",
   "total": 20,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "Introducing WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
-      "url": "https://clickhouse.com/blog/introducing-walshadow",
+      "title": "AI Functions in ClickHouse: Upgrade your SQL to the AI age",
+      "url": "https://clickhouse.com/blog/ai-functions-in-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-09-11T00:51:52.915Z"
+      "date": "2026-09-12T00:56:58.063Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse is a launch partner for the Data agent in ChatGPT Work",
-      "url": "https://clickhouse.com/blog/chatgpt-data-plugin",
+      "title": "Loading Parquet data into MySQL with ClickHouse",
+      "url": "https://clickhouse.com/blog/parquet-to-mysql-with-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-09-11T00:51:52.915Z"
+      "date": "2026-09-12T00:56:58.063Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "Announcing On-Demand Compute: Instant compute for your most intensive workloads",
-      "url": "https://clickhouse.com/blog/on-demand-compute",
+      "title": "ClickHouse release 26.8",
+      "url": "https://clickhouse.com/blog/clickhouse-release-26-08",
       "source": "ClickHouse",
-      "date": "2026-09-11T00:51:52.915Z"
+      "date": "2026-09-12T00:56:58.063Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud vs. Snowflake: What drives the real-time performance-per-dollar gap",
       "url": "https://clickhouse.com/blog/clickhouse-vs-snowflake-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-09-11T00:51:52.915Z"
+      "date": "2026-09-12T00:56:58.063Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Introducing WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
+      "url": "https://clickhouse.com/blog/introducing-walshadow",
+      "source": "ClickHouse",
+      "date": "2026-09-12T00:56:58.063Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse is a launch partner for the Data agent in ChatGPT Work",
+      "url": "https://clickhouse.com/blog/chatgpt-data-plugin",
+      "source": "ClickHouse",
+      "date": "2026-09-12T00:56:58.063Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Announcing On-Demand Compute: Instant compute for your most intensive workloads",
+      "url": "https://clickhouse.com/blog/on-demand-compute",
+      "source": "ClickHouse",
+      "date": "2026-09-12T00:56:58.063Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing ClickHouse Managed Postgres on Google Cloud",
       "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-gcp-private-preview",
       "source": "ClickHouse",
-      "date": "2026-09-11T00:51:52.915Z"
+      "date": "2026-09-12T00:56:58.063Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Measuring real-time performance per dollar under continuous load: CostBench’s first end-to-end results",
       "url": "https://clickhouse.com/blog/costbench-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-09-11T00:51:52.915Z"
+      "date": "2026-09-12T00:56:58.063Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing chdb Postgres extension: High-performance imports from cloud storage",
       "url": "https://clickhouse.com/blog/introducing-chdb-postgres",
       "source": "ClickHouse",
-      "date": "2026-09-11T00:51:52.915Z"
+      "date": "2026-09-12T00:56:58.063Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How MCP Toolbox turns agent text into ClickHouse vectors",
-      "url": "https://clickhouse.com/blog/mcp-toolbox-clickhouse-vectors",
-      "source": "ClickHouse",
-      "date": "2026-09-11T00:51:52.915Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse as a streaming HTTP API",
-      "url": "https://clickhouse.com/blog/clickhouse-streaming-http-api",
-      "source": "ClickHouse",
-      "date": "2026-09-11T00:51:52.915Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Build a real-time market data app with ClickHouse and Massive",
-      "url": "https://clickhouse.com/blog/build-a-real-time-market-data-app-with-clickhouse-and-polygonio",
-      "source": "ClickHouse",
-      "date": "2026-09-11T00:51:52.915Z"
-    },
-    {
-      "id": "hn-49652105",
-      "title": "Google will buy half the electricity of a nuclear power plant",
-      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "id": "hn-49666960",
+      "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
+      "url": "https://www.firecrawl.dev/blog/ai-software-factory",
       "source": "HackerNews",
-      "score": 3,
+      "score": 9,
+      "comments": 2,
+      "date": "2026-09-11T23:43:53.000Z"
+    },
+    {
+      "id": "hn-49666735",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "source": "HackerNews",
+      "score": 240,
+      "comments": 135,
+      "date": "2026-09-11T23:17:42.000Z"
+    },
+    {
+      "id": "hn-49666146",
+      "title": "Project Blinkenlights",
+      "url": "https://blinkenlights.de/en/",
+      "source": "HackerNews",
+      "score": 41,
+      "comments": 17,
+      "date": "2026-09-11T22:15:00.000Z"
+    },
+    {
+      "id": "hn-49665864",
+      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "url": "https://github.com/mirza-rizvi/ResolveHQ",
+      "source": "HackerNews",
+      "score": 24,
+      "comments": 9,
+      "date": "2026-09-11T21:48:00.000Z"
+    },
+    {
+      "id": "hn-49663373",
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "source": "HackerNews",
+      "score": 187,
+      "comments": 110,
+      "date": "2026-09-11T18:50:36.000Z"
+    },
+    {
+      "id": "hn-49662990",
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "source": "HackerNews",
+      "score": 265,
+      "comments": 148,
+      "date": "2026-09-11T18:24:55.000Z"
+    },
+    {
+      "id": "hn-49662767",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "url": "https://github.com/kennethwolters/litelm",
+      "source": "HackerNews",
+      "score": 91,
+      "comments": 34,
+      "date": "2026-09-11T18:10:20.000Z"
+    },
+    {
+      "id": "hn-49662371",
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "source": "HackerNews",
+      "score": 598,
+      "comments": 653,
+      "date": "2026-09-11T17:45:12.000Z"
+    },
+    {
+      "id": "hn-49634928",
+      "title": "Testing Race Conditions",
+      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
+      "source": "HackerNews",
+      "score": 11,
       "comments": 0,
-      "date": "2026-09-11T00:42:41.000Z"
+      "date": "2026-09-09T21:51:02.000Z"
     },
     {
-      "id": "hn-49650418",
-      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
-      "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+      "id": "hn-49626718",
+      "title": "A Design Space Exploration of Async/Await",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
       "source": "HackerNews",
-      "score": 47,
-      "comments": 64,
-      "date": "2026-09-10T21:30:55.000Z"
-    },
-    {
-      "id": "hn-49649213",
-      "title": "OpenAI Agents API",
-      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "source": "HackerNews",
-      "score": 110,
-      "comments": 71,
-      "date": "2026-09-10T19:43:22.000Z"
-    },
-    {
-      "id": "hn-49649124",
-      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-      "url": "https://auberon.xyz/blog/posts/deathray/",
-      "source": "HackerNews",
-      "score": 67,
-      "comments": 44,
-      "date": "2026-09-10T19:34:20.000Z"
-    },
-    {
-      "id": "hn-49647134",
-      "title": "Music Theory for the 21st-Century Classroom",
-      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-      "source": "HackerNews",
-      "score": 153,
-      "comments": 74,
-      "date": "2026-09-10T17:14:12.000Z"
-    },
-    {
-      "id": "hn-49645443",
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "url": "https://cognition.com/blog/swe-2",
-      "source": "HackerNews",
-      "score": 343,
-      "comments": 141,
-      "date": "2026-09-10T15:29:47.000Z"
-    },
-    {
-      "id": "hn-49645437",
-      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
-      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
-      "source": "HackerNews",
-      "score": 262,
-      "comments": 40,
-      "date": "2026-09-10T15:29:30.000Z"
-    },
-    {
-      "id": "hn-49645393",
-      "title": "Don't let anyone take away your big box of cables",
-      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-      "source": "HackerNews",
-      "score": 304,
-      "comments": 238,
-      "date": "2026-09-10T15:27:22.000Z"
-    },
-    {
-      "id": "hn-49643982",
-      "title": "Shopify is moving from React Native back to Swift and Kotlin",
-      "url": "https://shopify.engineering/back-to-native",
-      "source": "HackerNews",
-      "score": 748,
-      "comments": 499,
-      "date": "2026-09-10T14:09:31.000Z"
-    },
-    {
-      "id": "hn-49639408",
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "source": "HackerNews",
-      "score": 638,
-      "comments": 615,
-      "date": "2026-09-10T06:49:43.000Z"
+      "score": 122,
+      "comments": 25,
+      "date": "2026-09-09T13:59:50.000Z"
     }
   ]
 }
