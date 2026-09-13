@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-09-12T00:56:58.207Z",
-  "total": 20,
+  "updatedAt": "2026-09-13T00:40:09.123Z",
+  "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "AI Functions in ClickHouse: Upgrade your SQL to the AI age",
       "url": "https://clickhouse.com/blog/ai-functions-in-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-09-12T00:56:58.063Z"
+      "date": "2026-09-13T00:40:09.012Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Loading Parquet data into MySQL with ClickHouse",
       "url": "https://clickhouse.com/blog/parquet-to-mysql-with-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-09-12T00:56:58.063Z"
+      "date": "2026-09-13T00:40:09.012Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse release 26.8",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-08",
       "source": "ClickHouse",
-      "date": "2026-09-12T00:56:58.063Z"
+      "date": "2026-09-13T00:40:09.012Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud vs. Snowflake: What drives the real-time performance-per-dollar gap",
       "url": "https://clickhouse.com/blog/clickhouse-vs-snowflake-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-09-12T00:56:58.063Z"
+      "date": "2026-09-13T00:40:09.012Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
       "url": "https://clickhouse.com/blog/introducing-walshadow",
       "source": "ClickHouse",
-      "date": "2026-09-12T00:56:58.063Z"
+      "date": "2026-09-13T00:40:09.012Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse is a launch partner for the Data agent in ChatGPT Work",
       "url": "https://clickhouse.com/blog/chatgpt-data-plugin",
       "source": "ClickHouse",
-      "date": "2026-09-12T00:56:58.063Z"
+      "date": "2026-09-13T00:40:09.012Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing On-Demand Compute: Instant compute for your most intensive workloads",
       "url": "https://clickhouse.com/blog/on-demand-compute",
       "source": "ClickHouse",
-      "date": "2026-09-12T00:56:58.063Z"
+      "date": "2026-09-13T00:40:09.012Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing ClickHouse Managed Postgres on Google Cloud",
       "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-gcp-private-preview",
       "source": "ClickHouse",
-      "date": "2026-09-12T00:56:58.063Z"
+      "date": "2026-09-13T00:40:09.012Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Measuring real-time performance per dollar under continuous load: CostBench’s first end-to-end results",
       "url": "https://clickhouse.com/blog/costbench-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-09-12T00:56:58.063Z"
+      "date": "2026-09-13T00:40:09.012Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing chdb Postgres extension: High-performance imports from cloud storage",
       "url": "https://clickhouse.com/blog/introducing-chdb-postgres",
       "source": "ClickHouse",
-      "date": "2026-09-12T00:56:58.063Z"
+      "date": "2026-09-13T00:40:09.012Z"
     },
     {
-      "id": "hn-49666960",
-      "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
-      "url": "https://www.firecrawl.dev/blog/ai-software-factory",
+      "id": "hn-49676820",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
       "source": "HackerNews",
-      "score": 9,
-      "comments": 2,
-      "date": "2026-09-11T23:43:53.000Z"
+      "score": 89,
+      "comments": 55,
+      "date": "2026-09-12T20:25:48.000Z"
     },
     {
-      "id": "hn-49666735",
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "url": "https://www.rubyhack.ai/",
+      "id": "hn-49674498",
+      "title": "Will There Be a 7G?",
+      "url": "https://arxiv.org/abs/2609.01877",
       "source": "HackerNews",
-      "score": 240,
-      "comments": 135,
-      "date": "2026-09-11T23:17:42.000Z"
+      "score": 80,
+      "comments": 132,
+      "date": "2026-09-12T17:05:31.000Z"
     },
     {
-      "id": "hn-49666146",
-      "title": "Project Blinkenlights",
-      "url": "https://blinkenlights.de/en/",
+      "id": "hn-49674050",
+      "title": "Make your first edit to OpenStreetMap",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
       "source": "HackerNews",
-      "score": 41,
-      "comments": 17,
-      "date": "2026-09-11T22:15:00.000Z"
+      "score": 306,
+      "comments": 73,
+      "date": "2026-09-12T16:25:08.000Z"
     },
     {
-      "id": "hn-49665864",
-      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-      "url": "https://github.com/mirza-rizvi/ResolveHQ",
-      "source": "HackerNews",
-      "score": 24,
-      "comments": 9,
-      "date": "2026-09-11T21:48:00.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How do you keep decentralized data consistent without a central server?",
+      "url": "https://www.reddit.com/r/programming/comments/1wegjbc/how_do_you_keep_decentralized_data_consistent/",
+      "source": "Reddit",
+      "date": "2026-09-12T16:08:25.000Z"
     },
     {
-      "id": "hn-49663373",
-      "title": "GrapheneOS' rewritten Messages app is released",
-      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "id": "hn-49673098",
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
       "source": "HackerNews",
-      "score": 187,
-      "comments": 110,
-      "date": "2026-09-11T18:50:36.000Z"
+      "score": 375,
+      "comments": 259,
+      "date": "2026-09-12T15:08:27.000Z"
     },
     {
-      "id": "hn-49662990",
-      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "id": "hn-49672510",
+      "title": "We must pace the frontier",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
       "source": "HackerNews",
-      "score": 265,
-      "comments": 148,
-      "date": "2026-09-11T18:24:55.000Z"
+      "score": 522,
+      "comments": 726,
+      "date": "2026-09-12T14:10:49.000Z"
     },
     {
-      "id": "hn-49662767",
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "url": "https://github.com/kennethwolters/litelm",
-      "source": "HackerNews",
-      "score": 91,
-      "comments": 34,
-      "date": "2026-09-11T18:10:20.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Hand-Coded ASM Powers Homebrew SNES Game",
+      "url": "https://www.reddit.com/r/programming/comments/1we8i2v/handcoded_asm_powers_homebrew_snes_game/",
+      "source": "Reddit",
+      "date": "2026-09-12T09:59:15.000Z"
     },
     {
-      "id": "hn-49662371",
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "source": "HackerNews",
-      "score": 598,
-      "comments": 653,
-      "date": "2026-09-11T17:45:12.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Your Compiler Can Undo Your Security Checks",
+      "url": "https://www.reddit.com/r/programming/comments/1wdwqje/your_compiler_can_undo_your_security_checks/",
+      "source": "Reddit",
+      "date": "2026-09-11T23:49:30.000Z"
     },
     {
-      "id": "hn-49634928",
-      "title": "Testing Race Conditions",
-      "url": "https://projectzero.google/2026/09/maccconc-race-condition.html",
-      "source": "HackerNews",
-      "score": 11,
-      "comments": 0,
-      "date": "2026-09-09T21:51:02.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Rune is now open source",
+      "url": "https://www.reddit.com/r/programming/comments/1wdjvd3/rune_is_now_open_source/",
+      "source": "Reddit",
+      "date": "2026-09-11T15:43:18.000Z"
     },
     {
-      "id": "hn-49626718",
-      "title": "A Design Space Exploration of Async/Await",
-      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Why I Don’t Publish Technical Articles Anymore",
+      "url": "https://www.reddit.com/r/programming/comments/1wdjn6m/why_i_dont_publish_technical_articles_anymore/",
+      "source": "Reddit",
+      "date": "2026-09-11T15:34:54.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "GCC 13.5 released with 265+ bug fixes",
+      "url": "https://www.reddit.com/r/programming/comments/1wdiygn/gcc_135_released_with_265_bug_fixes/",
+      "source": "Reddit",
+      "date": "2026-09-11T15:09:38.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Commander Keen's Adaptive Tile Refresh",
+      "url": "https://www.reddit.com/r/programming/comments/1wd9hp8/commander_keens_adaptive_tile_refresh/",
+      "source": "Reddit",
+      "date": "2026-09-11T07:42:32.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://www.reddit.com/r/programming/comments/1wd7wmu/shopify_is_moving_from_react_native_back_to_swift/",
+      "source": "Reddit",
+      "date": "2026-09-11T06:10:52.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How to Write an Effective Software Design Document",
+      "url": "https://www.reddit.com/r/programming/comments/1wd1jt9/how_to_write_an_effective_software_design_document/",
+      "source": "Reddit",
+      "date": "2026-09-11T01:01:01.000Z"
+    },
+    {
+      "id": "hn-49645480",
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
       "source": "HackerNews",
-      "score": 122,
-      "comments": 25,
-      "date": "2026-09-09T13:59:50.000Z"
+      "score": 416,
+      "comments": 344,
+      "date": "2026-09-10T15:31:37.000Z"
+    },
+    {
+      "id": "hn-49639647",
+      "title": "IKEA made a mod for Skyrim [video]",
+      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+      "source": "HackerNews",
+      "score": 552,
+      "comments": 147,
+      "date": "2026-09-10T07:20:50.000Z"
+    },
+    {
+      "id": "hn-49636479",
+      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+      "url": "https://eiln.github.io/posts/ane-dma.html",
+      "source": "HackerNews",
+      "score": 55,
+      "comments": 10,
+      "date": "2026-09-10T00:16:10.000Z"
+    },
+    {
+      "id": "hn-49625056",
+      "title": "Stabilizing Rust's Never Type",
+      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "source": "HackerNews",
+      "score": 123,
+      "comments": 26,
+      "date": "2026-09-09T11:57:45.000Z"
+    },
+    {
+      "id": "hn-49619848",
+      "title": "Apple iPod Engraver (2019)",
+      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+      "source": "HackerNews",
+      "score": 101,
+      "comments": 18,
+      "date": "2026-09-09T01:57:37.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+      "source": "Reddit",
+      "date": "2026-05-23T13:54:37.000Z"
     }
   ]
 }
