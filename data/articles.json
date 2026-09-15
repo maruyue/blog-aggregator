@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T00:49:06.250Z",
+  "updatedAt": "2026-09-15T01:15:47.268Z",
   "total": 30,
   "articles": [
     {
@@ -7,122 +7,200 @@
       "title": "AI Functions in ClickHouse: Upgrade your SQL to the AI age",
       "url": "https://clickhouse.com/blog/ai-functions-in-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-09-14T00:49:06.250Z"
+      "date": "2026-09-15T01:15:47.268Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Loading Parquet data into MySQL with ClickHouse",
       "url": "https://clickhouse.com/blog/parquet-to-mysql-with-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-09-14T00:49:06.250Z"
+      "date": "2026-09-15T01:15:47.268Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse release 26.8",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-08",
       "source": "ClickHouse",
-      "date": "2026-09-14T00:49:06.250Z"
+      "date": "2026-09-15T01:15:47.268Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud vs. Snowflake: What drives the real-time performance-per-dollar gap",
       "url": "https://clickhouse.com/blog/clickhouse-vs-snowflake-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-09-14T00:49:06.250Z"
+      "date": "2026-09-15T01:15:47.268Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
       "url": "https://clickhouse.com/blog/introducing-walshadow",
       "source": "ClickHouse",
-      "date": "2026-09-14T00:49:06.250Z"
+      "date": "2026-09-15T01:15:47.268Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse is a launch partner for the Data agent in ChatGPT Work",
       "url": "https://clickhouse.com/blog/chatgpt-data-plugin",
       "source": "ClickHouse",
-      "date": "2026-09-14T00:49:06.250Z"
+      "date": "2026-09-15T01:15:47.268Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing On-Demand Compute: Instant compute for your most intensive workloads",
       "url": "https://clickhouse.com/blog/on-demand-compute",
       "source": "ClickHouse",
-      "date": "2026-09-14T00:49:06.250Z"
+      "date": "2026-09-15T01:15:47.268Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing ClickHouse Managed Postgres on Google Cloud",
       "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-gcp-private-preview",
       "source": "ClickHouse",
-      "date": "2026-09-14T00:49:06.250Z"
+      "date": "2026-09-15T01:15:47.268Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Measuring real-time performance per dollar under continuous load: CostBench’s first end-to-end results",
       "url": "https://clickhouse.com/blog/costbench-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-09-14T00:49:06.250Z"
+      "date": "2026-09-15T01:15:47.268Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing chdb Postgres extension: High-performance imports from cloud storage",
       "url": "https://clickhouse.com/blog/introducing-chdb-postgres",
       "source": "ClickHouse",
-      "date": "2026-09-14T00:49:06.250Z"
+      "date": "2026-09-15T01:15:47.268Z"
     },
     {
-      "id": "hn-49690051",
-      "title": "The Coming War on General Computation (2011)",
-      "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+      "id": "hn-49705442",
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "url": "https://github.com/JamesRyanATX/fcbnerd",
       "source": "HackerNews",
-      "score": 26,
+      "score": 30,
       "comments": 2,
-      "date": "2026-09-13T23:54:55.000Z"
-    },
-    {
-      "id": "hn-49689048",
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "source": "HackerNews",
-      "score": 48,
-      "comments": 23,
-      "date": "2026-09-13T21:47:04.000Z"
-    },
-    {
-      "id": "hn-49688695",
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "source": "HackerNews",
-      "score": 391,
-      "comments": 158,
-      "date": "2026-09-13T21:06:13.000Z"
-    },
-    {
-      "id": "hn-49688391",
-      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
-      "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-      "source": "HackerNews",
-      "score": 48,
-      "comments": 6,
-      "date": "2026-09-13T20:33:18.000Z"
+      "date": "2026-09-14T23:01:36.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "CUDA Tile (cuTile) first working port in Java",
-      "url": "https://www.reddit.com/r/programming/comments/1wffueb/cuda_tile_cutile_first_working_port_in_java/",
+      "title": "Small Programming Tricks",
+      "url": "https://www.reddit.com/r/programming/comments/1wghjns/small_programming_tricks/",
       "source": "Reddit",
-      "date": "2026-09-13T18:39:47.000Z"
+      "date": "2026-09-14T22:00:17.000Z"
     },
     {
-      "id": "hn-49686445",
-      "title": "Why is Google still serving dodgy ads?",
-      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "id": "hn-49704246",
+      "title": "Charts built for Chat",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
       "source": "HackerNews",
-      "score": 544,
-      "comments": 261,
-      "date": "2026-09-13T17:37:44.000Z"
+      "score": 83,
+      "comments": 27,
+      "date": "2026-09-14T21:22:54.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "One Android app. Why so many processes?",
+      "url": "https://www.reddit.com/r/programming/comments/1wgghw6/one_android_app_why_so_many_processes/",
+      "source": "Reddit",
+      "date": "2026-09-14T21:20:03.000Z"
+    },
+    {
+      "id": "hn-49704008",
+      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "source": "HackerNews",
+      "score": 166,
+      "comments": 166,
+      "date": "2026-09-14T21:05:22.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Annoyances when dealing with unsigned long int vs unsigned long long int when targeting Linux vs my own 32bit OS",
+      "url": "https://www.reddit.com/r/programming/comments/1wgf1hs/annoyances_when_dealing_with_unsigned_long_int_vs/",
+      "source": "Reddit",
+      "date": "2026-09-14T20:25:41.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Pre-2000 computer graphics: a specification and challenge for classic-style game development (II)",
+      "url": "https://www.reddit.com/r/programming/comments/1wgf1f6/pre2000_computer_graphics_a_specification_and/",
+      "source": "Reddit",
+      "date": "2026-09-14T20:25:36.000Z"
+    },
+    {
+      "id": "hn-49701004",
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "source": "HackerNews",
+      "score": 357,
+      "comments": 406,
+      "date": "2026-09-14T17:50:29.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How GCC Eliminates Unnecessary Integer Division",
+      "url": "https://www.reddit.com/r/programming/comments/1wgaaqq/how_gcc_eliminates_unnecessary_integer_division/",
+      "source": "Reddit",
+      "date": "2026-09-14T17:40:17.000Z"
+    },
+    {
+      "id": "hn-49700477",
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "source": "HackerNews",
+      "score": 279,
+      "comments": 297,
+      "date": "2026-09-14T17:16:06.000Z"
+    },
+    {
+      "id": "hn-49699158",
+      "title": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "source": "HackerNews",
+      "score": 231,
+      "comments": 51,
+      "date": "2026-09-14T16:02:01.000Z"
+    },
+    {
+      "id": "hn-49697477",
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "source": "HackerNews",
+      "score": 20,
+      "comments": 4,
+      "date": "2026-09-14T14:29:23.000Z"
+    },
+    {
+      "id": "hn-49695876",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "source": "HackerNews",
+      "score": 368,
+      "comments": 314,
+      "date": "2026-09-14T12:40:57.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "When the fractional part of a float fixes your shader",
+      "url": "https://www.reddit.com/r/programming/comments/1wg1wo7/when_the_fractional_part_of_a_float_fixes_your/",
+      "source": "Reddit",
+      "date": "2026-09-14T12:22:27.000Z"
+    },
+    {
+      "id": "hn-49694296",
+      "title": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "source": "HackerNews",
+      "score": 443,
+      "comments": 755,
+      "date": "2026-09-14T09:51:50.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Homebrew: 7.0.0 - faster installations and upgrades, stronger sandboxing, a native macOS app, built-in vulnerability checks and an advisory database, the end of macOS 10.15 support and Intel Macs moving to Tier 3.",
+      "url": "https://www.reddit.com/r/programming/comments/1wftm95/homebrew_700_faster_installations_and_upgrades/",
+      "source": "Reddit",
+      "date": "2026-09-14T04:38:39.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -132,38 +210,6 @@
       "date": "2026-09-13T17:33:50.000Z"
     },
     {
-      "id": "hn-49684393",
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-      "source": "HackerNews",
-      "score": 365,
-      "comments": 173,
-      "date": "2026-09-13T14:28:36.000Z"
-    },
-    {
-      "id": "hn-49683953",
-      "title": "Data collected by cars and sold to third parties",
-      "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-      "source": "HackerNews",
-      "score": 284,
-      "comments": 153,
-      "date": "2026-09-13T13:45:08.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "TIL: One lock to rule them all",
-      "url": "https://www.reddit.com/r/programming/comments/1wf4277/til_one_lock_to_rule_them_all/",
-      "source": "Reddit",
-      "date": "2026-09-13T10:28:26.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Refit - The Better Way to Consume APIs in .NET",
-      "url": "https://www.reddit.com/r/programming/comments/1wf2tce/refit_the_better_way_to_consume_apis_in_net/",
-      "source": "Reddit",
-      "date": "2026-09-13T09:15:22.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "40ms Go GC stop-the-world pauses caused by swap",
       "url": "https://www.reddit.com/r/programming/comments/1wf2fei/40ms_go_gc_stoptheworld_pauses_caused_by_swap/",
@@ -171,59 +217,13 @@
       "date": "2026-09-13T08:52:25.000Z"
     },
     {
-      "id": "hn-49681152",
-      "title": "JetKVM Mini",
-      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "id": "hn-49673689",
+      "title": "Compressing a Flag to 11 Bits",
+      "url": "https://read.vantezzen.io/miniflags",
       "source": "HackerNews",
-      "score": 523,
-      "comments": 211,
-      "date": "2026-09-13T07:49:46.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Data races and the limits of ThreadSanitizer in C and Go",
-      "url": "https://www.reddit.com/r/programming/comments/1wexekt/data_races_and_the_limits_of_threadsanitizer_in_c/",
-      "source": "Reddit",
-      "date": "2026-09-13T04:09:16.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Your Compiler Can Undo Your Security Checks",
-      "url": "https://www.reddit.com/r/programming/comments/1wdwqje/your_compiler_can_undo_your_security_checks/",
-      "source": "Reddit",
-      "date": "2026-09-11T23:49:30.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "GCC 13.5 released with 265+ bug fixes",
-      "url": "https://www.reddit.com/r/programming/comments/1wdiygn/gcc_135_released_with_265_bug_fixes/",
-      "source": "Reddit",
-      "date": "2026-09-11T15:09:38.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Shopify is moving from React Native back to Swift and Kotlin",
-      "url": "https://www.reddit.com/r/programming/comments/1wd7wmu/shopify_is_moving_from_react_native_back_to_swift/",
-      "source": "Reddit",
-      "date": "2026-09-11T06:10:52.000Z"
-    },
-    {
-      "id": "hn-49649164",
-      "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
-      "url": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
-      "source": "HackerNews",
-      "score": 20,
-      "comments": 5,
-      "date": "2026-09-10T19:39:13.000Z"
-    },
-    {
-      "id": "hn-49642645",
-      "title": "Julia 1.13 highlights",
-      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-      "source": "HackerNews",
-      "score": 144,
-      "comments": 11,
-      "date": "2026-09-10T12:27:25.000Z"
+      "score": 60,
+      "comments": 27,
+      "date": "2026-09-12T15:57:43.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
