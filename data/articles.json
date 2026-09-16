@@ -1,85 +1,199 @@
 {
-  "updatedAt": "2026-09-15T01:15:47.268Z",
+  "updatedAt": "2026-09-16T01:09:37.169Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Introducing ClickHouse&#x27;s new TimeSeries Engine: Your drop-In Prometheus replacement",
+      "url": "https://clickhouse.com/blog/introducing-promql",
+      "source": "ClickHouse",
+      "date": "2026-09-16T01:09:37.093Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Replica-aware routing public beta",
+      "url": "https://clickhouse.com/blog/replica-aware-routing-public-beta",
+      "source": "ClickHouse",
+      "date": "2026-09-16T01:09:37.093Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "AI Functions in ClickHouse: Upgrade your SQL to the AI age",
       "url": "https://clickhouse.com/blog/ai-functions-in-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-09-15T01:15:47.268Z"
+      "date": "2026-09-16T01:09:37.093Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Loading Parquet data into MySQL with ClickHouse",
       "url": "https://clickhouse.com/blog/parquet-to-mysql-with-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-09-15T01:15:47.268Z"
+      "date": "2026-09-16T01:09:37.093Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse release 26.8",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-08",
       "source": "ClickHouse",
-      "date": "2026-09-15T01:15:47.268Z"
+      "date": "2026-09-16T01:09:37.093Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud vs. Snowflake: What drives the real-time performance-per-dollar gap",
       "url": "https://clickhouse.com/blog/clickhouse-vs-snowflake-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-09-15T01:15:47.268Z"
+      "date": "2026-09-16T01:09:37.093Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
       "url": "https://clickhouse.com/blog/introducing-walshadow",
       "source": "ClickHouse",
-      "date": "2026-09-15T01:15:47.268Z"
+      "date": "2026-09-16T01:09:37.093Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse is a launch partner for the Data agent in ChatGPT Work",
       "url": "https://clickhouse.com/blog/chatgpt-data-plugin",
       "source": "ClickHouse",
-      "date": "2026-09-15T01:15:47.268Z"
+      "date": "2026-09-16T01:09:37.093Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing On-Demand Compute: Instant compute for your most intensive workloads",
       "url": "https://clickhouse.com/blog/on-demand-compute",
       "source": "ClickHouse",
-      "date": "2026-09-15T01:15:47.268Z"
+      "date": "2026-09-16T01:09:37.093Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing ClickHouse Managed Postgres on Google Cloud",
       "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-gcp-private-preview",
       "source": "ClickHouse",
-      "date": "2026-09-15T01:15:47.268Z"
+      "date": "2026-09-16T01:09:37.093Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Measuring real-time performance per dollar under continuous load: CostBench’s first end-to-end results",
-      "url": "https://clickhouse.com/blog/costbench-real-time-performance-per-dollar",
-      "source": "ClickHouse",
-      "date": "2026-09-15T01:15:47.268Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Java 27 has released!",
+      "url": "https://www.reddit.com/r/programming/comments/1whg3ya/java_27_has_released/",
+      "source": "Reddit",
+      "date": "2026-09-15T23:13:53.000Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Introducing chdb Postgres extension: High-performance imports from cloud storage",
-      "url": "https://clickhouse.com/blog/introducing-chdb-postgres",
-      "source": "ClickHouse",
-      "date": "2026-09-15T01:15:47.268Z"
-    },
-    {
-      "id": "hn-49705442",
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "url": "https://github.com/JamesRyanATX/fcbnerd",
+      "id": "hn-49718928",
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
       "source": "HackerNews",
-      "score": 30,
-      "comments": 2,
-      "date": "2026-09-14T23:01:36.000Z"
+      "score": 125,
+      "comments": 39,
+      "date": "2026-09-15T21:07:47.000Z"
+    },
+    {
+      "id": "hn-49718822",
+      "title": "Jean-Pierre Serre is 100 years old today",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+      "source": "HackerNews",
+      "score": 85,
+      "comments": 13,
+      "date": "2026-09-15T20:57:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Truncated SVD [2023]",
+      "url": "https://www.reddit.com/r/programming/comments/1whbi25/truncated_svd_2023/",
+      "source": "Reddit",
+      "date": "2026-09-15T20:13:13.000Z"
+    },
+    {
+      "id": "hn-49717638",
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "url": "https://codyho.dev/blog/gpu-driver/",
+      "source": "HackerNews",
+      "score": 148,
+      "comments": 86,
+      "date": "2026-09-15T19:30:03.000Z"
+    },
+    {
+      "id": "hn-49717558",
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "source": "HackerNews",
+      "score": 722,
+      "comments": 243,
+      "date": "2026-09-15T19:25:03.000Z"
+    },
+    {
+      "id": "hn-49716953",
+      "title": "Chopping up books when they're physically too big",
+      "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
+      "source": "HackerNews",
+      "score": 115,
+      "comments": 113,
+      "date": "2026-09-15T18:45:31.000Z"
+    },
+    {
+      "id": "hn-49716476",
+      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+      "source": "HackerNews",
+      "score": 209,
+      "comments": 111,
+      "date": "2026-09-15T18:11:24.000Z"
+    },
+    {
+      "id": "hn-49716176",
+      "title": "An Update on Wayback Machine Access",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "source": "HackerNews",
+      "score": 371,
+      "comments": 206,
+      "date": "2026-09-15T17:52:18.000Z"
+    },
+    {
+      "id": "hn-49715947",
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "source": "HackerNews",
+      "score": 286,
+      "comments": 186,
+      "date": "2026-09-15T17:38:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Performance Improvements in .NET 11",
+      "url": "https://www.reddit.com/r/programming/comments/1wh0qrf/performance_improvements_in_net_11/",
+      "source": "Reddit",
+      "date": "2026-09-15T13:41:25.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)",
+      "url": "https://www.reddit.com/r/programming/comments/1wh0plp/a_new_equalarea_map_for_interactive_computer_use/",
+      "source": "Reddit",
+      "date": "2026-09-15T13:40:05.000Z"
+    },
+    {
+      "id": "hn-49711544",
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "source": "HackerNews",
+      "score": 1283,
+      "comments": 179,
+      "date": "2026-09-15T12:31:10.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Broken Windows, Abstractions and the Cost of Always Keeping Things Simple",
+      "url": "https://www.reddit.com/r/programming/comments/1wgvjin/broken_windows_abstractions_and_the_cost_of/",
+      "source": "Reddit",
+      "date": "2026-09-15T09:32:39.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Understanding OpenGL",
+      "url": "https://www.reddit.com/r/programming/comments/1wgseb6/understanding_opengl/",
+      "source": "Reddit",
+      "date": "2026-09-15T06:25:20.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -87,31 +201,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1wghjns/small_programming_tricks/",
       "source": "Reddit",
       "date": "2026-09-14T22:00:17.000Z"
-    },
-    {
-      "id": "hn-49704246",
-      "title": "Charts built for Chat",
-      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-      "source": "HackerNews",
-      "score": 83,
-      "comments": 27,
-      "date": "2026-09-14T21:22:54.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "One Android app. Why so many processes?",
-      "url": "https://www.reddit.com/r/programming/comments/1wgghw6/one_android_app_why_so_many_processes/",
-      "source": "Reddit",
-      "date": "2026-09-14T21:20:03.000Z"
-    },
-    {
-      "id": "hn-49704008",
-      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-      "source": "HackerNews",
-      "score": 166,
-      "comments": 166,
-      "date": "2026-09-14T21:05:22.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -122,108 +211,19 @@
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Pre-2000 computer graphics: a specification and challenge for classic-style game development (II)",
-      "url": "https://www.reddit.com/r/programming/comments/1wgf1f6/pre2000_computer_graphics_a_specification_and/",
-      "source": "Reddit",
-      "date": "2026-09-14T20:25:36.000Z"
-    },
-    {
-      "id": "hn-49701004",
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "source": "HackerNews",
-      "score": 357,
-      "comments": 406,
-      "date": "2026-09-14T17:50:29.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
       "title": "How GCC Eliminates Unnecessary Integer Division",
       "url": "https://www.reddit.com/r/programming/comments/1wgaaqq/how_gcc_eliminates_unnecessary_integer_division/",
       "source": "Reddit",
       "date": "2026-09-14T17:40:17.000Z"
     },
     {
-      "id": "hn-49700477",
-      "title": "Pion, an agent designed to run any company autonomously",
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "id": "hn-49680916",
+      "title": "Sierra digital cameras on the Apple II",
+      "url": "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/",
       "source": "HackerNews",
-      "score": 279,
-      "comments": 297,
-      "date": "2026-09-14T17:16:06.000Z"
-    },
-    {
-      "id": "hn-49699158",
-      "title": "Distributed Systems Classics (2017)",
-      "url": "https://nvartolomei.com/dist-sys-classics/",
-      "source": "HackerNews",
-      "score": 231,
-      "comments": 51,
-      "date": "2026-09-14T16:02:01.000Z"
-    },
-    {
-      "id": "hn-49697477",
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-      "source": "HackerNews",
-      "score": 20,
-      "comments": 4,
-      "date": "2026-09-14T14:29:23.000Z"
-    },
-    {
-      "id": "hn-49695876",
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "source": "HackerNews",
-      "score": 368,
-      "comments": 314,
-      "date": "2026-09-14T12:40:57.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "When the fractional part of a float fixes your shader",
-      "url": "https://www.reddit.com/r/programming/comments/1wg1wo7/when_the_fractional_part_of_a_float_fixes_your/",
-      "source": "Reddit",
-      "date": "2026-09-14T12:22:27.000Z"
-    },
-    {
-      "id": "hn-49694296",
-      "title": "XCancel service is suspended until further notice",
-      "url": "https://xcancel.com/#",
-      "source": "HackerNews",
-      "score": 443,
-      "comments": 755,
-      "date": "2026-09-14T09:51:50.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Homebrew: 7.0.0 - faster installations and upgrades, stronger sandboxing, a native macOS app, built-in vulnerability checks and an advisory database, the end of macOS 10.15 support and Intel Macs moving to Tier 3.",
-      "url": "https://www.reddit.com/r/programming/comments/1wftm95/homebrew_700_faster_installations_and_upgrades/",
-      "source": "Reddit",
-      "date": "2026-09-14T04:38:39.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "JSON parsing in OxCaml: fast, but not too fast",
-      "url": "https://www.reddit.com/r/programming/comments/1wfe1vm/json_parsing_in_oxcaml_fast_but_not_too_fast/",
-      "source": "Reddit",
-      "date": "2026-09-13T17:33:50.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "40ms Go GC stop-the-world pauses caused by swap",
-      "url": "https://www.reddit.com/r/programming/comments/1wf2fei/40ms_go_gc_stoptheworld_pauses_caused_by_swap/",
-      "source": "Reddit",
-      "date": "2026-09-13T08:52:25.000Z"
-    },
-    {
-      "id": "hn-49673689",
-      "title": "Compressing a Flag to 11 Bits",
-      "url": "https://read.vantezzen.io/miniflags",
-      "source": "HackerNews",
-      "score": 60,
-      "comments": 27,
-      "date": "2026-09-12T15:57:43.000Z"
+      "score": 16,
+      "comments": 0,
+      "date": "2026-09-13T07:11:20.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
