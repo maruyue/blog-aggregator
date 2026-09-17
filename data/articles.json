@@ -1,76 +1,202 @@
 {
-  "updatedAt": "2026-09-16T01:09:37.169Z",
+  "updatedAt": "2026-09-17T01:09:20.017Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse is now available on the dbt platform",
+      "url": "https://clickhouse.com/blog/clickhouse-is-now-available-on-the-dbt-platform",
+      "source": "ClickHouse",
+      "date": "2026-09-17T01:09:19.568Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing ClickHouse&#x27;s new TimeSeries Engine: Your drop-In Prometheus replacement",
       "url": "https://clickhouse.com/blog/introducing-promql",
       "source": "ClickHouse",
-      "date": "2026-09-16T01:09:37.093Z"
+      "date": "2026-09-17T01:09:19.568Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Replica-aware routing public beta",
       "url": "https://clickhouse.com/blog/replica-aware-routing-public-beta",
       "source": "ClickHouse",
-      "date": "2026-09-16T01:09:37.093Z"
+      "date": "2026-09-17T01:09:19.568Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "AI Functions in ClickHouse: Upgrade your SQL to the AI age",
       "url": "https://clickhouse.com/blog/ai-functions-in-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-09-16T01:09:37.093Z"
+      "date": "2026-09-17T01:09:19.568Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Loading Parquet data into MySQL with ClickHouse",
       "url": "https://clickhouse.com/blog/parquet-to-mysql-with-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-09-16T01:09:37.093Z"
+      "date": "2026-09-17T01:09:19.568Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse release 26.8",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-08",
       "source": "ClickHouse",
-      "date": "2026-09-16T01:09:37.093Z"
+      "date": "2026-09-17T01:09:19.568Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Cloud vs. Snowflake: What drives the real-time performance-per-dollar gap",
       "url": "https://clickhouse.com/blog/clickhouse-vs-snowflake-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-09-16T01:09:37.093Z"
+      "date": "2026-09-17T01:09:19.568Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
       "url": "https://clickhouse.com/blog/introducing-walshadow",
       "source": "ClickHouse",
-      "date": "2026-09-16T01:09:37.093Z"
+      "date": "2026-09-17T01:09:19.568Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse is a launch partner for the Data agent in ChatGPT Work",
       "url": "https://clickhouse.com/blog/chatgpt-data-plugin",
       "source": "ClickHouse",
-      "date": "2026-09-16T01:09:37.093Z"
+      "date": "2026-09-17T01:09:19.568Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing On-Demand Compute: Instant compute for your most intensive workloads",
       "url": "https://clickhouse.com/blog/on-demand-compute",
       "source": "ClickHouse",
-      "date": "2026-09-16T01:09:37.093Z"
+      "date": "2026-09-17T01:09:19.568Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Announcing ClickHouse Managed Postgres on Google Cloud",
-      "url": "https://clickhouse.com/blog/postgres-managed-by-clickhouse-gcp-private-preview",
-      "source": "ClickHouse",
-      "date": "2026-09-16T01:09:37.093Z"
+      "id": "hn-49734264",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "source": "HackerNews",
+      "score": 52,
+      "comments": 14,
+      "date": "2026-09-16T23:06:39.000Z"
+    },
+    {
+      "id": "hn-49732931",
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "source": "HackerNews",
+      "score": 135,
+      "comments": 15,
+      "date": "2026-09-16T20:59:24.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Programming lanugage that uses procedures",
+      "url": "https://www.reddit.com/r/programming/comments/1wi98x3/programming_lanugage_that_uses_procedures/",
+      "source": "Reddit",
+      "date": "2026-09-16T20:43:34.000Z"
+    },
+    {
+      "id": "hn-49732513",
+      "title": "Backups Aren't Simple",
+      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "source": "HackerNews",
+      "score": 71,
+      "comments": 25,
+      "date": "2026-09-16T20:27:16.000Z"
+    },
+    {
+      "id": "hn-49732270",
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "source": "HackerNews",
+      "score": 236,
+      "comments": 59,
+      "date": "2026-09-16T20:09:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "A Tale of Two Flink Autoscalers",
+      "url": "https://www.reddit.com/r/programming/comments/1wi7yar/a_tale_of_two_flink_autoscalers/",
+      "source": "Reddit",
+      "date": "2026-09-16T19:55:54.000Z"
+    },
+    {
+      "id": "hn-49731285",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "source": "HackerNews",
+      "score": 384,
+      "comments": 81,
+      "date": "2026-09-16T18:50:00.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "TIN: Full-Text Search for Postgres",
+      "url": "https://www.reddit.com/r/programming/comments/1wi3ax3/tin_fulltext_search_for_postgres/",
+      "source": "Reddit",
+      "date": "2026-09-16T17:10:27.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Apple XNU - IPC Panic",
+      "url": "https://www.reddit.com/r/programming/comments/1wi3aex/apple_xnu_ipc_panic/",
+      "source": "Reddit",
+      "date": "2026-09-16T17:09:55.000Z"
+    },
+    {
+      "id": "hn-49729000",
+      "title": "Small programming tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "source": "HackerNews",
+      "score": 388,
+      "comments": 181,
+      "date": "2026-09-16T15:56:47.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "git worktree gotchas",
+      "url": "https://www.reddit.com/r/programming/comments/1wi0xi2/git_worktree_gotchas/",
+      "source": "Reddit",
+      "date": "2026-09-16T15:46:23.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Declarative GUI toolkit Slint 1.18 Released",
+      "url": "https://www.reddit.com/r/programming/comments/1whz461/declarative_gui_toolkit_slint_118_released/",
+      "source": "Reddit",
+      "date": "2026-09-16T14:39:41.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Why building a Rust LSP is hard",
+      "url": "https://www.reddit.com/r/programming/comments/1whwxoo/why_building_a_rust_lsp_is_hard/",
+      "source": "Reddit",
+      "date": "2026-09-16T13:15:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Cobol basics under ~2 hours",
+      "url": "https://www.reddit.com/r/programming/comments/1whupgr/cobol_basics_under_2_hours/",
+      "source": "Reddit",
+      "date": "2026-09-16T11:36:10.000Z"
+    },
+    {
+      "id": "hn-49724881",
+      "title": "Nvidia announces native GPU programming in Rust",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "source": "HackerNews",
+      "score": 225,
+      "comments": 76,
+      "date": "2026-09-16T11:15:53.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Row-Level Security and Symbolic Evaluation with Elm and Acadia",
+      "url": "https://www.reddit.com/r/programming/comments/1whu6ww/rowlevel_security_and_symbolic_evaluation_with/",
+      "source": "Reddit",
+      "date": "2026-09-16T11:10:38.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -80,157 +206,31 @@
       "date": "2026-09-15T23:13:53.000Z"
     },
     {
-      "id": "hn-49718928",
-      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "id": "hn-49719596",
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
       "source": "HackerNews",
-      "score": 125,
-      "comments": 39,
-      "date": "2026-09-15T21:07:47.000Z"
+      "score": 87,
+      "comments": 27,
+      "date": "2026-09-15T22:15:25.000Z"
     },
     {
-      "id": "hn-49718822",
-      "title": "Jean-Pierre Serre is 100 years old today",
-      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-      "source": "HackerNews",
-      "score": 85,
-      "comments": 13,
-      "date": "2026-09-15T20:57:18.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Truncated SVD [2023]",
-      "url": "https://www.reddit.com/r/programming/comments/1whbi25/truncated_svd_2023/",
-      "source": "Reddit",
-      "date": "2026-09-15T20:13:13.000Z"
-    },
-    {
-      "id": "hn-49717638",
-      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-      "url": "https://codyho.dev/blog/gpu-driver/",
-      "source": "HackerNews",
-      "score": 148,
-      "comments": 86,
-      "date": "2026-09-15T19:30:03.000Z"
-    },
-    {
-      "id": "hn-49717558",
-      "title": "Introducing System One Models and Jev",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "source": "HackerNews",
-      "score": 722,
-      "comments": 243,
-      "date": "2026-09-15T19:25:03.000Z"
-    },
-    {
-      "id": "hn-49716953",
-      "title": "Chopping up books when they're physically too big",
-      "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-      "source": "HackerNews",
-      "score": 115,
-      "comments": 113,
-      "date": "2026-09-15T18:45:31.000Z"
-    },
-    {
-      "id": "hn-49716476",
-      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
-      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-      "source": "HackerNews",
-      "score": 209,
-      "comments": 111,
-      "date": "2026-09-15T18:11:24.000Z"
-    },
-    {
-      "id": "hn-49716176",
-      "title": "An Update on Wayback Machine Access",
-      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-      "source": "HackerNews",
-      "score": 371,
-      "comments": 206,
-      "date": "2026-09-15T17:52:18.000Z"
-    },
-    {
-      "id": "hn-49715947",
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "source": "HackerNews",
-      "score": 286,
-      "comments": 186,
-      "date": "2026-09-15T17:38:18.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
+      "id": "hn-49711424",
       "title": "Performance Improvements in .NET 11",
-      "url": "https://www.reddit.com/r/programming/comments/1wh0qrf/performance_improvements_in_net_11/",
-      "source": "Reddit",
-      "date": "2026-09-15T13:41:25.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)",
-      "url": "https://www.reddit.com/r/programming/comments/1wh0plp/a_new_equalarea_map_for_interactive_computer_use/",
-      "source": "Reddit",
-      "date": "2026-09-15T13:40:05.000Z"
-    },
-    {
-      "id": "hn-49711544",
-      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "url": "https://github.com/arnegiacomo/fugleramme",
+      "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
       "source": "HackerNews",
-      "score": 1283,
-      "comments": 179,
-      "date": "2026-09-15T12:31:10.000Z"
+      "score": 152,
+      "comments": 31,
+      "date": "2026-09-15T12:18:16.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Broken Windows, Abstractions and the Cost of Always Keeping Things Simple",
-      "url": "https://www.reddit.com/r/programming/comments/1wgvjin/broken_windows_abstractions_and_the_cost_of/",
-      "source": "Reddit",
-      "date": "2026-09-15T09:32:39.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Understanding OpenGL",
-      "url": "https://www.reddit.com/r/programming/comments/1wgseb6/understanding_opengl/",
-      "source": "Reddit",
-      "date": "2026-09-15T06:25:20.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Small Programming Tricks",
-      "url": "https://www.reddit.com/r/programming/comments/1wghjns/small_programming_tricks/",
-      "source": "Reddit",
-      "date": "2026-09-14T22:00:17.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Annoyances when dealing with unsigned long int vs unsigned long long int when targeting Linux vs my own 32bit OS",
-      "url": "https://www.reddit.com/r/programming/comments/1wgf1hs/annoyances_when_dealing_with_unsigned_long_int_vs/",
-      "source": "Reddit",
-      "date": "2026-09-14T20:25:41.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How GCC Eliminates Unnecessary Integer Division",
-      "url": "https://www.reddit.com/r/programming/comments/1wgaaqq/how_gcc_eliminates_unnecessary_integer_division/",
-      "source": "Reddit",
-      "date": "2026-09-14T17:40:17.000Z"
-    },
-    {
-      "id": "hn-49680916",
-      "title": "Sierra digital cameras on the Apple II",
-      "url": "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/",
+      "id": "hn-49674451",
+      "title": "Reversing Factorio's RNG",
+      "url": "https://gegell.github.io/posts/factorio-rng/",
       "source": "HackerNews",
-      "score": 16,
-      "comments": 0,
-      "date": "2026-09-13T07:11:20.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
-      "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
-      "source": "Reddit",
-      "date": "2026-05-23T13:54:37.000Z"
+      "score": 141,
+      "comments": 16,
+      "date": "2026-09-12T17:02:19.000Z"
     }
   ]
 }
