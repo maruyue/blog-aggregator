@@ -1,94 +1,195 @@
 {
-  "updatedAt": "2026-09-17T01:09:20.017Z",
+  "updatedAt": "2026-09-18T01:06:19.595Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "The official ClickHouse provider for Apache Airflow is now available",
+      "url": "https://clickhouse.com/blog/clickhouse-airflow-provider",
+      "source": "ClickHouse",
+      "date": "2026-09-18T01:06:19.001Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "September 2026 newsletter",
+      "url": "https://clickhouse.com/blog/202609-newsletter",
+      "source": "ClickHouse",
+      "date": "2026-09-18T01:06:19.001Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Postgres week in the Netherlands: PGDay Lowlands &amp; Percona Live 2026",
+      "url": "https://clickhouse.com/blog/postgres-week-in-the-netherlands-pgday-lowlands-percona-live-2026",
+      "source": "ClickHouse",
+      "date": "2026-09-18T01:06:19.001Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What&#x27;s new in ClickStack - Aug ’26",
+      "url": "https://clickhouse.com/blog/whats-new-in-clickstack-august-2026",
+      "source": "ClickHouse",
+      "date": "2026-09-18T01:06:19.001Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse is now available on the dbt platform",
       "url": "https://clickhouse.com/blog/clickhouse-is-now-available-on-the-dbt-platform",
       "source": "ClickHouse",
-      "date": "2026-09-17T01:09:19.568Z"
+      "date": "2026-09-18T01:06:19.001Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing ClickHouse&#x27;s new TimeSeries Engine: Your drop-In Prometheus replacement",
       "url": "https://clickhouse.com/blog/introducing-promql",
       "source": "ClickHouse",
-      "date": "2026-09-17T01:09:19.568Z"
+      "date": "2026-09-18T01:06:19.001Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Replica-aware routing public beta",
       "url": "https://clickhouse.com/blog/replica-aware-routing-public-beta",
       "source": "ClickHouse",
-      "date": "2026-09-17T01:09:19.568Z"
+      "date": "2026-09-18T01:06:19.001Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "AI Functions in ClickHouse: Upgrade your SQL to the AI age",
       "url": "https://clickhouse.com/blog/ai-functions-in-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-09-17T01:09:19.568Z"
+      "date": "2026-09-18T01:06:19.001Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Loading Parquet data into MySQL with ClickHouse",
       "url": "https://clickhouse.com/blog/parquet-to-mysql-with-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-09-17T01:09:19.568Z"
+      "date": "2026-09-18T01:06:19.001Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse release 26.8",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-08",
       "source": "ClickHouse",
-      "date": "2026-09-17T01:09:19.568Z"
+      "date": "2026-09-18T01:06:19.001Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse Cloud vs. Snowflake: What drives the real-time performance-per-dollar gap",
-      "url": "https://clickhouse.com/blog/clickhouse-vs-snowflake-real-time-performance-per-dollar",
-      "source": "ClickHouse",
-      "date": "2026-09-17T01:09:19.568Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Introducing WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
-      "url": "https://clickhouse.com/blog/introducing-walshadow",
-      "source": "ClickHouse",
-      "date": "2026-09-17T01:09:19.568Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse is a launch partner for the Data agent in ChatGPT Work",
-      "url": "https://clickhouse.com/blog/chatgpt-data-plugin",
-      "source": "ClickHouse",
-      "date": "2026-09-17T01:09:19.568Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Announcing On-Demand Compute: Instant compute for your most intensive workloads",
-      "url": "https://clickhouse.com/blog/on-demand-compute",
-      "source": "ClickHouse",
-      "date": "2026-09-17T01:09:19.568Z"
-    },
-    {
-      "id": "hn-49734264",
-      "title": "OpenSpec – A lightweight and configurable AI spec framework",
-      "url": "https://openspec.dev/",
+      "id": "hn-49746618",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
       "source": "HackerNews",
-      "score": 52,
-      "comments": 14,
-      "date": "2026-09-16T23:06:39.000Z"
+      "score": 188,
+      "comments": 62,
+      "date": "2026-09-17T21:13:31.000Z"
     },
     {
-      "id": "hn-49732931",
-      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-      "url": "https://arxiv.org/abs/2609.16338",
+      "id": "hn-49746290",
+      "title": "Flet 1.0 – Build cross-platform apps in Python",
+      "url": "https://flet.dev/",
       "source": "HackerNews",
-      "score": 135,
-      "comments": 15,
-      "date": "2026-09-16T20:59:24.000Z"
+      "score": 50,
+      "comments": 19,
+      "date": "2026-09-17T20:44:28.000Z"
+    },
+    {
+      "id": "hn-49746163",
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "source": "HackerNews",
+      "score": 259,
+      "comments": 133,
+      "date": "2026-09-17T20:36:13.000Z"
+    },
+    {
+      "id": "hn-49746117",
+      "title": "More than 100k people in Japan are now aged 100 or older",
+      "url": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
+      "source": "HackerNews",
+      "score": 90,
+      "comments": 72,
+      "date": "2026-09-17T20:33:00.000Z"
+    },
+    {
+      "id": "hn-49745940",
+      "title": "Astra for Law",
+      "url": "https://openai.com/index/astra-for-law/",
+      "source": "HackerNews",
+      "score": 283,
+      "comments": 312,
+      "date": "2026-09-17T20:17:48.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "I contributed to Golang, here is how you can too",
+      "url": "https://www.reddit.com/r/programming/comments/1wj50pd/i_contributed_to_golang_here_is_how_you_can_too/",
+      "source": "Reddit",
+      "date": "2026-09-17T20:15:42.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Scaling Security Insights: how we achieved a 10x increase in global scanning capacity",
+      "url": "https://www.reddit.com/r/programming/comments/1wj3ya8/scaling_security_insights_how_we_achieved_a_10x/",
+      "source": "Reddit",
+      "date": "2026-09-17T19:36:37.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Introducing TIN: full-text search for Postgres — PlanetScale",
+      "url": "https://www.reddit.com/r/programming/comments/1wj3ois/introducing_tin_fulltext_search_for_postgres/",
+      "source": "Reddit",
+      "date": "2026-09-17T19:26:28.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Be alert: targeted attacks on prominent Rustaceans | Rust Blog",
+      "url": "https://www.reddit.com/r/programming/comments/1wj1x9m/be_alert_targeted_attacks_on_prominent_rustaceans/",
+      "source": "Reddit",
+      "date": "2026-09-17T18:22:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Mojo 1.1 released, now accepting community contributions to the compiler",
+      "url": "https://www.reddit.com/r/programming/comments/1wizhuv/mojo_11_released_now_accepting_community/",
+      "source": "Reddit",
+      "date": "2026-09-17T16:54:02.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The sort that can't have the best case",
+      "url": "https://www.reddit.com/r/programming/comments/1wiywtu/the_sort_that_cant_have_the_best_case/",
+      "source": "Reddit",
+      "date": "2026-09-17T16:32:55.000Z"
+    },
+    {
+      "id": "hn-49743097",
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "url": "https://github.com/asciimoo/hister",
+      "source": "HackerNews",
+      "score": 439,
+      "comments": 131,
+      "date": "2026-09-17T16:25:37.000Z"
+    },
+    {
+      "id": "hn-49742355",
+      "title": "CrowdSec Source Code Leak",
+      "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
+      "source": "HackerNews",
+      "score": 127,
+      "comments": 35,
+      "date": "2026-09-17T15:34:01.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
+      "url": "https://www.reddit.com/r/programming/comments/1wivpt2/the_golden_spike_and_resurrecting_the_valen/",
+      "source": "Reddit",
+      "date": "2026-09-17T14:34:15.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Unicode 18.0.0 has been released!",
+      "url": "https://www.reddit.com/r/programming/comments/1wifzlx/unicode_1800_has_been_released/",
+      "source": "Reddit",
+      "date": "2026-09-17T01:23:48.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -98,63 +199,6 @@
       "date": "2026-09-16T20:43:34.000Z"
     },
     {
-      "id": "hn-49732513",
-      "title": "Backups Aren't Simple",
-      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-      "source": "HackerNews",
-      "score": 71,
-      "comments": 25,
-      "date": "2026-09-16T20:27:16.000Z"
-    },
-    {
-      "id": "hn-49732270",
-      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-      "url": "https://mimo.xiaomi.com/rl/",
-      "source": "HackerNews",
-      "score": 236,
-      "comments": 59,
-      "date": "2026-09-16T20:09:18.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "A Tale of Two Flink Autoscalers",
-      "url": "https://www.reddit.com/r/programming/comments/1wi7yar/a_tale_of_two_flink_autoscalers/",
-      "source": "Reddit",
-      "date": "2026-09-16T19:55:54.000Z"
-    },
-    {
-      "id": "hn-49731285",
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "url": "https://rohanbansal.com/qorl",
-      "source": "HackerNews",
-      "score": 384,
-      "comments": 81,
-      "date": "2026-09-16T18:50:00.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "TIN: Full-Text Search for Postgres",
-      "url": "https://www.reddit.com/r/programming/comments/1wi3ax3/tin_fulltext_search_for_postgres/",
-      "source": "Reddit",
-      "date": "2026-09-16T17:10:27.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Apple XNU - IPC Panic",
-      "url": "https://www.reddit.com/r/programming/comments/1wi3aex/apple_xnu_ipc_panic/",
-      "source": "Reddit",
-      "date": "2026-09-16T17:09:55.000Z"
-    },
-    {
-      "id": "hn-49729000",
-      "title": "Small programming tricks",
-      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "source": "HackerNews",
-      "score": 388,
-      "comments": 181,
-      "date": "2026-09-16T15:56:47.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "git worktree gotchas",
       "url": "https://www.reddit.com/r/programming/comments/1wi0xi2/git_worktree_gotchas/",
@@ -162,75 +206,31 @@
       "date": "2026-09-16T15:46:23.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Declarative GUI toolkit Slint 1.18 Released",
-      "url": "https://www.reddit.com/r/programming/comments/1whz461/declarative_gui_toolkit_slint_118_released/",
-      "source": "Reddit",
-      "date": "2026-09-16T14:39:41.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Why building a Rust LSP is hard",
-      "url": "https://www.reddit.com/r/programming/comments/1whwxoo/why_building_a_rust_lsp_is_hard/",
-      "source": "Reddit",
-      "date": "2026-09-16T13:15:18.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Cobol basics under ~2 hours",
-      "url": "https://www.reddit.com/r/programming/comments/1whupgr/cobol_basics_under_2_hours/",
-      "source": "Reddit",
-      "date": "2026-09-16T11:36:10.000Z"
-    },
-    {
-      "id": "hn-49724881",
-      "title": "Nvidia announces native GPU programming in Rust",
-      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "id": "hn-49726007",
+      "title": "Wax motor",
+      "url": "https://en.wikipedia.org/wiki/Wax_motor",
       "source": "HackerNews",
-      "score": 225,
-      "comments": 76,
-      "date": "2026-09-16T11:15:53.000Z"
+      "score": 223,
+      "comments": 43,
+      "date": "2026-09-16T12:35:14.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Row-Level Security and Symbolic Evaluation with Elm and Acadia",
-      "url": "https://www.reddit.com/r/programming/comments/1whu6ww/rowlevel_security_and_symbolic_evaluation_with/",
-      "source": "Reddit",
-      "date": "2026-09-16T11:10:38.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Java 27 has released!",
-      "url": "https://www.reddit.com/r/programming/comments/1whg3ya/java_27_has_released/",
-      "source": "Reddit",
-      "date": "2026-09-15T23:13:53.000Z"
-    },
-    {
-      "id": "hn-49719596",
-      "title": "The engineering behind the US Strategic Petroleum Reserve",
-      "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+      "id": "hn-49715813",
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
       "source": "HackerNews",
-      "score": 87,
-      "comments": 27,
-      "date": "2026-09-15T22:15:25.000Z"
+      "score": 502,
+      "comments": 192,
+      "date": "2026-09-15T17:28:38.000Z"
     },
     {
-      "id": "hn-49711424",
-      "title": "Performance Improvements in .NET 11",
-      "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+      "id": "hn-49710447",
+      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
+      "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
       "source": "HackerNews",
-      "score": 152,
-      "comments": 31,
-      "date": "2026-09-15T12:18:16.000Z"
-    },
-    {
-      "id": "hn-49674451",
-      "title": "Reversing Factorio's RNG",
-      "url": "https://gegell.github.io/posts/factorio-rng/",
-      "source": "HackerNews",
-      "score": 141,
+      "score": 25,
       "comments": 16,
-      "date": "2026-09-12T17:02:19.000Z"
+      "date": "2026-09-15T10:46:24.000Z"
     }
   ]
 }
