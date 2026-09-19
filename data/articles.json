@@ -1,142 +1,220 @@
 {
-  "updatedAt": "2026-09-18T01:06:19.595Z",
+  "updatedAt": "2026-09-19T01:01:10.064Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Postgres week in the Netherlands: PGDay Lowlands &amp; Percona Live 2026",
+      "url": "https://clickhouse.com/blog/postgres-week-in-the-netherlands-pgday-lowlands-percona-live-2026",
+      "source": "ClickHouse",
+      "date": "2026-09-19T01:01:09.913Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The official ClickHouse provider for Apache Airflow is now available",
       "url": "https://clickhouse.com/blog/clickhouse-airflow-provider",
       "source": "ClickHouse",
-      "date": "2026-09-18T01:06:19.001Z"
+      "date": "2026-09-19T01:01:09.913Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "September 2026 newsletter",
       "url": "https://clickhouse.com/blog/202609-newsletter",
       "source": "ClickHouse",
-      "date": "2026-09-18T01:06:19.001Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Postgres week in the Netherlands: PGDay Lowlands &amp; Percona Live 2026",
-      "url": "https://clickhouse.com/blog/postgres-week-in-the-netherlands-pgday-lowlands-percona-live-2026",
-      "source": "ClickHouse",
-      "date": "2026-09-18T01:06:19.001Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "What&#x27;s new in ClickStack - Aug ’26",
-      "url": "https://clickhouse.com/blog/whats-new-in-clickstack-august-2026",
-      "source": "ClickHouse",
-      "date": "2026-09-18T01:06:19.001Z"
+      "date": "2026-09-19T01:01:09.913Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse is now available on the dbt platform",
       "url": "https://clickhouse.com/blog/clickhouse-is-now-available-on-the-dbt-platform",
       "source": "ClickHouse",
-      "date": "2026-09-18T01:06:19.001Z"
+      "date": "2026-09-19T01:01:09.913Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What&#x27;s new in ClickStack - Aug ’26",
+      "url": "https://clickhouse.com/blog/whats-new-in-clickstack-august-2026",
+      "source": "ClickHouse",
+      "date": "2026-09-19T01:01:09.913Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing ClickHouse&#x27;s new TimeSeries Engine: Your drop-In Prometheus replacement",
       "url": "https://clickhouse.com/blog/introducing-promql",
       "source": "ClickHouse",
-      "date": "2026-09-18T01:06:19.001Z"
+      "date": "2026-09-19T01:01:09.913Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Replica-aware routing public beta",
       "url": "https://clickhouse.com/blog/replica-aware-routing-public-beta",
       "source": "ClickHouse",
-      "date": "2026-09-18T01:06:19.001Z"
+      "date": "2026-09-19T01:01:09.913Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "AI Functions in ClickHouse: Upgrade your SQL to the AI age",
       "url": "https://clickhouse.com/blog/ai-functions-in-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-09-18T01:06:19.001Z"
+      "date": "2026-09-19T01:01:09.913Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Loading Parquet data into MySQL with ClickHouse",
       "url": "https://clickhouse.com/blog/parquet-to-mysql-with-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-09-18T01:06:19.001Z"
+      "date": "2026-09-19T01:01:09.913Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse release 26.8",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-08",
       "source": "ClickHouse",
-      "date": "2026-09-18T01:06:19.001Z"
+      "date": "2026-09-19T01:01:09.913Z"
     },
     {
-      "id": "hn-49746618",
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "url": "https://prismml.com/news/bonsai-2-27b",
+      "id": "hn-49761432",
+      "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+      "url": "https://spectrum.ieee.org/llms-for-chip-design",
       "source": "HackerNews",
-      "score": 188,
-      "comments": 62,
-      "date": "2026-09-17T21:13:31.000Z"
-    },
-    {
-      "id": "hn-49746290",
-      "title": "Flet 1.0 – Build cross-platform apps in Python",
-      "url": "https://flet.dev/",
-      "source": "HackerNews",
-      "score": 50,
-      "comments": 19,
-      "date": "2026-09-17T20:44:28.000Z"
-    },
-    {
-      "id": "hn-49746163",
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "url": "https://bend-lang.com/",
-      "source": "HackerNews",
-      "score": 259,
-      "comments": 133,
-      "date": "2026-09-17T20:36:13.000Z"
-    },
-    {
-      "id": "hn-49746117",
-      "title": "More than 100k people in Japan are now aged 100 or older",
-      "url": "https://www.bbc.com/news/articles/cmzezj5e18xxo",
-      "source": "HackerNews",
-      "score": 90,
-      "comments": 72,
-      "date": "2026-09-17T20:33:00.000Z"
-    },
-    {
-      "id": "hn-49745940",
-      "title": "Astra for Law",
-      "url": "https://openai.com/index/astra-for-law/",
-      "source": "HackerNews",
-      "score": 283,
-      "comments": 312,
-      "date": "2026-09-17T20:17:48.000Z"
+      "score": 42,
+      "comments": 39,
+      "date": "2026-09-18T23:04:17.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "I contributed to Golang, here is how you can too",
-      "url": "https://www.reddit.com/r/programming/comments/1wj50pd/i_contributed_to_golang_here_is_how_you_can_too/",
+      "title": "\"the main purpose of unit tests is keeping your code from being violently sh*t on by others\"",
+      "url": "https://www.reddit.com/r/programming/comments/1wk4lod/the_main_purpose_of_unit_tests_is_keeping_your/",
       "source": "Reddit",
-      "date": "2026-09-17T20:15:42.000Z"
+      "date": "2026-09-18T22:32:43.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Scaling Security Insights: how we achieved a 10x increase in global scanning capacity",
-      "url": "https://www.reddit.com/r/programming/comments/1wj3ya8/scaling_security_insights_how_we_achieved_a_10x/",
+      "title": "Broker-Visible vs Client-Local Parallelism",
+      "url": "https://www.reddit.com/r/programming/comments/1wk3svf/brokervisible_vs_clientlocal_parallelism/",
       "source": "Reddit",
-      "date": "2026-09-17T19:36:37.000Z"
+      "date": "2026-09-18T22:00:15.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Introducing TIN: full-text search for Postgres — PlanetScale",
-      "url": "https://www.reddit.com/r/programming/comments/1wj3ois/introducing_tin_fulltext_search_for_postgres/",
+      "title": "Fedora signing: draw the rest of the owl",
+      "url": "https://www.reddit.com/r/programming/comments/1wk2i8f/fedora_signing_draw_the_rest_of_the_owl/",
       "source": "Reddit",
-      "date": "2026-09-17T19:26:28.000Z"
+      "date": "2026-09-18T21:08:29.000Z"
+    },
+    {
+      "id": "hn-49758736",
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "source": "HackerNews",
+      "score": 491,
+      "comments": 230,
+      "date": "2026-09-18T19:03:09.000Z"
+    },
+    {
+      "id": "hn-49758615",
+      "title": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "source": "HackerNews",
+      "score": 65,
+      "comments": 12,
+      "date": "2026-09-18T18:55:35.000Z"
+    },
+    {
+      "id": "hn-49758580",
+      "title": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "source": "HackerNews",
+      "score": 208,
+      "comments": 40,
+      "date": "2026-09-18T18:51:46.000Z"
+    },
+    {
+      "id": "hn-49758419",
+      "title": "Xcode 27.1 Beta Release Notes",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "source": "HackerNews",
+      "score": 111,
+      "comments": 65,
+      "date": "2026-09-18T18:39:31.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "iceoryx2 0.10 released: full flatbuffer integration, zero copy ipc with unbounded data, robust events",
+      "url": "https://www.reddit.com/r/programming/comments/1wjxzv9/iceoryx2_010_released_full_flatbuffer_integration/",
+      "source": "Reddit",
+      "date": "2026-09-18T18:19:11.000Z"
+    },
+    {
+      "id": "hn-49757050",
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "source": "HackerNews",
+      "score": 148,
+      "comments": 52,
+      "date": "2026-09-18T16:54:18.000Z"
+    },
+    {
+      "id": "hn-49754785",
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "source": "HackerNews",
+      "score": 552,
+      "comments": 241,
+      "date": "2026-09-18T14:18:41.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Make Code Review Your Default Next Task",
+      "url": "https://www.reddit.com/r/programming/comments/1wjont5/make_code_review_your_default_next_task/",
+      "source": "Reddit",
+      "date": "2026-09-18T12:19:59.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Understanding Raft By Implementing It From Scratch - Part 2",
+      "url": "https://www.reddit.com/r/programming/comments/1wjlfk0/understanding_raft_by_implementing_it_from/",
+      "source": "Reddit",
+      "date": "2026-09-18T09:27:44.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Conway's Law and Programming Languages",
+      "url": "https://www.reddit.com/r/programming/comments/1wjl4rq/conways_law_and_programming_languages/",
+      "source": "Reddit",
+      "date": "2026-09-18T09:10:13.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The scourge of x86 emulation",
+      "url": "https://www.reddit.com/r/programming/comments/1wjicct/the_scourge_of_x86_emulation/",
+      "source": "Reddit",
+      "date": "2026-09-18T06:22:03.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Making a game for the GBA and PC from the same codebase",
+      "url": "https://www.reddit.com/r/programming/comments/1wjcb2c/making_a_game_for_the_gba_and_pc_from_the_same/",
+      "source": "Reddit",
+      "date": "2026-09-18T01:20:23.000Z"
+    },
+    {
+      "id": "hn-49748553",
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "source": "HackerNews",
+      "score": 161,
+      "comments": 76,
+      "date": "2026-09-18T00:11:44.000Z"
+    },
+    {
+      "id": "hn-49747070",
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "source": "HackerNews",
+      "score": 380,
+      "comments": 264,
+      "date": "2026-09-17T21:48:38.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -146,91 +224,13 @@
       "date": "2026-09-17T18:22:18.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Mojo 1.1 released, now accepting community contributions to the compiler",
-      "url": "https://www.reddit.com/r/programming/comments/1wizhuv/mojo_11_released_now_accepting_community/",
-      "source": "Reddit",
-      "date": "2026-09-17T16:54:02.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The sort that can't have the best case",
-      "url": "https://www.reddit.com/r/programming/comments/1wiywtu/the_sort_that_cant_have_the_best_case/",
-      "source": "Reddit",
-      "date": "2026-09-17T16:32:55.000Z"
-    },
-    {
-      "id": "hn-49743097",
-      "title": "Hister: A private search engine for the pages you visit and the files you keep",
-      "url": "https://github.com/asciimoo/hister",
+      "id": "hn-49744036",
+      "title": "The Farnese letter",
+      "url": "https://simonklee.dk/farnese-letter",
       "source": "HackerNews",
-      "score": 439,
-      "comments": 131,
-      "date": "2026-09-17T16:25:37.000Z"
-    },
-    {
-      "id": "hn-49742355",
-      "title": "CrowdSec Source Code Leak",
-      "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
-      "source": "HackerNews",
-      "score": 127,
-      "comments": 35,
-      "date": "2026-09-17T15:34:01.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
-      "url": "https://www.reddit.com/r/programming/comments/1wivpt2/the_golden_spike_and_resurrecting_the_valen/",
-      "source": "Reddit",
-      "date": "2026-09-17T14:34:15.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Unicode 18.0.0 has been released!",
-      "url": "https://www.reddit.com/r/programming/comments/1wifzlx/unicode_1800_has_been_released/",
-      "source": "Reddit",
-      "date": "2026-09-17T01:23:48.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Programming lanugage that uses procedures",
-      "url": "https://www.reddit.com/r/programming/comments/1wi98x3/programming_lanugage_that_uses_procedures/",
-      "source": "Reddit",
-      "date": "2026-09-16T20:43:34.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "git worktree gotchas",
-      "url": "https://www.reddit.com/r/programming/comments/1wi0xi2/git_worktree_gotchas/",
-      "source": "Reddit",
-      "date": "2026-09-16T15:46:23.000Z"
-    },
-    {
-      "id": "hn-49726007",
-      "title": "Wax motor",
-      "url": "https://en.wikipedia.org/wiki/Wax_motor",
-      "source": "HackerNews",
-      "score": 223,
-      "comments": 43,
-      "date": "2026-09-16T12:35:14.000Z"
-    },
-    {
-      "id": "hn-49715813",
-      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-      "source": "HackerNews",
-      "score": 502,
-      "comments": 192,
-      "date": "2026-09-15T17:28:38.000Z"
-    },
-    {
-      "id": "hn-49710447",
-      "title": "Diplodocus, Long Thought Exclusively American, Turns Up in Spain",
-      "url": "https://www.sci.news/paleontology/spanish-diplodocus-15064.html",
-      "source": "HackerNews",
-      "score": 25,
-      "comments": 16,
-      "date": "2026-09-15T10:46:24.000Z"
+      "score": 24,
+      "comments": 3,
+      "date": "2026-09-17T17:39:01.000Z"
     }
   ]
 }
