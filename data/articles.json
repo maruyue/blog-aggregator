@@ -1,85 +1,215 @@
 {
-  "updatedAt": "2026-09-21T00:54:42.970Z",
+  "updatedAt": "2026-09-22T01:29:10.593Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Postgres on NVMe: performance and the convergence of transactions and analytics",
+      "url": "https://clickhouse.com/blog/postgres-on-nvme",
+      "source": "ClickHouse",
+      "date": "2026-09-22T01:29:10.549Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres week in the Netherlands: PGDay Lowlands &amp; Percona Live 2026",
       "url": "https://clickhouse.com/blog/postgres-week-in-the-netherlands-pgday-lowlands-percona-live-2026",
       "source": "ClickHouse",
-      "date": "2026-09-21T00:54:42.945Z"
+      "date": "2026-09-22T01:29:10.549Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The official ClickHouse provider for Apache Airflow is now available",
       "url": "https://clickhouse.com/blog/clickhouse-airflow-provider",
       "source": "ClickHouse",
-      "date": "2026-09-21T00:54:42.945Z"
+      "date": "2026-09-22T01:29:10.549Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "September 2026 newsletter",
       "url": "https://clickhouse.com/blog/202609-newsletter",
       "source": "ClickHouse",
-      "date": "2026-09-21T00:54:42.945Z"
+      "date": "2026-09-22T01:29:10.549Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse is now available on the dbt platform",
       "url": "https://clickhouse.com/blog/clickhouse-is-now-available-on-the-dbt-platform",
       "source": "ClickHouse",
-      "date": "2026-09-21T00:54:42.945Z"
+      "date": "2026-09-22T01:29:10.549Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickStack - Aug ’26",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-august-2026",
       "source": "ClickHouse",
-      "date": "2026-09-21T00:54:42.945Z"
+      "date": "2026-09-22T01:29:10.549Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing ClickHouse&#x27;s new TimeSeries Engine: Your drop-In Prometheus replacement",
       "url": "https://clickhouse.com/blog/introducing-promql",
       "source": "ClickHouse",
-      "date": "2026-09-21T00:54:42.945Z"
+      "date": "2026-09-22T01:29:10.549Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Replica-aware routing public beta",
       "url": "https://clickhouse.com/blog/replica-aware-routing-public-beta",
       "source": "ClickHouse",
-      "date": "2026-09-21T00:54:42.945Z"
+      "date": "2026-09-22T01:29:10.549Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "AI Functions in ClickHouse: Upgrade your SQL to the AI age",
       "url": "https://clickhouse.com/blog/ai-functions-in-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-09-21T00:54:42.945Z"
+      "date": "2026-09-22T01:29:10.549Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Loading Parquet data into MySQL with ClickHouse",
       "url": "https://clickhouse.com/blog/parquet-to-mysql-with-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-09-21T00:54:42.945Z"
+      "date": "2026-09-22T01:29:10.549Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse release 26.8",
-      "url": "https://clickhouse.com/blog/clickhouse-release-26-08",
-      "source": "ClickHouse",
-      "date": "2026-09-21T00:54:42.945Z"
-    },
-    {
-      "id": "hn-49781436",
-      "title": "Amiga Unix, Again",
-      "url": "https://amigaux.org/",
+      "id": "hn-49795579",
+      "title": "Claude Status – Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
       "source": "HackerNews",
-      "score": 10,
-      "comments": 3,
-      "date": "2026-09-20T23:57:10.000Z"
+      "score": 26,
+      "comments": 13,
+      "date": "2026-09-22T01:05:19.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Covert Caches: TLB Edition",
+      "url": "https://www.reddit.com/r/programming/comments/1wmsvny/covert_caches_tlb_edition/",
+      "source": "Reddit",
+      "date": "2026-09-21T23:22:12.000Z"
+    },
+    {
+      "id": "hn-49794615",
+      "title": "Spymarks, Not Watermarks",
+      "url": "https://brand.io/article/spymarks/",
+      "source": "HackerNews",
+      "score": 99,
+      "comments": 21,
+      "date": "2026-09-21T23:03:49.000Z"
+    },
+    {
+      "id": "hn-49794330",
+      "title": "I don't want to read what you didn't write",
+      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+      "source": "HackerNews",
+      "score": 220,
+      "comments": 86,
+      "date": "2026-09-21T22:30:41.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "TIL: 0xCAFEBABE",
+      "url": "https://www.reddit.com/r/programming/comments/1wmqwd3/til_0xcafebabe/",
+      "source": "Reddit",
+      "date": "2026-09-21T22:01:27.000Z"
+    },
+    {
+      "id": "hn-49792730",
+      "title": "Xiaomi MiMo v2.6",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "source": "HackerNews",
+      "score": 519,
+      "comments": 269,
+      "date": "2026-09-21T20:12:12.000Z"
+    },
+    {
+      "id": "hn-49792342",
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "source": "HackerNews",
+      "score": 195,
+      "comments": 35,
+      "date": "2026-09-21T19:43:49.000Z"
+    },
+    {
+      "id": "hn-49792067",
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "source": "HackerNews",
+      "score": 137,
+      "comments": 135,
+      "date": "2026-09-21T19:23:33.000Z"
+    },
+    {
+      "id": "hn-49791939",
+      "title": "NASA’s Mars Sample Return mission is dead",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "source": "HackerNews",
+      "score": 305,
+      "comments": 233,
+      "date": "2026-09-21T19:14:12.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Bernstein’s Factorization Method Helped Factor RSA-240 in 2020",
+      "url": "https://www.reddit.com/r/programming/comments/1wmio31/bernsteins_factorization_method_helped_factor/",
+      "source": "Reddit",
+      "date": "2026-09-21T17:03:19.000Z"
+    },
+    {
+      "id": "hn-49789361",
+      "title": "The agents, they just want to talk",
+      "url": "https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html",
+      "source": "HackerNews",
+      "score": 9,
+      "comments": 1,
+      "date": "2026-09-21T16:22:26.000Z"
+    },
+    {
+      "id": "hn-49787726",
+      "title": "Attention is all you have",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "source": "HackerNews",
+      "score": 572,
+      "comments": 170,
+      "date": "2026-09-21T14:26:56.000Z"
+    },
+    {
+      "id": "hn-49787436",
+      "title": "What Sun got wrong",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "source": "HackerNews",
+      "score": 494,
+      "comments": 283,
+      "date": "2026-09-21T14:03:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Back to Coupling and Cohesion",
+      "url": "https://www.reddit.com/r/programming/comments/1wmckoi/back_to_coupling_and_cohesion/",
+      "source": "Reddit",
+      "date": "2026-09-21T13:18:29.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Functions explained in \"Let's make a programming language\"",
+      "url": "https://www.reddit.com/r/programming/comments/1wmbv4d/functions_explained_in_lets_make_a_programming/",
+      "source": "Reddit",
+      "date": "2026-09-21T12:49:21.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Covert Caches: When Is A Cache, A Cache?",
+      "url": "https://www.reddit.com/r/programming/comments/1wm30hh/covert_caches_when_is_a_cache_a_cache/",
+      "source": "Reddit",
+      "date": "2026-09-21T04:47:05.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "CSE 452: Google's Introduction to Distributed System Design",
+      "url": "https://www.reddit.com/r/programming/comments/1wm24ab/cse_452_googles_introduction_to_distributed/",
+      "source": "Reddit",
+      "date": "2026-09-21T04:00:51.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -89,56 +219,6 @@
       "date": "2026-09-20T23:47:27.000Z"
     },
     {
-      "id": "hn-49780820",
-      "title": "What happened to the Snowden archive",
-      "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "source": "HackerNews",
-      "score": 120,
-      "comments": 40,
-      "date": "2026-09-20T22:35:49.000Z"
-    },
-    {
-      "id": "hn-49780797",
-      "title": "Google's Open Agentic Orchestrator",
-      "url": "https://agentexecutor.io",
-      "source": "HackerNews",
-      "score": 140,
-      "comments": 60,
-      "date": "2026-09-20T22:32:43.000Z"
-    },
-    {
-      "id": "hn-49780630",
-      "title": "Bill to Ban Private Equity from Owning Medical Practices",
-      "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-      "source": "HackerNews",
-      "score": 180,
-      "comments": 107,
-      "date": "2026-09-20T22:13:46.000Z"
-    },
-    {
-      "id": "hn-49780064",
-      "title": "Nobody pays for FOSS, we can force them to",
-      "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-      "source": "HackerNews",
-      "score": 130,
-      "comments": 95,
-      "date": "2026-09-20T21:04:32.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Need advice on how to build this app.",
-      "url": "https://www.reddit.com/r/programming/comments/1wlpph4/need_advice_on_how_to_build_this_app/",
-      "source": "Reddit",
-      "date": "2026-09-20T19:04:31.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "(C++) Asynchronous API",
-      "url": "https://www.reddit.com/r/programming/comments/1wlpi6i/c_asynchronous_api/",
-      "source": "Reddit",
-      "date": "2026-09-20T18:57:05.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "Fighting for #1 in the Ultimate Tic-Tac-Toe Arena",
       "url": "https://www.reddit.com/r/programming/comments/1wlnfhn/fighting_for_1_in_the_ultimate_tictactoe_arena/",
@@ -146,91 +226,11 @@
       "date": "2026-09-20T17:38:59.000Z"
     },
     {
-      "id": "hn-49778029",
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "source": "HackerNews",
-      "score": 337,
-      "comments": 216,
-      "date": "2026-09-20T17:38:50.000Z"
-    },
-    {
-      "id": "hn-49776729",
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "source": "HackerNews",
-      "score": 569,
-      "comments": 306,
-      "date": "2026-09-20T15:18:44.000Z"
-    },
-    {
-      "id": "hn-49776699",
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "url": "https://pirateface.co/",
-      "source": "HackerNews",
-      "score": 423,
-      "comments": 132,
-      "date": "2026-09-20T15:16:07.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "Writing Your Own Allocator in Rust (and Why You Should)",
       "url": "https://www.reddit.com/r/programming/comments/1wlho4z/writing_your_own_allocator_in_rust_and_why_you/",
       "source": "Reddit",
       "date": "2026-09-20T13:52:36.000Z"
-    },
-    {
-      "id": "hn-49775499",
-      "title": "Qwen Image 2.1",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "source": "HackerNews",
-      "score": 479,
-      "comments": 151,
-      "date": "2026-09-20T13:09:25.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Adversarial examples for fast hash functions",
-      "url": "https://www.reddit.com/r/programming/comments/1wlfnfe/adversarial_examples_for_fast_hash_functions/",
-      "source": "Reddit",
-      "date": "2026-09-20T12:20:58.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Good Tools Are Invisible",
-      "url": "https://www.reddit.com/r/programming/comments/1wkugvr/good_tools_are_invisible/",
-      "source": "Reddit",
-      "date": "2026-09-19T19:00:28.000Z"
-    },
-    {
-      "id": "hn-49768336",
-      "title": "The Effect of CRTs on Pixel Art (2024)",
-      "url": "https://datagubbe.se/crt/",
-      "source": "HackerNews",
-      "score": 85,
-      "comments": 18,
-      "date": "2026-09-19T17:14:51.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "You can run git on object storage if you re-make packfiles",
-      "url": "https://www.reddit.com/r/programming/comments/1wkrfqw/you_can_run_git_on_object_storage_if_you_remake/",
-      "source": "Reddit",
-      "date": "2026-09-19T17:00:55.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The Void Job",
-      "url": "https://www.reddit.com/r/programming/comments/1wkqj9y/the_void_job/",
-      "source": "Reddit",
-      "date": "2026-09-19T16:25:08.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "\"the main purpose of unit tests is keeping your code from being violently sh*t on by others\"",
-      "url": "https://www.reddit.com/r/programming/comments/1wk4lod/the_main_purpose_of_unit_tests_is_keeping_your/",
-      "source": "Reddit",
-      "date": "2026-09-18T22:32:43.000Z"
     }
   ]
 }
