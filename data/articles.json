@@ -1,236 +1,166 @@
 {
-  "updatedAt": "2026-09-23T01:18:56.698Z",
-  "total": 30,
+  "updatedAt": "2026-09-24T01:13:31.179Z",
+  "total": 20,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Replica-aware routing public beta",
+      "url": "https://clickhouse.com/blog/replica-aware-routing-public-beta",
+      "source": "ClickHouse",
+      "date": "2026-09-24T01:13:31.179Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse appoints Mike Scarpelli, former Snowflake and ServiceNow CFO, to Board of Directors",
       "url": "https://clickhouse.com/blog/clickhouse-appoints-mike-scarpelli-to-board-of-directors",
       "source": "ClickHouse",
-      "date": "2026-09-23T01:18:56.486Z"
+      "date": "2026-09-24T01:13:31.178Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Fountain rebuilt its data plane on ClickHouse Cloud to power Cue, the Frontline Superintelligence",
       "url": "https://clickhouse.com/blog/fountain-agentic-ai-for-high-volume-hiring",
       "source": "ClickHouse",
-      "date": "2026-09-23T01:18:56.486Z"
+      "date": "2026-09-24T01:13:31.178Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres on NVMe: performance and the convergence of transactions and analytics",
       "url": "https://clickhouse.com/blog/postgres-on-nvme",
       "source": "ClickHouse",
-      "date": "2026-09-23T01:18:56.486Z"
+      "date": "2026-09-24T01:13:31.178Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres week in the Netherlands: PGDay Lowlands &amp; Percona Live 2026",
       "url": "https://clickhouse.com/blog/postgres-week-in-the-netherlands-pgday-lowlands-percona-live-2026",
       "source": "ClickHouse",
-      "date": "2026-09-23T01:18:56.486Z"
+      "date": "2026-09-24T01:13:31.178Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The official ClickHouse provider for Apache Airflow is now available",
       "url": "https://clickhouse.com/blog/clickhouse-airflow-provider",
       "source": "ClickHouse",
-      "date": "2026-09-23T01:18:56.486Z"
+      "date": "2026-09-24T01:13:31.178Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "September 2026 newsletter",
       "url": "https://clickhouse.com/blog/202609-newsletter",
       "source": "ClickHouse",
-      "date": "2026-09-23T01:18:56.486Z"
+      "date": "2026-09-24T01:13:31.178Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse is now available on the dbt platform",
       "url": "https://clickhouse.com/blog/clickhouse-is-now-available-on-the-dbt-platform",
       "source": "ClickHouse",
-      "date": "2026-09-23T01:18:56.486Z"
+      "date": "2026-09-24T01:13:31.178Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickStack - Aug ’26",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-august-2026",
       "source": "ClickHouse",
-      "date": "2026-09-23T01:18:56.486Z"
+      "date": "2026-09-24T01:13:31.178Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing ClickHouse&#x27;s new TimeSeries Engine: Your drop-In Prometheus replacement",
       "url": "https://clickhouse.com/blog/introducing-promql",
       "source": "ClickHouse",
-      "date": "2026-09-23T01:18:56.486Z"
+      "date": "2026-09-24T01:13:31.178Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Replica-aware routing public beta",
-      "url": "https://clickhouse.com/blog/replica-aware-routing-public-beta",
-      "source": "ClickHouse",
-      "date": "2026-09-23T01:18:56.486Z"
-    },
-    {
-      "id": "hn-49809806",
-      "title": "The new CC, an AI agent built for families",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+      "id": "hn-49824268",
+      "title": "Meta VR Glasses",
+      "url": "https://www.meta.com/vr-glasses/",
       "source": "HackerNews",
-      "score": 18,
-      "comments": 15,
-      "date": "2026-09-22T23:46:07.000Z"
+      "score": 166,
+      "comments": 117,
+      "date": "2026-09-23T23:47:56.000Z"
     },
     {
-      "id": "hn-49808023",
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "url": "https://foxscript.org/",
+      "id": "hn-49823664",
+      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
+      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
       "source": "HackerNews",
-      "score": 167,
-      "comments": 121,
-      "date": "2026-09-22T21:00:30.000Z"
+      "score": 45,
+      "comments": 7,
+      "date": "2026-09-23T22:45:49.000Z"
     },
     {
-      "id": "hn-49806335",
-      "title": "SAML: A fractal of bad design",
-      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+      "id": "hn-49823582",
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
       "source": "HackerNews",
-      "score": 149,
-      "comments": 86,
-      "date": "2026-09-22T18:57:17.000Z"
+      "score": 122,
+      "comments": 59,
+      "date": "2026-09-23T22:38:16.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The History of Compiled (portion of) Javascript and V8 Engine",
-      "url": "https://www.reddit.com/r/programming/comments/1wnictu/the_history_of_compiled_portion_of_javascript_and/",
-      "source": "Reddit",
-      "date": "2026-09-22T18:54:05.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Category Theory Explained for Haskell Programmers – Part 1 ZuriHac 2026",
-      "url": "https://www.reddit.com/r/programming/comments/1wnibwa/category_theory_explained_for_haskell_programmers/",
-      "source": "Reddit",
-      "date": "2026-09-22T18:53:09.000Z"
-    },
-    {
-      "id": "hn-49805509",
-      "title": "GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "id": "hn-49823348",
+      "title": "Mercury 2.5 LLM hits 770 tokens per second",
+      "url": "https://artificialanalysis.ai/models/mercury-2-5",
       "source": "HackerNews",
-      "score": 1152,
-      "comments": 597,
-      "date": "2026-09-22T18:00:34.000Z"
+      "score": 39,
+      "comments": 18,
+      "date": "2026-09-23T22:16:19.000Z"
     },
     {
-      "id": "hn-49805278",
-      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "id": "hn-49823195",
+      "title": "We just shipped support for the ugliest part of HTTP: Vary",
+      "url": "https://blog.cloudflare.com/vary-support/",
       "source": "HackerNews",
-      "score": 376,
-      "comments": 271,
-      "date": "2026-09-22T17:46:02.000Z"
+      "score": 65,
+      "comments": 9,
+      "date": "2026-09-23T22:03:21.000Z"
     },
     {
-      "id": "hn-49804316",
-      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "id": "hn-49822555",
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
       "source": "HackerNews",
-      "score": 233,
-      "comments": 69,
-      "date": "2026-09-22T16:51:31.000Z"
+      "score": 115,
+      "comments": 80,
+      "date": "2026-09-23T21:01:48.000Z"
     },
     {
-      "id": "hn-49803892",
-      "title": "Claude Opus 5.5",
-      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "id": "hn-49820496",
+      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
+      "url": "https://huggingface.co/apple/LensVLM-9B",
       "source": "HackerNews",
-      "score": 1183,
-      "comments": 803,
-      "date": "2026-09-22T16:29:05.000Z"
+      "score": 53,
+      "comments": 6,
+      "date": "2026-09-23T18:36:29.000Z"
     },
     {
-      "id": "hn-49801324",
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "id": "hn-49820134",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "source": "HackerNews",
-      "score": 553,
-      "comments": 358,
-      "date": "2026-09-22T13:52:15.000Z"
+      "score": 481,
+      "comments": 517,
+      "date": "2026-09-23T18:06:47.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Amundsen’s Maxim",
-      "url": "https://www.reddit.com/r/programming/comments/1wn8ung/amundsens_maxim/",
-      "source": "Reddit",
-      "date": "2026-09-22T13:00:28.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "C3 0.8.4: Parameter Reflection, Stack Protection, iOS Support—and One Last Renaming",
-      "url": "https://www.reddit.com/r/programming/comments/1wn5gnz/c3_084_parameter_reflection_stack_protection_ios/",
-      "source": "Reddit",
-      "date": "2026-09-22T10:13:31.000Z"
-    },
-    {
-      "id": "hn-49796379",
-      "title": "What California is learning from solar panels built over irrigation canals",
-      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+      "id": "hn-49817469",
+      "title": "Fixing the Portobello Police Station Clock",
+      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
       "source": "HackerNews",
-      "score": 109,
-      "comments": 131,
-      "date": "2026-09-22T03:10:05.000Z"
+      "score": 378,
+      "comments": 85,
+      "date": "2026-09-23T15:18:53.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "FloatLib: Verified Floating-Point Arithmetic in Lean",
-      "url": "https://www.reddit.com/r/programming/comments/1wmwab9/floatlib_verified_floatingpoint_arithmetic_in_lean/",
-      "source": "Reddit",
-      "date": "2026-09-22T01:52:13.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "TIL: 0xCAFEBABE",
-      "url": "https://www.reddit.com/r/programming/comments/1wmqwd3/til_0xcafebabe/",
-      "source": "Reddit",
-      "date": "2026-09-21T22:01:27.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Bernstein’s Factorization Method Helped Factor RSA-240 in 2020",
-      "url": "https://www.reddit.com/r/programming/comments/1wmio31/bernsteins_factorization_method_helped_factor/",
-      "source": "Reddit",
-      "date": "2026-09-21T17:03:19.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Back to Coupling and Cohesion",
-      "url": "https://www.reddit.com/r/programming/comments/1wmckoi/back_to_coupling_and_cohesion/",
-      "source": "Reddit",
-      "date": "2026-09-21T13:18:29.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "CSE 452: Google's Introduction to Distributed System Design",
-      "url": "https://www.reddit.com/r/programming/comments/1wm24ab/cse_452_googles_introduction_to_distributed/",
-      "source": "Reddit",
-      "date": "2026-09-21T04:00:51.000Z"
-    },
-    {
-      "id": "hn-49781862",
-      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
-      "url": "https://github.com/xCuri0/ReBarUEFI",
+      "id": "hn-49796372",
+      "title": "The \"Windows XP Box\" (2003)",
+      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
       "source": "HackerNews",
-      "score": 67,
-      "comments": 21,
-      "date": "2026-09-21T01:07:46.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Saving another 100TB of RAM with math (and Rust)",
-      "url": "https://www.reddit.com/r/programming/comments/1wlwr9e/saving_another_100tb_of_ram_with_math_and_rust/",
-      "source": "Reddit",
-      "date": "2026-09-20T23:47:27.000Z"
+      "score": 32,
+      "comments": 6,
+      "date": "2026-09-22T03:09:04.000Z"
     }
   ]
 }
