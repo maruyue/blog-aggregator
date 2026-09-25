@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-09-24T01:13:31.179Z",
-  "total": 20,
+  "updatedAt": "2026-09-25T01:13:55.011Z",
+  "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "Replica-aware routing public beta",
-      "url": "https://clickhouse.com/blog/replica-aware-routing-public-beta",
+      "title": "ClickHouse release 26.9",
+      "url": "https://clickhouse.com/blog/clickhouse-release-26-09",
       "source": "ClickHouse",
-      "date": "2026-09-24T01:13:31.179Z"
+      "date": "2026-09-25T01:13:54.970Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse appoints Mike Scarpelli, former Snowflake and ServiceNow CFO, to Board of Directors",
       "url": "https://clickhouse.com/blog/clickhouse-appoints-mike-scarpelli-to-board-of-directors",
       "source": "ClickHouse",
-      "date": "2026-09-24T01:13:31.178Z"
+      "date": "2026-09-25T01:13:54.970Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Fountain rebuilt its data plane on ClickHouse Cloud to power Cue, the Frontline Superintelligence",
       "url": "https://clickhouse.com/blog/fountain-agentic-ai-for-high-volume-hiring",
       "source": "ClickHouse",
-      "date": "2026-09-24T01:13:31.178Z"
+      "date": "2026-09-25T01:13:54.970Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres on NVMe: performance and the convergence of transactions and analytics",
       "url": "https://clickhouse.com/blog/postgres-on-nvme",
       "source": "ClickHouse",
-      "date": "2026-09-24T01:13:31.178Z"
+      "date": "2026-09-25T01:13:54.970Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres week in the Netherlands: PGDay Lowlands &amp; Percona Live 2026",
       "url": "https://clickhouse.com/blog/postgres-week-in-the-netherlands-pgday-lowlands-percona-live-2026",
       "source": "ClickHouse",
-      "date": "2026-09-24T01:13:31.178Z"
+      "date": "2026-09-25T01:13:54.970Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The official ClickHouse provider for Apache Airflow is now available",
       "url": "https://clickhouse.com/blog/clickhouse-airflow-provider",
       "source": "ClickHouse",
-      "date": "2026-09-24T01:13:31.178Z"
+      "date": "2026-09-25T01:13:54.970Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "September 2026 newsletter",
       "url": "https://clickhouse.com/blog/202609-newsletter",
       "source": "ClickHouse",
-      "date": "2026-09-24T01:13:31.178Z"
+      "date": "2026-09-25T01:13:54.970Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse is now available on the dbt platform",
       "url": "https://clickhouse.com/blog/clickhouse-is-now-available-on-the-dbt-platform",
       "source": "ClickHouse",
-      "date": "2026-09-24T01:13:31.178Z"
+      "date": "2026-09-25T01:13:54.970Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickStack - Aug ’26",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-august-2026",
       "source": "ClickHouse",
-      "date": "2026-09-24T01:13:31.178Z"
+      "date": "2026-09-25T01:13:54.970Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing ClickHouse&#x27;s new TimeSeries Engine: Your drop-In Prometheus replacement",
       "url": "https://clickhouse.com/blog/introducing-promql",
       "source": "ClickHouse",
-      "date": "2026-09-24T01:13:31.178Z"
+      "date": "2026-09-25T01:13:54.970Z"
     },
     {
-      "id": "hn-49824268",
-      "title": "Meta VR Glasses",
-      "url": "https://www.meta.com/vr-glasses/",
+      "id": "hn-49835531",
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
       "source": "HackerNews",
-      "score": 166,
-      "comments": 117,
-      "date": "2026-09-23T23:47:56.000Z"
-    },
-    {
-      "id": "hn-49823664",
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "source": "HackerNews",
-      "score": 45,
-      "comments": 7,
-      "date": "2026-09-23T22:45:49.000Z"
-    },
-    {
-      "id": "hn-49823582",
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "source": "HackerNews",
-      "score": 122,
-      "comments": 59,
-      "date": "2026-09-23T22:38:16.000Z"
-    },
-    {
-      "id": "hn-49823348",
-      "title": "Mercury 2.5 LLM hits 770 tokens per second",
-      "url": "https://artificialanalysis.ai/models/mercury-2-5",
-      "source": "HackerNews",
-      "score": 39,
-      "comments": 18,
-      "date": "2026-09-23T22:16:19.000Z"
-    },
-    {
-      "id": "hn-49823195",
-      "title": "We just shipped support for the ugliest part of HTTP: Vary",
-      "url": "https://blog.cloudflare.com/vary-support/",
-      "source": "HackerNews",
-      "score": 65,
+      "score": 62,
       "comments": 9,
-      "date": "2026-09-23T22:03:21.000Z"
+      "date": "2026-09-24T19:14:27.000Z"
     },
     {
-      "id": "hn-49822555",
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "id": "hn-49833867",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
       "source": "HackerNews",
-      "score": 115,
-      "comments": 80,
-      "date": "2026-09-23T21:01:48.000Z"
+      "score": 187,
+      "comments": 79,
+      "date": "2026-09-24T17:21:36.000Z"
     },
     {
-      "id": "hn-49820496",
-      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
-      "url": "https://huggingface.co/apple/LensVLM-9B",
+      "id": "hn-49832938",
+      "title": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
       "source": "HackerNews",
-      "score": 53,
-      "comments": 6,
-      "date": "2026-09-23T18:36:29.000Z"
+      "score": 237,
+      "comments": 151,
+      "date": "2026-09-24T16:23:00.000Z"
     },
     {
-      "id": "hn-49820134",
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "id": "hn-49831968",
+      "title": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
       "source": "HackerNews",
-      "score": 481,
-      "comments": 517,
-      "date": "2026-09-23T18:06:47.000Z"
+      "score": 918,
+      "comments": 261,
+      "date": "2026-09-24T15:26:12.000Z"
     },
     {
-      "id": "hn-49817469",
-      "title": "Fixing the Portobello Police Station Clock",
-      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
-      "source": "HackerNews",
-      "score": 378,
-      "comments": 85,
-      "date": "2026-09-23T15:18:53.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Partitioning in MySQL: How we cut peak database load by more than 80%.",
+      "url": "https://www.reddit.com/r/programming/comments/1woz4lh/partitioning_in_mysql_how_we_cut_peak_database/",
+      "source": "Reddit",
+      "date": "2026-09-24T11:30:26.000Z"
     },
     {
-      "id": "hn-49796372",
-      "title": "The \"Windows XP Box\" (2003)",
-      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Implementing MNIST Neural Network from Scratch in Rust (95% acc)",
+      "url": "https://www.reddit.com/r/programming/comments/1wov53d/implementing_mnist_neural_network_from_scratch_in/",
+      "source": "Reddit",
+      "date": "2026-09-24T07:28:38.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Runtime Lab — Learn Backend & Systems Engineering by building real software from scratch",
+      "url": "https://www.reddit.com/r/programming/comments/1workde/runtime_lab_learn_backend_systems_engineering_by/",
+      "source": "Reddit",
+      "date": "2026-09-24T04:05:18.000Z"
+    },
+    {
+      "id": "hn-49823738",
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "url": "https://bastardica.mitpit.com",
       "source": "HackerNews",
-      "score": 32,
-      "comments": 6,
-      "date": "2026-09-22T03:09:04.000Z"
+      "score": 468,
+      "comments": 64,
+      "date": "2026-09-23T22:53:28.000Z"
+    },
+    {
+      "id": "hn-49823568",
+      "title": "Toyota is taking the Corolla electric",
+      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "source": "HackerNews",
+      "score": 209,
+      "comments": 326,
+      "date": "2026-09-23T22:37:28.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "ScyllaDB in 2026: Tablets, Raft and Life Beyond Cassandra",
+      "url": "https://www.reddit.com/r/programming/comments/1wogdhq/scylladb_in_2026_tablets_raft_and_life_beyond/",
+      "source": "Reddit",
+      "date": "2026-09-23T19:53:54.000Z"
+    },
+    {
+      "id": "hn-49817680",
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "source": "HackerNews",
+      "score": 222,
+      "comments": 247,
+      "date": "2026-09-23T15:33:33.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Modern Object Pascal Introduction for Programmers | Castle Game Engine",
+      "url": "https://www.reddit.com/r/programming/comments/1wo7osh/modern_object_pascal_introduction_for_programmers/",
+      "source": "Reddit",
+      "date": "2026-09-23T14:33:26.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "We ported the original Doom to SQL",
+      "url": "https://www.reddit.com/r/programming/comments/1wo7amj/we_ported_the_original_doom_to_sql/",
+      "source": "Reddit",
+      "date": "2026-09-23T14:18:17.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Railway-Oriented Programming",
+      "url": "https://www.reddit.com/r/programming/comments/1wo3zxx/railwayoriented_programming/",
+      "source": "Reddit",
+      "date": "2026-09-23T12:00:00.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How we rebuilt complex permissions without migrating to Zanzibar",
+      "url": "https://www.reddit.com/r/programming/comments/1wo11v8/how_we_rebuilt_complex_permissions_without/",
+      "source": "Reddit",
+      "date": "2026-09-23T09:22:39.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Android 17 enables certificate transparency, and breaks custom CAs",
+      "url": "https://www.reddit.com/r/programming/comments/1wo04r9/android_17_enables_certificate_transparency_and/",
+      "source": "Reddit",
+      "date": "2026-09-23T08:26:45.000Z"
+    },
+    {
+      "id": "hn-49805344",
+      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+      "source": "HackerNews",
+      "score": 218,
+      "comments": 87,
+      "date": "2026-09-22T17:49:46.000Z"
+    },
+    {
+      "id": "hn-49801436",
+      "title": "2DWillNeverDie",
+      "url": "https://2dwillneverdie.com/",
+      "source": "HackerNews",
+      "score": 99,
+      "comments": 7,
+      "date": "2026-09-22T14:00:08.000Z"
+    },
+    {
+      "id": "hn-49800085",
+      "title": "Fearless SIMD v1.0",
+      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "source": "HackerNews",
+      "score": 175,
+      "comments": 31,
+      "date": "2026-09-22T12:23:37.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "C3 0.8.4: Parameter Reflection, Stack Protection, iOS Support—and One Last Renaming",
+      "url": "https://www.reddit.com/r/programming/comments/1wn5gnz/c3_084_parameter_reflection_stack_protection_ios/",
+      "source": "Reddit",
+      "date": "2026-09-22T10:13:31.000Z"
     }
   ]
 }
