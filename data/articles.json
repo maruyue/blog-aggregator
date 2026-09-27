@@ -1,236 +1,166 @@
 {
-  "updatedAt": "2026-09-26T01:16:25.365Z",
-  "total": 30,
+  "updatedAt": "2026-09-27T01:09:53.190Z",
+  "total": 20,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse release 26.9",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-09",
       "source": "ClickHouse",
-      "date": "2026-09-26T01:16:24.998Z"
+      "date": "2026-09-27T01:09:53.048Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse appoints Mike Scarpelli, former Snowflake and ServiceNow CFO, to Board of Directors",
       "url": "https://clickhouse.com/blog/clickhouse-appoints-mike-scarpelli-to-board-of-directors",
       "source": "ClickHouse",
-      "date": "2026-09-26T01:16:24.998Z"
+      "date": "2026-09-27T01:09:53.048Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Fountain rebuilt its data plane on ClickHouse Cloud to power Cue, the Frontline Superintelligence",
       "url": "https://clickhouse.com/blog/fountain-agentic-ai-for-high-volume-hiring",
       "source": "ClickHouse",
-      "date": "2026-09-26T01:16:24.998Z"
+      "date": "2026-09-27T01:09:53.048Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres on NVMe: performance and the convergence of transactions and analytics",
       "url": "https://clickhouse.com/blog/postgres-on-nvme",
       "source": "ClickHouse",
-      "date": "2026-09-26T01:16:24.998Z"
+      "date": "2026-09-27T01:09:53.048Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres week in the Netherlands: PGDay Lowlands &amp; Percona Live 2026",
       "url": "https://clickhouse.com/blog/postgres-week-in-the-netherlands-pgday-lowlands-percona-live-2026",
       "source": "ClickHouse",
-      "date": "2026-09-26T01:16:24.998Z"
+      "date": "2026-09-27T01:09:53.048Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The official ClickHouse provider for Apache Airflow is now available",
       "url": "https://clickhouse.com/blog/clickhouse-airflow-provider",
       "source": "ClickHouse",
-      "date": "2026-09-26T01:16:24.998Z"
+      "date": "2026-09-27T01:09:53.048Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "September 2026 newsletter",
       "url": "https://clickhouse.com/blog/202609-newsletter",
       "source": "ClickHouse",
-      "date": "2026-09-26T01:16:24.998Z"
+      "date": "2026-09-27T01:09:53.048Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse is now available on the dbt platform",
       "url": "https://clickhouse.com/blog/clickhouse-is-now-available-on-the-dbt-platform",
       "source": "ClickHouse",
-      "date": "2026-09-26T01:16:24.998Z"
+      "date": "2026-09-27T01:09:53.048Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickStack - Aug ’26",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-august-2026",
       "source": "ClickHouse",
-      "date": "2026-09-26T01:16:24.998Z"
+      "date": "2026-09-27T01:09:53.048Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing ClickHouse&#x27;s new TimeSeries Engine: Your drop-In Prometheus replacement",
       "url": "https://clickhouse.com/blog/introducing-promql",
       "source": "ClickHouse",
-      "date": "2026-09-26T01:16:24.998Z"
+      "date": "2026-09-27T01:09:53.048Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "A Lean Proof Printing Python Union Find",
-      "url": "https://www.reddit.com/r/programming/comments/1wqan1r/a_lean_proof_printing_python_union_find/",
-      "source": "Reddit",
-      "date": "2026-09-25T23:02:12.000Z"
-    },
-    {
-      "id": "hn-49850305",
-      "title": "What even is an OS now?",
-      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "id": "hn-49860074",
+      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+      "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
       "source": "HackerNews",
-      "score": 72,
-      "comments": 94,
-      "date": "2026-09-25T21:36:56.000Z"
+      "score": 41,
+      "comments": 7,
+      "date": "2026-09-26T20:08:50.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Microservices are organizational debt disguised as architecture.",
-      "url": "https://www.reddit.com/r/programming/comments/1wq8nbw/microservices_are_organizational_debt_disguised/",
-      "source": "Reddit",
-      "date": "2026-09-25T21:35:37.000Z"
-    },
-    {
-      "id": "hn-49849985",
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
+      "id": "hn-49859112",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
       "source": "HackerNews",
-      "score": 190,
-      "comments": 116,
-      "date": "2026-09-25T21:09:27.000Z"
+      "score": 151,
+      "comments": 41,
+      "date": "2026-09-26T18:22:41.000Z"
     },
     {
-      "id": "hn-49849832",
-      "title": "Excel now supports multiple values in a single cell",
-      "url": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+      "id": "hn-49858513",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
       "source": "HackerNews",
-      "score": 88,
-      "comments": 63,
-      "date": "2026-09-25T20:55:00.000Z"
+      "score": 170,
+      "comments": 51,
+      "date": "2026-09-26T17:10:40.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "phrack-72.pdf",
-      "url": "https://www.reddit.com/r/programming/comments/1wq4df5/phrack72pdf/",
-      "source": "Reddit",
-      "date": "2026-09-25T18:44:53.000Z"
-    },
-    {
-      "id": "hn-49848269",
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev/",
+      "id": "hn-49857729",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
       "source": "HackerNews",
-      "score": 329,
-      "comments": 97,
-      "date": "2026-09-25T18:33:50.000Z"
+      "score": 105,
+      "comments": 32,
+      "date": "2026-09-26T15:56:34.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "He who does not code, neither shall he eat",
-      "url": "https://www.reddit.com/r/programming/comments/1wq2pcy/he_who_does_not_code_neither_shall_he_eat/",
-      "source": "Reddit",
-      "date": "2026-09-25T17:39:22.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Amiga Screens: A Primer",
-      "url": "https://www.reddit.com/r/programming/comments/1wpzkqf/amiga_screens_a_primer/",
-      "source": "Reddit",
-      "date": "2026-09-25T15:38:01.000Z"
-    },
-    {
-      "id": "hn-49845172",
-      "title": "Show HN: Jev Plays Pokémon Red",
-      "url": "https://jev-pokemon.vercel.app/",
+      "id": "hn-49856988",
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
       "source": "HackerNews",
-      "score": 146,
-      "comments": 66,
-      "date": "2026-09-25T14:28:07.000Z"
+      "score": 20,
+      "comments": 4,
+      "date": "2026-09-26T14:34:49.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "We still maintain a development tool first released in 1993. Here’s what 30+ years of backwards compatibility looks like",
-      "url": "https://www.reddit.com/r/programming/comments/1wpuggf/we_still_maintain_a_development_tool_first/",
-      "source": "Reddit",
-      "date": "2026-09-25T12:00:31.000Z"
-    },
-    {
-      "id": "hn-49843269",
-      "title": "Platform-independent SIMD in Go",
-      "url": "https://go.dev/blog/simd-experiment",
+      "id": "hn-49854693",
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
       "source": "HackerNews",
-      "score": 359,
-      "comments": 133,
-      "date": "2026-09-25T11:47:06.000Z"
+      "score": 339,
+      "comments": 86,
+      "date": "2026-09-26T09:13:41.000Z"
     },
     {
-      "id": "hn-49843174",
-      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-      "url": "https://github.com/git-bug/git-bug",
+      "id": "hn-49844657",
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
       "source": "HackerNews",
-      "score": 302,
-      "comments": 100,
-      "date": "2026-09-25T11:38:31.000Z"
+      "score": 82,
+      "comments": 38,
+      "date": "2026-09-25T13:48:38.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "A new Candidate JEP for Java -- JEP 545: Faster Startup and Warmup with ZGC",
-      "url": "https://www.reddit.com/r/programming/comments/1wpttgd/a_new_candidate_jep_for_java_jep_545_faster/",
-      "source": "Reddit",
-      "date": "2026-09-25T11:27:10.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Writing a ray tracer in Brainfuck",
-      "url": "https://www.reddit.com/r/programming/comments/1wptfjd/writing_a_ray_tracer_in_brainfuck/",
-      "source": "Reddit",
-      "date": "2026-09-25T11:05:59.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How to clone Linux on Windows",
-      "url": "https://www.reddit.com/r/programming/comments/1wpsq4w/how_to_clone_linux_on_windows/",
-      "source": "Reddit",
-      "date": "2026-09-25T10:25:56.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Constructing Anomalous Elliptic Curves",
-      "url": "https://www.reddit.com/r/programming/comments/1wps1h3/constructing_anomalous_elliptic_curves/",
-      "source": "Reddit",
-      "date": "2026-09-25T09:44:46.000Z"
-    },
-    {
-      "id": "hn-49840054",
-      "title": "Plan mode is dead",
-      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "id": "hn-49842764",
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
       "source": "HackerNews",
-      "score": 62,
-      "comments": 66,
-      "date": "2026-09-25T03:59:11.000Z"
+      "score": 314,
+      "comments": 166,
+      "date": "2026-09-25T10:55:40.000Z"
     },
     {
-      "id": "hn-49838247",
-      "title": "Remembering Johannes Doerfert",
-      "url": "https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/",
+      "id": "hn-49839567",
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
       "source": "HackerNews",
-      "score": 51,
-      "comments": 1,
-      "date": "2026-09-24T23:36:50.000Z"
+      "score": 24,
+      "comments": 10,
+      "date": "2026-09-25T02:34:39.000Z"
     },
     {
-      "id": "hn-49819244",
-      "title": "Why didn't anybody tell me about Redis hash slots?",
-      "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/",
+      "id": "hn-49832768",
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
       "source": "HackerNews",
-      "score": 11,
-      "comments": 2,
-      "date": "2026-09-23T17:07:10.000Z"
+      "score": 108,
+      "comments": 23,
+      "date": "2026-09-24T16:11:42.000Z"
     }
   ]
 }
