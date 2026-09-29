@@ -1,101 +1,206 @@
 {
-  "updatedAt": "2026-09-28T01:27:22.738Z",
+  "updatedAt": "2026-09-29T02:30:34.447Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Can your Postgres survive a bad query?",
+      "url": "https://clickhouse.com/blog/can-your-postgres-survive-a-bad-query",
+      "source": "ClickHouse",
+      "date": "2026-09-29T02:30:34.447Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "chDB Durable Layer for agent memory",
+      "url": "https://clickhouse.com/blog/chdb-durable-layer-for-agent-memory",
+      "source": "ClickHouse",
+      "date": "2026-09-29T02:30:34.447Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse release 26.9",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-09",
       "source": "ClickHouse",
-      "date": "2026-09-28T01:27:22.567Z"
+      "date": "2026-09-29T02:30:34.447Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse appoints Mike Scarpelli, former Snowflake and ServiceNow CFO, to Board of Directors",
       "url": "https://clickhouse.com/blog/clickhouse-appoints-mike-scarpelli-to-board-of-directors",
       "source": "ClickHouse",
-      "date": "2026-09-28T01:27:22.567Z"
+      "date": "2026-09-29T02:30:34.447Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Fountain rebuilt its data plane on ClickHouse Cloud to power Cue, the Frontline Superintelligence",
       "url": "https://clickhouse.com/blog/fountain-agentic-ai-for-high-volume-hiring",
       "source": "ClickHouse",
-      "date": "2026-09-28T01:27:22.567Z"
+      "date": "2026-09-29T02:30:34.447Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres on NVMe: performance and the convergence of transactions and analytics",
       "url": "https://clickhouse.com/blog/postgres-on-nvme",
       "source": "ClickHouse",
-      "date": "2026-09-28T01:27:22.567Z"
+      "date": "2026-09-29T02:30:34.447Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres week in the Netherlands: PGDay Lowlands &amp; Percona Live 2026",
       "url": "https://clickhouse.com/blog/postgres-week-in-the-netherlands-pgday-lowlands-percona-live-2026",
       "source": "ClickHouse",
-      "date": "2026-09-28T01:27:22.567Z"
+      "date": "2026-09-29T02:30:34.447Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The official ClickHouse provider for Apache Airflow is now available",
       "url": "https://clickhouse.com/blog/clickhouse-airflow-provider",
       "source": "ClickHouse",
-      "date": "2026-09-28T01:27:22.567Z"
+      "date": "2026-09-29T02:30:34.447Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "September 2026 newsletter",
       "url": "https://clickhouse.com/blog/202609-newsletter",
       "source": "ClickHouse",
-      "date": "2026-09-28T01:27:22.567Z"
+      "date": "2026-09-29T02:30:34.447Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse is now available on the dbt platform",
       "url": "https://clickhouse.com/blog/clickhouse-is-now-available-on-the-dbt-platform",
       "source": "ClickHouse",
-      "date": "2026-09-28T01:27:22.567Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "What&#x27;s new in ClickStack - Aug ’26",
-      "url": "https://clickhouse.com/blog/whats-new-in-clickstack-august-2026",
-      "source": "ClickHouse",
-      "date": "2026-09-28T01:27:22.567Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Introducing ClickHouse&#x27;s new TimeSeries Engine: Your drop-In Prometheus replacement",
-      "url": "https://clickhouse.com/blog/introducing-promql",
-      "source": "ClickHouse",
-      "date": "2026-09-28T01:27:22.567Z"
-    },
-    {
-      "id": "hn-49872472",
-      "title": "Self-parking car using generic algorithm (2021)",
-      "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
-      "source": "HackerNews",
-      "score": 3,
-      "comments": 0,
-      "date": "2026-09-28T01:21:32.000Z"
+      "date": "2026-09-29T02:30:34.447Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Ownership - by Thorsten Ball - Register Spill",
-      "url": "https://www.reddit.com/r/programming/comments/1wrwz6a/ownership_by_thorsten_ball_register_spill/",
+      "title": "Needed 1+1, Built a Functional Programming Language",
+      "url": "https://www.reddit.com/r/programming/comments/1wsx9fe/needed_11_built_a_functional_programming_language/",
       "source": "Reddit",
-      "date": "2026-09-27T22:00:16.000Z"
+      "date": "2026-09-29T01:43:29.000Z"
     },
     {
-      "id": "hn-49870837",
-      "title": "Lunar Terminator Paradox",
-      "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Instala y crea un proyecto con Composer en IssuesPHP.",
+      "url": "https://www.reddit.com/r/programming/comments/1wsx94j/instala_y_crea_un_proyecto_con_composer_en/",
+      "source": "Reddit",
+      "date": "2026-09-29T01:43:07.000Z"
+    },
+    {
+      "id": "hn-49886195",
+      "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
+      "url": "https://lolchat.rip/",
       "source": "HackerNews",
-      "score": 42,
-      "comments": 27,
-      "date": "2026-09-27T21:06:17.000Z"
+      "score": 25,
+      "comments": 12,
+      "date": "2026-09-29T00:06:48.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen",
+      "url": "https://www.reddit.com/r/programming/comments/1wsv1tt/supporting_native_rust_in_workers_with_the_new/",
+      "source": "Reddit",
+      "date": "2026-09-28T23:59:55.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "example.com got modernized !",
+      "url": "https://www.reddit.com/r/programming/comments/1wsry20/examplecom_got_modernized/",
+      "source": "Reddit",
+      "date": "2026-09-28T21:45:28.000Z"
+    },
+    {
+      "id": "hn-49884625",
+      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "source": "HackerNews",
+      "score": 33,
+      "comments": 3,
+      "date": "2026-09-28T21:26:41.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "What good is a best-effort exclusive lock, anyway?",
+      "url": "https://www.reddit.com/r/programming/comments/1wsqvwe/what_good_is_a_besteffort_exclusive_lock_anyway/",
+      "source": "Reddit",
+      "date": "2026-09-28T21:04:43.000Z"
+    },
+    {
+      "id": "hn-49883844",
+      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "url": "https://github.com/firelex/jeff",
+      "source": "HackerNews",
+      "score": 299,
+      "comments": 119,
+      "date": "2026-09-28T20:23:36.000Z"
+    },
+    {
+      "id": "hn-49883760",
+      "title": "World Labs Is Joining AMD",
+      "url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "source": "HackerNews",
+      "score": 193,
+      "comments": 76,
+      "date": "2026-09-28T20:18:05.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "TUI Games in 80x24",
+      "url": "https://www.reddit.com/r/programming/comments/1wspai2/tui_games_in_80x24/",
+      "source": "Reddit",
+      "date": "2026-09-28T20:05:18.000Z"
+    },
+    {
+      "id": "hn-49883539",
+      "title": "California farmers are struggling to sell grapes as demand for wine drops",
+      "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+      "source": "HackerNews",
+      "score": 63,
+      "comments": 147,
+      "date": "2026-09-28T20:00:06.000Z"
+    },
+    {
+      "id": "hn-49883536",
+      "title": "Scientists solve 1840s space weather mystery",
+      "url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+      "source": "HackerNews",
+      "score": 65,
+      "comments": 37,
+      "date": "2026-09-28T20:00:03.000Z"
+    },
+    {
+      "id": "hn-49882781",
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "source": "HackerNews",
+      "score": 138,
+      "comments": 65,
+      "date": "2026-09-28T18:58:53.000Z"
+    },
+    {
+      "id": "hn-49881850",
+      "title": "Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "source": "HackerNews",
+      "score": 600,
+      "comments": 414,
+      "date": "2026-09-28T17:58:11.000Z"
+    },
+    {
+      "id": "hn-49880036",
+      "title": "Pirating the Pirates",
+      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "source": "HackerNews",
+      "score": 424,
+      "comments": 226,
+      "date": "2026-09-28T15:54:15.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Fast Primality Testing for 32-bit integers via Forisek and Jancina",
+      "url": "https://www.reddit.com/r/programming/comments/1wsaolh/fast_primality_testing_for_32bit_integers_via/",
+      "source": "Reddit",
+      "date": "2026-09-28T10:11:33.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -103,60 +208,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1wrv44s/reducing_net_aws_lambda_cold_starts_by_adding/",
       "source": "Reddit",
       "date": "2026-09-27T20:43:41.000Z"
-    },
-    {
-      "id": "hn-49870367",
-      "title": "When did Google get so weird?",
-      "url": "https://sancho.bearblog.dev/google-weird/",
-      "source": "HackerNews",
-      "score": 751,
-      "comments": 401,
-      "date": "2026-09-27T20:12:54.000Z"
-    },
-    {
-      "id": "hn-49870295",
-      "title": "Self-Hosting on the Dark Web",
-      "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
-      "source": "HackerNews",
-      "score": 50,
-      "comments": 19,
-      "date": "2026-09-27T20:03:36.000Z"
-    },
-    {
-      "id": "hn-49870070",
-      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
-      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-      "source": "HackerNews",
-      "score": 67,
-      "comments": 27,
-      "date": "2026-09-27T19:37:05.000Z"
-    },
-    {
-      "id": "hn-49869574",
-      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-      "url": "https://loficities.com/",
-      "source": "HackerNews",
-      "score": 167,
-      "comments": 76,
-      "date": "2026-09-27T18:44:30.000Z"
-    },
-    {
-      "id": "hn-49868830",
-      "title": "Ember-1",
-      "url": "https://fireworks.ai/blog/ember-1",
-      "source": "HackerNews",
-      "score": 348,
-      "comments": 180,
-      "date": "2026-09-27T17:31:53.000Z"
-    },
-    {
-      "id": "hn-49868404",
-      "title": "Don't couple your Go code to GitHub",
-      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-      "source": "HackerNews",
-      "score": 144,
-      "comments": 75,
-      "date": "2026-09-27T16:50:58.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -167,70 +218,19 @@
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Category Theory Explained for Haskell Programmers – Part 1 ZuriHac 2026",
-      "url": "https://www.reddit.com/r/programming/comments/1wrkl1o/category_theory_explained_for_haskell_programmers/",
-      "source": "Reddit",
-      "date": "2026-09-27T13:43:45.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
       "title": "Packing Binary Is Fun, Actually",
       "url": "https://www.reddit.com/r/programming/comments/1wrjyyr/packing_binary_is_fun_actually/",
       "source": "Reddit",
       "date": "2026-09-27T13:15:44.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Go concurrency distilled",
-      "url": "https://www.reddit.com/r/programming/comments/1wrjd0d/go_concurrency_distilled/",
-      "source": "Reddit",
-      "date": "2026-09-27T12:46:52.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Postgres AT TIME ZONE 'UTC' does NOT do what you think it does",
-      "url": "https://www.reddit.com/r/programming/comments/1wrc4sh/postgres_at_time_zone_utc_does_not_do_what_you/",
-      "source": "Reddit",
-      "date": "2026-09-27T05:47:53.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The Cloudflare Blog – Brought to you by EmDash",
-      "url": "https://www.reddit.com/r/programming/comments/1wqv795/the_cloudflare_blog_brought_to_you_by_emdash/",
-      "source": "Reddit",
-      "date": "2026-09-26T16:44:56.000Z"
-    },
-    {
-      "id": "hn-49857281",
-      "title": "There is more to code review than (automatable) detection",
-      "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
+      "id": "hn-49855059",
+      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
       "source": "HackerNews",
-      "score": 61,
-      "comments": 21,
-      "date": "2026-09-26T15:06:28.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Optimizing a Lock-Free Ring Buffer",
-      "url": "https://www.reddit.com/r/programming/comments/1wqok1x/optimizing_a_lockfree_ring_buffer/",
-      "source": "Reddit",
-      "date": "2026-09-26T11:49:56.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Microservices are organizational debt disguised as architecture.",
-      "url": "https://www.reddit.com/r/programming/comments/1wq8nbw/microservices_are_organizational_debt_disguised/",
-      "source": "Reddit",
-      "date": "2026-09-25T21:35:37.000Z"
-    },
-    {
-      "id": "hn-49844629",
-      "title": "The state of SIMD in Rust in 2026",
-      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-      "source": "HackerNews",
-      "score": 93,
-      "comments": 19,
-      "date": "2026-09-25T13:46:34.000Z"
+      "score": 85,
+      "comments": 22,
+      "date": "2026-09-26T10:16:26.000Z"
     }
   ]
 }
