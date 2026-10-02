@@ -1,76 +1,208 @@
 {
-  "updatedAt": "2026-10-01T01:51:31.336Z",
+  "updatedAt": "2026-10-02T02:03:10.866Z",
   "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "pg_clickhouse &amp; chdb updates: Encoding, nesting, and types",
-      "url": "https://clickhouse.com/blog/pg_clickhouse-chdb",
+      "title": "How LinkedIn extended ClickHouse from distributed tracing to metric discovery and analytics",
+      "url": "https://clickhouse.com/blog/linkedin-observability-at-scale",
       "source": "ClickHouse",
-      "date": "2026-10-01T01:51:30.734Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Memory safety for Postgres extensions in C/C++",
-      "url": "https://clickhouse.com/blog/memory-safety-postgres-extensions-c-cpp",
-      "source": "ClickHouse",
-      "date": "2026-10-01T01:51:30.734Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse Workload for Microsoft Fabric: sub-second analytics on OneLake, now in public preview",
-      "url": "https://clickhouse.com/blog/clickhouse-for-microsoft-fabric",
-      "source": "ClickHouse",
-      "date": "2026-10-01T01:51:30.734Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse now writes Apache Iceberg tables to Microsoft OneLake",
-      "url": "https://clickhouse.com/blog/clickhouse-now-writes-to-microsoft-onelake",
-      "source": "ClickHouse",
-      "date": "2026-10-01T01:51:30.734Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse expands collaboration with Microsoft, bringing Fabric integration, deeper OneLake interoperability, and enterprise deployment flexibility",
-      "url": "https://clickhouse.com/blog/clickhouse-expands-collaboration-with-microsoft",
-      "source": "ClickHouse",
-      "date": "2026-10-01T01:51:30.734Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Can your Postgres survive a bad query?",
-      "url": "https://clickhouse.com/blog/can-your-postgres-survive-a-bad-query",
-      "source": "ClickHouse",
-      "date": "2026-10-01T01:51:30.734Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "chDB Durable Layer for agent memory",
-      "url": "https://clickhouse.com/blog/chdb-durable-layer-for-agent-memory",
-      "source": "ClickHouse",
-      "date": "2026-10-01T01:51:30.734Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse release 26.9",
-      "url": "https://clickhouse.com/blog/clickhouse-release-26-09",
-      "source": "ClickHouse",
-      "date": "2026-10-01T01:51:30.734Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse appoints Mike Scarpelli, former Snowflake and ServiceNow CFO, to Board of Directors",
-      "url": "https://clickhouse.com/blog/clickhouse-appoints-mike-scarpelli-to-board-of-directors",
-      "source": "ClickHouse",
-      "date": "2026-10-01T01:51:30.734Z"
+      "date": "2026-10-02T02:03:10.677Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing SCIM Provisioning in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/introducing-scim-provisioning-in-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-10-01T01:51:30.733Z"
+      "date": "2026-10-02T02:03:10.677Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "pg_clickhouse &amp; chdb updates: Encoding, nesting, and types",
+      "url": "https://clickhouse.com/blog/pg_clickhouse-chdb",
+      "source": "ClickHouse",
+      "date": "2026-10-02T02:03:10.677Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Memory safety for Postgres extensions in C/C++",
+      "url": "https://clickhouse.com/blog/memory-safety-postgres-extensions-c-cpp",
+      "source": "ClickHouse",
+      "date": "2026-10-02T02:03:10.677Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse Workload for Microsoft Fabric: sub-second analytics on OneLake, now in public preview",
+      "url": "https://clickhouse.com/blog/clickhouse-for-microsoft-fabric",
+      "source": "ClickHouse",
+      "date": "2026-10-02T02:03:10.677Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse now writes Apache Iceberg tables to Microsoft OneLake",
+      "url": "https://clickhouse.com/blog/clickhouse-now-writes-to-microsoft-onelake",
+      "source": "ClickHouse",
+      "date": "2026-10-02T02:03:10.677Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse expands collaboration with Microsoft, bringing Fabric integration, deeper OneLake interoperability, and enterprise deployment flexibility",
+      "url": "https://clickhouse.com/blog/clickhouse-expands-collaboration-with-microsoft",
+      "source": "ClickHouse",
+      "date": "2026-10-02T02:03:10.677Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Can your Postgres survive a bad query?",
+      "url": "https://clickhouse.com/blog/can-your-postgres-survive-a-bad-query",
+      "source": "ClickHouse",
+      "date": "2026-10-02T02:03:10.677Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "chDB Durable Layer for agent memory",
+      "url": "https://clickhouse.com/blog/chdb-durable-layer-for-agent-memory",
+      "source": "ClickHouse",
+      "date": "2026-10-02T02:03:10.677Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse release 26.9",
+      "url": "https://clickhouse.com/blog/clickhouse-release-26-09",
+      "source": "ClickHouse",
+      "date": "2026-10-02T02:03:10.677Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Robert Seacord: \"Unsafe Rust\" | RustConf 2026",
+      "url": "https://www.reddit.com/r/programming/comments/1wvf5qb/robert_seacord_unsafe_rust_rustconf_2026/",
+      "source": "Reddit",
+      "date": "2026-10-01T23:57:25.000Z"
+    },
+    {
+      "id": "hn-49928121",
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "source": "HackerNews",
+      "score": 92,
+      "comments": 54,
+      "date": "2026-10-01T23:10:44.000Z"
+    },
+    {
+      "id": "hn-49927212",
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "url": "https://www.cssbed.com",
+      "source": "HackerNews",
+      "score": 60,
+      "comments": 13,
+      "date": "2026-10-01T21:21:32.000Z"
+    },
+    {
+      "id": "hn-49926917",
+      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+      "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+      "source": "HackerNews",
+      "score": 67,
+      "comments": 13,
+      "date": "2026-10-01T20:48:37.000Z"
+    },
+    {
+      "id": "hn-49926773",
+      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "url": "https://github.com/Vibra-Ingenn/Janus",
+      "source": "HackerNews",
+      "score": 50,
+      "comments": 6,
+      "date": "2026-10-01T20:36:47.000Z"
+    },
+    {
+      "id": "hn-49926536",
+      "title": "SvelteKit 3",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "source": "HackerNews",
+      "score": 121,
+      "comments": 47,
+      "date": "2026-10-01T20:14:23.000Z"
+    },
+    {
+      "id": "hn-49926069",
+      "title": "Pi 1.0",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "source": "HackerNews",
+      "score": 770,
+      "comments": 262,
+      "date": "2026-10-01T19:33:05.000Z"
+    },
+    {
+      "id": "hn-49925969",
+      "title": "Pi Durable",
+      "url": "https://earendil.com/posts/pi-durable/",
+      "source": "HackerNews",
+      "score": 228,
+      "comments": 24,
+      "date": "2026-10-01T19:24:08.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "New Python releases are out, 3.10.x reaches EOL, (and 3.15.0 is scheduled for today)!",
+      "url": "https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/",
+      "source": "Reddit",
+      "date": "2026-10-01T16:45:33.000Z"
+    },
+    {
+      "id": "hn-49923692",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "source": "HackerNews",
+      "score": 429,
+      "comments": 163,
+      "date": "2026-10-01T16:18:57.000Z"
+    },
+    {
+      "id": "hn-49923466",
+      "title": "RIP, vector database",
+      "url": "https://turbopuffer.com/blog/rip-vector-database",
+      "source": "HackerNews",
+      "score": 277,
+      "comments": 78,
+      "date": "2026-10-01T16:01:56.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Second Golden Spike: Memory Safety Across the Valen/Rust Boundary",
+      "url": "https://www.reddit.com/r/programming/comments/1wv0fjv/the_second_golden_spike_memory_safety_across_the/",
+      "source": "Reddit",
+      "date": "2026-10-01T14:09:28.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "[Sebastian Lague] - I Tried Making a Pen Plotter to Draw Maps of the Moon",
+      "url": "https://www.reddit.com/r/programming/comments/1wv04z9/sebastian_lague_i_tried_making_a_pen_plotter_to/",
+      "source": "Reddit",
+      "date": "2026-10-01T13:57:40.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "C64 Mercenary: a novel exploit bug in a 41-year-old game",
+      "url": "https://www.reddit.com/r/programming/comments/1wuzsdv/c64_mercenary_a_novel_exploit_bug_in_a_41yearold/",
+      "source": "Reddit",
+      "date": "2026-10-01T13:43:07.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Getting ready for 2026 results: A look back on Developer Survey findings",
+      "url": "https://www.reddit.com/r/programming/comments/1wuwzxc/getting_ready_for_2026_results_a_look_back_on/",
+      "source": "Reddit",
+      "date": "2026-10-01T11:30:55.000Z"
+    },
+    {
+      "id": "hn-49920160",
+      "title": "StreetComplete on iOS is now in public beta",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "source": "HackerNews",
+      "score": 525,
+      "comments": 133,
+      "date": "2026-10-01T10:59:57.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -78,13 +210,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1wumd96/adding_very_basic_3d_outside_of_a_standard/",
       "source": "Reddit",
       "date": "2026-10-01T01:15:28.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "c++ operating system level primitives 1",
-      "url": "https://www.reddit.com/r/programming/comments/1wulzdy/c_operating_system_level_primitives_1/",
-      "source": "Reddit",
-      "date": "2026-10-01T00:57:13.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -101,136 +226,11 @@
       "date": "2026-09-30T22:50:32.000Z"
     },
     {
-      "id": "hn-49915126",
-      "title": "56k.rip – the 1996 dial-up internet experience",
-      "url": "https://56k.rip/",
-      "source": "HackerNews",
-      "score": 51,
-      "comments": 27,
-      "date": "2026-09-30T22:08:50.000Z"
-    },
-    {
-      "id": "hn-49915082",
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
-      "url": "https://www.thespacereview.com/article/4951/1",
-      "source": "HackerNews",
-      "score": 131,
-      "comments": 46,
-      "date": "2026-09-30T22:03:04.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "It's the Kernel's Fault! Custom Page Fault Handling With bpf_fault",
-      "url": "https://www.reddit.com/r/programming/comments/1wugn5a/its_the_kernels_fault_custom_page_fault_handling/",
-      "source": "Reddit",
-      "date": "2026-09-30T20:59:02.000Z"
-    },
-    {
-      "id": "hn-49913571",
-      "title": "Gemini 4 Argon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "source": "HackerNews",
-      "score": 985,
-      "comments": 667,
-      "date": "2026-09-30T20:04:37.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "OpenZL v0.2 - decompression 2x faster than Zstandard",
       "url": "https://www.reddit.com/r/programming/comments/1wuf5lf/openzl_v02_decompression_2x_faster_than_zstandard/",
       "source": "Reddit",
       "date": "2026-09-30T19:59:59.000Z"
-    },
-    {
-      "id": "hn-49913350",
-      "title": "Halfspace experimental IDE for solid modeling with distance fields",
-      "url": "https://www.mattkeeter.com/projects/halfspace/",
-      "source": "HackerNews",
-      "score": 76,
-      "comments": 7,
-      "date": "2026-09-30T19:44:37.000Z"
-    },
-    {
-      "id": "hn-49913192",
-      "title": "EDG C++ front-end goes public",
-      "url": "https://edgcpp.org/#transition",
-      "source": "HackerNews",
-      "score": 150,
-      "comments": 73,
-      "date": "2026-09-30T19:26:37.000Z"
-    },
-    {
-      "id": "hn-49912955",
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "source": "HackerNews",
-      "score": 119,
-      "comments": 40,
-      "date": "2026-09-30T19:04:50.000Z"
-    },
-    {
-      "id": "hn-49912444",
-      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-      "source": "HackerNews",
-      "score": 118,
-      "comments": 46,
-      "date": "2026-09-30T18:17:45.000Z"
-    },
-    {
-      "id": "hn-49911995",
-      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "url": "https://github.com/magnitudedev/magnitude",
-      "source": "HackerNews",
-      "score": 125,
-      "comments": 57,
-      "date": "2026-09-30T17:37:40.000Z"
-    },
-    {
-      "id": "hn-49906432",
-      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-      "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
-      "source": "HackerNews",
-      "score": 211,
-      "comments": 148,
-      "date": "2026-09-30T09:27:04.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "On Automatic Type Refinements",
-      "url": "https://www.reddit.com/r/programming/comments/1wtyphe/on_automatic_type_refinements/",
-      "source": "Reddit",
-      "date": "2026-09-30T07:36:30.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Everyone Should Know SIMD",
-      "url": "https://www.reddit.com/r/programming/comments/1wtv3vb/everyone_should_know_simd/",
-      "source": "Reddit",
-      "date": "2026-09-30T04:00:54.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Zero-Growth Stack, Real Gains: How Stack Allocation Can Save 10% CPU in Go",
-      "url": "https://www.reddit.com/r/programming/comments/1wtnwfs/zerogrowth_stack_real_gains_how_stack_allocation/",
-      "source": "Reddit",
-      "date": "2026-09-29T22:16:24.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "nine npm packages shipping worm that spread by itself over SSH",
-      "url": "https://www.reddit.com/r/programming/comments/1wt8odk/nine_npm_packages_shipping_worm_that_spread_by/",
-      "source": "Reddit",
-      "date": "2026-09-29T12:23:17.000Z"
-    },
-    {
-      "id": "hn-49890732",
-      "title": "Why the Bronze Age Collapsed",
-      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
-      "source": "HackerNews",
-      "score": 79,
-      "comments": 53,
-      "date": "2026-09-29T10:10:18.000Z"
     }
   ]
 }
