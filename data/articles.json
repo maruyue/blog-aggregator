@@ -1,137 +1,199 @@
 {
-  "updatedAt": "2026-10-05T01:43:25.830Z",
+  "updatedAt": "2026-10-06T02:44:46.270Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Executable UDFs are now generally available on ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/executable-udfs-generally-available-on-clickhouse-cloud",
+      "source": "ClickHouse",
+      "date": "2026-10-06T02:44:46.151Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What is direct I/O, and why does ClickHouse Managed Postgres use it for backups?",
       "url": "https://clickhouse.com/blog/direct-io-managed-postgres-backups",
       "source": "ClickHouse",
-      "date": "2026-10-05T01:43:25.762Z"
+      "date": "2026-10-06T02:44:46.151Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How LinkedIn extended ClickHouse from distributed tracing to metric discovery and analytics",
       "url": "https://clickhouse.com/blog/linkedin-observability-at-scale",
       "source": "ClickHouse",
-      "date": "2026-10-05T01:43:25.762Z"
+      "date": "2026-10-06T02:44:46.151Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing SCIM Provisioning in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/introducing-scim-provisioning-in-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-10-05T01:43:25.762Z"
+      "date": "2026-10-06T02:44:46.151Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "pg_clickhouse &amp; chdb updates: Encoding, nesting, and types",
       "url": "https://clickhouse.com/blog/pg_clickhouse-chdb",
       "source": "ClickHouse",
-      "date": "2026-10-05T01:43:25.762Z"
+      "date": "2026-10-06T02:44:46.151Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Memory safety for Postgres extensions in C/C++",
       "url": "https://clickhouse.com/blog/memory-safety-postgres-extensions-c-cpp",
       "source": "ClickHouse",
-      "date": "2026-10-05T01:43:25.762Z"
+      "date": "2026-10-06T02:44:46.151Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Workload for Microsoft Fabric: sub-second analytics on OneLake, now in public preview",
       "url": "https://clickhouse.com/blog/clickhouse-for-microsoft-fabric",
       "source": "ClickHouse",
-      "date": "2026-10-05T01:43:25.762Z"
+      "date": "2026-10-06T02:44:46.151Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse now writes Apache Iceberg tables to Microsoft OneLake",
       "url": "https://clickhouse.com/blog/clickhouse-now-writes-to-microsoft-onelake",
       "source": "ClickHouse",
-      "date": "2026-10-05T01:43:25.762Z"
+      "date": "2026-10-06T02:44:46.151Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse expands collaboration with Microsoft, bringing Fabric integration, deeper OneLake interoperability, and enterprise deployment flexibility",
       "url": "https://clickhouse.com/blog/clickhouse-expands-collaboration-with-microsoft",
       "source": "ClickHouse",
-      "date": "2026-10-05T01:43:25.762Z"
+      "date": "2026-10-06T02:44:46.151Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Can your Postgres survive a bad query?",
       "url": "https://clickhouse.com/blog/can-your-postgres-survive-a-bad-query",
       "source": "ClickHouse",
-      "date": "2026-10-05T01:43:25.762Z"
+      "date": "2026-10-06T02:44:46.151Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "chDB Durable Layer for agent memory",
-      "url": "https://clickhouse.com/blog/chdb-durable-layer-for-agent-memory",
-      "source": "ClickHouse",
-      "date": "2026-10-05T01:43:25.762Z"
-    },
-    {
-      "id": "hn-49958850",
-      "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-      "url": "https://getartcraft.com/apps",
+      "id": "hn-49972419",
+      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+      "url": "https://edworkingpapers.com/ai26-1551",
       "source": "HackerNews",
-      "score": 31,
-      "comments": 22,
-      "date": "2026-10-04T23:02:43.000Z"
-    },
-    {
-      "id": "hn-49958569",
-      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-      "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
-      "source": "HackerNews",
-      "score": 63,
-      "comments": 14,
-      "date": "2026-10-04T22:25:10.000Z"
+      "score": 35,
+      "comments": 26,
+      "date": "2026-10-06T00:00:45.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Your Xiaomi phone may be sending you phishing notifications.",
-      "url": "https://www.reddit.com/r/programming/comments/1wxr63h/your_xiaomi_phone_may_be_sending_you_phishing/",
+      "title": "State of Devs 2026 survey results: developers are feeling exhausted",
+      "url": "https://www.reddit.com/r/programming/comments/1wyo5ne/state_of_devs_2026_survey_results_developers_are/",
       "source": "Reddit",
-      "date": "2026-10-04T21:30:23.000Z"
+      "date": "2026-10-05T23:56:47.000Z"
     },
     {
-      "id": "hn-49957812",
-      "title": "In the wake of closure, a digital archive of animated materials appears online",
-      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "id": "hn-49972211",
+      "title": "Samon: Designing a Zen Garden Raking Puzzle",
+      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
       "source": "HackerNews",
-      "score": 25,
-      "comments": 2,
-      "date": "2026-10-04T21:01:28.000Z"
+      "score": 23,
+      "comments": 7,
+      "date": "2026-10-05T23:35:35.000Z"
     },
     {
-      "id": "hn-49957116",
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "url": "https://github.com/omlahore/RemoveMacAI",
+      "id": "hn-49971921",
+      "title": "Example.com Just Launched the Biggest Redesign in Decades",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
       "source": "HackerNews",
-      "score": 360,
-      "comments": 222,
-      "date": "2026-10-04T19:42:25.000Z"
+      "score": 96,
+      "comments": 59,
+      "date": "2026-10-05T22:55:11.000Z"
     },
     {
-      "id": "hn-49957117",
-      "title": "Homa: The end of TCP for AI clusters [video]",
-      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "id": "hn-49971846",
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
       "source": "HackerNews",
-      "score": 56,
+      "score": 300,
+      "comments": 189,
+      "date": "2026-10-05T22:46:45.000Z"
+    },
+    {
+      "id": "hn-49971719",
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "source": "HackerNews",
+      "score": 75,
+      "comments": 18,
+      "date": "2026-10-05T22:30:02.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Self-hosted HTTP tunnels with SSH and nginx",
+      "url": "https://www.reddit.com/r/programming/comments/1wym65x/selfhosted_http_tunnels_with_ssh_and_nginx/",
+      "source": "Reddit",
+      "date": "2026-10-05T22:24:22.000Z"
+    },
+    {
+      "id": "hn-49971230",
+      "title": "Find the flattest route between any two points in SF",
+      "url": "https://flattensf.com/",
+      "source": "HackerNews",
+      "score": 122,
+      "comments": 41,
+      "date": "2026-10-05T21:40:50.000Z"
+    },
+    {
+      "id": "hn-49970871",
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "source": "HackerNews",
+      "score": 114,
       "comments": 19,
-      "date": "2026-10-04T19:42:25.000Z"
+      "date": "2026-10-05T21:15:07.000Z"
     },
     {
-      "id": "hn-49957068",
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "id": "hn-49970667",
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
       "source": "HackerNews",
-      "score": 243,
-      "comments": 353,
-      "date": "2026-10-04T19:37:05.000Z"
+      "score": 226,
+      "comments": 164,
+      "date": "2026-10-05T21:00:21.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "OSDI '26 - Incr: Faster Re-Execution via Bolt-On Incrementalization",
+      "url": "https://www.reddit.com/r/programming/comments/1wyjfbo/osdi_26_incr_faster_reexecution_via_bolton/",
+      "source": "Reddit",
+      "date": "2026-10-05T20:31:11.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "First Steps into Memory Management in Python",
+      "url": "https://www.reddit.com/r/programming/comments/1wyiwl4/first_steps_into_memory_management_in_python/",
+      "source": "Reddit",
+      "date": "2026-10-05T20:10:36.000Z"
+    },
+    {
+      "id": "hn-49969183",
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "source": "HackerNews",
+      "score": 332,
+      "comments": 95,
+      "date": "2026-10-05T19:16:35.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Achieving memory safety",
+      "url": "https://www.reddit.com/r/programming/comments/1wydryt/achieving_memory_safety/",
+      "source": "Reddit",
+      "date": "2026-10-05T16:55:31.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Another Step Towards Elm 1.0",
+      "url": "https://www.reddit.com/r/programming/comments/1wy7in8/another_step_towards_elm_10/",
+      "source": "Reddit",
+      "date": "2026-10-05T12:40:32.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -141,43 +203,11 @@
       "date": "2026-10-04T19:34:01.000Z"
     },
     {
-      "id": "hn-49956681",
-      "title": "A browser-native classic Visual Basic VB6 IDE",
-      "url": "https://wieslawsoltes.github.io/VB6/",
-      "source": "HackerNews",
-      "score": 90,
-      "comments": 29,
-      "date": "2026-10-04T18:49:17.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Metal as a Service (MaaS): DIY server-management at scale",
-      "url": "https://www.reddit.com/r/programming/comments/1wxfaeo/metal_as_a_service_maas_diy_servermanagement_at/",
-      "source": "Reddit",
-      "date": "2026-10-04T13:07:56.000Z"
-    },
-    {
-      "id": "hn-49953495",
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "url": "https://github.com/Niko1221/Strata",
-      "source": "HackerNews",
-      "score": 613,
-      "comments": 285,
-      "date": "2026-10-04T12:51:53.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "Red, green and mud: fixing color mixing in Total Draw",
       "url": "https://www.reddit.com/r/programming/comments/1wxd33z/red_green_and_mud_fixing_color_mixing_in_total/",
       "source": "Reddit",
       "date": "2026-10-04T11:08:30.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Making a mathematical model for better Indic keyboards",
-      "url": "https://www.reddit.com/r/programming/comments/1wx0bai/making_a_mathematical_model_for_better_indic/",
-      "source": "Reddit",
-      "date": "2026-10-03T22:53:29.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -194,43 +224,13 @@
       "date": "2026-10-03T22:09:33.000Z"
     },
     {
-      "id": "hn-49943637",
-      "title": "Infidel goes wild",
-      "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
+      "id": "hn-49945588",
+      "title": "An Algorithmic Failure Beneath the Secret Ballot",
+      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
       "source": "HackerNews",
-      "score": 75,
-      "comments": 10,
-      "date": "2026-10-03T12:19:40.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Go JSON v2 in Go 1.27: what breaks when you migrate from encoding/json",
-      "url": "https://www.reddit.com/r/programming/comments/1wwifin/go_json_v2_in_go_127_what_breaks_when_you_migrate/",
-      "source": "Reddit",
-      "date": "2026-10-03T08:52:59.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Skip List Data structure",
-      "url": "https://www.reddit.com/r/programming/comments/1wwfp40/skip_list_data_structure/",
-      "source": "Reddit",
-      "date": "2026-10-03T06:02:19.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "<input type=\"password\" maxlength=\"20\"> is considered harmful, and why I couldn't login into Vanguard",
-      "url": "https://www.reddit.com/r/programming/comments/1ww842a/input_typepassword_maxlength20_is_considered/",
-      "source": "Reddit",
-      "date": "2026-10-02T23:14:57.000Z"
-    },
-    {
-      "id": "hn-49932236",
-      "title": "The Tao of Backup",
-      "url": "http://www.taobackup.com/index.html",
-      "source": "HackerNews",
-      "score": 12,
-      "comments": 3,
-      "date": "2026-10-02T11:19:36.000Z"
+      "score": 35,
+      "comments": 9,
+      "date": "2026-10-03T16:23:07.000Z"
     }
   ]
 }
