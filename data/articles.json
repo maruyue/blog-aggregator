@@ -1,128 +1,222 @@
 {
-  "updatedAt": "2026-10-06T02:44:46.270Z",
+  "updatedAt": "2026-10-07T02:09:42.290Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Why Databricks can’t match ClickHouse Cloud for real-time analytics",
+      "url": "https://clickhouse.com/blog/clickhouse-vs-databricks-real-time-performance-per-dollar",
+      "source": "ClickHouse",
+      "date": "2026-10-07T02:09:42.127Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Executable UDFs are now generally available on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/executable-udfs-generally-available-on-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-10-06T02:44:46.151Z"
+      "date": "2026-10-07T02:09:42.127Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What is direct I/O, and why does ClickHouse Managed Postgres use it for backups?",
       "url": "https://clickhouse.com/blog/direct-io-managed-postgres-backups",
       "source": "ClickHouse",
-      "date": "2026-10-06T02:44:46.151Z"
+      "date": "2026-10-07T02:09:42.127Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How LinkedIn extended ClickHouse from distributed tracing to metric discovery and analytics",
       "url": "https://clickhouse.com/blog/linkedin-observability-at-scale",
       "source": "ClickHouse",
-      "date": "2026-10-06T02:44:46.151Z"
+      "date": "2026-10-07T02:09:42.127Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing SCIM Provisioning in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/introducing-scim-provisioning-in-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-10-06T02:44:46.151Z"
+      "date": "2026-10-07T02:09:42.127Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "pg_clickhouse &amp; chdb updates: Encoding, nesting, and types",
       "url": "https://clickhouse.com/blog/pg_clickhouse-chdb",
       "source": "ClickHouse",
-      "date": "2026-10-06T02:44:46.151Z"
+      "date": "2026-10-07T02:09:42.127Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Memory safety for Postgres extensions in C/C++",
       "url": "https://clickhouse.com/blog/memory-safety-postgres-extensions-c-cpp",
       "source": "ClickHouse",
-      "date": "2026-10-06T02:44:46.151Z"
+      "date": "2026-10-07T02:09:42.127Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Workload for Microsoft Fabric: sub-second analytics on OneLake, now in public preview",
       "url": "https://clickhouse.com/blog/clickhouse-for-microsoft-fabric",
       "source": "ClickHouse",
-      "date": "2026-10-06T02:44:46.151Z"
+      "date": "2026-10-07T02:09:42.127Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse now writes Apache Iceberg tables to Microsoft OneLake",
       "url": "https://clickhouse.com/blog/clickhouse-now-writes-to-microsoft-onelake",
       "source": "ClickHouse",
-      "date": "2026-10-06T02:44:46.151Z"
+      "date": "2026-10-07T02:09:42.127Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse expands collaboration with Microsoft, bringing Fabric integration, deeper OneLake interoperability, and enterprise deployment flexibility",
       "url": "https://clickhouse.com/blog/clickhouse-expands-collaboration-with-microsoft",
       "source": "ClickHouse",
-      "date": "2026-10-06T02:44:46.151Z"
+      "date": "2026-10-07T02:09:42.127Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Can your Postgres survive a bad query?",
-      "url": "https://clickhouse.com/blog/can-your-postgres-survive-a-bad-query",
-      "source": "ClickHouse",
-      "date": "2026-10-06T02:44:46.151Z"
-    },
-    {
-      "id": "hn-49972419",
-      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-      "url": "https://edworkingpapers.com/ai26-1551",
+      "id": "hn-49986892",
+      "title": "Couple was swatted 55 times in 2 years over a post about Norm Macdonald",
+      "url": "https://www.cbc.ca/lite/story/9.7370118",
       "source": "HackerNews",
-      "score": 35,
-      "comments": 26,
-      "date": "2026-10-06T00:00:45.000Z"
+      "score": 31,
+      "comments": 8,
+      "date": "2026-10-07T01:42:24.000Z"
+    },
+    {
+      "id": "hn-49985643",
+      "title": "State of Devs 2026 survey results: developers are exhausted",
+      "url": "https://2026.stateofdevs.com/en-US/",
+      "source": "HackerNews",
+      "score": 70,
+      "comments": 23,
+      "date": "2026-10-06T23:26:30.000Z"
+    },
+    {
+      "id": "hn-49984923",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "source": "HackerNews",
+      "score": 442,
+      "comments": 376,
+      "date": "2026-10-06T22:17:21.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "State of Devs 2026 survey results: developers are feeling exhausted",
-      "url": "https://www.reddit.com/r/programming/comments/1wyo5ne/state_of_devs_2026_survey_results_developers_are/",
+      "title": "From Custom to Open: Scalable Network Probing and HTTP/3 Readiness with Prometheus",
+      "url": "https://www.reddit.com/r/programming/comments/1wzfp28/from_custom_to_open_scalable_network_probing_and/",
       "source": "Reddit",
-      "date": "2026-10-05T23:56:47.000Z"
+      "date": "2026-10-06T22:04:00.000Z"
     },
     {
-      "id": "hn-49972211",
-      "title": "Samon: Designing a Zen Garden Raking Puzzle",
-      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+      "id": "hn-49984716",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
       "source": "HackerNews",
-      "score": 23,
-      "comments": 7,
-      "date": "2026-10-05T23:35:35.000Z"
+      "score": 71,
+      "comments": 28,
+      "date": "2026-10-06T21:59:43.000Z"
     },
     {
-      "id": "hn-49971921",
-      "title": "Example.com Just Launched the Biggest Redesign in Decades",
-      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "source": "HackerNews",
-      "score": 96,
-      "comments": 59,
-      "date": "2026-10-05T22:55:11.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Release of Polars 2.0",
+      "url": "https://www.reddit.com/r/programming/comments/1wzf37b/release_of_polars_20/",
+      "source": "Reddit",
+      "date": "2026-10-06T21:38:13.000Z"
     },
     {
-      "id": "hn-49971846",
-      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "id": "hn-49984025",
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
       "source": "HackerNews",
-      "score": 300,
-      "comments": 189,
-      "date": "2026-10-05T22:46:45.000Z"
+      "score": 152,
+      "comments": 61,
+      "date": "2026-10-06T20:57:25.000Z"
     },
     {
-      "id": "hn-49971719",
-      "title": "Friendship ended with Deno, now Node is my best friend",
-      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Tuning a Server for Benchmarking",
+      "url": "https://www.reddit.com/r/programming/comments/1wzbo9p/tuning_a_server_for_benchmarking/",
+      "source": "Reddit",
+      "date": "2026-10-06T19:23:31.000Z"
+    },
+    {
+      "id": "hn-49981905",
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
       "source": "HackerNews",
-      "score": 75,
-      "comments": 18,
-      "date": "2026-10-05T22:30:02.000Z"
+      "score": 100,
+      "comments": 51,
+      "date": "2026-10-06T18:00:34.000Z"
+    },
+    {
+      "id": "hn-49980715",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "source": "HackerNews",
+      "score": 236,
+      "comments": 300,
+      "date": "2026-10-06T16:23:25.000Z"
+    },
+    {
+      "id": "hn-49980487",
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "source": "HackerNews",
+      "score": 224,
+      "comments": 29,
+      "date": "2026-10-06T16:03:49.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "StackOverflow Developer Survey Results 2026",
+      "url": "https://www.reddit.com/r/programming/comments/1wz64oa/stackoverflow_developer_survey_results_2026/",
+      "source": "Reddit",
+      "date": "2026-10-06T15:51:51.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Problem of Communication",
+      "url": "https://www.reddit.com/r/programming/comments/1wz5hwg/the_problem_of_communication/",
+      "source": "Reddit",
+      "date": "2026-10-06T15:26:46.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Key Autoscaling Metric #2 - Mean Time to Stop Sucking",
+      "url": "https://www.reddit.com/r/programming/comments/1wz5cxt/key_autoscaling_metric_2_mean_time_to_stop_sucking/",
+      "source": "Reddit",
+      "date": "2026-10-06T15:21:13.000Z"
+    },
+    {
+      "id": "hn-49977979",
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "source": "HackerNews",
+      "score": 1593,
+      "comments": 967,
+      "date": "2026-10-06T13:15:49.000Z"
+    },
+    {
+      "id": "hn-49976265",
+      "title": "Nobel Prize in Physics 2026: Francis Halzen",
+      "url": "https://www.nobelprize.org/prizes/physics/2026/",
+      "source": "HackerNews",
+      "score": 532,
+      "comments": 176,
+      "date": "2026-10-06T09:48:46.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Memory Management, Explained Simply (Part 2)",
+      "url": "https://www.reddit.com/r/programming/comments/1wyx8ce/memory_management_explained_simply_part_2/",
+      "source": "Reddit",
+      "date": "2026-10-06T08:25:21.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "There is no \"now\" in distributed systems",
+      "url": "https://www.reddit.com/r/programming/comments/1wyumm6/there_is_no_now_in_distributed_systems/",
+      "source": "Reddit",
+      "date": "2026-10-06T05:35:41.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -132,105 +226,11 @@
       "date": "2026-10-05T22:24:22.000Z"
     },
     {
-      "id": "hn-49971230",
-      "title": "Find the flattest route between any two points in SF",
-      "url": "https://flattensf.com/",
-      "source": "HackerNews",
-      "score": 122,
-      "comments": 41,
-      "date": "2026-10-05T21:40:50.000Z"
-    },
-    {
-      "id": "hn-49970871",
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "source": "HackerNews",
-      "score": 114,
-      "comments": 19,
-      "date": "2026-10-05T21:15:07.000Z"
-    },
-    {
-      "id": "hn-49970667",
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "source": "HackerNews",
-      "score": 226,
-      "comments": 164,
-      "date": "2026-10-05T21:00:21.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "OSDI '26 - Incr: Faster Re-Execution via Bolt-On Incrementalization",
-      "url": "https://www.reddit.com/r/programming/comments/1wyjfbo/osdi_26_incr_faster_reexecution_via_bolton/",
-      "source": "Reddit",
-      "date": "2026-10-05T20:31:11.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "First Steps into Memory Management in Python",
-      "url": "https://www.reddit.com/r/programming/comments/1wyiwl4/first_steps_into_memory_management_in_python/",
-      "source": "Reddit",
-      "date": "2026-10-05T20:10:36.000Z"
-    },
-    {
-      "id": "hn-49969183",
-      "title": "Beam: Reflection's 501B open-weight model",
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "source": "HackerNews",
-      "score": 332,
-      "comments": 95,
-      "date": "2026-10-05T19:16:35.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Achieving memory safety",
-      "url": "https://www.reddit.com/r/programming/comments/1wydryt/achieving_memory_safety/",
-      "source": "Reddit",
-      "date": "2026-10-05T16:55:31.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "Another Step Towards Elm 1.0",
       "url": "https://www.reddit.com/r/programming/comments/1wy7in8/another_step_towards_elm_10/",
       "source": "Reddit",
       "date": "2026-10-05T12:40:32.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "\"8-pinski\" - EIGHT(!) bytes intro for MSDOS",
-      "url": "https://www.reddit.com/r/programming/comments/1wxoefa/8pinski_eight_bytes_intro_for_msdos/",
-      "source": "Reddit",
-      "date": "2026-10-04T19:34:01.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Red, green and mud: fixing color mixing in Total Draw",
-      "url": "https://www.reddit.com/r/programming/comments/1wxd33z/red_green_and_mud_fixing_color_mixing_in_total/",
-      "source": "Reddit",
-      "date": "2026-10-04T11:08:30.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "From SSH to REST: A Security-Driven Modernization of Slack’s EMR Data Pipelines",
-      "url": "https://www.reddit.com/r/programming/comments/1wx02m9/from_ssh_to_rest_a_securitydriven_modernization/",
-      "source": "Reddit",
-      "date": "2026-10-03T22:41:16.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Hybrid Core Allocation: From Overallocation to Reliable Sharing",
-      "url": "https://www.reddit.com/r/programming/comments/1wwzeu7/hybrid_core_allocation_from_overallocation_to/",
-      "source": "Reddit",
-      "date": "2026-10-03T22:09:33.000Z"
-    },
-    {
-      "id": "hn-49945588",
-      "title": "An Algorithmic Failure Beneath the Secret Ballot",
-      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-      "source": "HackerNews",
-      "score": 35,
-      "comments": 9,
-      "date": "2026-10-03T16:23:07.000Z"
     }
   ]
 }
