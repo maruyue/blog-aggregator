@@ -1,83 +1,204 @@
 {
-  "updatedAt": "2026-10-08T02:35:33.638Z",
+  "updatedAt": "2026-10-09T02:50:02.068Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How we migrated Clera’s 500 GB production database to ClickHouse Managed Postgres overnight",
+      "url": "https://clickhouse.com/blog/clera-migrates-to-clickhouse-managed-postgres",
+      "source": "ClickHouse",
+      "date": "2026-10-09T02:50:02.039Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Introducing JWT authentication in ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/introducing-jwt-authentication-in-clickhouse-cloud",
+      "source": "ClickHouse",
+      "date": "2026-10-09T02:50:02.039Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Why BigQuery can’t match ClickHouse Cloud for real-time analytics",
+      "url": "https://clickhouse.com/blog/clickhouse-vs-bigquery-real-time-performance-per-dollar",
+      "source": "ClickHouse",
+      "date": "2026-10-09T02:50:02.039Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "🗽 Postgres Summit US 2026 retrospective",
       "url": "https://clickhouse.com/blog/postgres-summit-us-2026",
       "source": "ClickHouse",
-      "date": "2026-10-08T02:35:33.418Z"
+      "date": "2026-10-09T02:50:02.039Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why Databricks can’t match ClickHouse Cloud for real-time analytics",
       "url": "https://clickhouse.com/blog/clickhouse-vs-databricks-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-10-08T02:35:33.418Z"
+      "date": "2026-10-09T02:50:02.039Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Executable UDFs are now generally available on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/executable-udfs-generally-available-on-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-10-08T02:35:33.418Z"
+      "date": "2026-10-09T02:50:02.039Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What is direct I/O, and why does ClickHouse Managed Postgres use it for backups?",
       "url": "https://clickhouse.com/blog/direct-io-managed-postgres-backups",
       "source": "ClickHouse",
-      "date": "2026-10-08T02:35:33.418Z"
+      "date": "2026-10-09T02:50:02.039Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How LinkedIn extended ClickHouse from distributed tracing to metric discovery and analytics",
       "url": "https://clickhouse.com/blog/linkedin-observability-at-scale",
       "source": "ClickHouse",
-      "date": "2026-10-08T02:35:33.418Z"
+      "date": "2026-10-09T02:50:02.039Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing SCIM Provisioning in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/introducing-scim-provisioning-in-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-10-08T02:35:33.418Z"
+      "date": "2026-10-09T02:50:02.039Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "pg_clickhouse &amp; chdb updates: Encoding, nesting, and types",
       "url": "https://clickhouse.com/blog/pg_clickhouse-chdb",
       "source": "ClickHouse",
-      "date": "2026-10-08T02:35:33.418Z"
+      "date": "2026-10-09T02:50:02.039Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Memory safety for Postgres extensions in C/C++",
-      "url": "https://clickhouse.com/blog/memory-safety-postgres-extensions-c-cpp",
-      "source": "ClickHouse",
-      "date": "2026-10-08T02:35:33.418Z"
+      "id": "hn-50015236",
+      "title": "What should we tell our students?",
+      "url": "https://terrytao.wordpress.com/2026/10/08/what-should-we-tell-our-students/",
+      "source": "HackerNews",
+      "score": 10,
+      "comments": 0,
+      "date": "2026-10-09T02:27:45.000Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse Workload for Microsoft Fabric: sub-second analytics on OneLake, now in public preview",
-      "url": "https://clickhouse.com/blog/clickhouse-for-microsoft-fabric",
-      "source": "ClickHouse",
-      "date": "2026-10-08T02:35:33.418Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse now writes Apache Iceberg tables to Microsoft OneLake",
-      "url": "https://clickhouse.com/blog/clickhouse-now-writes-to-microsoft-onelake",
-      "source": "ClickHouse",
-      "date": "2026-10-08T02:35:33.418Z"
+      "id": "hn-50015074",
+      "title": "Reducing undefined behavior in the C language",
+      "url": "https://lwn.net/Articles/1095811/",
+      "source": "HackerNews",
+      "score": 15,
+      "comments": 0,
+      "date": "2026-10-09T02:02:53.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "How Uber Conquered Database Overload: The Journey from Static Rate-Limiting to Intelligent Load Management",
-      "url": "https://www.reddit.com/r/programming/comments/1x0ckk1/how_uber_conquered_database_overload_the_journey/",
+      "title": "Adding Go's defer to the TypeScript Compiler",
+      "url": "https://www.reddit.com/r/programming/comments/1x18013/adding_gos_defer_to_the_typescript_compiler/",
       "source": "Reddit",
-      "date": "2026-10-08T00:08:50.000Z"
+      "date": "2026-10-09T01:00:57.000Z"
+    },
+    {
+      "id": "hn-50013610",
+      "title": "Bevy 0.20",
+      "url": "https://bevy.org/news/bevy-0-20/",
+      "source": "HackerNews",
+      "score": 52,
+      "comments": 6,
+      "date": "2026-10-08T22:57:50.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How big is a Git commit?",
+      "url": "https://www.reddit.com/r/programming/comments/1x144ok/how_big_is_a_git_commit/",
+      "source": "Reddit",
+      "date": "2026-10-08T22:00:15.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Tracing np.add, all the way down",
+      "url": "https://www.reddit.com/r/programming/comments/1x11ujr/tracing_npadd_all_the_way_down/",
+      "source": "Reddit",
+      "date": "2026-10-08T20:28:27.000Z"
+    },
+    {
+      "id": "hn-50010470",
+      "title": "The value of not getting to the point (2015)",
+      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "source": "HackerNews",
+      "score": 129,
+      "comments": 42,
+      "date": "2026-10-08T19:04:56.000Z"
+    },
+    {
+      "id": "hn-50009295",
+      "title": "Theranos.world",
+      "url": "https://www.theranos.world/",
+      "source": "HackerNews",
+      "score": 307,
+      "comments": 122,
+      "date": "2026-10-08T17:51:49.000Z"
+    },
+    {
+      "id": "hn-50008427",
+      "title": "Whistle: Speech to Text in 16.9 MB",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "source": "HackerNews",
+      "score": 576,
+      "comments": 129,
+      "date": "2026-10-08T16:59:39.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Two-Way Doors: Don’t Code Yourself into a Corner",
+      "url": "https://www.reddit.com/r/programming/comments/1x0vmxt/twoway_doors_dont_code_yourself_into_a_corner/",
+      "source": "Reddit",
+      "date": "2026-10-08T16:33:25.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Bit arrays in the Linux kernel",
+      "url": "https://www.reddit.com/r/programming/comments/1x0sbg2/bit_arrays_in_the_linux_kernel/",
+      "source": "Reddit",
+      "date": "2026-10-08T14:25:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Build better software to build software better",
+      "url": "https://www.reddit.com/r/programming/comments/1x0qyoq/build_better_software_to_build_software_better/",
+      "source": "Reddit",
+      "date": "2026-10-08T13:29:38.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Adopting Pyrefly as the Python type checker at Google",
+      "url": "https://www.reddit.com/r/programming/comments/1x0p1v8/adopting_pyrefly_as_the_python_type_checker_at/",
+      "source": "Reddit",
+      "date": "2026-10-08T12:00:13.000Z"
+    },
+    {
+      "id": "hn-50003796",
+      "title": "Yes, and",
+      "url": "https://htmx.org/essays/yes-and/",
+      "source": "HackerNews",
+      "score": 221,
+      "comments": 75,
+      "date": "2026-10-08T09:48:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
+      "url": "https://www.reddit.com/r/programming/comments/1x0j559/margaret_hamilton_computing_pioneer_who_led/",
+      "source": "Reddit",
+      "date": "2026-10-08T05:55:59.000Z"
+    },
+    {
+      "id": "hn-50000488",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "source": "HackerNews",
+      "score": 455,
+      "comments": 391,
+      "date": "2026-10-08T00:14:48.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -87,79 +208,13 @@
       "date": "2026-10-07T22:48:04.000Z"
     },
     {
-      "id": "hn-49998895",
-      "title": "Margaret Hamilton has died",
-      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "id": "hn-49995495",
+      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
       "source": "HackerNews",
-      "score": 824,
-      "comments": 94,
-      "date": "2026-10-07T21:16:18.000Z"
-    },
-    {
-      "id": "hn-49998066",
-      "title": "'Jonathan' is the oldest land animal on Earth",
-      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
-      "source": "HackerNews",
-      "score": 62,
-      "comments": 23,
-      "date": "2026-10-07T20:01:37.000Z"
-    },
-    {
-      "id": "hn-49996437",
-      "title": "Claude Haiku 5.5",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "source": "HackerNews",
-      "score": 702,
-      "comments": 349,
-      "date": "2026-10-07T18:01:32.000Z"
-    },
-    {
-      "id": "hn-49996425",
-      "title": "GPT‑6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "source": "HackerNews",
-      "score": 518,
-      "comments": 269,
-      "date": "2026-10-07T18:00:58.000Z"
-    },
-    {
-      "id": "hn-49996259",
-      "title": "Docker Agent",
-      "url": "https://github.com/docker/docker-agent",
-      "source": "HackerNews",
-      "score": 187,
-      "comments": 85,
-      "date": "2026-10-07T17:48:38.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How savepoints quietly throttled our Postgres queue",
-      "url": "https://www.reddit.com/r/programming/comments/1x02iea/how_savepoints_quietly_throttled_our_postgres/",
-      "source": "Reddit",
-      "date": "2026-10-07T17:21:59.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
-      "url": "https://www.reddit.com/r/programming/comments/1x01gjy/janet_on_x32_32bit_pointers_64bit_speed_25_less/",
-      "source": "Reddit",
-      "date": "2026-10-07T16:42:22.000Z"
-    },
-    {
-      "id": "hn-49994443",
-      "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-      "url": "https://bigwords.page/",
-      "source": "HackerNews",
-      "score": 380,
-      "comments": 113,
-      "date": "2026-10-07T15:44:21.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How we slashed the size of our search cache by 74%",
-      "url": "https://www.reddit.com/r/programming/comments/1wzz3cc/how_we_slashed_the_size_of_our_search_cache_by_74/",
-      "source": "Reddit",
-      "date": "2026-10-07T15:11:53.000Z"
+      "score": 458,
+      "comments": 288,
+      "date": "2026-10-07T16:56:30.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -169,68 +224,13 @@
       "date": "2026-10-07T13:10:04.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Post-mortem debuggable, minimal-size memory dumps on macOS",
-      "url": "https://www.reddit.com/r/programming/comments/1wzw1y7/postmortem_debuggable_minimalsize_memory_dumps_on/",
-      "source": "Reddit",
-      "date": "2026-10-07T13:07:00.000Z"
-    },
-    {
-      "id": "hn-49991227",
-      "title": "Shipping JPEG XL in Chrome",
-      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "id": "hn-49986882",
+      "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
       "source": "HackerNews",
-      "score": 494,
-      "comments": 320,
-      "date": "2026-10-07T11:25:02.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Release of Polars 2.0",
-      "url": "https://www.reddit.com/r/programming/comments/1wzf37b/release_of_polars_20/",
-      "source": "Reddit",
-      "date": "2026-10-06T21:38:13.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Tuning a Server for Benchmarking",
-      "url": "https://www.reddit.com/r/programming/comments/1wzbo9p/tuning_a_server_for_benchmarking/",
-      "source": "Reddit",
-      "date": "2026-10-06T19:23:31.000Z"
-    },
-    {
-      "id": "hn-49982445",
-      "title": "Cleo (Mathematician)",
-      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
-      "source": "HackerNews",
-      "score": 30,
-      "comments": 2,
-      "date": "2026-10-06T18:49:45.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "StackOverflow Developer Survey Results 2026",
-      "url": "https://www.reddit.com/r/programming/comments/1wz64oa/stackoverflow_developer_survey_results_2026/",
-      "source": "Reddit",
-      "date": "2026-10-06T15:51:51.000Z"
-    },
-    {
-      "id": "hn-49977351",
-      "title": "A minimal kernel in Swift, running in QEMU",
-      "url": "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
-      "source": "HackerNews",
-      "score": 32,
-      "comments": 5,
-      "date": "2026-10-06T12:20:03.000Z"
-    },
-    {
-      "id": "hn-49969073",
-      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
-      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
-      "source": "HackerNews",
-      "score": 76,
-      "comments": 37,
-      "date": "2026-10-05T19:07:07.000Z"
+      "score": 429,
+      "comments": 74,
+      "date": "2026-10-07T01:41:03.000Z"
     }
   ]
 }
