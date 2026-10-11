@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T02:09:51.635Z",
+  "updatedAt": "2026-10-11T01:38:27.263Z",
   "total": 30,
   "articles": [
     {
@@ -7,113 +7,175 @@
       "title": "How iSAM Funds built an options research platform for a 10,000x data problem with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/isam-market-data-research-platform",
       "source": "ClickHouse",
-      "date": "2026-10-10T02:09:51.558Z"
+      "date": "2026-10-11T01:38:27.154Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How we migrated Clera’s 500 GB production database to ClickHouse Managed Postgres overnight",
       "url": "https://clickhouse.com/blog/clera-migrates-to-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-10-10T02:09:51.558Z"
+      "date": "2026-10-11T01:38:27.154Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing JWT authentication in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/introducing-jwt-authentication-in-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-10-10T02:09:51.558Z"
+      "date": "2026-10-11T01:38:27.154Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why BigQuery can’t match ClickHouse Cloud for real-time analytics",
       "url": "https://clickhouse.com/blog/clickhouse-vs-bigquery-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-10-10T02:09:51.558Z"
+      "date": "2026-10-11T01:38:27.154Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "🗽 Postgres Summit US 2026 retrospective",
       "url": "https://clickhouse.com/blog/postgres-summit-us-2026",
       "source": "ClickHouse",
-      "date": "2026-10-10T02:09:51.558Z"
+      "date": "2026-10-11T01:38:27.154Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why Databricks can’t match ClickHouse Cloud for real-time analytics",
       "url": "https://clickhouse.com/blog/clickhouse-vs-databricks-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-10-10T02:09:51.558Z"
+      "date": "2026-10-11T01:38:27.154Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Executable UDFs are now generally available on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/executable-udfs-generally-available-on-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-10-10T02:09:51.558Z"
+      "date": "2026-10-11T01:38:27.154Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What is direct I/O, and why does ClickHouse Managed Postgres use it for backups?",
       "url": "https://clickhouse.com/blog/direct-io-managed-postgres-backups",
       "source": "ClickHouse",
-      "date": "2026-10-10T02:09:51.558Z"
+      "date": "2026-10-11T01:38:27.154Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How LinkedIn extended ClickHouse from distributed tracing to metric discovery and analytics",
       "url": "https://clickhouse.com/blog/linkedin-observability-at-scale",
       "source": "ClickHouse",
-      "date": "2026-10-10T02:09:51.558Z"
+      "date": "2026-10-11T01:38:27.154Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing SCIM Provisioning in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/introducing-scim-provisioning-in-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-10-10T02:09:51.558Z"
+      "date": "2026-10-11T01:38:27.154Z"
     },
     {
-      "id": "hn-50028275",
-      "title": "REA Reverse – Engineer Anything",
-      "url": "https://rea.tools/",
+      "id": "hn-50038634",
+      "title": "WallHop – 12ft.io is gone, so I built a replacement",
+      "url": "https://wallhop.io/",
       "source": "HackerNews",
-      "score": 76,
-      "comments": 13,
-      "date": "2026-10-10T00:37:07.000Z"
+      "score": 53,
+      "comments": 31,
+      "date": "2026-10-11T00:46:48.000Z"
     },
     {
-      "id": "hn-50028059",
-      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
-      "url": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+      "id": "hn-50037949",
+      "title": "Build your own decision model",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
       "source": "HackerNews",
-      "score": 56,
-      "comments": 19,
-      "date": "2026-10-09T23:56:55.000Z"
+      "score": 108,
+      "comments": 21,
+      "date": "2026-10-10T22:50:10.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "We Should Still Send Home Assignments in Engineering Interviews",
-      "url": "https://www.reddit.com/r/programming/comments/1x1ysqj/we_should_still_send_home_assignments_in/",
+      "title": "Stop reaching for WebSockets by default: WebSockets vs SSE vs Long Polling",
+      "url": "https://www.reddit.com/r/programming/comments/1x2r88r/stop_reaching_for_websockets_by_default/",
       "source": "Reddit",
-      "date": "2026-10-09T22:22:42.000Z"
+      "date": "2026-10-10T21:57:39.000Z"
     },
     {
-      "id": "hn-50027118",
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+      "id": "hn-50036864",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "url": "https://housing.over.pizza/",
       "source": "HackerNews",
-      "score": 66,
-      "comments": 37,
-      "date": "2026-10-09T22:00:35.000Z"
+      "score": 166,
+      "comments": 67,
+      "date": "2026-10-10T20:31:50.000Z"
     },
     {
-      "id": "hn-50026555",
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "What's the Cost of Object-Relational Mapping?",
+      "url": "https://www.reddit.com/r/programming/comments/1x2mabk/whats_the_cost_of_objectrelational_mapping/",
+      "source": "Reddit",
+      "date": "2026-10-10T18:24:33.000Z"
+    },
+    {
+      "id": "hn-50035530",
+      "title": "Why DuckDB 2.0 is faster",
+      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
       "source": "HackerNews",
-      "score": 424,
-      "comments": 233,
-      "date": "2026-10-09T21:06:59.000Z"
+      "score": 141,
+      "comments": 49,
+      "date": "2026-10-10T18:08:49.000Z"
+    },
+    {
+      "id": "hn-50034081",
+      "title": "Knuth reward check",
+      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "source": "HackerNews",
+      "score": 147,
+      "comments": 51,
+      "date": "2026-10-10T15:47:01.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Speedticket - a different take on a Semaphore, explained as a swimming pool",
+      "url": "https://www.reddit.com/r/programming/comments/1x2fowp/speedticket_a_different_take_on_a_semaphore/",
+      "source": "Reddit",
+      "date": "2026-10-10T13:45:29.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Rewriting an entire UI in Rust",
+      "url": "https://www.reddit.com/r/programming/comments/1x2et1j/rewriting_an_entire_ui_in_rust/",
+      "source": "Reddit",
+      "date": "2026-10-10T13:03:29.000Z"
+    },
+    {
+      "id": "hn-50031614",
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "source": "HackerNews",
+      "score": 249,
+      "comments": 121,
+      "date": "2026-10-10T10:52:09.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Concrete Lessons from Conway’s Game of Life",
+      "url": "https://www.reddit.com/r/programming/comments/1x26xoh/concrete_lessons_from_conways_game_of_life/",
+      "source": "Reddit",
+      "date": "2026-10-10T05:19:35.000Z"
+    },
+    {
+      "id": "hn-50029487",
+      "title": "The Lightbulb Computer",
+      "url": "https://lightbulbcomputer.com/",
+      "source": "HackerNews",
+      "score": 242,
+      "comments": 43,
+      "date": "2026-10-10T04:12:26.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Deno is joining Cloudflare",
+      "url": "https://www.reddit.com/r/programming/comments/1x23sn2/deno_is_joining_cloudflare/",
+      "source": "Reddit",
+      "date": "2026-10-10T02:26:04.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -123,24 +185,6 @@
       "date": "2026-10-09T19:55:27.000Z"
     },
     {
-      "id": "hn-50024499",
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "url": "https://carrierexplode.com/",
-      "source": "HackerNews",
-      "score": 218,
-      "comments": 27,
-      "date": "2026-10-09T18:10:55.000Z"
-    },
-    {
-      "id": "hn-50023450",
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "source": "HackerNews",
-      "score": 276,
-      "comments": 212,
-      "date": "2026-10-09T17:02:31.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "Python Release Python 3.15.0",
       "url": "https://www.reddit.com/r/programming/comments/1x1pypx/python_release_python_3150/",
@@ -148,40 +192,22 @@
       "date": "2026-10-09T16:30:13.000Z"
     },
     {
-      "id": "hn-50022292",
-      "title": "Triple-A Minesweeper",
-      "url": "https://minesweeper.mikelacher.com/",
+      "id": "hn-50021899",
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
       "source": "HackerNews",
-      "score": 671,
-      "comments": 122,
-      "date": "2026-10-09T15:51:05.000Z"
+      "score": 56,
+      "comments": 26,
+      "date": "2026-10-09T15:26:33.000Z"
     },
     {
-      "id": "hn-50020014",
-      "title": "Our $445M Series D",
-      "url": "https://oxide.computer/blog/our-445m-series-d",
+      "id": "hn-50017247",
+      "title": "Nix wrote half of my debugger",
+      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
       "source": "HackerNews",
-      "score": 600,
-      "comments": 268,
-      "date": "2026-10-09T13:12:47.000Z"
-    },
-    {
-      "id": "hn-50019911",
-      "title": "Cloudflare acquires Deno",
-      "url": "https://deno.com/blog/cloudflare",
-      "source": "HackerNews",
-      "score": 1077,
-      "comments": 563,
-      "date": "2026-10-09T13:03:48.000Z"
-    },
-    {
-      "id": "hn-50018088",
-      "title": "Sorry, I'm in a meeting",
-      "url": "https://iminafleeting.com/",
-      "source": "HackerNews",
-      "score": 770,
-      "comments": 243,
-      "date": "2026-10-09T09:21:48.000Z"
+      "score": 128,
+      "comments": 23,
+      "date": "2026-10-09T07:29:08.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -192,45 +218,19 @@
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Adding Go's defer to the TypeScript Compiler",
-      "url": "https://www.reddit.com/r/programming/comments/1x18013/adding_gos_defer_to_the_typescript_compiler/",
-      "source": "Reddit",
-      "date": "2026-10-09T01:00:57.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How big is a Git commit?",
-      "url": "https://www.reddit.com/r/programming/comments/1x144ok/how_big_is_a_git_commit/",
-      "source": "Reddit",
-      "date": "2026-10-08T22:00:15.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Tracing np.add, all the way down",
-      "url": "https://www.reddit.com/r/programming/comments/1x11ujr/tracing_npadd_all_the_way_down/",
-      "source": "Reddit",
-      "date": "2026-10-08T20:28:27.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Two-Way Doors: Don’t Code Yourself into a Corner",
-      "url": "https://www.reddit.com/r/programming/comments/1x0vmxt/twoway_doors_dont_code_yourself_into_a_corner/",
-      "source": "Reddit",
-      "date": "2026-10-08T16:33:25.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Adopting Pyrefly as the Python type checker at Google",
-      "url": "https://www.reddit.com/r/programming/comments/1x0p1v8/adopting_pyrefly_as_the_python_type_checker_at/",
-      "source": "Reddit",
-      "date": "2026-10-08T12:00:13.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
       "title": "Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90",
       "url": "https://www.reddit.com/r/programming/comments/1x0j559/margaret_hamilton_computing_pioneer_who_led/",
       "source": "Reddit",
       "date": "2026-10-08T05:55:59.000Z"
+    },
+    {
+      "id": "hn-49991852",
+      "title": "2D Vehicles",
+      "url": "https://patkerr.co.uk/2d-vehicles/",
+      "source": "HackerNews",
+      "score": 358,
+      "comments": 82,
+      "date": "2026-10-07T12:30:40.000Z"
     }
   ]
 }
