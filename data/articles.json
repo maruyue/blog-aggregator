@@ -1,121 +1,183 @@
 {
-  "updatedAt": "2026-10-13T03:41:35.553Z",
+  "updatedAt": "2026-10-14T01:40:53.666Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Postgres at Open House NYC",
+      "url": "https://clickhouse.com/blog/postgres-at-open-house-nyc",
+      "source": "ClickHouse",
+      "date": "2026-10-14T01:40:52.826Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Chasing that 32 ms tail latency in ClickHouse",
+      "url": "https://clickhouse.com/blog/chasing-32ms-tail-latency-clickhouse",
+      "source": "ClickHouse",
+      "date": "2026-10-14T01:40:52.826Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How iSAM Funds built an options research platform for a 10,000x data problem with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/isam-market-data-research-platform",
       "source": "ClickHouse",
-      "date": "2026-10-13T03:41:35.553Z"
+      "date": "2026-10-14T01:40:52.826Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How we migrated Clera’s 500 GB production database to ClickHouse Managed Postgres overnight",
       "url": "https://clickhouse.com/blog/clera-migrates-to-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-10-13T03:41:35.553Z"
+      "date": "2026-10-14T01:40:52.826Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing JWT authentication in ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/introducing-jwt-authentication-in-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-10-13T03:41:35.553Z"
+      "date": "2026-10-14T01:40:52.826Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why BigQuery can’t match ClickHouse Cloud for real-time analytics",
       "url": "https://clickhouse.com/blog/clickhouse-vs-bigquery-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-10-13T03:41:35.553Z"
+      "date": "2026-10-14T01:40:52.826Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "🗽 Postgres Summit US 2026 retrospective",
       "url": "https://clickhouse.com/blog/postgres-summit-us-2026",
       "source": "ClickHouse",
-      "date": "2026-10-13T03:41:35.553Z"
+      "date": "2026-10-14T01:40:52.826Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why Databricks can’t match ClickHouse Cloud for real-time analytics",
       "url": "https://clickhouse.com/blog/clickhouse-vs-databricks-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-10-13T03:41:35.553Z"
+      "date": "2026-10-14T01:40:52.826Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Executable UDFs are now generally available on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/executable-udfs-generally-available-on-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-10-13T03:41:35.553Z"
+      "date": "2026-10-14T01:40:52.826Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What is direct I/O, and why does ClickHouse Managed Postgres use it for backups?",
       "url": "https://clickhouse.com/blog/direct-io-managed-postgres-backups",
       "source": "ClickHouse",
-      "date": "2026-10-13T03:41:35.553Z"
+      "date": "2026-10-14T01:40:52.826Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How LinkedIn extended ClickHouse from distributed tracing to metric discovery and analytics",
-      "url": "https://clickhouse.com/blog/linkedin-observability-at-scale",
-      "source": "ClickHouse",
-      "date": "2026-10-13T03:41:35.553Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "A declarative WAF built in Prolog. Try to hack it As A Research",
+      "url": "https://www.reddit.com/r/programming/comments/1x5cwtc/a_declarative_waf_built_in_prolog_try_to_hack_it/",
+      "source": "Reddit",
+      "date": "2026-10-14T00:07:57.000Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Introducing SCIM Provisioning in ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/introducing-scim-provisioning-in-clickhouse-cloud",
-      "source": "ClickHouse",
-      "date": "2026-10-13T03:41:35.553Z"
-    },
-    {
-      "id": "hn-50065932",
-      "title": "OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit",
-      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "id": "hn-50080275",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
       "source": "HackerNews",
-      "score": 11,
-      "comments": 3,
-      "date": "2026-10-13T02:46:43.000Z"
+      "score": 47,
+      "comments": 27,
+      "date": "2026-10-13T23:13:23.000Z"
     },
     {
-      "id": "hn-50065805",
-      "title": "China Overtakes U.S. For First Time as Top Spender on R&D in 2024",
-      "url": "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
+      "id": "hn-50079865",
+      "title": "Recreational Programming",
+      "url": "https://www.cphiri.dev/presentations/recreational-programming",
       "source": "HackerNews",
-      "score": 51,
-      "comments": 28,
-      "date": "2026-10-13T02:25:00.000Z"
+      "score": 55,
+      "comments": 14,
+      "date": "2026-10-13T22:33:33.000Z"
     },
     {
-      "id": "hn-50065553",
-      "title": "Strengthening our defenses against distillation attacks",
-      "url": "https://www.anthropic.com/research/distillation-defenses",
-      "source": "HackerNews",
-      "score": 21,
-      "comments": 36,
-      "date": "2026-10-13T01:46:47.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "From Python 3.15 to Python 3.6: Speed Comparison Through the Years",
+      "url": "https://www.reddit.com/r/programming/comments/1x56pba/from_python_315_to_python_36_speed_comparison/",
+      "source": "Reddit",
+      "date": "2026-10-13T19:46:09.000Z"
     },
     {
-      "id": "hn-50063717",
-      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-      "url": "https://github.com/prabanta-dev/janas",
+      "id": "hn-50077020",
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
       "source": "HackerNews",
-      "score": 60,
-      "comments": 25,
-      "date": "2026-10-12T22:05:43.000Z"
+      "score": 264,
+      "comments": 81,
+      "date": "2026-10-13T19:11:48.000Z"
     },
     {
-      "id": "hn-50063365",
-      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Is PHP a Rusty language?",
+      "url": "https://www.reddit.com/r/programming/comments/1x52f4n/is_php_a_rusty_language/",
+      "source": "Reddit",
+      "date": "2026-10-13T17:08:47.000Z"
+    },
+    {
+      "id": "hn-50073879",
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
       "source": "HackerNews",
-      "score": 103,
-      "comments": 44,
-      "date": "2026-10-12T21:35:35.000Z"
+      "score": 989,
+      "comments": 755,
+      "date": "2026-10-13T16:03:16.000Z"
+    },
+    {
+      "id": "hn-50073633",
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "source": "HackerNews",
+      "score": 546,
+      "comments": 525,
+      "date": "2026-10-13T15:49:56.000Z"
+    },
+    {
+      "id": "hn-50072913",
+      "title": "Thunderbird for iOS",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "source": "HackerNews",
+      "score": 341,
+      "comments": 149,
+      "date": "2026-10-13T15:07:37.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Built-in alternatives to pre-commit-hooks in prek and hk",
+      "url": "https://www.reddit.com/r/programming/comments/1x4x5b4/builtin_alternatives_to_precommithooks_in_prek/",
+      "source": "Reddit",
+      "date": "2026-10-13T13:49:13.000Z"
+    },
+    {
+      "id": "hn-50071017",
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "source": "HackerNews",
+      "score": 664,
+      "comments": 780,
+      "date": "2026-10-13T13:02:12.000Z"
+    },
+    {
+      "id": "hn-50069499",
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "source": "HackerNews",
+      "score": 678,
+      "comments": 376,
+      "date": "2026-10-13T10:27:00.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "More, Better, Faster: How we automate Metabase releases",
+      "url": "https://www.reddit.com/r/programming/comments/1x4sw6i/more_better_faster_how_we_automate_metabase/",
+      "source": "Reddit",
+      "date": "2026-10-13T10:19:42.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -125,15 +187,6 @@
       "date": "2026-10-12T21:28:20.000Z"
     },
     {
-      "id": "hn-50063138",
-      "title": "Who is vfmaddrnd231pd?",
-      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-      "source": "HackerNews",
-      "score": 134,
-      "comments": 14,
-      "date": "2026-10-12T21:12:43.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "C3 0.8.5 - A windowing library and a C backend??",
       "url": "https://www.reddit.com/r/programming/comments/1x4cr91/c3_085_a_windowing_library_and_a_c_backend/",
@@ -141,45 +194,22 @@
       "date": "2026-10-12T20:19:16.000Z"
     },
     {
-      "id": "hn-50058528",
-      "title": "A Modern Web App in C",
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "id": "hn-50054092",
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
       "source": "HackerNews",
-      "score": 434,
-      "comments": 176,
-      "date": "2026-10-12T16:13:10.000Z"
+      "score": 436,
+      "comments": 323,
+      "date": "2026-10-12T10:09:37.000Z"
     },
     {
-      "id": "hn-50058507",
-      "title": "GLM-Legal",
-      "url": "https://z.ai/blog/glm-legal",
+      "id": "hn-50053487",
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
       "source": "HackerNews",
-      "score": 471,
-      "comments": 265,
-      "date": "2026-10-12T16:11:45.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Python 3.15 Has a New Keyword: lazy (and 5 More Things I Tested)",
-      "url": "https://www.reddit.com/r/programming/comments/1x43z6z/python_315_has_a_new_keyword_lazy_and_5_more/",
-      "source": "Reddit",
-      "date": "2026-10-12T14:53:29.000Z"
-    },
-    {
-      "id": "hn-50055304",
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-      "source": "HackerNews",
-      "score": 494,
-      "comments": 692,
-      "date": "2026-10-12T12:16:42.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Testing secure links through OMV, Filebrowser Quantum and Cloudflare",
-      "url": "https://www.reddit.com/r/programming/comments/1x3m543/testing_secure_links_through_omv_filebrowser/",
-      "source": "Reddit",
-      "date": "2026-10-11T23:03:01.000Z"
+      "score": 41,
+      "comments": 3,
+      "date": "2026-10-12T09:05:02.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -190,33 +220,10 @@
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Design mistakes I made in my open-source project git-sim in 2022",
-      "url": "https://www.reddit.com/r/programming/comments/1x39o47/design_mistakes_i_made_in_my_opensource_project/",
-      "source": "Reddit",
-      "date": "2026-10-11T14:31:13.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
       "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
       "url": "https://www.reddit.com/r/programming/comments/1x37b3z/valens_memory_safety_a_new_kind_of_borrow_checking/",
       "source": "Reddit",
       "date": "2026-10-11T12:44:54.000Z"
-    },
-    {
-      "id": "hn-50041866",
-      "title": "The baffling intelligence of a single cell (2024)",
-      "url": "https://jsomers.net/e-coli-chemotaxis/",
-      "source": "HackerNews",
-      "score": 112,
-      "comments": 4,
-      "date": "2026-10-11T11:02:30.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "wxWidgets 3.2.12 and 3.3.4 Released",
-      "url": "https://www.reddit.com/r/programming/comments/1x332bn/wxwidgets_3212_and_334_released/",
-      "source": "Reddit",
-      "date": "2026-10-11T08:40:56.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -224,13 +231,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1x32log/software_developers_are_not_okay_bjarnason/",
       "source": "Reddit",
       "date": "2026-10-11T08:11:52.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Stop reaching for WebSockets by default: WebSockets vs SSE vs Long Polling",
-      "url": "https://www.reddit.com/r/programming/comments/1x2r88r/stop_reaching_for_websockets_by_default/",
-      "source": "Reddit",
-      "date": "2026-10-10T21:57:39.000Z"
     }
   ]
 }
