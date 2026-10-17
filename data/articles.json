@@ -1,236 +1,166 @@
 {
-  "updatedAt": "2026-10-16T01:02:41.886Z",
-  "total": 30,
+  "updatedAt": "2026-10-17T01:09:46.536Z",
+  "total": 20,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Introducing the (blazing fast!) native TCP client for .NET",
+      "url": "https://clickhouse.com/blog/introducing-the-blazing-fast-native-tcp-client-for-net",
+      "source": "ClickHouse",
+      "date": "2026-10-17T01:09:46.535Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Scaling ClickStack alerting with built-in anomaly detection",
+      "url": "https://clickhouse.com/blog/scaling-clickstack-alerting-anomaly-detection",
+      "source": "ClickHouse",
+      "date": "2026-10-17T01:09:46.535Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "OLTP is expensive, you can ClickHouse it.",
       "url": "https://clickhouse.com/blog/oltp-is-expensive-you-can-clickhouse-it",
       "source": "ClickHouse",
-      "date": "2026-10-16T01:02:41.712Z"
+      "date": "2026-10-17T01:09:46.535Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "October 2026 newsletter",
       "url": "https://clickhouse.com/blog/202610-newsletter",
       "source": "ClickHouse",
-      "date": "2026-10-16T01:02:41.712Z"
+      "date": "2026-10-17T01:09:46.535Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why Redshift Serverless can’t match ClickHouse Cloud for real-time analytics",
       "url": "https://clickhouse.com/blog/clickhouse-vs-redshift-serverless-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-10-16T01:02:41.712Z"
+      "date": "2026-10-17T01:09:46.535Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Ridgeline unified Iceberg and ClickHouse into one analytics layer for investment management",
       "url": "https://clickhouse.com/blog/ridgeline-iceberg-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-10-16T01:02:41.712Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Postgres at Open House NYC",
-      "url": "https://clickhouse.com/blog/postgres-at-open-house-nyc",
-      "source": "ClickHouse",
-      "date": "2026-10-16T01:02:41.712Z"
+      "date": "2026-10-17T01:09:46.535Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Chasing that 32 ms tail latency in ClickHouse",
       "url": "https://clickhouse.com/blog/chasing-32ms-tail-latency-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-10-16T01:02:41.712Z"
+      "date": "2026-10-17T01:09:46.535Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Postgres at Open House NYC",
+      "url": "https://clickhouse.com/blog/postgres-at-open-house-nyc",
+      "source": "ClickHouse",
+      "date": "2026-10-17T01:09:46.535Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How iSAM Funds built an options research platform for a 10,000x data problem with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/isam-market-data-research-platform",
       "source": "ClickHouse",
-      "date": "2026-10-16T01:02:41.712Z"
+      "date": "2026-10-17T01:09:46.535Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why BigQuery can’t match ClickHouse Cloud for real-time analytics",
       "url": "https://clickhouse.com/blog/clickhouse-vs-bigquery-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-10-16T01:02:41.712Z"
+      "date": "2026-10-17T01:09:46.535Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How we migrated Clera’s 500 GB production database to ClickHouse Managed Postgres overnight",
-      "url": "https://clickhouse.com/blog/clera-migrates-to-clickhouse-managed-postgres",
-      "source": "ClickHouse",
-      "date": "2026-10-16T01:02:41.712Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Introducing JWT authentication in ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/introducing-jwt-authentication-in-clickhouse-cloud",
-      "source": "ClickHouse",
-      "date": "2026-10-16T01:02:41.712Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "[PDF] Getting a subroutine right: a case study",
-      "url": "https://www.reddit.com/r/programming/comments/1x7002l/pdf_getting_a_subroutine_right_a_case_study/",
-      "source": "Reddit",
-      "date": "2026-10-15T22:49:06.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Faster, Better, Stronger is not a Strategy",
-      "url": "https://www.reddit.com/r/programming/comments/1x6y26l/faster_better_stronger_is_not_a_strategy/",
-      "source": "Reddit",
-      "date": "2026-10-15T21:24:34.000Z"
-    },
-    {
-      "id": "hn-50109715",
-      "title": "What I Self-Host",
-      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "id": "hn-50126774",
+      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+      "url": "https://www.flexport.com/company/careers/",
       "source": "HackerNews",
-      "score": 242,
-      "comments": 139,
-      "date": "2026-10-15T20:23:25.000Z"
+      "score": 1,
+      "comments": 0,
+      "date": "2026-10-17T01:01:51.000Z"
     },
     {
-      "id": "hn-50109375",
-      "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+      "id": "hn-50123580",
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
       "source": "HackerNews",
-      "score": 152,
-      "comments": 121,
-      "date": "2026-10-15T19:55:49.000Z"
+      "score": 107,
+      "comments": 26,
+      "date": "2026-10-16T19:47:13.000Z"
     },
     {
-      "id": "hn-50108872",
-      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "id": "hn-50122878",
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
       "source": "HackerNews",
-      "score": 218,
-      "comments": 89,
-      "date": "2026-10-15T19:21:38.000Z"
+      "score": 128,
+      "comments": 37,
+      "date": "2026-10-16T19:01:17.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "BIPM announces the end of leap seconds",
-      "url": "https://www.reddit.com/r/programming/comments/1x6uhya/bipm_announces_the_end_of_leap_seconds/",
-      "source": "Reddit",
-      "date": "2026-10-15T19:05:01.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Go Was Burning 60% CPU Just Running GC. The Fix Was a Memory Limit.",
-      "url": "https://www.reddit.com/r/programming/comments/1x6tmvq/go_was_burning_60_cpu_just_running_gc_the_fix_was/",
-      "source": "Reddit",
-      "date": "2026-10-15T18:32:55.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Spring Boot Connection Pools: 20 vs 2 Idle PostgreSQL Connections",
-      "url": "https://www.reddit.com/r/programming/comments/1x6tmjo/spring_boot_connection_pools_20_vs_2_idle/",
-      "source": "Reddit",
-      "date": "2026-10-15T18:32:32.000Z"
-    },
-    {
-      "id": "hn-50107379",
-      "title": "Muse Spark Open",
-      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "id": "hn-50122800",
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
       "source": "HackerNews",
-      "score": 599,
-      "comments": 340,
-      "date": "2026-10-15T17:47:39.000Z"
+      "score": 656,
+      "comments": 264,
+      "date": "2026-10-16T18:55:59.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "From Pixel Art to Packet Sniffing: A Programmer’s Guide to Flipper Zero Programming and App…",
-      "url": "https://www.reddit.com/r/programming/comments/1x6qy8l/from_pixel_art_to_packet_sniffing_a_programmers/",
-      "source": "Reddit",
-      "date": "2026-10-15T16:51:46.000Z"
-    },
-    {
-      "id": "hn-50106023",
-      "title": "Jev meets the Trolley Problem",
-      "url": "https://zachlandes.com/trolley-problem/",
+      "id": "hn-50122431",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
       "source": "HackerNews",
-      "score": 291,
-      "comments": 139,
-      "date": "2026-10-15T16:24:52.000Z"
+      "score": 185,
+      "comments": 47,
+      "date": "2026-10-16T18:32:35.000Z"
     },
     {
-      "id": "hn-50105647",
-      "title": "Neural networks are clean",
-      "url": "https://already-clean.goodfire.com/",
+      "id": "hn-50122034",
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
       "source": "HackerNews",
-      "score": 489,
-      "comments": 188,
-      "date": "2026-10-15T16:04:01.000Z"
+      "score": 163,
+      "comments": 132,
+      "date": "2026-10-16T18:06:17.000Z"
     },
     {
-      "id": "hn-50103338",
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "url": "https://github.com/fyzugx/DEsk",
+      "id": "hn-50121939",
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
       "source": "HackerNews",
-      "score": 487,
-      "comments": 196,
-      "date": "2026-10-15T13:23:44.000Z"
+      "score": 97,
+      "comments": 18,
+      "date": "2026-10-16T18:00:18.000Z"
     },
     {
-      "id": "hn-50101813",
-      "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-      "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+      "id": "hn-50118981",
+      "title": "Waymo in Toronto",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
       "source": "HackerNews",
-      "score": 381,
-      "comments": 555,
-      "date": "2026-10-15T10:43:36.000Z"
+      "score": 264,
+      "comments": 368,
+      "date": "2026-10-16T14:44:17.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How Stripe uses graph search and state machines to auto-remediate a global database fleet",
-      "url": "https://www.reddit.com/r/programming/comments/1x6fqck/how_stripe_uses_graph_search_and_state_machines/",
-      "source": "Reddit",
-      "date": "2026-10-15T08:00:43.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How Netflix Simplified Batch Compute with Kueue",
-      "url": "https://www.reddit.com/r/programming/comments/1x63fdq/how_netflix_simplified_batch_compute_with_kueue/",
-      "source": "Reddit",
-      "date": "2026-10-14T21:19:12.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "A C++ Trick Question - Blog Post",
-      "url": "https://www.reddit.com/r/programming/comments/1x62x6p/a_c_trick_question_blog_post/",
-      "source": "Reddit",
-      "date": "2026-10-14T20:58:51.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Zxc 0.15.0 - decompression 2x faster than Zstandard",
-      "url": "https://www.reddit.com/r/programming/comments/1x5nxzy/zxc_0150_decompression_2x_faster_than_zstandard/",
-      "source": "Reddit",
-      "date": "2026-10-14T10:43:29.000Z"
-    },
-    {
-      "id": "hn-50069439",
-      "title": "Major ICQ security hole (1998)",
-      "url": "https://opennet.ru/base/maillist/169.txt.html",
+      "id": "hn-50112657",
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
       "source": "HackerNews",
-      "score": 37,
-      "comments": 21,
-      "date": "2026-10-13T10:21:17.000Z"
+      "score": 1167,
+      "comments": 2095,
+      "date": "2026-10-16T01:32:45.000Z"
     },
     {
-      "id": "hn-50068203",
-      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
-      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+      "id": "hn-50083673",
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
       "source": "HackerNews",
-      "score": 27,
-      "comments": 8,
-      "date": "2026-10-13T07:52:54.000Z"
+      "score": 65,
+      "comments": 7,
+      "date": "2026-10-14T07:21:12.000Z"
     }
   ]
 }
