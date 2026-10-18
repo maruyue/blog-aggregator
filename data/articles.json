@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-10-17T01:09:46.536Z",
-  "total": 20,
+  "updatedAt": "2026-10-18T00:41:54.338Z",
+  "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing the (blazing fast!) native TCP client for .NET",
       "url": "https://clickhouse.com/blog/introducing-the-blazing-fast-native-tcp-client-for-net",
       "source": "ClickHouse",
-      "date": "2026-10-17T01:09:46.535Z"
+      "date": "2026-10-18T00:41:54.149Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Scaling ClickStack alerting with built-in anomaly detection",
       "url": "https://clickhouse.com/blog/scaling-clickstack-alerting-anomaly-detection",
       "source": "ClickHouse",
-      "date": "2026-10-17T01:09:46.535Z"
+      "date": "2026-10-18T00:41:54.149Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "OLTP is expensive, you can ClickHouse it.",
       "url": "https://clickhouse.com/blog/oltp-is-expensive-you-can-clickhouse-it",
       "source": "ClickHouse",
-      "date": "2026-10-17T01:09:46.535Z"
+      "date": "2026-10-18T00:41:54.149Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "October 2026 newsletter",
       "url": "https://clickhouse.com/blog/202610-newsletter",
       "source": "ClickHouse",
-      "date": "2026-10-17T01:09:46.535Z"
+      "date": "2026-10-18T00:41:54.149Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why Redshift Serverless can’t match ClickHouse Cloud for real-time analytics",
       "url": "https://clickhouse.com/blog/clickhouse-vs-redshift-serverless-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-10-17T01:09:46.535Z"
+      "date": "2026-10-18T00:41:54.149Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Ridgeline unified Iceberg and ClickHouse into one analytics layer for investment management",
       "url": "https://clickhouse.com/blog/ridgeline-iceberg-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-10-17T01:09:46.535Z"
+      "date": "2026-10-18T00:41:54.149Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Chasing that 32 ms tail latency in ClickHouse",
       "url": "https://clickhouse.com/blog/chasing-32ms-tail-latency-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-10-17T01:09:46.535Z"
+      "date": "2026-10-18T00:41:54.149Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres at Open House NYC",
       "url": "https://clickhouse.com/blog/postgres-at-open-house-nyc",
       "source": "ClickHouse",
-      "date": "2026-10-17T01:09:46.535Z"
+      "date": "2026-10-18T00:41:54.149Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How iSAM Funds built an options research platform for a 10,000x data problem with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/isam-market-data-research-platform",
       "source": "ClickHouse",
-      "date": "2026-10-17T01:09:46.535Z"
+      "date": "2026-10-18T00:41:54.149Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why BigQuery can’t match ClickHouse Cloud for real-time analytics",
       "url": "https://clickhouse.com/blog/clickhouse-vs-bigquery-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-10-17T01:09:46.535Z"
+      "date": "2026-10-18T00:41:54.149Z"
     },
     {
-      "id": "hn-50126774",
-      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
-      "url": "https://www.flexport.com/company/careers/",
+      "id": "hn-50134617",
+      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+      "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
       "source": "HackerNews",
-      "score": 1,
-      "comments": 0,
-      "date": "2026-10-17T01:01:51.000Z"
+      "score": 77,
+      "comments": 74,
+      "date": "2026-10-17T20:07:33.000Z"
     },
     {
-      "id": "hn-50123580",
-      "title": "FLUX 3 Image Klein",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "source": "HackerNews",
-      "score": 107,
-      "comments": 26,
-      "date": "2026-10-16T19:47:13.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "I Traced a Postgres INSERT to Raw Bytes on Disk",
+      "url": "https://www.reddit.com/r/programming/comments/1x8gk1v/i_traced_a_postgres_insert_to_raw_bytes_on_disk/",
+      "source": "Reddit",
+      "date": "2026-10-17T17:51:18.000Z"
     },
     {
-      "id": "hn-50122878",
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "source": "HackerNews",
-      "score": 128,
-      "comments": 37,
-      "date": "2026-10-16T19:01:17.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Much Ado About Seven Bytes",
+      "url": "https://www.reddit.com/r/programming/comments/1x8fvz1/much_ado_about_seven_bytes/",
+      "source": "Reddit",
+      "date": "2026-10-17T17:23:20.000Z"
     },
     {
-      "id": "hn-50122800",
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "id": "hn-50132870",
+      "title": "Gold is now the top U.S. export",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
       "source": "HackerNews",
-      "score": 656,
-      "comments": 264,
-      "date": "2026-10-16T18:55:59.000Z"
+      "score": 216,
+      "comments": 113,
+      "date": "2026-10-17T17:06:07.000Z"
     },
     {
-      "id": "hn-50122431",
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "source": "HackerNews",
-      "score": 185,
-      "comments": 47,
-      "date": "2026-10-16T18:32:35.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Python's binary wheels and supply chain attacks",
+      "url": "https://www.reddit.com/r/programming/comments/1x8eqt6/pythons_binary_wheels_and_supply_chain_attacks/",
+      "source": "Reddit",
+      "date": "2026-10-17T16:37:30.000Z"
     },
     {
-      "id": "hn-50122034",
-      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "id": "hn-50132193",
+      "title": "Pele – Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
       "source": "HackerNews",
-      "score": 163,
-      "comments": 132,
-      "date": "2026-10-16T18:06:17.000Z"
+      "score": 215,
+      "comments": 24,
+      "date": "2026-10-17T15:55:09.000Z"
     },
     {
-      "id": "hn-50121939",
-      "title": "Designing more efficient quantum circuits with Claude",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "id": "hn-50131213",
+      "title": "Making chicken transparent using Dorito dust",
+      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
       "source": "HackerNews",
-      "score": 97,
-      "comments": 18,
-      "date": "2026-10-16T18:00:18.000Z"
+      "score": 247,
+      "comments": 65,
+      "date": "2026-10-17T13:55:28.000Z"
     },
     {
-      "id": "hn-50118981",
-      "title": "Waymo in Toronto",
-      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-      "source": "HackerNews",
-      "score": 264,
-      "comments": 368,
-      "date": "2026-10-16T14:44:17.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How Not to Build a Five-in-a-Row Game Engine",
+      "url": "https://www.reddit.com/r/programming/comments/1x88p5f/how_not_to_build_a_fiveinarow_game_engine/",
+      "source": "Reddit",
+      "date": "2026-10-17T12:11:06.000Z"
     },
     {
-      "id": "hn-50112657",
-      "title": "Tesla Roadster",
-      "url": "https://www.tesla.com/roadster",
+      "id": "hn-50129045",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "HackerNews",
-      "score": 1167,
-      "comments": 2095,
-      "date": "2026-10-16T01:32:45.000Z"
+      "score": 678,
+      "comments": 576,
+      "date": "2026-10-17T08:21:25.000Z"
     },
     {
-      "id": "hn-50083673",
-      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
-      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Improving heuristics for A* search",
+      "url": "https://www.reddit.com/r/programming/comments/1x80isg/improving_heuristics_for_a_search/",
+      "source": "Reddit",
+      "date": "2026-10-17T04:00:54.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Compression is prediction",
+      "url": "https://www.reddit.com/r/programming/comments/1x7x6dq/compression_is_prediction/",
+      "source": "Reddit",
+      "date": "2026-10-17T01:00:59.000Z"
+    },
+    {
+      "id": "hn-50126312",
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
       "source": "HackerNews",
-      "score": 65,
-      "comments": 7,
-      "date": "2026-10-14T07:21:12.000Z"
+      "score": 174,
+      "comments": 48,
+      "date": "2026-10-16T23:47:31.000Z"
+    },
+    {
+      "id": "hn-50126253",
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "source": "HackerNews",
+      "score": 291,
+      "comments": 62,
+      "date": "2026-10-16T23:38:27.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Domain-Driven Design (DDD) — The Complete Guide | Visually Explained",
+      "url": "https://www.reddit.com/r/programming/comments/1x7o6km/domaindriven_design_ddd_the_complete_guide/",
+      "source": "Reddit",
+      "date": "2026-10-16T18:34:45.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Learning Postgres extensions using Zig",
+      "url": "https://www.reddit.com/r/programming/comments/1x7mmu6/learning_postgres_extensions_using_zig/",
+      "source": "Reddit",
+      "date": "2026-10-16T17:36:14.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Learned Index Lab: Replacing B-Trees with streaming linear models in pure Rust (-99% RAM, 3x faster)",
+      "url": "https://www.reddit.com/r/programming/comments/1x71ti7/learned_index_lab_replacing_btrees_with_streaming/",
+      "source": "Reddit",
+      "date": "2026-10-16T00:12:04.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "BIPM announces the end of leap seconds",
+      "url": "https://www.reddit.com/r/programming/comments/1x6uhya/bipm_announces_the_end_of_leap_seconds/",
+      "source": "Reddit",
+      "date": "2026-10-15T19:05:01.000Z"
+    },
+    {
+      "id": "hn-50100994",
+      "title": "Furifont, a Japanese font that shows furigana",
+      "url": "https://furifont.antfu.me/",
+      "source": "HackerNews",
+      "score": 245,
+      "comments": 51,
+      "date": "2026-10-15T08:48:30.000Z"
+    },
+    {
+      "id": "hn-50100366",
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "url": "https://github.com/antirez/c64-hw-simulator",
+      "source": "HackerNews",
+      "score": 135,
+      "comments": 23,
+      "date": "2026-10-15T07:18:14.000Z"
+    },
+    {
+      "id": "hn-50090927",
+      "title": "Types of types: Haskell's Kind system",
+      "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+      "source": "HackerNews",
+      "score": 34,
+      "comments": 23,
+      "date": "2026-10-14T17:00:31.000Z"
     }
   ]
 }
