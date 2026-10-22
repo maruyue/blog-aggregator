@@ -1,76 +1,199 @@
 {
-  "updatedAt": "2026-10-21T01:23:01.299Z",
+  "updatedAt": "2026-10-22T01:20:45.808Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Trace and evaluate Cursor agents with Langfuse, powered by ClickHouse",
+      "url": "https://clickhouse.com/blog/cursor-agents-with-langfuse",
+      "source": "ClickHouse",
+      "date": "2026-10-22T01:20:45.645Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Front-end observability at scale: How OpenReplay captures billions of daily events in real time with ClickHouse",
+      "url": "https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse",
+      "source": "ClickHouse",
+      "date": "2026-10-22T01:20:45.645Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Running ClickHouse on NVIDIA Vera CPU: Is your favorite database up to the challenge?",
+      "url": "https://clickhouse.com/blog/clickhouse-performance-on-nvidia-vera",
+      "source": "ClickHouse",
+      "date": "2026-10-22T01:20:45.645Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The Agentic Analytics Benchmark, round two: GPT-6, Claude Opus 5.5, Claude Sonnet 5.5",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-round-two",
       "source": "ClickHouse",
-      "date": "2026-10-21T01:23:01.201Z"
+      "date": "2026-10-22T01:20:45.645Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres wait events, now in Query Insights",
       "url": "https://clickhouse.com/blog/postgres-wait-events-query-insights",
       "source": "ClickHouse",
-      "date": "2026-10-21T01:23:01.201Z"
+      "date": "2026-10-22T01:20:45.645Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing the (blazing fast!) native TCP client for .NET",
       "url": "https://clickhouse.com/blog/introducing-the-blazing-fast-native-tcp-client-for-net",
       "source": "ClickHouse",
-      "date": "2026-10-21T01:23:01.201Z"
+      "date": "2026-10-22T01:20:45.645Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Scaling ClickStack alerting with built-in anomaly detection",
       "url": "https://clickhouse.com/blog/scaling-clickstack-alerting-anomaly-detection",
       "source": "ClickHouse",
-      "date": "2026-10-21T01:23:01.201Z"
+      "date": "2026-10-22T01:20:45.645Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "OLTP is expensive, you can ClickHouse it.",
       "url": "https://clickhouse.com/blog/oltp-is-expensive-you-can-clickhouse-it",
       "source": "ClickHouse",
-      "date": "2026-10-21T01:23:01.201Z"
+      "date": "2026-10-22T01:20:45.645Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "October 2026 newsletter",
       "url": "https://clickhouse.com/blog/202610-newsletter",
       "source": "ClickHouse",
-      "date": "2026-10-21T01:23:01.201Z"
+      "date": "2026-10-22T01:20:45.645Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why Redshift Serverless can’t match ClickHouse Cloud for real-time analytics",
       "url": "https://clickhouse.com/blog/clickhouse-vs-redshift-serverless-real-time-performance-per-dollar",
       "source": "ClickHouse",
-      "date": "2026-10-21T01:23:01.201Z"
+      "date": "2026-10-22T01:20:45.645Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Ridgeline unified Iceberg and ClickHouse into one analytics layer for investment management",
-      "url": "https://clickhouse.com/blog/ridgeline-iceberg-clickhouse-cloud",
-      "source": "ClickHouse",
-      "date": "2026-10-21T01:23:01.201Z"
+      "id": "hn-50189232",
+      "title": "mitmproxy adds --emudhra option",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "source": "HackerNews",
+      "score": 130,
+      "comments": 29,
+      "date": "2026-10-21T23:51:37.000Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Chasing that 32 ms tail latency in ClickHouse",
-      "url": "https://clickhouse.com/blog/chasing-32ms-tail-latency-clickhouse",
-      "source": "ClickHouse",
-      "date": "2026-10-21T01:23:01.201Z"
+      "id": "hn-50189150",
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+      "source": "HackerNews",
+      "score": 65,
+      "comments": 46,
+      "date": "2026-10-21T23:38:32.000Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Postgres at Open House NYC",
-      "url": "https://clickhouse.com/blog/postgres-at-open-house-nyc",
-      "source": "ClickHouse",
-      "date": "2026-10-21T01:23:01.201Z"
+      "id": "hn-50188948",
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
+      "source": "HackerNews",
+      "score": 120,
+      "comments": 52,
+      "date": "2026-10-21T23:13:27.000Z"
+    },
+    {
+      "id": "hn-50188228",
+      "title": "Railway Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "source": "HackerNews",
+      "score": 294,
+      "comments": 141,
+      "date": "2026-10-21T21:58:03.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "go/ links that live in a file in your repo (open source)",
+      "url": "https://www.reddit.com/r/programming/comments/1xbxzz2/go_links_that_live_in_a_file_in_your_repo_open/",
+      "source": "Reddit",
+      "date": "2026-10-21T20:10:21.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "url": "https://www.reddit.com/r/programming/comments/1xbxrns/todays_php_security_release_and_how_were/",
+      "source": "Reddit",
+      "date": "2026-10-21T20:01:46.000Z"
+    },
+    {
+      "id": "hn-50186010",
+      "title": "Google's Rust Style Guide",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "source": "HackerNews",
+      "score": 198,
+      "comments": 113,
+      "date": "2026-10-21T19:11:57.000Z"
+    },
+    {
+      "id": "hn-50185869",
+      "title": "GitLab Critical Patch Release",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "source": "HackerNews",
+      "score": 244,
+      "comments": 58,
+      "date": "2026-10-21T19:01:12.000Z"
+    },
+    {
+      "id": "hn-50184820",
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "source": "HackerNews",
+      "score": 363,
+      "comments": 219,
+      "date": "2026-10-21T17:45:13.000Z"
+    },
+    {
+      "id": "hn-50182987",
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "source": "HackerNews",
+      "score": 674,
+      "comments": 333,
+      "date": "2026-10-21T15:48:56.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "PHP2Shell: Critical vulnerabilities in the backbone of the web",
+      "url": "https://www.reddit.com/r/programming/comments/1xbo19y/php2shell_critical_vulnerabilities_in_the/",
+      "source": "Reddit",
+      "date": "2026-10-21T14:03:22.000Z"
+    },
+    {
+      "id": "hn-50181114",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "source": "HackerNews",
+      "score": 433,
+      "comments": 136,
+      "date": "2026-10-21T14:00:26.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "url": "https://www.reddit.com/r/programming/comments/1xbl8y1/eight_bits_of_trust_emudhras_ca_keys_cracked_in/",
+      "source": "Reddit",
+      "date": "2026-10-21T12:01:54.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Critical Vulnerabilities in PHP",
+      "url": "https://www.reddit.com/r/programming/comments/1xbcv7y/critical_vulnerabilities_in_php/",
+      "source": "Reddit",
+      "date": "2026-10-21T03:48:54.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "C vs C#: racing VLC's Gaussian blur",
+      "url": "https://www.reddit.com/r/programming/comments/1xbbkuq/c_vs_c_racing_vlcs_gaussian_blur/",
+      "source": "Reddit",
+      "date": "2026-10-21T02:43:02.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -80,102 +203,11 @@
       "date": "2026-10-20T23:42:16.000Z"
     },
     {
-      "id": "hn-50173891",
-      "title": "The Other Epidemic: Trying to get off benzodiazepines",
-      "url": "https://www.thebeliever.net/the-other-epidemic/",
-      "source": "HackerNews",
-      "score": 54,
-      "comments": 31,
-      "date": "2026-10-20T23:04:09.000Z"
-    },
-    {
-      "id": "hn-50173487",
-      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "source": "HackerNews",
-      "score": 86,
-      "comments": 21,
-      "date": "2026-10-20T22:21:05.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "eMudhra Intermediate CA Compromise",
       "url": "https://www.reddit.com/r/programming/comments/1xb32yj/emudhra_intermediate_ca_compromise/",
       "source": "Reddit",
       "date": "2026-10-20T20:21:30.000Z"
-    },
-    {
-      "id": "hn-50170917",
-      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
-      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
-      "source": "HackerNews",
-      "score": 120,
-      "comments": 64,
-      "date": "2026-10-20T18:51:40.000Z"
-    },
-    {
-      "id": "hn-50170593",
-      "title": "SimCity, but with Permits",
-      "url": "https://permit.petercai.com/",
-      "source": "HackerNews",
-      "score": 542,
-      "comments": 287,
-      "date": "2026-10-20T18:29:09.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Announcing TypeScript 7.1 Beta",
-      "url": "https://www.reddit.com/r/programming/comments/1xaz5ur/announcing_typescript_71_beta/",
-      "source": "Reddit",
-      "date": "2026-10-20T17:55:37.000Z"
-    },
-    {
-      "id": "hn-50169707",
-      "title": "What shall I teach my son?",
-      "url": "https://stevekrouse.com/ends",
-      "source": "HackerNews",
-      "score": 256,
-      "comments": 321,
-      "date": "2026-10-20T17:25:07.000Z"
-    },
-    {
-      "id": "hn-50169053",
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "url": "https://github.com/google-pytorch/torch_tpu",
-      "source": "HackerNews",
-      "score": 257,
-      "comments": 63,
-      "date": "2026-10-20T16:40:24.000Z"
-    },
-    {
-      "id": "hn-50168396",
-      "title": "Voxtral 3",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "source": "HackerNews",
-      "score": 522,
-      "comments": 140,
-      "date": "2026-10-20T16:02:07.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Under the Hood of Redis: How It Delivers Sub-Millisecond Latency?",
-      "url": "https://www.reddit.com/r/programming/comments/1xavhns/under_the_hood_of_redis_how_it_delivers/",
-      "source": "Reddit",
-      "date": "2026-10-20T15:40:09.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Making A Mutex from Scratch in Rust to Understand Thread Safety",
-      "url": "https://www.reddit.com/r/programming/comments/1xav3jo/making_a_mutex_from_scratch_in_rust_to_understand/",
-      "source": "Reddit",
-      "date": "2026-10-20T15:25:32.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Why memory-hard proof-of-work hashes are not a popular choice for CAPTCHA",
-      "url": "https://www.reddit.com/r/programming/comments/1xauiqk/why_memoryhard_proofofwork_hashes_are_not_a/",
-      "source": "Reddit",
-      "date": "2026-10-20T15:03:30.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -192,45 +224,13 @@
       "date": "2026-10-20T12:35:52.000Z"
     },
     {
-      "id": "hn-50165208",
-      "title": "Apple broke an essential presentation feature of iPads",
-      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "id": "hn-50161346",
+      "title": "No More Icons in Every Menu by Default",
+      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
       "source": "HackerNews",
-      "score": 488,
-      "comments": 247,
-      "date": "2026-10-20T12:17:28.000Z"
-    },
-    {
-      "id": "hn-50163277",
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "source": "HackerNews",
-      "score": 2132,
-      "comments": 830,
-      "date": "2026-10-20T09:08:54.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The reverts will continue until morale improves [PostgreSQL 19]",
-      "url": "https://www.reddit.com/r/programming/comments/1xa9h5w/the_reverts_will_continue_until_morale_improves/",
-      "source": "Reddit",
-      "date": "2026-10-19T21:20:23.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "GitHub Actions is down once again",
-      "url": "https://www.reddit.com/r/programming/comments/1xa0z6c/github_actions_is_down_once_again/",
-      "source": "Reddit",
-      "date": "2026-10-19T16:06:31.000Z"
-    },
-    {
-      "id": "hn-50108717",
-      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-      "source": "HackerNews",
-      "score": 162,
-      "comments": 72,
-      "date": "2026-10-15T19:09:34.000Z"
+      "score": 165,
+      "comments": 117,
+      "date": "2026-10-20T04:27:08.000Z"
     }
   ]
 }
