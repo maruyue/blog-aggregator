@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-10-23T01:19:31.857Z",
-  "total": 20,
+  "updatedAt": "2026-10-24T01:24:50.661Z",
+  "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How Shipsidekick replaced Neon with ClickHouse Managed Postgres for 10x faster queries and better reliability",
+      "url": "https://clickhouse.com/blog/shipsidekick-neon-to-clickhouse-managed-postgres",
+      "source": "ClickHouse",
+      "date": "2026-10-24T01:24:50.660Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Trace and evaluate Cursor agents with Langfuse, powered by ClickHouse",
       "url": "https://clickhouse.com/blog/cursor-agents-with-langfuse",
       "source": "ClickHouse",
-      "date": "2026-10-23T01:19:31.857Z"
+      "date": "2026-10-24T01:24:50.660Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Front-end observability at scale: How OpenReplay captures billions of daily events in real time with ClickHouse",
       "url": "https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-10-23T01:19:31.857Z"
+      "date": "2026-10-24T01:24:50.660Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Running ClickHouse on NVIDIA Vera CPU: Is your favorite database up to the challenge?",
       "url": "https://clickhouse.com/blog/clickhouse-performance-on-nvidia-vera",
       "source": "ClickHouse",
-      "date": "2026-10-23T01:19:31.857Z"
+      "date": "2026-10-24T01:24:50.660Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The Agentic Analytics Benchmark, round two: GPT-6, Claude Opus 5.5, Claude Sonnet 5.5",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-round-two",
       "source": "ClickHouse",
-      "date": "2026-10-23T01:19:31.857Z"
+      "date": "2026-10-24T01:24:50.660Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres wait events, now in Query Insights",
       "url": "https://clickhouse.com/blog/postgres-wait-events-query-insights",
       "source": "ClickHouse",
-      "date": "2026-10-23T01:19:31.857Z"
+      "date": "2026-10-24T01:24:50.660Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing the (blazing fast!) native TCP client for .NET",
       "url": "https://clickhouse.com/blog/introducing-the-blazing-fast-native-tcp-client-for-net",
       "source": "ClickHouse",
-      "date": "2026-10-23T01:19:31.857Z"
+      "date": "2026-10-24T01:24:50.660Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Scaling ClickStack alerting with built-in anomaly detection",
       "url": "https://clickhouse.com/blog/scaling-clickstack-alerting-anomaly-detection",
       "source": "ClickHouse",
-      "date": "2026-10-23T01:19:31.857Z"
+      "date": "2026-10-24T01:24:50.660Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "OLTP is expensive, you can ClickHouse it.",
       "url": "https://clickhouse.com/blog/oltp-is-expensive-you-can-clickhouse-it",
       "source": "ClickHouse",
-      "date": "2026-10-23T01:19:31.857Z"
+      "date": "2026-10-24T01:24:50.660Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "October 2026 newsletter",
       "url": "https://clickhouse.com/blog/202610-newsletter",
       "source": "ClickHouse",
-      "date": "2026-10-23T01:19:31.857Z"
+      "date": "2026-10-24T01:24:50.660Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Why Redshift Serverless can’t match ClickHouse Cloud for real-time analytics",
-      "url": "https://clickhouse.com/blog/clickhouse-vs-redshift-serverless-real-time-performance-per-dollar",
-      "source": "ClickHouse",
-      "date": "2026-10-23T01:19:31.857Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "PHP2Shell reminds me of Heartbleed but backwards and an extra step",
+      "url": "https://www.reddit.com/r/programming/comments/1xdv25j/php2shell_reminds_me_of_heartbleed_but_backwards/",
+      "source": "Reddit",
+      "date": "2026-10-24T00:48:26.000Z"
     },
     {
-      "id": "hn-50203161",
-      "title": "The foolishness of \"natural language programming\" (1978)",
-      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "id": "hn-50216791",
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
       "source": "HackerNews",
-      "score": 5,
-      "comments": 2,
-      "date": "2026-10-23T00:52:01.000Z"
+      "score": 59,
+      "comments": 16,
+      "date": "2026-10-23T23:30:17.000Z"
     },
     {
-      "id": "hn-50202681",
-      "title": "Docker is weird",
-      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "id": "hn-50215530",
+      "title": "CVE Tracker",
+      "url": "https://cve.0xosprey.com/",
       "source": "HackerNews",
-      "score": 72,
-      "comments": 25,
-      "date": "2026-10-22T23:45:56.000Z"
+      "score": 96,
+      "comments": 36,
+      "date": "2026-10-23T21:21:47.000Z"
     },
     {
-      "id": "hn-50202217",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "url": "https://www.anthropic.com/research/formal-verification",
+      "id": "hn-50214373",
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "url": "https://corgi.computer/",
       "source": "HackerNews",
-      "score": 89,
-      "comments": 38,
-      "date": "2026-10-22T22:54:43.000Z"
+      "score": 30,
+      "comments": 3,
+      "date": "2026-10-23T19:46:38.000Z"
     },
     {
-      "id": "hn-50198675",
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
+      "id": "hn-50213925",
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "url": "https://block.xyz/dessa",
       "source": "HackerNews",
-      "score": 292,
-      "comments": 152,
-      "date": "2026-10-22T17:44:06.000Z"
+      "score": 221,
+      "comments": 94,
+      "date": "2026-10-23T19:09:54.000Z"
     },
     {
-      "id": "hn-50197404",
-      "title": "Getting ready to operate GNU Taler in Germany",
-      "url": "https://www.taler.net/en/news/2026-13.html",
-      "source": "HackerNews",
-      "score": 223,
-      "comments": 85,
-      "date": "2026-10-22T16:14:31.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How close can pure FP get to C?",
+      "url": "https://www.reddit.com/r/programming/comments/1xdjru9/how_close_can_pure_fp_get_to_c/",
+      "source": "Reddit",
+      "date": "2026-10-23T17:04:36.000Z"
     },
     {
-      "id": "hn-50197313",
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "id": "hn-50212065",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
       "source": "HackerNews",
-      "score": 230,
-      "comments": 293,
-      "date": "2026-10-22T16:08:00.000Z"
+      "score": 709,
+      "comments": 451,
+      "date": "2026-10-23T16:59:08.000Z"
     },
     {
-      "id": "hn-50196718",
-      "title": "Run full iOS 16.5 firmware on Android Devices",
-      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "id": "hn-50211474",
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "url": "https://blog.calif.io/p/iphone",
       "source": "HackerNews",
-      "score": 320,
-      "comments": 124,
-      "date": "2026-10-22T15:26:22.000Z"
-    },
-    {
-      "id": "hn-50195959",
-      "title": "Quad9 (DNS Resolver) to Exit France",
-      "url": "https://quad9.net/news/blog/au-revoir-france/",
-      "source": "HackerNews",
-      "score": 990,
-      "comments": 358,
-      "date": "2026-10-22T14:32:38.000Z"
-    },
-    {
-      "id": "hn-50194833",
-      "title": "Woman faces six years in prison over Cash App account she never opened",
-      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
-      "source": "HackerNews",
-      "score": 488,
+      "score": 741,
       "comments": 499,
-      "date": "2026-10-22T13:11:00.000Z"
+      "date": "2026-10-23T16:21:50.000Z"
     },
     {
-      "id": "hn-50192536",
-      "title": "Jailbreaking the Switch 2",
-      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How to Make Things, and Why - Stuart Halloway (Clojure/Conj 2026)",
+      "url": "https://www.reddit.com/r/programming/comments/1xdh3hh/how_to_make_things_and_why_stuart_halloway/",
+      "source": "Reddit",
+      "date": "2026-10-23T15:25:01.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Code and Cake - Docker is weird",
+      "url": "https://www.reddit.com/r/programming/comments/1xdef0p/code_and_cake_docker_is_weird/",
+      "source": "Reddit",
+      "date": "2026-10-23T13:43:13.000Z"
+    },
+    {
+      "id": "hn-50207910",
+      "title": "Apple Music 404 Not Found",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
       "source": "HackerNews",
-      "score": 715,
-      "comments": 250,
-      "date": "2026-10-22T08:01:52.000Z"
+      "score": 579,
+      "comments": 189,
+      "date": "2026-10-23T12:28:47.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Unicorn Benefits of Rust/Go Tooling in PHP",
+      "url": "https://www.reddit.com/r/programming/comments/1xdccln/unicorn_benefits_of_rustgo_tooling_in_php/",
+      "source": "Reddit",
+      "date": "2026-10-23T12:14:05.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "eMudhra's Press Release on the CA Compromise",
+      "url": "https://www.reddit.com/r/programming/comments/1xd9rwe/emudhras_press_release_on_the_ca_compromise/",
+      "source": "Reddit",
+      "date": "2026-10-23T09:55:46.000Z"
+    },
+    {
+      "id": "hn-50202285",
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "source": "HackerNews",
+      "score": 1236,
+      "comments": 225,
+      "date": "2026-10-22T23:01:18.000Z"
+    },
+    {
+      "id": "hn-50202114",
+      "title": "Canadians are running out of time to oppose Bill C-22",
+      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+      "source": "HackerNews",
+      "score": 321,
+      "comments": 165,
+      "date": "2026-10-22T22:43:19.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Where did my freed memory (not) go?",
+      "url": "https://www.reddit.com/r/programming/comments/1xcwsc3/where_did_my_freed_memory_not_go/",
+      "source": "Reddit",
+      "date": "2026-10-22T22:27:08.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "examining the macOS gcc binary",
+      "url": "https://www.reddit.com/r/programming/comments/1xcwe3o/examining_the_macos_gcc_binary/",
+      "source": "Reddit",
+      "date": "2026-10-22T22:09:53.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Coding Magic the Gathering in C# - PART TWO - The Impossible Magic Card",
+      "url": "https://www.reddit.com/r/programming/comments/1xcp40x/coding_magic_the_gathering_in_c_part_two_the/",
+      "source": "Reddit",
+      "date": "2026-10-22T17:33:13.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
+      "url": "https://www.reddit.com/r/programming/comments/1xcaveo/debunking_faster_than_rust_malicious_benchmarks/",
+      "source": "Reddit",
+      "date": "2026-10-22T06:17:28.000Z"
+    },
+    {
+      "id": "hn-50169499",
+      "title": "The Real Kevin Bacon",
+      "url": "https://pudding.cool/2026/10/kevin-bacon/",
+      "source": "HackerNews",
+      "score": 236,
+      "comments": 69,
+      "date": "2026-10-20T17:10:05.000Z"
     }
   ]
 }
