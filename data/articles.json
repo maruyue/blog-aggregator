@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-10-25T00:54:18.038Z",
-  "total": 20,
+  "updatedAt": "2026-10-26T01:02:05.056Z",
+  "total": 30,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Shipsidekick replaced Neon with ClickHouse Managed Postgres for 10x faster queries and better reliability",
       "url": "https://clickhouse.com/blog/shipsidekick-neon-to-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-10-25T00:54:18.038Z"
+      "date": "2026-10-26T01:02:04.938Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Trace and evaluate Cursor agents with Langfuse, powered by ClickHouse",
       "url": "https://clickhouse.com/blog/cursor-agents-with-langfuse",
       "source": "ClickHouse",
-      "date": "2026-10-25T00:54:18.038Z"
+      "date": "2026-10-26T01:02:04.938Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Front-end observability at scale: How OpenReplay captures billions of daily events in real time with ClickHouse",
       "url": "https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-10-25T00:54:18.038Z"
+      "date": "2026-10-26T01:02:04.938Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Running ClickHouse on NVIDIA Vera CPU: Is your favorite database up to the challenge?",
       "url": "https://clickhouse.com/blog/clickhouse-performance-on-nvidia-vera",
       "source": "ClickHouse",
-      "date": "2026-10-25T00:54:18.038Z"
+      "date": "2026-10-26T01:02:04.938Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The Agentic Analytics Benchmark, round two: GPT-6, Claude Opus 5.5, Claude Sonnet 5.5",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-round-two",
       "source": "ClickHouse",
-      "date": "2026-10-25T00:54:18.038Z"
+      "date": "2026-10-26T01:02:04.938Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres wait events, now in Query Insights",
       "url": "https://clickhouse.com/blog/postgres-wait-events-query-insights",
       "source": "ClickHouse",
-      "date": "2026-10-25T00:54:18.038Z"
+      "date": "2026-10-26T01:02:04.938Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing the (blazing fast!) native TCP client for .NET",
       "url": "https://clickhouse.com/blog/introducing-the-blazing-fast-native-tcp-client-for-net",
       "source": "ClickHouse",
-      "date": "2026-10-25T00:54:18.038Z"
+      "date": "2026-10-26T01:02:04.938Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Scaling ClickStack alerting with built-in anomaly detection",
       "url": "https://clickhouse.com/blog/scaling-clickstack-alerting-anomaly-detection",
       "source": "ClickHouse",
-      "date": "2026-10-25T00:54:18.038Z"
+      "date": "2026-10-26T01:02:04.938Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "OLTP is expensive, you can ClickHouse it.",
       "url": "https://clickhouse.com/blog/oltp-is-expensive-you-can-clickhouse-it",
       "source": "ClickHouse",
-      "date": "2026-10-25T00:54:18.038Z"
+      "date": "2026-10-26T01:02:04.938Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "October 2026 newsletter",
       "url": "https://clickhouse.com/blog/202610-newsletter",
       "source": "ClickHouse",
-      "date": "2026-10-25T00:54:18.038Z"
+      "date": "2026-10-26T01:02:04.938Z"
     },
     {
-      "id": "hn-50226577",
-      "title": "Why Gopher in 2026?",
-      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-      "source": "HackerNews",
-      "score": 12,
-      "comments": 4,
-      "date": "2026-10-24T23:33:19.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Run recurring jobs on Stripe without a cron server",
+      "url": "https://www.reddit.com/r/programming/comments/1xfj011/run_recurring_jobs_on_stripe_without_a_cron_server/",
+      "source": "Reddit",
+      "date": "2026-10-26T00:54:26.000Z"
     },
     {
-      "id": "hn-50226419",
-      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "id": "hn-50237485",
+      "title": "Lula wins election after final votes tallied",
+      "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
       "source": "HackerNews",
-      "score": 88,
-      "comments": 55,
-      "date": "2026-10-24T23:11:54.000Z"
+      "score": 55,
+      "comments": 9,
+      "date": "2026-10-26T00:31:07.000Z"
     },
     {
-      "id": "hn-50225695",
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
+      "id": "hn-50237078",
+      "title": "F-Zero X on Nintendo 3DS",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
       "source": "HackerNews",
-      "score": 132,
-      "comments": 88,
-      "date": "2026-10-24T21:47:31.000Z"
+      "score": 29,
+      "comments": 9,
+      "date": "2026-10-25T23:27:30.000Z"
     },
     {
-      "id": "hn-50225674",
-      "title": "Small Programs and Languages",
-      "url": "https://ratfactor.com/cards/pl-small",
+      "id": "hn-50236102",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
       "source": "HackerNews",
-      "score": 27,
-      "comments": 1,
-      "date": "2026-10-24T21:44:23.000Z"
+      "score": 120,
+      "comments": 140,
+      "date": "2026-10-25T21:11:31.000Z"
     },
     {
-      "id": "hn-50224916",
-      "title": "Show HN: Steal My Bitcoin",
-      "url": "https://stealmybitcoin.com/",
+      "id": "hn-50235780",
+      "title": "The State of Context Engineering",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
       "source": "HackerNews",
-      "score": 382,
-      "comments": 227,
-      "date": "2026-10-24T20:30:31.000Z"
+      "score": 65,
+      "comments": 18,
+      "date": "2026-10-25T20:32:31.000Z"
     },
     {
-      "id": "hn-50224422",
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "url": "https://missileer.watch",
+      "id": "hn-50235738",
+      "title": "What goes into making an animated film?",
+      "url": "https://www.disneyanimation.com/process/",
       "source": "HackerNews",
-      "score": 107,
-      "comments": 72,
-      "date": "2026-10-24T19:43:27.000Z"
+      "score": 82,
+      "comments": 33,
+      "date": "2026-10-25T20:27:09.000Z"
     },
     {
-      "id": "hn-50224210",
-      "title": "SpeedCrunch 1.1",
-      "url": "https://www.speedcrunch.org/",
+      "id": "hn-50235017",
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
       "source": "HackerNews",
-      "score": 67,
-      "comments": 10,
-      "date": "2026-10-24T19:19:43.000Z"
+      "score": 121,
+      "comments": 37,
+      "date": "2026-10-25T19:11:31.000Z"
     },
     {
-      "id": "hn-50224100",
-      "title": "The Goose Programming Language",
-      "url": "https://aardappel.github.io/goose/",
+      "id": "hn-50234474",
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
       "source": "HackerNews",
-      "score": 224,
-      "comments": 152,
-      "date": "2026-10-24T19:06:55.000Z"
+      "score": 360,
+      "comments": 63,
+      "date": "2026-10-25T18:23:54.000Z"
     },
     {
-      "id": "hn-50222622",
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "url": "https://blog.roku.com/developer/gitlab-move",
+      "id": "hn-50233929",
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "url": "https://talkweb.eu/openweb/4558/",
       "source": "HackerNews",
-      "score": 252,
-      "comments": 167,
-      "date": "2026-10-24T16:06:26.000Z"
+      "score": 380,
+      "comments": 185,
+      "date": "2026-10-25T17:30:55.000Z"
     },
     {
-      "id": "hn-50169450",
-      "title": "Social dynamics of toxic metal industry in medieval Europe",
-      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+      "id": "hn-50233779",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
       "source": "HackerNews",
-      "score": 7,
-      "comments": 0,
-      "date": "2026-10-20T17:06:48.000Z"
+      "score": 412,
+      "comments": 200,
+      "date": "2026-10-25T17:15:38.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Just finished my multiplayer system in C and turns out we can support 50k players in a single server at 60hz simulation tick",
+      "url": "https://www.reddit.com/r/programming/comments/1xf4c5d/just_finished_my_multiplayer_system_in_c_and/",
+      "source": "Reddit",
+      "date": "2026-10-25T14:50:38.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Rewinding the exponential: How we keep hardware usage down",
+      "url": "https://www.reddit.com/r/programming/comments/1xf0aai/rewinding_the_exponential_how_we_keep_hardware/",
+      "source": "Reddit",
+      "date": "2026-10-25T11:46:04.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "HTMX creator on the history of REST and why he thinks we got it wrong",
+      "url": "https://www.reddit.com/r/programming/comments/1xezyoh/htmx_creator_on_the_history_of_rest_and_why_he/",
+      "source": "Reddit",
+      "date": "2026-10-25T11:28:11.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
+      "url": "https://www.reddit.com/r/programming/comments/1xe7dp8/broccoli2shell_brotli_decoder_rce_cve2026111497/",
+      "source": "Reddit",
+      "date": "2026-10-24T12:28:14.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How close can pure FP get to C?",
+      "url": "https://www.reddit.com/r/programming/comments/1xdjru9/how_close_can_pure_fp_get_to_c/",
+      "source": "Reddit",
+      "date": "2026-10-23T17:04:36.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How to Make Things, and Why - Stuart Halloway (Clojure/Conj 2026)",
+      "url": "https://www.reddit.com/r/programming/comments/1xdh3hh/how_to_make_things_and_why_stuart_halloway/",
+      "source": "Reddit",
+      "date": "2026-10-23T15:25:01.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Code and Cake - Docker is weird",
+      "url": "https://www.reddit.com/r/programming/comments/1xdef0p/code_and_cake_docker_is_weird/",
+      "source": "Reddit",
+      "date": "2026-10-23T13:43:13.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "eMudhra's Press Release on the CA Compromise",
+      "url": "https://www.reddit.com/r/programming/comments/1xd9rwe/emudhras_press_release_on_the_ca_compromise/",
+      "source": "Reddit",
+      "date": "2026-10-23T09:55:46.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Where did my freed memory (not) go?",
+      "url": "https://www.reddit.com/r/programming/comments/1xcwsc3/where_did_my_freed_memory_not_go/",
+      "source": "Reddit",
+      "date": "2026-10-22T22:27:08.000Z"
+    },
+    {
+      "id": "hn-50197108",
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "source": "HackerNews",
+      "score": 121,
+      "comments": 38,
+      "date": "2026-10-22T15:52:21.000Z"
     }
   ]
 }
