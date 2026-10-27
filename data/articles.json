@@ -1,164 +1,213 @@
 {
-  "updatedAt": "2026-10-26T01:02:05.056Z",
+  "updatedAt": "2026-10-27T01:52:06.418Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Expanding Customer Notifications for ClickHouse Managed Postgres",
+      "url": "https://clickhouse.com/blog/expanding-customer-notifications-managed-postgres",
+      "source": "ClickHouse",
+      "date": "2026-10-27T01:52:06.418Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Shipsidekick replaced Neon with ClickHouse Managed Postgres for 10x faster queries and better reliability",
       "url": "https://clickhouse.com/blog/shipsidekick-neon-to-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-10-26T01:02:04.938Z"
+      "date": "2026-10-27T01:52:06.418Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Trace and evaluate Cursor agents with Langfuse, powered by ClickHouse",
       "url": "https://clickhouse.com/blog/cursor-agents-with-langfuse",
       "source": "ClickHouse",
-      "date": "2026-10-26T01:02:04.938Z"
+      "date": "2026-10-27T01:52:06.418Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Front-end observability at scale: How OpenReplay captures billions of daily events in real time with ClickHouse",
       "url": "https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-10-26T01:02:04.938Z"
+      "date": "2026-10-27T01:52:06.418Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Running ClickHouse on NVIDIA Vera CPU: Is your favorite database up to the challenge?",
       "url": "https://clickhouse.com/blog/clickhouse-performance-on-nvidia-vera",
       "source": "ClickHouse",
-      "date": "2026-10-26T01:02:04.938Z"
+      "date": "2026-10-27T01:52:06.418Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The Agentic Analytics Benchmark, round two: GPT-6, Claude Opus 5.5, Claude Sonnet 5.5",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-round-two",
       "source": "ClickHouse",
-      "date": "2026-10-26T01:02:04.938Z"
+      "date": "2026-10-27T01:52:06.418Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres wait events, now in Query Insights",
       "url": "https://clickhouse.com/blog/postgres-wait-events-query-insights",
       "source": "ClickHouse",
-      "date": "2026-10-26T01:02:04.938Z"
+      "date": "2026-10-27T01:52:06.418Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing the (blazing fast!) native TCP client for .NET",
       "url": "https://clickhouse.com/blog/introducing-the-blazing-fast-native-tcp-client-for-net",
       "source": "ClickHouse",
-      "date": "2026-10-26T01:02:04.938Z"
+      "date": "2026-10-27T01:52:06.418Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Scaling ClickStack alerting with built-in anomaly detection",
       "url": "https://clickhouse.com/blog/scaling-clickstack-alerting-anomaly-detection",
       "source": "ClickHouse",
-      "date": "2026-10-26T01:02:04.938Z"
+      "date": "2026-10-27T01:52:06.418Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "OLTP is expensive, you can ClickHouse it.",
       "url": "https://clickhouse.com/blog/oltp-is-expensive-you-can-clickhouse-it",
       "source": "ClickHouse",
-      "date": "2026-10-26T01:02:04.938Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "October 2026 newsletter",
-      "url": "https://clickhouse.com/blog/202610-newsletter",
-      "source": "ClickHouse",
-      "date": "2026-10-26T01:02:04.938Z"
+      "date": "2026-10-27T01:52:06.418Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Run recurring jobs on Stripe without a cron server",
-      "url": "https://www.reddit.com/r/programming/comments/1xfj011/run_recurring_jobs_on_stripe_without_a_cron_server/",
+      "title": "Iframes should have an api",
+      "url": "https://www.reddit.com/r/programming/comments/1xgftsd/iframes_should_have_an_api/",
       "source": "Reddit",
-      "date": "2026-10-26T00:54:26.000Z"
+      "date": "2026-10-27T01:47:30.000Z"
     },
     {
-      "id": "hn-50237485",
-      "title": "Lula wins election after final votes tallied",
-      "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+      "id": "hn-50253529",
+      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+      "url": "https://github.com/otya128/winevdm",
       "source": "HackerNews",
-      "score": 55,
-      "comments": 9,
-      "date": "2026-10-26T00:31:07.000Z"
+      "score": 10,
+      "comments": 1,
+      "date": "2026-10-27T01:15:04.000Z"
     },
     {
-      "id": "hn-50237078",
-      "title": "F-Zero X on Nintendo 3DS",
-      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
-      "source": "HackerNews",
-      "score": 29,
-      "comments": 9,
-      "date": "2026-10-25T23:27:30.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Building a music engraving engine from scratch",
+      "url": "https://www.reddit.com/r/programming/comments/1xgd7gv/building_a_music_engraving_engine_from_scratch/",
+      "source": "Reddit",
+      "date": "2026-10-26T23:51:15.000Z"
     },
     {
-      "id": "hn-50236102",
-      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "id": "hn-50252159",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
       "source": "HackerNews",
-      "score": 120,
+      "score": 70,
+      "comments": 14,
+      "date": "2026-10-26T22:41:48.000Z"
+    },
+    {
+      "id": "hn-50252008",
+      "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+      "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+      "source": "HackerNews",
+      "score": 22,
+      "comments": 16,
+      "date": "2026-10-26T22:27:17.000Z"
+    },
+    {
+      "id": "hn-50251661",
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "source": "HackerNews",
+      "score": 283,
+      "comments": 109,
+      "date": "2026-10-26T21:59:15.000Z"
+    },
+    {
+      "id": "hn-50251344",
+      "title": "Announcing three new discoveries in mathematics, computer science, and physics",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "source": "HackerNews",
+      "score": 457,
+      "comments": 175,
+      "date": "2026-10-26T21:35:28.000Z"
+    },
+    {
+      "id": "hn-50248371",
+      "title": "Type Server Protocol",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "source": "HackerNews",
+      "score": 193,
       "comments": 140,
-      "date": "2026-10-25T21:11:31.000Z"
+      "date": "2026-10-26T18:14:49.000Z"
     },
     {
-      "id": "hn-50235780",
-      "title": "The State of Context Engineering",
-      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "id": "hn-50248055",
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
       "source": "HackerNews",
-      "score": 65,
-      "comments": 18,
-      "date": "2026-10-25T20:32:31.000Z"
+      "score": 290,
+      "comments": 186,
+      "date": "2026-10-26T17:56:55.000Z"
     },
     {
-      "id": "hn-50235738",
-      "title": "What goes into making an animated film?",
-      "url": "https://www.disneyanimation.com/process/",
+      "id": "hn-50245831",
+      "title": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
       "source": "HackerNews",
-      "score": 82,
-      "comments": 33,
-      "date": "2026-10-25T20:27:09.000Z"
+      "score": 381,
+      "comments": 90,
+      "date": "2026-10-26T15:51:23.000Z"
     },
     {
-      "id": "hn-50235017",
-      "title": "Why I Am a Programmer",
-      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "id": "hn-50245138",
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
       "source": "HackerNews",
-      "score": 121,
-      "comments": 37,
-      "date": "2026-10-25T19:11:31.000Z"
+      "score": 557,
+      "comments": 81,
+      "date": "2026-10-26T15:11:59.000Z"
     },
     {
-      "id": "hn-50234474",
-      "title": "Dolly Parton's Imagination Library",
-      "url": "https://imaginationlibrary.com/",
-      "source": "HackerNews",
-      "score": 360,
-      "comments": 63,
-      "date": "2026-10-25T18:23:54.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How to write a \"bug hunt\" blog post",
+      "url": "https://www.reddit.com/r/programming/comments/1xfwnaz/how_to_write_a_bug_hunt_blog_post/",
+      "source": "Reddit",
+      "date": "2026-10-26T13:21:17.000Z"
     },
     {
-      "id": "hn-50233929",
-      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-      "url": "https://talkweb.eu/openweb/4558/",
-      "source": "HackerNews",
-      "score": 380,
-      "comments": 185,
-      "date": "2026-10-25T17:30:55.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Using Computer Science and Anki to Learn More Vocabulary With Less Memorization",
+      "url": "https://www.reddit.com/r/programming/comments/1xfurcl/using_computer_science_and_anki_to_learn_more/",
+      "source": "Reddit",
+      "date": "2026-10-26T11:57:39.000Z"
     },
     {
-      "id": "hn-50233779",
-      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "source": "HackerNews",
-      "score": 412,
-      "comments": 200,
-      "date": "2026-10-25T17:15:38.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Pharo 14 released",
+      "url": "https://www.reddit.com/r/programming/comments/1xfu0wk/pharo_14_released/",
+      "source": "Reddit",
+      "date": "2026-10-26T11:19:14.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Why is it so expensive to send an email?",
+      "url": "https://www.reddit.com/r/programming/comments/1xft3w2/why_is_it_so_expensive_to_send_an_email/",
+      "source": "Reddit",
+      "date": "2026-10-26T10:29:18.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "From 27 minutes to 4: Cutting CI build time by 85%",
+      "url": "https://www.reddit.com/r/programming/comments/1xfszv3/from_27_minutes_to_4_cutting_ci_build_time_by_85/",
+      "source": "Reddit",
+      "date": "2026-10-26T10:23:02.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Who lost my lap infant? My attempt to reverse engineer a decade-long airline bug",
+      "url": "https://www.reddit.com/r/programming/comments/1xfhd6i/who_lost_my_lap_infant_my_attempt_to_reverse/",
+      "source": "Reddit",
+      "date": "2026-10-25T23:40:16.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -169,68 +218,19 @@
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Rewinding the exponential: How we keep hardware usage down",
-      "url": "https://www.reddit.com/r/programming/comments/1xf0aai/rewinding_the_exponential_how_we_keep_hardware/",
-      "source": "Reddit",
-      "date": "2026-10-25T11:46:04.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
       "title": "HTMX creator on the history of REST and why he thinks we got it wrong",
       "url": "https://www.reddit.com/r/programming/comments/1xezyoh/htmx_creator_on_the_history_of_rest_and_why_he/",
       "source": "Reddit",
       "date": "2026-10-25T11:28:11.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
-      "url": "https://www.reddit.com/r/programming/comments/1xe7dp8/broccoli2shell_brotli_decoder_rce_cve2026111497/",
-      "source": "Reddit",
-      "date": "2026-10-24T12:28:14.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How close can pure FP get to C?",
-      "url": "https://www.reddit.com/r/programming/comments/1xdjru9/how_close_can_pure_fp_get_to_c/",
-      "source": "Reddit",
-      "date": "2026-10-23T17:04:36.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How to Make Things, and Why - Stuart Halloway (Clojure/Conj 2026)",
-      "url": "https://www.reddit.com/r/programming/comments/1xdh3hh/how_to_make_things_and_why_stuart_halloway/",
-      "source": "Reddit",
-      "date": "2026-10-23T15:25:01.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Code and Cake - Docker is weird",
-      "url": "https://www.reddit.com/r/programming/comments/1xdef0p/code_and_cake_docker_is_weird/",
-      "source": "Reddit",
-      "date": "2026-10-23T13:43:13.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "eMudhra's Press Release on the CA Compromise",
-      "url": "https://www.reddit.com/r/programming/comments/1xd9rwe/emudhras_press_release_on_the_ca_compromise/",
-      "source": "Reddit",
-      "date": "2026-10-23T09:55:46.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Where did my freed memory (not) go?",
-      "url": "https://www.reddit.com/r/programming/comments/1xcwsc3/where_did_my_freed_memory_not_go/",
-      "source": "Reddit",
-      "date": "2026-10-22T22:27:08.000Z"
-    },
-    {
-      "id": "hn-50197108",
-      "title": "Overgrown, when plants invade your abandoned tabs",
-      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "id": "hn-50204697",
+      "title": "A Printer Printing onto Paper",
+      "url": "https://twitter.com/macrofying/status/2112904628509528219",
       "source": "HackerNews",
-      "score": 121,
-      "comments": 38,
-      "date": "2026-10-22T15:52:21.000Z"
+      "score": 61,
+      "comments": 15,
+      "date": "2026-10-23T05:01:30.000Z"
     }
   ]
 }
