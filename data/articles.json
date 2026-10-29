@@ -1,76 +1,192 @@
 {
-  "updatedAt": "2026-10-28T02:03:04.171Z",
+  "updatedAt": "2026-10-29T02:12:42.206Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "The new cost-based join optimizer with reordering support for non-inner joins",
+      "url": "https://clickhouse.com/blog/the-new-cost-based-join-optimizer-with-reordering-support-for-non-inner-joins",
+      "source": "ClickHouse",
+      "date": "2026-10-29T02:12:42.205Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Why ClickHouse Cloud wins at real-time analytics",
+      "url": "https://clickhouse.com/blog/why-clickhouse-cloud-wins-at-real-time-analytics",
+      "source": "ClickHouse",
+      "date": "2026-10-29T02:12:42.205Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The Agentic Analytics Benchmark: ranking tables and labeling failures with Jev",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-jev",
       "source": "ClickHouse",
-      "date": "2026-10-28T02:03:03.478Z"
+      "date": "2026-10-29T02:12:42.205Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Expanding Customer Notifications for ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/expanding-customer-notifications-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-10-28T02:03:03.478Z"
+      "date": "2026-10-29T02:12:42.205Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Shipsidekick replaced Neon with ClickHouse Managed Postgres for 10x faster queries and better reliability",
       "url": "https://clickhouse.com/blog/shipsidekick-neon-to-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-10-28T02:03:03.478Z"
+      "date": "2026-10-29T02:12:42.205Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Trace and evaluate Cursor agents with Langfuse, powered by ClickHouse",
       "url": "https://clickhouse.com/blog/cursor-agents-with-langfuse",
       "source": "ClickHouse",
-      "date": "2026-10-28T02:03:03.478Z"
+      "date": "2026-10-29T02:12:42.205Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Front-end observability at scale: How OpenReplay captures billions of daily events in real time with ClickHouse",
       "url": "https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-10-28T02:03:03.478Z"
+      "date": "2026-10-29T02:12:42.205Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Running ClickHouse on NVIDIA Vera CPU: Is your favorite database up to the challenge?",
       "url": "https://clickhouse.com/blog/clickhouse-performance-on-nvidia-vera",
       "source": "ClickHouse",
-      "date": "2026-10-28T02:03:03.478Z"
+      "date": "2026-10-29T02:12:42.205Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The Agentic Analytics Benchmark, round two: GPT-6, Claude Opus 5.5, Claude Sonnet 5.5",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-round-two",
       "source": "ClickHouse",
-      "date": "2026-10-28T02:03:03.478Z"
+      "date": "2026-10-29T02:12:42.205Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Postgres wait events, now in Query Insights",
       "url": "https://clickhouse.com/blog/postgres-wait-events-query-insights",
       "source": "ClickHouse",
-      "date": "2026-10-28T02:03:03.478Z"
+      "date": "2026-10-29T02:12:42.205Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Introducing the (blazing fast!) native TCP client for .NET",
-      "url": "https://clickhouse.com/blog/introducing-the-blazing-fast-native-tcp-client-for-net",
-      "source": "ClickHouse",
-      "date": "2026-10-28T02:03:03.478Z"
+      "id": "hn-50282865",
+      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+      "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+      "source": "HackerNews",
+      "score": 35,
+      "comments": 36,
+      "date": "2026-10-29T00:30:37.000Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Scaling ClickStack alerting with built-in anomaly detection",
-      "url": "https://clickhouse.com/blog/scaling-clickstack-alerting-anomaly-detection",
-      "source": "ClickHouse",
-      "date": "2026-10-28T02:03:03.478Z"
+      "id": "hn-50282838",
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
+      "source": "HackerNews",
+      "score": 82,
+      "comments": 15,
+      "date": "2026-10-29T00:25:45.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Learn Any ML Library by Rebuilding It: NumPy, pandas, scikit-learn, PyTorch and sentence-transformer",
+      "url": "https://www.reddit.com/r/programming/comments/1xi4nhc/learn_any_ml_library_by_rebuilding_it_numpy/",
+      "source": "Reddit",
+      "date": "2026-10-28T23:53:44.000Z"
+    },
+    {
+      "id": "hn-50282544",
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "source": "HackerNews",
+      "score": 81,
+      "comments": 27,
+      "date": "2026-10-28T23:45:46.000Z"
+    },
+    {
+      "id": "hn-50282538",
+      "title": "The first wired XR glasses powered by Android XR",
+      "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+      "source": "HackerNews",
+      "score": 32,
+      "comments": 26,
+      "date": "2026-10-28T23:45:19.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Local-First Means Three Different Things",
+      "url": "https://www.reddit.com/r/programming/comments/1xi3p7g/localfirst_means_three_different_things/",
+      "source": "Reddit",
+      "date": "2026-10-28T23:12:53.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "If-statement that caused HTTP2Shell was itself undisclosed patch of vulnerability",
+      "url": "https://www.reddit.com/r/programming/comments/1xi16s3/ifstatement_that_caused_http2shell_was_itself/",
+      "source": "Reddit",
+      "date": "2026-10-28T21:30:26.000Z"
+    },
+    {
+      "id": "hn-50281044",
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "source": "HackerNews",
+      "score": 122,
+      "comments": 86,
+      "date": "2026-10-28T21:19:30.000Z"
+    },
+    {
+      "id": "hn-50280974",
+      "title": "A Health Update",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "source": "HackerNews",
+      "score": 106,
+      "comments": 11,
+      "date": "2026-10-28T21:13:21.000Z"
+    },
+    {
+      "id": "hn-50276998",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "source": "HackerNews",
+      "score": 872,
+      "comments": 187,
+      "date": "2026-10-28T17:13:29.000Z"
+    },
+    {
+      "id": "hn-50276792",
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "source": "HackerNews",
+      "score": 813,
+      "comments": 676,
+      "date": "2026-10-28T17:01:23.000Z"
+    },
+    {
+      "id": "hn-50274409",
+      "title": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "source": "HackerNews",
+      "score": 406,
+      "comments": 118,
+      "date": "2026-10-28T14:38:22.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Making SIMD Code Scale to Any Vector Width",
+      "url": "https://www.reddit.com/r/programming/comments/1xhpagj/making_simd_code_scale_to_any_vector_width/",
+      "source": "Reddit",
+      "date": "2026-10-28T14:16:37.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "A faster way to compute signed 64-bit floor division by constants",
+      "url": "https://www.reddit.com/r/programming/comments/1xhl1jb/a_faster_way_to_compute_signed_64bit_floor/",
+      "source": "Reddit",
+      "date": "2026-10-28T11:05:08.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -88,87 +204,10 @@
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "How I added dynamic social preview images to my site for almost nothing",
-      "url": "https://www.reddit.com/r/programming/comments/1xh55mz/how_i_added_dynamic_social_preview_images_to_my/",
-      "source": "Reddit",
-      "date": "2026-10-27T21:19:42.000Z"
-    },
-    {
-      "id": "hn-50265609",
-      "title": "Early progress on accelerating drug development with Claude",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "source": "HackerNews",
-      "score": 130,
-      "comments": 113,
-      "date": "2026-10-27T20:50:42.000Z"
-    },
-    {
-      "id": "hn-50265594",
-      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-      "source": "HackerNews",
-      "score": 97,
-      "comments": 36,
-      "date": "2026-10-27T20:48:49.000Z"
-    },
-    {
-      "id": "hn-50264857",
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "url": "https://tailscale.com/ssh-investigation-update",
-      "source": "HackerNews",
-      "score": 195,
-      "comments": 107,
-      "date": "2026-10-27T19:55:21.000Z"
-    },
-    {
-      "id": "hn-50264853",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
-      "source": "HackerNews",
-      "score": 191,
-      "comments": 101,
-      "date": "2026-10-27T19:55:06.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
       "title": "Billion-query-per-second lookup tables in C++",
       "url": "https://www.reddit.com/r/programming/comments/1xh15vv/billionquerypersecond_lookup_tables_in_c/",
       "source": "Reddit",
       "date": "2026-10-27T18:50:27.000Z"
-    },
-    {
-      "id": "hn-50261998",
-      "title": "Ghostty 1.4",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "source": "HackerNews",
-      "score": 779,
-      "comments": 231,
-      "date": "2026-10-27T16:51:22.000Z"
-    },
-    {
-      "id": "hn-50261352",
-      "title": "New 14‑inch MacBook Pro with M6",
-      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "source": "HackerNews",
-      "score": 284,
-      "comments": 361,
-      "date": "2026-10-27T16:08:32.000Z"
-    },
-    {
-      "id": "hn-50261319",
-      "title": "Genie 4",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "source": "HackerNews",
-      "score": 741,
-      "comments": 439,
-      "date": "2026-10-27T16:06:01.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "A few of my favorite software and programming language documentaries",
-      "url": "https://www.reddit.com/r/programming/comments/1xgwkhz/a_few_of_my_favorite_software_and_programming/",
-      "source": "Reddit",
-      "date": "2026-10-27T16:03:54.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -185,52 +224,13 @@
       "date": "2026-10-27T09:06:20.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Building a music engraving engine from scratch",
-      "url": "https://www.reddit.com/r/programming/comments/1xgd7gv/building_a_music_engraving_engine_from_scratch/",
-      "source": "Reddit",
-      "date": "2026-10-26T23:51:15.000Z"
-    },
-    {
-      "id": "hn-50242688",
-      "title": "81 Jokes for the ZX81",
-      "url": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
+      "id": "hn-50243060",
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "url": "https://www.circuithub.com/post/unveiling-the-grid",
       "source": "HackerNews",
-      "score": 38,
-      "comments": 1,
-      "date": "2026-10-26T12:45:16.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Why is it so expensive to send an email?",
-      "url": "https://www.reddit.com/r/programming/comments/1xft3w2/why_is_it_so_expensive_to_send_an_email/",
-      "source": "Reddit",
-      "date": "2026-10-26T10:29:18.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "From 27 minutes to 4: Cutting CI build time by 85%",
-      "url": "https://www.reddit.com/r/programming/comments/1xfszv3/from_27_minutes_to_4_cutting_ci_build_time_by_85/",
-      "source": "Reddit",
-      "date": "2026-10-26T10:23:02.000Z"
-    },
-    {
-      "id": "hn-50239214",
-      "title": "SS United States to be sunk as largest artificial reef",
-      "url": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
-      "source": "HackerNews",
-      "score": 86,
-      "comments": 55,
-      "date": "2026-10-26T04:41:15.000Z"
-    },
-    {
-      "id": "hn-50234796",
-      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-      "source": "HackerNews",
-      "score": 49,
-      "comments": 7,
-      "date": "2026-10-25T18:49:48.000Z"
+      "score": 428,
+      "comments": 203,
+      "date": "2026-10-26T13:13:31.000Z"
     }
   ]
 }
