@@ -1,119 +1,190 @@
 {
-  "updatedAt": "2026-10-29T02:12:42.206Z",
+  "updatedAt": "2026-10-30T02:27:04.334Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Meet GroeneAI: our autonomous contributor to ClickHouse",
+      "url": "https://clickhouse.com/blog/meet-groeneai-our-autonomous-contributor-to-clickhouse",
+      "source": "ClickHouse",
+      "date": "2026-10-30T02:27:04.334Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The new cost-based join optimizer with reordering support for non-inner joins",
       "url": "https://clickhouse.com/blog/the-new-cost-based-join-optimizer-with-reordering-support-for-non-inner-joins",
       "source": "ClickHouse",
-      "date": "2026-10-29T02:12:42.205Z"
+      "date": "2026-10-30T02:27:04.334Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why ClickHouse Cloud wins at real-time analytics",
       "url": "https://clickhouse.com/blog/why-clickhouse-cloud-wins-at-real-time-analytics",
       "source": "ClickHouse",
-      "date": "2026-10-29T02:12:42.205Z"
+      "date": "2026-10-30T02:27:04.334Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The Agentic Analytics Benchmark: ranking tables and labeling failures with Jev",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-jev",
       "source": "ClickHouse",
-      "date": "2026-10-29T02:12:42.205Z"
+      "date": "2026-10-30T02:27:04.334Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Expanding Customer Notifications for ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/expanding-customer-notifications-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-10-29T02:12:42.205Z"
+      "date": "2026-10-30T02:27:04.334Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Shipsidekick replaced Neon with ClickHouse Managed Postgres for 10x faster queries and better reliability",
       "url": "https://clickhouse.com/blog/shipsidekick-neon-to-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-10-29T02:12:42.205Z"
+      "date": "2026-10-30T02:27:04.334Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Trace and evaluate Cursor agents with Langfuse, powered by ClickHouse",
       "url": "https://clickhouse.com/blog/cursor-agents-with-langfuse",
       "source": "ClickHouse",
-      "date": "2026-10-29T02:12:42.205Z"
+      "date": "2026-10-30T02:27:04.334Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Front-end observability at scale: How OpenReplay captures billions of daily events in real time with ClickHouse",
       "url": "https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-10-29T02:12:42.205Z"
+      "date": "2026-10-30T02:27:04.334Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Running ClickHouse on NVIDIA Vera CPU: Is your favorite database up to the challenge?",
       "url": "https://clickhouse.com/blog/clickhouse-performance-on-nvidia-vera",
       "source": "ClickHouse",
-      "date": "2026-10-29T02:12:42.205Z"
+      "date": "2026-10-30T02:27:04.334Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The Agentic Analytics Benchmark, round two: GPT-6, Claude Opus 5.5, Claude Sonnet 5.5",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-round-two",
       "source": "ClickHouse",
-      "date": "2026-10-29T02:12:42.205Z"
+      "date": "2026-10-30T02:27:04.334Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Postgres wait events, now in Query Insights",
-      "url": "https://clickhouse.com/blog/postgres-wait-events-query-insights",
-      "source": "ClickHouse",
-      "date": "2026-10-29T02:12:42.205Z"
-    },
-    {
-      "id": "hn-50282865",
-      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-      "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+      "id": "hn-50298964",
+      "title": "Pico CSS is no longer maintained",
+      "url": "https://github.com/picocss/pico/discussions/754",
       "source": "HackerNews",
-      "score": 35,
-      "comments": 36,
-      "date": "2026-10-29T00:30:37.000Z"
+      "score": 13,
+      "comments": 2,
+      "date": "2026-10-30T01:58:44.000Z"
     },
     {
-      "id": "hn-50282838",
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "url": "https://divagr.com/blog/qwenputer",
+      "id": "hn-50298436",
+      "title": "Herdr has released native app",
+      "url": "https://github.com/herdrdev/herdr-app",
       "source": "HackerNews",
-      "score": 82,
-      "comments": 15,
-      "date": "2026-10-29T00:25:45.000Z"
+      "score": 20,
+      "comments": 16,
+      "date": "2026-10-30T00:42:41.000Z"
+    },
+    {
+      "id": "hn-50297089",
+      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "url": "https://journal.animationstudies.org/article/id/66/",
+      "source": "HackerNews",
+      "score": 50,
+      "comments": 9,
+      "date": "2026-10-29T22:26:38.000Z"
+    },
+    {
+      "id": "hn-50296585",
+      "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
+      "url": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
+      "source": "HackerNews",
+      "score": 98,
+      "comments": 30,
+      "date": "2026-10-29T21:48:35.000Z"
+    },
+    {
+      "id": "hn-50296486",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "source": "HackerNews",
+      "score": 173,
+      "comments": 64,
+      "date": "2026-10-29T21:40:28.000Z"
+    },
+    {
+      "id": "hn-50296470",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "source": "HackerNews",
+      "score": 774,
+      "comments": 453,
+      "date": "2026-10-29T21:38:59.000Z"
+    },
+    {
+      "id": "hn-50295450",
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "source": "HackerNews",
+      "score": 138,
+      "comments": 8,
+      "date": "2026-10-29T20:32:28.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Learn Any ML Library by Rebuilding It: NumPy, pandas, scikit-learn, PyTorch and sentence-transformer",
-      "url": "https://www.reddit.com/r/programming/comments/1xi4nhc/learn_any_ml_library_by_rebuilding_it_numpy/",
+      "title": "AMD's ROCm HRX Loom v0.1 released for targeting AMD CPUs, GPUs & NPUs",
+      "url": "https://www.reddit.com/r/programming/comments/1xisevc/amds_rocm_hrx_loom_v01_released_for_targeting_amd/",
       "source": "Reddit",
-      "date": "2026-10-28T23:53:44.000Z"
+      "date": "2026-10-29T18:42:40.000Z"
     },
     {
-      "id": "hn-50282544",
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "source": "HackerNews",
-      "score": 81,
-      "comments": 27,
-      "date": "2026-10-28T23:45:46.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Last Proof of Human Craft: Forging a Microsoft Edge Full Chain with Logic Bugs Only!",
+      "url": "https://www.reddit.com/r/programming/comments/1xiq9r7/the_last_proof_of_human_craft_forging_a_microsoft/",
+      "source": "Reddit",
+      "date": "2026-10-29T17:23:10.000Z"
     },
     {
-      "id": "hn-50282538",
-      "title": "The first wired XR glasses powered by Android XR",
-      "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "url": "https://www.reddit.com/r/programming/comments/1xiq8we/linux_kernel_tcp_flaw_with_98_cvss_score_affects/",
+      "source": "Reddit",
+      "date": "2026-10-29T17:22:17.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "It's the memory latency, stupid",
+      "url": "https://www.reddit.com/r/programming/comments/1xiopmn/its_the_memory_latency_stupid/",
+      "source": "Reddit",
+      "date": "2026-10-29T16:26:55.000Z"
+    },
+    {
+      "id": "hn-50289418",
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
       "source": "HackerNews",
-      "score": 32,
-      "comments": 26,
-      "date": "2026-10-28T23:45:19.000Z"
+      "score": 1218,
+      "comments": 341,
+      "date": "2026-10-29T14:13:21.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "email encryption",
+      "url": "https://www.reddit.com/r/programming/comments/1xijb4j/email_encryption/",
+      "source": "Reddit",
+      "date": "2026-10-29T13:00:27.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How to Create Your Own Decentralized Messenger Protocol",
+      "url": "https://www.reddit.com/r/programming/comments/1xicwoy/how_to_create_your_own_decentralized_messenger/",
+      "source": "Reddit",
+      "date": "2026-10-29T07:00:23.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -130,51 +201,6 @@
       "date": "2026-10-28T21:30:26.000Z"
     },
     {
-      "id": "hn-50281044",
-      "title": "Formlabs Studio 1 $699 Resin Printer",
-      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
-      "source": "HackerNews",
-      "score": 122,
-      "comments": 86,
-      "date": "2026-10-28T21:19:30.000Z"
-    },
-    {
-      "id": "hn-50280974",
-      "title": "A Health Update",
-      "url": "https://furbo.org/2026/10/28/a-health-update/",
-      "source": "HackerNews",
-      "score": 106,
-      "comments": 11,
-      "date": "2026-10-28T21:13:21.000Z"
-    },
-    {
-      "id": "hn-50276998",
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "source": "HackerNews",
-      "score": 872,
-      "comments": 187,
-      "date": "2026-10-28T17:13:29.000Z"
-    },
-    {
-      "id": "hn-50276792",
-      "title": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "source": "HackerNews",
-      "score": 813,
-      "comments": 676,
-      "date": "2026-10-28T17:01:23.000Z"
-    },
-    {
-      "id": "hn-50274409",
-      "title": "CNC Stone Carving",
-      "url": "https://carmelitegothic.com/cnc-stone-carving/",
-      "source": "HackerNews",
-      "score": 406,
-      "comments": 118,
-      "date": "2026-10-28T14:38:22.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "Making SIMD Code Scale to Any Vector Width",
       "url": "https://www.reddit.com/r/programming/comments/1xhpagj/making_simd_code_scale_to_any_vector_width/",
@@ -189,48 +215,22 @@
       "date": "2026-10-28T11:05:08.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Python jettisons the native JIT, at least for now",
-      "url": "https://www.reddit.com/r/programming/comments/1xhbl06/python_jettisons_the_native_jit_at_least_for_now/",
-      "source": "Reddit",
-      "date": "2026-10-28T01:55:34.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Choose Your Backend: Three TLS Bugs in GoAhead",
-      "url": "https://www.reddit.com/r/programming/comments/1xh84hz/choose_your_backend_three_tls_bugs_in_goahead/",
-      "source": "Reddit",
-      "date": "2026-10-27T23:20:14.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Billion-query-per-second lookup tables in C++",
-      "url": "https://www.reddit.com/r/programming/comments/1xh15vv/billionquerypersecond_lookup_tables_in_c/",
-      "source": "Reddit",
-      "date": "2026-10-27T18:50:27.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Building confidence in concurrent code with a model checker - Scott Wlaschin - NDC London 2023",
-      "url": "https://www.reddit.com/r/programming/comments/1xgqsqf/building_confidence_in_concurrent_code_with_a/",
-      "source": "Reddit",
-      "date": "2026-10-27T12:09:48.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "DuckDB.NET 1.5.6.1: Reading Data Up to 12× Faster",
-      "url": "https://www.reddit.com/r/programming/comments/1xgnigv/duckdbnet_1561_reading_data_up_to_12_faster/",
-      "source": "Reddit",
-      "date": "2026-10-27T09:06:20.000Z"
-    },
-    {
-      "id": "hn-50243060",
-      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-      "url": "https://www.circuithub.com/post/unveiling-the-grid",
+      "id": "hn-50271521",
+      "title": "Study: Schoolwide phone bans show no significant impact on mental health",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855858",
       "source": "HackerNews",
-      "score": 428,
-      "comments": 203,
-      "date": "2026-10-26T13:13:31.000Z"
+      "score": 15,
+      "comments": 3,
+      "date": "2026-10-28T10:49:06.000Z"
+    },
+    {
+      "id": "hn-50249598",
+      "title": "Iterating Backwards in C",
+      "url": "https://www.davidpriver.com/Iterating-backwards-in-C.html",
+      "source": "HackerNews",
+      "score": 28,
+      "comments": 13,
+      "date": "2026-10-26T19:28:19.000Z"
     }
   ]
 }
