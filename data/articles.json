@@ -1,85 +1,180 @@
 {
-  "updatedAt": "2026-10-31T02:05:59.505Z",
+  "updatedAt": "2026-11-01T01:57:52.665Z",
   "total": 30,
   "articles": [
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Meet GroeneAI: our autonomous contributor to ClickHouse",
-      "url": "https://clickhouse.com/blog/meet-groeneai-our-autonomous-contributor-to-clickhouse",
-      "source": "ClickHouse",
-      "date": "2026-10-31T02:05:59.382Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "The new cost-based join optimizer with reordering support for non-inner joins",
-      "url": "https://clickhouse.com/blog/the-new-cost-based-join-optimizer-with-reordering-support-for-non-inner-joins",
-      "source": "ClickHouse",
-      "date": "2026-10-31T02:05:59.382Z"
-    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why ClickHouse Cloud wins at real-time analytics",
       "url": "https://clickhouse.com/blog/why-clickhouse-cloud-wins-at-real-time-analytics",
       "source": "ClickHouse",
-      "date": "2026-10-31T02:05:59.382Z"
+      "date": "2026-11-01T01:57:52.665Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The Agentic Analytics Benchmark: ranking tables and labeling failures with Jev",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-jev",
       "source": "ClickHouse",
-      "date": "2026-10-31T02:05:59.382Z"
+      "date": "2026-11-01T01:57:52.665Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Expanding Customer Notifications for ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/expanding-customer-notifications-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-10-31T02:05:59.382Z"
+      "date": "2026-11-01T01:57:52.665Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Shipsidekick replaced Neon with ClickHouse Managed Postgres for 10x faster queries and better reliability",
       "url": "https://clickhouse.com/blog/shipsidekick-neon-to-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-10-31T02:05:59.382Z"
+      "date": "2026-11-01T01:57:52.665Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Trace and evaluate Cursor agents with Langfuse, powered by ClickHouse",
       "url": "https://clickhouse.com/blog/cursor-agents-with-langfuse",
       "source": "ClickHouse",
-      "date": "2026-10-31T02:05:59.382Z"
+      "date": "2026-11-01T01:57:52.665Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Front-end observability at scale: How OpenReplay captures billions of daily events in real time with ClickHouse",
       "url": "https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-10-31T02:05:59.382Z"
+      "date": "2026-11-01T01:57:52.665Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Running ClickHouse on NVIDIA Vera CPU: Is your favorite database up to the challenge?",
       "url": "https://clickhouse.com/blog/clickhouse-performance-on-nvidia-vera",
       "source": "ClickHouse",
-      "date": "2026-10-31T02:05:59.382Z"
+      "date": "2026-11-01T01:57:52.665Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The Agentic Analytics Benchmark, round two: GPT-6, Claude Opus 5.5, Claude Sonnet 5.5",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-round-two",
       "source": "ClickHouse",
-      "date": "2026-10-31T02:05:59.382Z"
+      "date": "2026-11-01T01:57:52.665Z"
     },
     {
-      "id": "hn-50311686",
-      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-      "url": "https://tng.episodle.com/",
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Meet GroeneAI: our autonomous contributor to ClickHouse",
+      "url": "https://clickhouse.com/blog/meet-groeneai-our-autonomous-contributor-to-clickhouse",
+      "source": "ClickHouse",
+      "date": "2026-11-01T01:57:52.664Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "The new cost-based join optimizer with reordering support for non-inner joins",
+      "url": "https://clickhouse.com/blog/the-new-cost-based-join-optimizer-with-reordering-support-for-non-inner-joins",
+      "source": "ClickHouse",
+      "date": "2026-11-01T01:57:52.664Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Free TLS for internal services on AWS",
+      "url": "https://www.reddit.com/r/programming/comments/1xkoqft/free_tls_for_internal_services_on_aws/",
+      "source": "Reddit",
+      "date": "2026-10-31T23:43:24.000Z"
+    },
+    {
+      "id": "hn-50321130",
+      "title": "When electric cars were for women",
+      "url": "https://spectrum.ieee.org/early-electric-vehicles",
       "source": "HackerNews",
-      "score": 59,
-      "comments": 17,
-      "date": "2026-10-30T23:51:24.000Z"
+      "score": 36,
+      "comments": 9,
+      "date": "2026-10-31T23:08:12.000Z"
+    },
+    {
+      "id": "hn-50321048",
+      "title": "Altoids Project",
+      "url": "https://uvdn7.github.io/altoids-project/",
+      "source": "HackerNews",
+      "score": 38,
+      "comments": 0,
+      "date": "2026-10-31T22:54:55.000Z"
+    },
+    {
+      "id": "hn-50320995",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "source": "HackerNews",
+      "score": 80,
+      "comments": 38,
+      "date": "2026-10-31T22:46:12.000Z"
+    },
+    {
+      "id": "hn-50320963",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "source": "HackerNews",
+      "score": 152,
+      "comments": 46,
+      "date": "2026-10-31T22:41:06.000Z"
+    },
+    {
+      "id": "hn-50319510",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "source": "HackerNews",
+      "score": 725,
+      "comments": 244,
+      "date": "2026-10-31T19:56:53.000Z"
+    },
+    {
+      "id": "hn-50319143",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "source": "HackerNews",
+      "score": 347,
+      "comments": 167,
+      "date": "2026-10-31T19:16:30.000Z"
+    },
+    {
+      "id": "hn-50318720",
+      "title": "It's the memory latency, stupid",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "source": "HackerNews",
+      "score": 126,
+      "comments": 39,
+      "date": "2026-10-31T18:38:16.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Beating the compiler at signed 32-bit division",
+      "url": "https://www.reddit.com/r/programming/comments/1xka27q/beating_the_compiler_at_signed_32bit_division/",
+      "source": "Reddit",
+      "date": "2026-10-31T13:20:28.000Z"
+    },
+    {
+      "id": "hn-50314666",
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "url": "https://piefed.world/post/1503394",
+      "source": "HackerNews",
+      "score": 305,
+      "comments": 180,
+      "date": "2026-10-31T10:23:41.000Z"
+    },
+    {
+      "id": "hn-50313051",
+      "title": "First response from the Project Suncatcher prototype satellite",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+      "source": "HackerNews",
+      "score": 32,
+      "comments": 25,
+      "date": "2026-10-31T03:54:00.000Z"
+    },
+    {
+      "id": "hn-50311045",
+      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+      "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+      "source": "HackerNews",
+      "score": 27,
+      "comments": 9,
+      "date": "2026-10-30T22:41:03.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -96,54 +191,11 @@
       "date": "2026-10-30T21:10:58.000Z"
     },
     {
-      "id": "hn-50309314",
-      "title": "Jules Verne's Lost Novel",
-      "url": "https://blue-continuum.com/verne-paris",
-      "source": "HackerNews",
-      "score": 83,
-      "comments": 19,
-      "date": "2026-10-30T19:55:10.000Z"
-    },
-    {
-      "id": "hn-50309029",
-      "title": "Infinite Mac: BeOS",
-      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
-      "source": "HackerNews",
-      "score": 106,
-      "comments": 40,
-      "date": "2026-10-30T19:30:09.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "Yet another performance degradation research induced by mutex in an unexpected hotpath in a mature database code.",
       "url": "https://www.reddit.com/r/programming/comments/1xjo2ar/yet_another_performance_degradation_research/",
       "source": "Reddit",
       "date": "2026-10-30T18:56:45.000Z"
-    },
-    {
-      "id": "hn-50307190",
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "source": "HackerNews",
-      "score": 250,
-      "comments": 65,
-      "date": "2026-10-30T17:25:15.000Z"
-    },
-    {
-      "id": "hn-50306442",
-      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-      "url": "https://github.com/dbreunig/nesformer",
-      "source": "HackerNews",
-      "score": 195,
-      "comments": 112,
-      "date": "2026-10-30T16:40:22.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "I miss the part of programming where I figure it out myself",
-      "url": "https://www.reddit.com/r/programming/comments/1xjjr9z/i_miss_the_part_of_programming_where_i_figure_it/",
-      "source": "Reddit",
-      "date": "2026-10-30T16:17:18.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -160,45 +212,11 @@
       "date": "2026-10-30T15:37:35.000Z"
     },
     {
-      "id": "hn-50305025",
-      "title": "Northflank Breached",
-      "url": "https://status.northflank.com",
-      "source": "HackerNews",
-      "score": 364,
-      "comments": 275,
-      "date": "2026-10-30T15:10:31.000Z"
-    },
-    {
-      "id": "hn-50303172",
-      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "source": "HackerNews",
-      "score": 325,
-      "comments": 218,
-      "date": "2026-10-30T12:50:01.000Z"
-    },
-    {
-      "id": "hn-50300683",
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "source": "HackerNews",
-      "score": 784,
-      "comments": 489,
-      "date": "2026-10-30T07:09:12.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "Experimenting with Bindless Textures in WebGPU",
       "url": "https://www.reddit.com/r/programming/comments/1xj7d21/experimenting_with_bindless_textures_in_webgpu/",
       "source": "Reddit",
       "date": "2026-10-30T05:52:40.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The Last Proof of Human Craft: Forging a Microsoft Edge Full Chain with Logic Bugs Only!",
-      "url": "https://www.reddit.com/r/programming/comments/1xiq9r7/the_last_proof_of_human_craft_forging_a_microsoft/",
-      "source": "Reddit",
-      "date": "2026-10-29T17:23:10.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -213,24 +231,6 @@
       "url": "https://www.reddit.com/r/programming/comments/1xiopmn/its_the_memory_latency_stupid/",
       "source": "Reddit",
       "date": "2026-10-29T16:26:55.000Z"
-    },
-    {
-      "id": "hn-50277379",
-      "title": "Cloudflare Turnstile solver library (no headless browser required)",
-      "url": "https://github.com/chris124567/cfsolve",
-      "source": "HackerNews",
-      "score": 92,
-      "comments": 30,
-      "date": "2026-10-28T17:29:23.000Z"
-    },
-    {
-      "id": "hn-50263837",
-      "title": "Breaking the open web won't stop the bad bots",
-      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-      "source": "HackerNews",
-      "score": 193,
-      "comments": 80,
-      "date": "2026-10-27T18:42:55.000Z"
     }
   ]
 }
