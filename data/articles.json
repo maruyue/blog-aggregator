@@ -1,146 +1,161 @@
 {
-  "updatedAt": "2026-11-01T01:57:52.665Z",
+  "updatedAt": "2026-11-02T02:10:01.176Z",
   "total": 30,
   "articles": [
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Why ClickHouse Cloud wins at real-time analytics",
-      "url": "https://clickhouse.com/blog/why-clickhouse-cloud-wins-at-real-time-analytics",
-      "source": "ClickHouse",
-      "date": "2026-11-01T01:57:52.665Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "The Agentic Analytics Benchmark: ranking tables and labeling failures with Jev",
-      "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-jev",
-      "source": "ClickHouse",
-      "date": "2026-11-01T01:57:52.665Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Expanding Customer Notifications for ClickHouse Managed Postgres",
-      "url": "https://clickhouse.com/blog/expanding-customer-notifications-managed-postgres",
-      "source": "ClickHouse",
-      "date": "2026-11-01T01:57:52.665Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "How Shipsidekick replaced Neon with ClickHouse Managed Postgres for 10x faster queries and better reliability",
-      "url": "https://clickhouse.com/blog/shipsidekick-neon-to-clickhouse-managed-postgres",
-      "source": "ClickHouse",
-      "date": "2026-11-01T01:57:52.665Z"
-    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Trace and evaluate Cursor agents with Langfuse, powered by ClickHouse",
       "url": "https://clickhouse.com/blog/cursor-agents-with-langfuse",
       "source": "ClickHouse",
-      "date": "2026-11-01T01:57:52.665Z"
+      "date": "2026-11-02T02:10:00.956Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Front-end observability at scale: How OpenReplay captures billions of daily events in real time with ClickHouse",
       "url": "https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-11-01T01:57:52.665Z"
+      "date": "2026-11-02T02:10:00.956Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Running ClickHouse on NVIDIA Vera CPU: Is your favorite database up to the challenge?",
       "url": "https://clickhouse.com/blog/clickhouse-performance-on-nvidia-vera",
       "source": "ClickHouse",
-      "date": "2026-11-01T01:57:52.665Z"
+      "date": "2026-11-02T02:10:00.956Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The Agentic Analytics Benchmark, round two: GPT-6, Claude Opus 5.5, Claude Sonnet 5.5",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-round-two",
       "source": "ClickHouse",
-      "date": "2026-11-01T01:57:52.665Z"
+      "date": "2026-11-02T02:10:00.956Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Meet GroeneAI: our autonomous contributor to ClickHouse",
       "url": "https://clickhouse.com/blog/meet-groeneai-our-autonomous-contributor-to-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-11-01T01:57:52.664Z"
+      "date": "2026-11-02T02:10:00.955Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The new cost-based join optimizer with reordering support for non-inner joins",
       "url": "https://clickhouse.com/blog/the-new-cost-based-join-optimizer-with-reordering-support-for-non-inner-joins",
       "source": "ClickHouse",
-      "date": "2026-11-01T01:57:52.664Z"
+      "date": "2026-11-02T02:10:00.955Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Why ClickHouse Cloud wins at real-time analytics",
+      "url": "https://clickhouse.com/blog/why-clickhouse-cloud-wins-at-real-time-analytics",
+      "source": "ClickHouse",
+      "date": "2026-11-02T02:10:00.955Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "The Agentic Analytics Benchmark: ranking tables and labeling failures with Jev",
+      "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-jev",
+      "source": "ClickHouse",
+      "date": "2026-11-02T02:10:00.955Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Expanding Customer Notifications for ClickHouse Managed Postgres",
+      "url": "https://clickhouse.com/blog/expanding-customer-notifications-managed-postgres",
+      "source": "ClickHouse",
+      "date": "2026-11-02T02:10:00.955Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "How Shipsidekick replaced Neon with ClickHouse Managed Postgres for 10x faster queries and better reliability",
+      "url": "https://clickhouse.com/blog/shipsidekick-neon-to-clickhouse-managed-postgres",
+      "source": "ClickHouse",
+      "date": "2026-11-02T02:10:00.955Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
-      "title": "Free TLS for internal services on AWS",
-      "url": "https://www.reddit.com/r/programming/comments/1xkoqft/free_tls_for_internal_services_on_aws/",
+      "title": "The Developer Communication Handbook",
+      "url": "https://www.reddit.com/r/programming/comments/1xl9z9b/the_developer_communication_handbook/",
       "source": "Reddit",
-      "date": "2026-10-31T23:43:24.000Z"
+      "date": "2026-11-01T18:08:31.000Z"
     },
     {
-      "id": "hn-50321130",
-      "title": "When electric cars were for women",
-      "url": "https://spectrum.ieee.org/early-electric-vehicles",
-      "source": "HackerNews",
-      "score": 36,
-      "comments": 9,
-      "date": "2026-10-31T23:08:12.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Jepsen on ParticleDB: \"We tested versions 1.1.4 through 1.1.18.11.rc-22 and found that ParticleDB’s claims of “Full ACID” were somewhat premature\"",
+      "url": "https://www.reddit.com/r/programming/comments/1xl8d57/jepsen_on_particledb_we_tested_versions_114/",
+      "source": "Reddit",
+      "date": "2026-11-01T17:06:27.000Z"
     },
     {
-      "id": "hn-50321048",
-      "title": "Altoids Project",
-      "url": "https://uvdn7.github.io/altoids-project/",
-      "source": "HackerNews",
-      "score": 38,
-      "comments": 0,
-      "date": "2026-10-31T22:54:55.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "What do you get when you put every character that exists on a single page?",
+      "url": "https://www.reddit.com/r/programming/comments/1xl7yhp/what_do_you_get_when_you_put_every_character_that/",
+      "source": "Reddit",
+      "date": "2026-11-01T16:50:56.000Z"
     },
     {
-      "id": "hn-50320995",
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "source": "HackerNews",
-      "score": 80,
-      "comments": 38,
-      "date": "2026-10-31T22:46:12.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Turbo Haskell",
+      "url": "https://www.reddit.com/r/programming/comments/1xl7lsn/turbo_haskell/",
+      "source": "Reddit",
+      "date": "2026-11-01T16:37:04.000Z"
     },
     {
-      "id": "hn-50320963",
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Database Indexing Isn't Magic. Understand It From Scratch",
+      "url": "https://www.reddit.com/r/programming/comments/1xl6oes/database_indexing_isnt_magic_understand_it_from/",
+      "source": "Reddit",
+      "date": "2026-11-01T16:00:34.000Z"
+    },
+    {
+      "id": "hn-50326821",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
       "source": "HackerNews",
-      "score": 152,
-      "comments": 46,
-      "date": "2026-10-31T22:41:06.000Z"
+      "score": 938,
+      "comments": 183,
+      "date": "2026-11-01T15:58:28.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The case against Makefiles",
+      "url": "https://www.reddit.com/r/programming/comments/1xl5irk/the_case_against_makefiles/",
+      "source": "Reddit",
+      "date": "2026-11-01T15:13:37.000Z"
+    },
+    {
+      "id": "hn-50325253",
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "source": "HackerNews",
+      "score": 165,
+      "comments": 41,
+      "date": "2026-11-01T13:02:30.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "I contributed to Golang, here is how you can too",
+      "url": "https://www.reddit.com/r/programming/comments/1xkx9zu/i_contributed_to_golang_here_is_how_you_can_too/",
+      "source": "Reddit",
+      "date": "2026-11-01T07:50:09.000Z"
+    },
+    {
+      "id": "hn-50319876",
+      "title": "A Chemical Hunger (2021)",
+      "url": "https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/",
+      "source": "HackerNews",
+      "score": 12,
+      "comments": 2,
+      "date": "2026-10-31T20:32:24.000Z"
     },
     {
       "id": "hn-50319510",
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
       "source": "HackerNews",
-      "score": 725,
-      "comments": 244,
+      "score": 2298,
+      "comments": 540,
       "date": "2026-10-31T19:56:53.000Z"
-    },
-    {
-      "id": "hn-50319143",
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "source": "HackerNews",
-      "score": 347,
-      "comments": 167,
-      "date": "2026-10-31T19:16:30.000Z"
-    },
-    {
-      "id": "hn-50318720",
-      "title": "It's the memory latency, stupid",
-      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-      "source": "HackerNews",
-      "score": 126,
-      "comments": 39,
-      "date": "2026-10-31T18:38:16.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -150,31 +165,13 @@
       "date": "2026-10-31T13:20:28.000Z"
     },
     {
-      "id": "hn-50314666",
-      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-      "url": "https://piefed.world/post/1503394",
+      "id": "hn-50312408",
+      "title": "Postgres 19 is late, and it's AI's fault",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
       "source": "HackerNews",
-      "score": 305,
-      "comments": 180,
-      "date": "2026-10-31T10:23:41.000Z"
-    },
-    {
-      "id": "hn-50313051",
-      "title": "First response from the Project Suncatcher prototype satellite",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
-      "source": "HackerNews",
-      "score": 32,
-      "comments": 25,
-      "date": "2026-10-31T03:54:00.000Z"
-    },
-    {
-      "id": "hn-50311045",
-      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-      "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-      "source": "HackerNews",
-      "score": 27,
-      "comments": 9,
-      "date": "2026-10-30T22:41:03.000Z"
+      "score": 74,
+      "comments": 54,
+      "date": "2026-10-31T01:38:56.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -184,25 +181,13 @@
       "date": "2026-10-30T22:24:33.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Break Stuff on Purpose",
-      "url": "https://www.reddit.com/r/programming/comments/1xjriux/break_stuff_on_purpose/",
-      "source": "Reddit",
-      "date": "2026-10-30T21:10:58.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Yet another performance degradation research induced by mutex in an unexpected hotpath in a mature database code.",
-      "url": "https://www.reddit.com/r/programming/comments/1xjo2ar/yet_another_performance_degradation_research/",
-      "source": "Reddit",
-      "date": "2026-10-30T18:56:45.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Mastering CSS Shapes with border-shape for Dynamic Designs",
-      "url": "https://www.reddit.com/r/programming/comments/1xjj2n5/mastering_css_shapes_with_bordershape_for_dynamic/",
-      "source": "Reddit",
-      "date": "2026-10-30T15:52:35.000Z"
+      "id": "hn-50308754",
+      "title": "Copper – A minimal low-level programming language with OOP and generics",
+      "url": "https://tibleiz.net/copper/",
+      "source": "HackerNews",
+      "score": 129,
+      "comments": 76,
+      "date": "2026-10-30T19:09:33.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -212,25 +197,40 @@
       "date": "2026-10-30T15:37:35.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Experimenting with Bindless Textures in WebGPU",
-      "url": "https://www.reddit.com/r/programming/comments/1xj7d21/experimenting_with_bindless_textures_in_webgpu/",
-      "source": "Reddit",
-      "date": "2026-10-30T05:52:40.000Z"
+      "id": "hn-50303088",
+      "title": "Keeping Up Appearances – The women taking over the funeral industry",
+      "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
+      "source": "HackerNews",
+      "score": 23,
+      "comments": 4,
+      "date": "2026-10-30T12:40:08.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-      "url": "https://www.reddit.com/r/programming/comments/1xiq8we/linux_kernel_tcp_flaw_with_98_cvss_score_affects/",
-      "source": "Reddit",
-      "date": "2026-10-29T17:22:17.000Z"
+      "id": "hn-50299811",
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "url": "https://github.com/raphlinus/nibnib",
+      "source": "HackerNews",
+      "score": 99,
+      "comments": 13,
+      "date": "2026-10-30T04:17:06.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "It's the memory latency, stupid",
-      "url": "https://www.reddit.com/r/programming/comments/1xiopmn/its_the_memory_latency_stupid/",
-      "source": "Reddit",
-      "date": "2026-10-29T16:26:55.000Z"
+      "id": "hn-50299427",
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+      "source": "HackerNews",
+      "score": 46,
+      "comments": 23,
+      "date": "2026-10-30T03:06:52.000Z"
+    },
+    {
+      "id": "hn-50271106",
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "url": "https://nullprogram.com/blog/2025/02/05/",
+      "source": "HackerNews",
+      "score": 77,
+      "comments": 14,
+      "date": "2026-10-28T09:46:12.000Z"
     }
   ]
 }
