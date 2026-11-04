@@ -1,85 +1,186 @@
 {
-  "updatedAt": "2026-11-03T03:51:38.568Z",
+  "updatedAt": "2026-11-04T02:56:20.345Z",
   "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What&#x27;s new in ClickStack - September and October &#x27;26",
+      "url": "https://clickhouse.com/blog/whats-new-in-clickstack-october-2026",
+      "source": "ClickHouse",
+      "date": "2026-11-04T02:56:20.345Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Does your application need local data or faster Postgres?",
+      "url": "https://clickhouse.com/blog/does-your-application-need-local-data-or-faster-postgres",
+      "source": "ClickHouse",
+      "date": "2026-11-04T02:56:20.345Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How OpenRouter observes, understands, and acts on 740 million LLM requests a day with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/openrouter-llm-routing-observability-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-11-03T03:51:38.378Z"
+      "date": "2026-11-04T02:56:20.345Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in clickhousectl v0.5.0",
       "url": "https://clickhouse.com/blog/clickhousectl-v0-5-0",
       "source": "ClickHouse",
-      "date": "2026-11-03T03:51:38.378Z"
+      "date": "2026-11-04T02:56:20.345Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Meet GroeneAI: our autonomous contributor to ClickHouse",
       "url": "https://clickhouse.com/blog/meet-groeneai-our-autonomous-contributor-to-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-11-03T03:51:38.378Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "The new cost-based join optimizer with reordering support for non-inner joins",
-      "url": "https://clickhouse.com/blog/the-new-cost-based-join-optimizer-with-reordering-support-for-non-inner-joins",
-      "source": "ClickHouse",
-      "date": "2026-11-03T03:51:38.378Z"
+      "date": "2026-11-04T02:56:20.345Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why ClickHouse Cloud wins at real-time analytics",
       "url": "https://clickhouse.com/blog/why-clickhouse-cloud-wins-at-real-time-analytics",
       "source": "ClickHouse",
-      "date": "2026-11-03T03:51:38.378Z"
+      "date": "2026-11-04T02:56:20.345Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "The new cost-based join optimizer with reordering support for non-inner joins",
+      "url": "https://clickhouse.com/blog/the-new-cost-based-join-optimizer-with-reordering-support-for-non-inner-joins",
+      "source": "ClickHouse",
+      "date": "2026-11-04T02:56:20.345Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The Agentic Analytics Benchmark: ranking tables and labeling failures with Jev",
       "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-jev",
       "source": "ClickHouse",
-      "date": "2026-11-03T03:51:38.378Z"
+      "date": "2026-11-04T02:56:20.345Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Expanding Customer Notifications for ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/expanding-customer-notifications-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-11-03T03:51:38.378Z"
+      "date": "2026-11-04T02:56:20.345Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How Shipsidekick replaced Neon with ClickHouse Managed Postgres for 10x faster queries and better reliability",
       "url": "https://clickhouse.com/blog/shipsidekick-neon-to-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-11-03T03:51:38.378Z"
+      "date": "2026-11-04T02:56:20.345Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Trace and evaluate Cursor agents with Langfuse, powered by ClickHouse",
-      "url": "https://clickhouse.com/blog/cursor-agents-with-langfuse",
-      "source": "ClickHouse",
-      "date": "2026-11-03T03:51:38.378Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Front-end observability at scale: How OpenReplay captures billions of daily events in real time with ClickHouse",
-      "url": "https://clickhouse.com/blog/openreplay-front-end-observability-at-scale-clickhouse",
-      "source": "ClickHouse",
-      "date": "2026-11-03T03:51:38.378Z"
-    },
-    {
-      "id": "hn-50347683",
-      "title": "Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)",
-      "url": "https://www.keepingup.com/benchmarks/net-worth/age-30-33",
+      "id": "hn-50360573",
+      "title": "Giant Canyon on Mars Is Still Tectonically Active Today",
+      "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
       "source": "HackerNews",
-      "score": 27,
+      "score": 12,
       "comments": 0,
-      "date": "2026-11-03T03:28:26.000Z"
+      "date": "2026-11-04T01:40:42.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Railway Coded Malicious Scripts?!",
+      "url": "https://www.reddit.com/r/programming/comments/1xnbig3/railway_coded_malicious_scripts/",
+      "source": "Reddit",
+      "date": "2026-11-04T01:38:05.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Postgres 19 REPACK: Built-In Online Table Bloat Cleanup",
+      "url": "https://www.reddit.com/r/programming/comments/1xn9jr2/postgres_19_repack_builtin_online_table_bloat/",
+      "source": "Reddit",
+      "date": "2026-11-04T00:06:38.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "LLVM Vulkan 1.1: Drop-in compiler passes (GVN, CSE, CFG, DCE) on Vulkan compute with benchmarks & Clang integration",
+      "url": "https://www.reddit.com/r/programming/comments/1xn802v/llvm_vulkan_11_dropin_compiler_passes_gvn_cse_cfg/",
+      "source": "Reddit",
+      "date": "2026-11-03T22:59:21.000Z"
+    },
+    {
+      "id": "hn-50358702",
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "source": "HackerNews",
+      "score": 141,
+      "comments": 4,
+      "date": "2026-11-03T21:51:06.000Z"
+    },
+    {
+      "id": "hn-50358562",
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "source": "HackerNews",
+      "score": 315,
+      "comments": 189,
+      "date": "2026-11-03T21:39:05.000Z"
+    },
+    {
+      "id": "hn-50355251",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "source": "HackerNews",
+      "score": 505,
+      "comments": 157,
+      "date": "2026-11-03T17:40:00.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "The Movement Physics of Super Mario Bros - Behind the Code",
+      "url": "https://www.reddit.com/r/programming/comments/1xmydo2/the_movement_physics_of_super_mario_bros_behind/",
+      "source": "Reddit",
+      "date": "2026-11-03T16:58:20.000Z"
+    },
+    {
+      "id": "hn-50354358",
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "source": "HackerNews",
+      "score": 412,
+      "comments": 151,
+      "date": "2026-11-03T16:47:29.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "url": "https://www.reddit.com/r/programming/comments/1xmxnwu/can_group_by_still_be_optimized_after_all_these/",
+      "source": "Reddit",
+      "date": "2026-11-03T16:31:27.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Designed Once, Usable Everywhere: why PHP 8.6 adds SortDirection and Time\\Duration to the standard library",
+      "url": "https://www.reddit.com/r/programming/comments/1xmwmej/designed_once_usable_everywhere_why_php_86_adds/",
+      "source": "Reddit",
+      "date": "2026-11-03T15:53:27.000Z"
+    },
+    {
+      "id": "hn-50351463",
+      "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+      "source": "HackerNews",
+      "score": 16,
+      "comments": 30,
+      "date": "2026-11-03T12:58:43.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "I made a game in 3 kB… and accidentally created a programming language",
+      "url": "https://www.reddit.com/r/programming/comments/1xmqimu/i_made_a_game_in_3_kb_and_accidentally_created_a/",
+      "source": "Reddit",
+      "date": "2026-11-03T11:28:52.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Gefs: a filesystem for plan 9 built on Bε-trees",
+      "url": "https://www.reddit.com/r/programming/comments/1xmoxah/gefs_a_filesystem_for_plan_9_built_on_bεtrees/",
+      "source": "Reddit",
+      "date": "2026-11-03T09:54:52.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -89,29 +190,13 @@
       "date": "2026-11-03T01:54:57.000Z"
     },
     {
-      "id": "hn-50346981",
-      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "url": "https://hackertimes.ca/",
+      "id": "hn-50346755",
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
       "source": "HackerNews",
-      "score": 73,
-      "comments": 28,
-      "date": "2026-11-03T01:53:34.000Z"
-    },
-    {
-      "id": "hn-50346849",
-      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-      "source": "HackerNews",
-      "score": 70,
-      "comments": 19,
-      "date": "2026-11-03T01:33:43.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "For Macro Lovers: Could Tauto Have the World's Most Powerful Macro System?",
-      "url": "https://www.reddit.com/r/programming/comments/1xmffyy/for_macro_lovers_could_tauto_have_the_worlds_most/",
-      "source": "Reddit",
-      "date": "2026-11-03T01:14:06.000Z"
+      "score": 199,
+      "comments": 39,
+      "date": "2026-11-03T01:18:09.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -121,116 +206,31 @@
       "date": "2026-11-03T00:50:13.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Java Game Devlog - Enemy Object Management for my Java game.",
-      "url": "https://www.reddit.com/r/programming/comments/1xmdvnb/java_game_devlog_enemy_object_management_for_my/",
-      "source": "Reddit",
-      "date": "2026-11-03T00:02:44.000Z"
-    },
-    {
-      "id": "hn-50345924",
-      "title": "Scaling Git at OpenAI",
-      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "id": "hn-50339288",
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
       "source": "HackerNews",
-      "score": 76,
-      "comments": 24,
-      "date": "2026-11-02T23:47:56.000Z"
+      "score": 638,
+      "comments": 267,
+      "date": "2026-11-02T16:29:19.000Z"
     },
     {
-      "id": "hn-50341174",
-      "title": "Astra can read and write weights to improve Qwen",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "id": "hn-50336918",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
       "source": "HackerNews",
-      "score": 2128,
-      "comments": 693,
-      "date": "2026-11-02T18:21:28.000Z"
+      "score": 394,
+      "comments": 174,
+      "date": "2026-11-02T14:02:42.000Z"
     },
     {
-      "id": "hn-50339913",
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "url": "https://momentic.ai/",
+      "id": "hn-50333131",
+      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
       "source": "HackerNews",
-      "score": 132,
-      "comments": 88,
-      "date": "2026-11-02T17:05:25.000Z"
-    },
-    {
-      "id": "hn-50339397",
-      "title": "US boy names that became girl names and vice versa",
-      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-      "source": "HackerNews",
-      "score": 317,
-      "comments": 324,
-      "date": "2026-11-02T16:34:36.000Z"
-    },
-    {
-      "id": "hn-50339221",
-      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
-      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-      "source": "HackerNews",
-      "score": 224,
-      "comments": 37,
-      "date": "2026-11-02T16:25:26.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Scheme+ language : 100% Scheme compatible, infix support and now with type annotation and inference for performance.",
-      "url": "https://www.reddit.com/r/programming/comments/1xlxgqs/scheme_language_100_scheme_compatible_infix/",
-      "source": "Reddit",
-      "date": "2026-11-02T13:40:46.000Z"
-    },
-    {
-      "id": "hn-50336518",
-      "title": "If you love a website, back it up",
-      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-      "source": "HackerNews",
-      "score": 438,
-      "comments": 100,
-      "date": "2026-11-02T13:25:35.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The Benchmarking Crisis",
-      "url": "https://www.reddit.com/r/programming/comments/1xlwstd/the_benchmarking_crisis/",
-      "source": "Reddit",
-      "date": "2026-11-02T13:12:16.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "CheerpJ 5.0: Java 21/25 in the browser, full OpenJDK, and a new WasmGC engine",
-      "url": "https://www.reddit.com/r/programming/comments/1xlutld/cheerpj_50_java_2125_in_the_browser_full_openjdk/",
-      "source": "Reddit",
-      "date": "2026-11-02T11:34:46.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The fastest double-to-string algorithm you’ve never heard of",
-      "url": "https://www.reddit.com/r/programming/comments/1xlqfb6/the_fastest_doubletostring_algorithm_youve_never/",
-      "source": "Reddit",
-      "date": "2026-11-02T07:00:29.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Jepsen on ParticleDB: \"We tested versions 1.1.4 through 1.1.18.11.rc-22 and found that ParticleDB’s claims of “Full ACID” were somewhat premature\"",
-      "url": "https://www.reddit.com/r/programming/comments/1xl8d57/jepsen_on_particledb_we_tested_versions_114/",
-      "source": "Reddit",
-      "date": "2026-11-01T17:06:27.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Database Indexing Isn't Magic. Understand It From Scratch",
-      "url": "https://www.reddit.com/r/programming/comments/1xl6oes/database_indexing_isnt_magic_understand_it_from/",
-      "source": "Reddit",
-      "date": "2026-11-01T16:00:34.000Z"
-    },
-    {
-      "id": "hn-50323123",
-      "title": "Resisting Cognitive Surrender",
-      "url": "https://knlb.dev/essays/surrender",
-      "source": "HackerNews",
-      "score": 25,
-      "comments": 3,
-      "date": "2026-11-01T06:13:30.000Z"
+      "score": 127,
+      "comments": 21,
+      "date": "2026-11-02T04:31:20.000Z"
     }
   ]
 }
