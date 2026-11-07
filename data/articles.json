@@ -1,166 +1,166 @@
 {
-  "updatedAt": "2026-11-06T03:16:04.259Z",
+  "updatedAt": "2026-11-07T02:35:59.682Z",
   "total": 20,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "ClickHouse release 26.10",
+      "url": "https://clickhouse.com/blog/clickhouse-release-26-10",
+      "source": "ClickHouse",
+      "date": "2026-11-07T02:35:43.361Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "MongoDB CDC connector for ClickPipes is now generally available",
       "url": "https://clickhouse.com/blog/mongodb-cdc-connector-clickpipes-ga",
       "source": "ClickHouse",
-      "date": "2026-11-06T03:16:04.259Z"
+      "date": "2026-11-07T02:35:43.361Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Fencing a Postgres primary that might still be alive",
       "url": "https://clickhouse.com/blog/fencing-a-postgres-primary-that-might-still-be-alive",
       "source": "ClickHouse",
-      "date": "2026-11-06T03:16:04.259Z"
+      "date": "2026-11-07T02:35:43.361Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickStack - September and October &#x27;26",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-october-2026",
       "source": "ClickHouse",
-      "date": "2026-11-06T03:16:04.259Z"
+      "date": "2026-11-07T02:35:43.361Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Does your application need local data or faster Postgres?",
       "url": "https://clickhouse.com/blog/does-your-application-need-local-data-or-faster-postgres",
       "source": "ClickHouse",
-      "date": "2026-11-06T03:16:04.259Z"
+      "date": "2026-11-07T02:35:43.361Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How OpenRouter observes, understands, and acts on 740 million LLM requests a day with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/openrouter-llm-routing-observability-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-11-06T03:16:04.259Z"
+      "date": "2026-11-07T02:35:43.361Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in clickhousectl v0.5.0",
       "url": "https://clickhouse.com/blog/clickhousectl-v0-5-0",
       "source": "ClickHouse",
-      "date": "2026-11-06T03:16:04.259Z"
+      "date": "2026-11-07T02:35:43.361Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Meet GroeneAI: our autonomous contributor to ClickHouse",
       "url": "https://clickhouse.com/blog/meet-groeneai-our-autonomous-contributor-to-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-11-06T03:16:04.259Z"
+      "date": "2026-11-07T02:35:43.361Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why ClickHouse Cloud wins at real-time analytics",
       "url": "https://clickhouse.com/blog/why-clickhouse-cloud-wins-at-real-time-analytics",
       "source": "ClickHouse",
-      "date": "2026-11-06T03:16:04.259Z"
+      "date": "2026-11-07T02:35:43.361Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
-      "title": "The new cost-based join optimizer with reordering support for non-inner joins",
-      "url": "https://clickhouse.com/blog/the-new-cost-based-join-optimizer-with-reordering-support-for-non-inner-joins",
+      "title": "What I learned from a month with WalShadow on ClickHouse Managed Postgres",
+      "url": "https://clickhouse.com/blog/a-month-with-walshadow-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-11-06T03:16:04.259Z"
+      "date": "2026-11-07T02:35:43.360Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "The Agentic Analytics Benchmark: ranking tables and labeling failures with Jev",
-      "url": "https://clickhouse.com/blog/agentic-analytics-benchmark-jev",
-      "source": "ClickHouse",
-      "date": "2026-11-06T03:16:04.259Z"
-    },
-    {
-      "id": "hn-50386338",
-      "title": "Inkling 2 Small",
-      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "id": "hn-50400597",
+      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+      "url": "https://josef.cn/blog/unitree",
       "source": "HackerNews",
-      "score": 88,
-      "comments": 40,
-      "date": "2026-11-06T00:00:24.000Z"
-    },
-    {
-      "id": "hn-50385272",
-      "title": "Claude Code sends your email address to websites",
-      "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "source": "HackerNews",
-      "score": 625,
-      "comments": 213,
-      "date": "2026-11-05T22:17:15.000Z"
-    },
-    {
-      "id": "hn-50384233",
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "source": "HackerNews",
-      "score": 347,
-      "comments": 134,
-      "date": "2026-11-05T20:43:42.000Z"
-    },
-    {
-      "id": "hn-50383963",
-      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-      "source": "HackerNews",
-      "score": 92,
-      "comments": 3,
-      "date": "2026-11-05T20:21:43.000Z"
-    },
-    {
-      "id": "hn-50383740",
-      "title": "Search for everyone",
-      "url": "https://kagi.com/changelog#11820",
-      "source": "HackerNews",
-      "score": 578,
-      "comments": 276,
-      "date": "2026-11-05T20:03:34.000Z"
-    },
-    {
-      "id": "hn-50383057",
-      "title": "The Hackintosh Reborn",
-      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-      "source": "HackerNews",
-      "score": 226,
-      "comments": 107,
-      "date": "2026-11-05T19:08:22.000Z"
-    },
-    {
-      "id": "hn-50381383",
-      "title": "Window Sweaters",
-      "url": "https://github.com/saragordic/window-sweaters",
-      "source": "HackerNews",
-      "score": 266,
-      "comments": 83,
-      "date": "2026-11-05T16:50:14.000Z"
-    },
-    {
-      "id": "hn-50379704",
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-      "source": "HackerNews",
-      "score": 602,
-      "comments": 128,
-      "date": "2026-11-05T14:44:20.000Z"
-    },
-    {
-      "id": "hn-50378643",
-      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
-      "url": "https://firenook.dev/",
-      "source": "HackerNews",
-      "score": 49,
+      "score": 27,
       "comments": 10,
-      "date": "2026-11-05T13:07:29.000Z"
+      "date": "2026-11-07T01:05:16.000Z"
     },
     {
-      "id": "hn-50378228",
-      "title": "sshole",
-      "url": "https://sshhole.com",
+      "id": "hn-50399933",
+      "title": "Libghostty 1.0",
+      "url": "https://mitchellh.com/writing/libghostty-1-0",
       "source": "HackerNews",
-      "score": 2389,
-      "comments": 590,
-      "date": "2026-11-05T12:19:02.000Z"
+      "score": 223,
+      "comments": 28,
+      "date": "2026-11-06T23:30:52.000Z"
+    },
+    {
+      "id": "hn-50399695",
+      "title": "Outbound SIP calling is now available to all organizations",
+      "url": "https://developers.openai.com/api/docs/guides/voice-sip",
+      "source": "HackerNews",
+      "score": 50,
+      "comments": 32,
+      "date": "2026-11-06T23:03:55.000Z"
+    },
+    {
+      "id": "hn-50397994",
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "source": "HackerNews",
+      "score": 212,
+      "comments": 160,
+      "date": "2026-11-06T20:27:23.000Z"
+    },
+    {
+      "id": "hn-50397429",
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "source": "HackerNews",
+      "score": 350,
+      "comments": 77,
+      "date": "2026-11-06T19:48:51.000Z"
+    },
+    {
+      "id": "hn-50397219",
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "source": "HackerNews",
+      "score": 180,
+      "comments": 79,
+      "date": "2026-11-06T19:33:38.000Z"
+    },
+    {
+      "id": "hn-50391456",
+      "title": "Tesla to wind down Cybertruck production",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "source": "HackerNews",
+      "score": 865,
+      "comments": 1730,
+      "date": "2026-11-06T12:13:51.000Z"
+    },
+    {
+      "id": "hn-50388001",
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "source": "HackerNews",
+      "score": 289,
+      "comments": 227,
+      "date": "2026-11-06T04:00:28.000Z"
+    },
+    {
+      "id": "hn-50360810",
+      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+      "source": "HackerNews",
+      "score": 27,
+      "comments": 0,
+      "date": "2026-11-04T02:19:16.000Z"
+    },
+    {
+      "id": "hn-50354097",
+      "title": "Can GROUP BY still be optimized after all these years?",
+      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+      "source": "HackerNews",
+      "score": 46,
+      "comments": 0,
+      "date": "2026-11-03T16:30:23.000Z"
     }
   ]
 }
