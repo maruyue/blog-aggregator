@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-11-07T02:35:59.682Z",
-  "total": 20,
+  "updatedAt": "2026-11-08T02:06:23.042Z",
+  "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "What I learned from a month with WalShadow on ClickHouse Managed Postgres",
+      "url": "https://clickhouse.com/blog/a-month-with-walshadow-clickhouse-managed-postgres",
+      "source": "ClickHouse",
+      "date": "2026-11-08T02:06:22.786Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse release 26.10",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-10",
       "source": "ClickHouse",
-      "date": "2026-11-07T02:35:43.361Z"
+      "date": "2026-11-08T02:06:22.786Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "MongoDB CDC connector for ClickPipes is now generally available",
       "url": "https://clickhouse.com/blog/mongodb-cdc-connector-clickpipes-ga",
       "source": "ClickHouse",
-      "date": "2026-11-07T02:35:43.361Z"
+      "date": "2026-11-08T02:06:22.786Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Fencing a Postgres primary that might still be alive",
       "url": "https://clickhouse.com/blog/fencing-a-postgres-primary-that-might-still-be-alive",
       "source": "ClickHouse",
-      "date": "2026-11-07T02:35:43.361Z"
+      "date": "2026-11-08T02:06:22.786Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in ClickStack - September and October &#x27;26",
       "url": "https://clickhouse.com/blog/whats-new-in-clickstack-october-2026",
       "source": "ClickHouse",
-      "date": "2026-11-07T02:35:43.361Z"
+      "date": "2026-11-08T02:06:22.786Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Does your application need local data or faster Postgres?",
       "url": "https://clickhouse.com/blog/does-your-application-need-local-data-or-faster-postgres",
       "source": "ClickHouse",
-      "date": "2026-11-07T02:35:43.361Z"
+      "date": "2026-11-08T02:06:22.786Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "How OpenRouter observes, understands, and acts on 740 million LLM requests a day with ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/openrouter-llm-routing-observability-clickhouse-cloud",
       "source": "ClickHouse",
-      "date": "2026-11-07T02:35:43.361Z"
+      "date": "2026-11-08T02:06:22.786Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What&#x27;s new in clickhousectl v0.5.0",
       "url": "https://clickhouse.com/blog/clickhousectl-v0-5-0",
       "source": "ClickHouse",
-      "date": "2026-11-07T02:35:43.361Z"
+      "date": "2026-11-08T02:06:22.786Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Meet GroeneAI: our autonomous contributor to ClickHouse",
       "url": "https://clickhouse.com/blog/meet-groeneai-our-autonomous-contributor-to-clickhouse",
       "source": "ClickHouse",
-      "date": "2026-11-07T02:35:43.361Z"
+      "date": "2026-11-08T02:06:22.786Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Why ClickHouse Cloud wins at real-time analytics",
       "url": "https://clickhouse.com/blog/why-clickhouse-cloud-wins-at-real-time-analytics",
       "source": "ClickHouse",
-      "date": "2026-11-07T02:35:43.361Z"
+      "date": "2026-11-08T02:06:22.786Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "What I learned from a month with WalShadow on ClickHouse Managed Postgres",
-      "url": "https://clickhouse.com/blog/a-month-with-walshadow-clickhouse-managed-postgres",
-      "source": "ClickHouse",
-      "date": "2026-11-07T02:35:43.360Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Should You Learn Java in 2026?",
+      "url": "https://www.reddit.com/r/programming/comments/1xqlw7z/should_you_learn_java_in_2026/",
+      "source": "Reddit",
+      "date": "2026-11-08T01:00:58.000Z"
     },
     {
-      "id": "hn-50400597",
-      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
-      "url": "https://josef.cn/blog/unitree",
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Unified Grid: How We Re-Architected Slack for Our Largest Customers",
+      "url": "https://www.reddit.com/r/programming/comments/1xqklmx/unified_grid_how_we_rearchitected_slack_for_our/",
+      "source": "Reddit",
+      "date": "2026-11-07T23:58:05.000Z"
+    },
+    {
+      "id": "hn-50408931",
+      "title": "GitHub New pull request overview page in public preview",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
       "source": "HackerNews",
-      "score": 27,
-      "comments": 10,
-      "date": "2026-11-07T01:05:16.000Z"
+      "score": 63,
+      "comments": 47,
+      "date": "2026-11-07T23:09:40.000Z"
     },
     {
-      "id": "hn-50399933",
-      "title": "Libghostty 1.0",
-      "url": "https://mitchellh.com/writing/libghostty-1-0",
+      "id": "hn-50408713",
+      "title": "Making any integer with four 2s (2025)",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
       "source": "HackerNews",
-      "score": 223,
-      "comments": 28,
-      "date": "2026-11-06T23:30:52.000Z"
+      "score": 61,
+      "comments": 12,
+      "date": "2026-11-07T22:38:58.000Z"
     },
     {
-      "id": "hn-50399695",
-      "title": "Outbound SIP calling is now available to all organizations",
-      "url": "https://developers.openai.com/api/docs/guides/voice-sip",
+      "id": "hn-50407882",
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
       "source": "HackerNews",
-      "score": 50,
-      "comments": 32,
-      "date": "2026-11-06T23:03:55.000Z"
+      "score": 186,
+      "comments": 129,
+      "date": "2026-11-07T20:45:32.000Z"
     },
     {
-      "id": "hn-50397994",
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "id": "hn-50406670",
+      "title": "What I run on my $10 USD OpenStick homelab",
+      "url": "https://blog.bosscher.ch/posts/openstick/",
       "source": "HackerNews",
-      "score": 212,
-      "comments": 160,
-      "date": "2026-11-06T20:27:23.000Z"
+      "score": 343,
+      "comments": 84,
+      "date": "2026-11-07T18:12:12.000Z"
     },
     {
-      "id": "hn-50397429",
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "id": "hn-50406563",
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
       "source": "HackerNews",
-      "score": 350,
-      "comments": 77,
-      "date": "2026-11-06T19:48:51.000Z"
-    },
-    {
-      "id": "hn-50397219",
-      "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "url": "https://pwn.ai/blog/firecracker-escape",
-      "source": "HackerNews",
-      "score": 180,
-      "comments": 79,
-      "date": "2026-11-06T19:33:38.000Z"
-    },
-    {
-      "id": "hn-50391456",
-      "title": "Tesla to wind down Cybertruck production",
-      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-      "source": "HackerNews",
-      "score": 865,
-      "comments": 1730,
-      "date": "2026-11-06T12:13:51.000Z"
-    },
-    {
-      "id": "hn-50388001",
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "source": "HackerNews",
-      "score": 289,
+      "score": 389,
       "comments": 227,
-      "date": "2026-11-06T04:00:28.000Z"
+      "date": "2026-11-07T18:02:17.000Z"
     },
     {
-      "id": "hn-50360810",
-      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
-      "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+      "id": "hn-50406292",
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "url": "https://github.com/hedgerow-dev/coldframe",
       "source": "HackerNews",
-      "score": 27,
-      "comments": 0,
-      "date": "2026-11-04T02:19:16.000Z"
+      "score": 193,
+      "comments": 40,
+      "date": "2026-11-07T17:27:30.000Z"
     },
     {
-      "id": "hn-50354097",
-      "title": "Can GROUP BY still be optimized after all these years?",
-      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+      "id": "hn-50406222",
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
       "source": "HackerNews",
-      "score": 46,
-      "comments": 0,
-      "date": "2026-11-03T16:30:23.000Z"
+      "score": 205,
+      "comments": 63,
+      "date": "2026-11-07T17:19:00.000Z"
+    },
+    {
+      "id": "hn-50406111",
+      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "source": "HackerNews",
+      "score": 362,
+      "comments": 243,
+      "date": "2026-11-07T17:06:36.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Internals of asyncio",
+      "url": "https://www.reddit.com/r/programming/comments/1xq391t/internals_of_asyncio/",
+      "source": "Reddit",
+      "date": "2026-11-07T10:26:39.000Z"
+    },
+    {
+      "id": "hn-50403052",
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "source": "HackerNews",
+      "score": 826,
+      "comments": 227,
+      "date": "2026-11-07T09:36:36.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Libghostty 1.0",
+      "url": "https://www.reddit.com/r/programming/comments/1xptemt/libghostty_10/",
+      "source": "Reddit",
+      "date": "2026-11-07T01:00:30.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Unity3D for .NET Developers: How to get started",
+      "url": "https://www.reddit.com/r/programming/comments/1xpbd2s/unity3d_for_net_developers_how_to_get_started/",
+      "source": "Reddit",
+      "date": "2026-11-06T12:16:46.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Go 1.27: encoding/json/v2, Stricter Defaults, and Finally [] for Nil Slices · cekrem.github.io",
+      "url": "https://www.reddit.com/r/programming/comments/1xp8b96/go_127_encodingjsonv2_stricter_defaults_and/",
+      "source": "Reddit",
+      "date": "2026-11-06T09:08:25.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Modern Java at Stripe: Language upgrades as a service",
+      "url": "https://www.reddit.com/r/programming/comments/1xov21m/modern_java_at_stripe_language_upgrades_as_a/",
+      "source": "Reddit",
+      "date": "2026-11-05T21:36:29.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "openssh on musl linux has been letting people into password-less accounts since 2016",
+      "url": "https://www.reddit.com/r/programming/comments/1xojg3s/openssh_on_musl_linux_has_been_letting_people/",
+      "source": "Reddit",
+      "date": "2026-11-05T14:04:10.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Do not ask \"Is A a B?\": Inheritance and the Is-A Trap",
+      "url": "https://www.reddit.com/r/programming/comments/1xohfz9/do_not_ask_is_a_a_b_inheritance_and_the_isa_trap/",
+      "source": "Reddit",
+      "date": "2026-11-05T12:30:19.000Z"
+    },
+    {
+      "id": "hn-50377661",
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "source": "HackerNews",
+      "score": 68,
+      "comments": 25,
+      "date": "2026-11-05T10:52:04.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "A Look at Datastar",
+      "url": "https://www.reddit.com/r/programming/comments/1xofjis/a_look_at_datastar/",
+      "source": "Reddit",
+      "date": "2026-11-05T10:43:45.000Z"
     }
   ]
 }
