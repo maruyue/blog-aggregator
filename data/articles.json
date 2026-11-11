@@ -1,85 +1,213 @@
 {
-  "updatedAt": "2026-11-10T04:30:39.578Z",
+  "updatedAt": "2026-11-11T02:35:35.617Z",
   "total": 30,
   "articles": [
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "The largest expansion of ClickHouse yet",
-      "url": "https://clickhouse.com/blog/announcing-clickhouse-platform-largest-expansion",
-      "source": "ClickHouse",
-      "date": "2026-11-10T04:30:39.496Z"
-    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing ClickHouse Observability - fully managed observability on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/announcing-clickhouse-observability",
       "source": "ClickHouse",
-      "date": "2026-11-10T04:30:39.496Z"
+      "date": "2026-11-11T02:35:35.448Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "The largest expansion of ClickHouse yet",
+      "url": "https://clickhouse.com/blog/announcing-clickhouse-platform-largest-expansion",
+      "source": "ClickHouse",
+      "date": "2026-11-11T02:35:35.448Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Unifies Enterprise AI Data Stack with Launch of Expanded Platform",
       "url": "https://clickhouse.com/blog/clickhouse-unifies-enterprise-ai-data-stack",
       "source": "ClickHouse",
-      "date": "2026-11-10T04:30:39.496Z"
+      "date": "2026-11-11T02:35:35.448Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing ClickHouse Security in private preview, built on RunReveal",
       "url": "https://clickhouse.com/blog/introducing-clickhouse-security-agentic-siem",
       "source": "ClickHouse",
-      "date": "2026-11-10T04:30:39.496Z"
+      "date": "2026-11-11T02:35:35.448Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Langfuse launches AI Gateway",
       "url": "https://clickhouse.com/blog/langfuse-ai-gateway",
       "source": "ClickHouse",
-      "date": "2026-11-10T04:30:39.496Z"
+      "date": "2026-11-11T02:35:35.448Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The observability UI as we know it is dead. So what comes next?",
       "url": "https://clickhouse.com/blog/observability-ui-is-dead-whats-next",
       "source": "ClickHouse",
-      "date": "2026-11-10T04:30:39.496Z"
+      "date": "2026-11-11T02:35:35.448Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Managed Postgres goes GA and Xata acquisition brings agentic capabilities to the service",
       "url": "https://clickhouse.com/blog/managed-postgres-ga-xata-acquisition",
       "source": "ClickHouse",
-      "date": "2026-11-10T04:30:39.496Z"
+      "date": "2026-11-11T02:35:35.448Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What I learned from a month with WalShadow on ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/a-month-with-walshadow-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-11-10T04:30:39.496Z"
+      "date": "2026-11-11T02:35:35.448Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse release 26.10",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-10",
       "source": "ClickHouse",
-      "date": "2026-11-10T04:30:39.496Z"
+      "date": "2026-11-11T02:35:35.448Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "MongoDB CDC connector for ClickPipes is now generally available",
       "url": "https://clickhouse.com/blog/mongodb-cdc-connector-clickpipes-ga",
       "source": "ClickHouse",
-      "date": "2026-11-10T04:30:39.496Z"
+      "date": "2026-11-11T02:35:35.448Z"
     },
     {
-      "id": "hn-50435660",
-      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "id": "hn-50448921",
+      "title": "A great old-timey game-programming hack (2013)",
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
       "source": "HackerNews",
-      "score": 43,
-      "comments": 10,
-      "date": "2026-11-10T03:20:06.000Z"
+      "score": 15,
+      "comments": 0,
+      "date": "2026-11-11T01:56:31.000Z"
+    },
+    {
+      "id": "hn-50447074",
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "source": "HackerNews",
+      "score": 267,
+      "comments": 112,
+      "date": "2026-11-10T22:17:56.000Z"
+    },
+    {
+      "id": "hn-50446246",
+      "title": "Six Math Essentials by Terence Tao",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "source": "HackerNews",
+      "score": 141,
+      "comments": 26,
+      "date": "2026-11-10T20:58:44.000Z"
+    },
+    {
+      "id": "hn-50445401",
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "source": "HackerNews",
+      "score": 344,
+      "comments": 258,
+      "date": "2026-11-10T19:50:46.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "A Chromium Bug Caused by a 25-Hour Day",
+      "url": "https://www.reddit.com/r/programming/comments/1xsvulu/a_chromium_bug_caused_by_a_25hour_day/",
+      "source": "Reddit",
+      "date": "2026-11-10T19:15:19.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Benchmarking iOS builds on Apple silicon: newer chips beat extra cores",
+      "url": "https://www.reddit.com/r/programming/comments/1xsuvp3/benchmarking_ios_builds_on_apple_silicon_newer/",
+      "source": "Reddit",
+      "date": "2026-11-10T18:38:32.000Z"
+    },
+    {
+      "id": "hn-50444129",
+      "title": "Starlink Mini 2",
+      "url": "https://starlink.com/mini-2",
+      "source": "HackerNews",
+      "score": 262,
+      "comments": 267,
+      "date": "2026-11-10T18:22:32.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Announcing .NET 11",
+      "url": "https://www.reddit.com/r/programming/comments/1xstxzv/announcing_net_11/",
+      "source": "Reddit",
+      "date": "2026-11-10T18:04:29.000Z"
+    },
+    {
+      "id": "hn-50443824",
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "source": "HackerNews",
+      "score": 309,
+      "comments": 167,
+      "date": "2026-11-10T18:02:02.000Z"
+    },
+    {
+      "id": "hn-50443427",
+      "title": "Val Town is winding down",
+      "url": "https://blog.val.town/winding-down",
+      "source": "HackerNews",
+      "score": 315,
+      "comments": 82,
+      "date": "2026-11-10T17:31:14.000Z"
+    },
+    {
+      "id": "hn-50442736",
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "source": "HackerNews",
+      "score": 697,
+      "comments": 163,
+      "date": "2026-11-10T16:37:44.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Why OpenSSH Accepts a Password It Shouldn’t | Patch Notes",
+      "url": "https://www.reddit.com/r/programming/comments/1xsqsrb/why_openssh_accepts_a_password_it_shouldnt_patch/",
+      "source": "Reddit",
+      "date": "2026-11-10T16:06:51.000Z"
+    },
+    {
+      "id": "hn-50441707",
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "source": "HackerNews",
+      "score": 732,
+      "comments": 260,
+      "date": "2026-11-10T15:25:20.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Let Over Lambda book is now free to read online",
+      "url": "https://www.reddit.com/r/programming/comments/1xskt8m/let_over_lambda_book_is_now_free_to_read_online/",
+      "source": "Reddit",
+      "date": "2026-11-10T11:45:22.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Microservices can work for low-latency workloads",
+      "url": "https://www.reddit.com/r/programming/comments/1xskt6g/microservices_can_work_for_lowlatency_workloads/",
+      "source": "Reddit",
+      "date": "2026-11-10T11:45:16.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "A faster way to calculate the date of Easter",
+      "url": "https://www.reddit.com/r/programming/comments/1xsiojn/a_faster_way_to_calculate_the_date_of_easter/",
+      "source": "Reddit",
+      "date": "2026-11-10T09:36:42.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Decoding REXPaint Files in Odin",
+      "url": "https://www.reddit.com/r/programming/comments/1xse6zb/decoding_rexpaint_files_in_odin/",
+      "source": "Reddit",
+      "date": "2026-11-10T04:59:39.000Z"
     },
     {
       "id": "reddit-aHR0cHM6Ly93",
@@ -89,90 +217,6 @@
       "date": "2026-11-10T01:13:15.000Z"
     },
     {
-      "id": "hn-50434310",
-      "title": "Locating the source of a mysterious beep",
-      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "source": "HackerNews",
-      "score": 52,
-      "comments": 29,
-      "date": "2026-11-10T00:10:46.000Z"
-    },
-    {
-      "id": "hn-50434264",
-      "title": "Horible public key tricks",
-      "url": "https://maurycyz.com/projects/badcert/",
-      "source": "HackerNews",
-      "score": 68,
-      "comments": 30,
-      "date": "2026-11-10T00:07:17.000Z"
-    },
-    {
-      "id": "hn-50433541",
-      "title": "Exact – a new cross platform UI framework",
-      "url": "https://github.com/expo/exact",
-      "source": "HackerNews",
-      "score": 80,
-      "comments": 36,
-      "date": "2026-11-09T22:59:13.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How we saved 100 terabytes of memory by optimizing 1.1.1.1’s DNS cache",
-      "url": "https://www.reddit.com/r/programming/comments/1xs558h/how_we_saved_100_terabytes_of_memory_by/",
-      "source": "Reddit",
-      "date": "2026-11-09T22:00:14.000Z"
-    },
-    {
-      "id": "hn-50431058",
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "url": "https://postalpro.usps.com/zcb",
-      "source": "HackerNews",
-      "score": 541,
-      "comments": 276,
-      "date": "2026-11-09T19:58:59.000Z"
-    },
-    {
-      "id": "hn-50429734",
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "url": "https://e-means.github.io/",
-      "source": "HackerNews",
-      "score": 312,
-      "comments": 28,
-      "date": "2026-11-09T18:45:43.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "The ENIAC in Context: 80 Years of Computing History",
-      "url": "https://www.reddit.com/r/programming/comments/1xrzu9t/the_eniac_in_context_80_years_of_computing_history/",
-      "source": "Reddit",
-      "date": "2026-11-09T18:40:12.000Z"
-    },
-    {
-      "id": "hn-50429068",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "source": "HackerNews",
-      "score": 322,
-      "comments": 670,
-      "date": "2026-11-09T18:01:10.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "A Matrix Multiplication Algorithm Rooted In Graph Theory",
-      "url": "https://www.reddit.com/r/programming/comments/1xrwyq8/a_matrix_multiplication_algorithm_rooted_in_graph/",
-      "source": "Reddit",
-      "date": "2026-11-09T16:55:33.000Z"
-    },
-    {
-      "id": "hn-50427362",
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "source": "HackerNews",
-      "score": 490,
-      "comments": 274,
-      "date": "2026-11-09T16:00:45.000Z"
-    },
-    {
       "id": "reddit-aHR0cHM6Ly93",
       "title": "C# 15: Union Types, Closed Hierarchies, and the One Value™ That Isn't Any of Them · cekrem.github.io",
       "url": "https://www.reddit.com/r/programming/comments/1xrrmk7/c_15_union_types_closed_hierarchies_and_the_one/",
@@ -180,57 +224,13 @@
       "date": "2026-11-09T13:27:16.000Z"
     },
     {
-      "id": "hn-50424581",
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "url": "https://www.foldableflight.com",
+      "id": "hn-50406224",
+      "title": "Hacking the Meta Ray-Ban smartglasses",
+      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
       "source": "HackerNews",
-      "score": 898,
-      "comments": 141,
-      "date": "2026-11-09T12:19:22.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "C64 Demo Effect Explained: The Bumpmapped Rain in Lunatico",
-      "url": "https://www.reddit.com/r/programming/comments/1xrbciy/c64_demo_effect_explained_the_bumpmapped_rain_in/",
-      "source": "Reddit",
-      "date": "2026-11-08T22:43:05.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Sem86 - A full-system emulator without hardcoded semantics",
-      "url": "https://www.reddit.com/r/programming/comments/1xr4v4f/sem86_a_fullsystem_emulator_without_hardcoded/",
-      "source": "Reddit",
-      "date": "2026-11-08T18:09:53.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Micron - a Pascal/Oberon-derived systems language with the power of C",
-      "url": "https://www.reddit.com/r/programming/comments/1xqyx52/micron_a_pascaloberonderived_systems_language/",
-      "source": "Reddit",
-      "date": "2026-11-08T13:52:58.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Profiles for Simplicity and Guarantees - Bjarne Stroustrup",
-      "url": "https://www.reddit.com/r/programming/comments/1xqs5vb/profiles_for_simplicity_and_guarantees_bjarne/",
-      "source": "Reddit",
-      "date": "2026-11-08T06:53:33.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Objects, attributes, maps, oh my!",
-      "url": "https://www.reddit.com/r/programming/comments/1xqq13j/objects_attributes_maps_oh_my/",
-      "source": "Reddit",
-      "date": "2026-11-08T04:44:15.000Z"
-    },
-    {
-      "id": "hn-50378118",
-      "title": "How Many People Work from Home?",
-      "url": "https://nicholasdecker.substack.com/p/how-many-people-work-from-home",
-      "source": "HackerNews",
-      "score": 9,
-      "comments": 4,
-      "date": "2026-11-05T12:00:05.000Z"
+      "score": 52,
+      "comments": 16,
+      "date": "2026-11-07T17:19:02.000Z"
     }
   ]
 }
