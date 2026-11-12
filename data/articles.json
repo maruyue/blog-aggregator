@@ -1,236 +1,166 @@
 {
-  "updatedAt": "2026-11-11T02:35:35.617Z",
-  "total": 30,
+  "updatedAt": "2026-11-12T03:39:40.719Z",
+  "total": 20,
   "articles": [
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing ClickHouse Observability - fully managed observability on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/announcing-clickhouse-observability",
       "source": "ClickHouse",
-      "date": "2026-11-11T02:35:35.448Z"
+      "date": "2026-11-12T03:39:40.719Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The largest expansion of ClickHouse yet",
       "url": "https://clickhouse.com/blog/announcing-clickhouse-platform-largest-expansion",
       "source": "ClickHouse",
-      "date": "2026-11-11T02:35:35.448Z"
+      "date": "2026-11-12T03:39:40.719Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Unifies Enterprise AI Data Stack with Launch of Expanded Platform",
       "url": "https://clickhouse.com/blog/clickhouse-unifies-enterprise-ai-data-stack",
       "source": "ClickHouse",
-      "date": "2026-11-11T02:35:35.448Z"
+      "date": "2026-11-12T03:39:40.719Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing ClickHouse Security in private preview, built on RunReveal",
       "url": "https://clickhouse.com/blog/introducing-clickhouse-security-agentic-siem",
       "source": "ClickHouse",
-      "date": "2026-11-11T02:35:35.448Z"
+      "date": "2026-11-12T03:39:40.719Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Langfuse launches AI Gateway",
       "url": "https://clickhouse.com/blog/langfuse-ai-gateway",
       "source": "ClickHouse",
-      "date": "2026-11-11T02:35:35.448Z"
+      "date": "2026-11-12T03:39:40.719Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The observability UI as we know it is dead. So what comes next?",
       "url": "https://clickhouse.com/blog/observability-ui-is-dead-whats-next",
       "source": "ClickHouse",
-      "date": "2026-11-11T02:35:35.448Z"
+      "date": "2026-11-12T03:39:40.719Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Managed Postgres goes GA and Xata acquisition brings agentic capabilities to the service",
       "url": "https://clickhouse.com/blog/managed-postgres-ga-xata-acquisition",
       "source": "ClickHouse",
-      "date": "2026-11-11T02:35:35.448Z"
+      "date": "2026-11-12T03:39:40.719Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What I learned from a month with WalShadow on ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/a-month-with-walshadow-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-11-11T02:35:35.448Z"
+      "date": "2026-11-12T03:39:40.719Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse release 26.10",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-10",
       "source": "ClickHouse",
-      "date": "2026-11-11T02:35:35.448Z"
+      "date": "2026-11-12T03:39:40.719Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "MongoDB CDC connector for ClickPipes is now generally available",
       "url": "https://clickhouse.com/blog/mongodb-cdc-connector-clickpipes-ga",
       "source": "ClickHouse",
-      "date": "2026-11-11T02:35:35.448Z"
+      "date": "2026-11-12T03:39:40.719Z"
     },
     {
-      "id": "hn-50448921",
-      "title": "A great old-timey game-programming hack (2013)",
-      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "id": "hn-50462177",
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
       "source": "HackerNews",
-      "score": 15,
-      "comments": 0,
-      "date": "2026-11-11T01:56:31.000Z"
+      "score": 21,
+      "comments": 12,
+      "date": "2026-11-12T02:11:11.000Z"
     },
     {
-      "id": "hn-50447074",
-      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "id": "hn-50459745",
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
       "source": "HackerNews",
-      "score": 267,
-      "comments": 112,
-      "date": "2026-11-10T22:17:56.000Z"
+      "score": 218,
+      "comments": 32,
+      "date": "2026-11-11T22:34:23.000Z"
     },
     {
-      "id": "hn-50446246",
-      "title": "Six Math Essentials by Terence Tao",
-      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "id": "hn-50459703",
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
       "source": "HackerNews",
-      "score": 141,
-      "comments": 26,
-      "date": "2026-11-10T20:58:44.000Z"
+      "score": 642,
+      "comments": 895,
+      "date": "2026-11-11T22:31:06.000Z"
     },
     {
-      "id": "hn-50445401",
-      "title": "Scion is back and is going to sell a kei truck in America",
-      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "id": "hn-50459485",
+      "title": "Lock Your GitHub Actions",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
       "source": "HackerNews",
-      "score": 344,
-      "comments": 258,
-      "date": "2026-11-10T19:50:46.000Z"
+      "score": 165,
+      "comments": 27,
+      "date": "2026-11-11T22:16:41.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "A Chromium Bug Caused by a 25-Hour Day",
-      "url": "https://www.reddit.com/r/programming/comments/1xsvulu/a_chromium_bug_caused_by_a_25hour_day/",
-      "source": "Reddit",
-      "date": "2026-11-10T19:15:19.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Benchmarking iOS builds on Apple silicon: newer chips beat extra cores",
-      "url": "https://www.reddit.com/r/programming/comments/1xsuvp3/benchmarking_ios_builds_on_apple_silicon_newer/",
-      "source": "Reddit",
-      "date": "2026-11-10T18:38:32.000Z"
-    },
-    {
-      "id": "hn-50444129",
-      "title": "Starlink Mini 2",
-      "url": "https://starlink.com/mini-2",
+      "id": "hn-50458900",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
       "source": "HackerNews",
-      "score": 262,
-      "comments": 267,
-      "date": "2026-11-10T18:22:32.000Z"
+      "score": 439,
+      "comments": 424,
+      "date": "2026-11-11T21:24:35.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Announcing .NET 11",
-      "url": "https://www.reddit.com/r/programming/comments/1xstxzv/announcing_net_11/",
-      "source": "Reddit",
-      "date": "2026-11-10T18:04:29.000Z"
-    },
-    {
-      "id": "hn-50443824",
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
-      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "id": "hn-50456791",
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
       "source": "HackerNews",
-      "score": 309,
-      "comments": 167,
-      "date": "2026-11-10T18:02:02.000Z"
+      "score": 306,
+      "comments": 98,
+      "date": "2026-11-11T18:32:42.000Z"
     },
     {
-      "id": "hn-50443427",
-      "title": "Val Town is winding down",
-      "url": "https://blog.val.town/winding-down",
+      "id": "hn-50456631",
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
       "source": "HackerNews",
-      "score": 315,
-      "comments": 82,
-      "date": "2026-11-10T17:31:14.000Z"
+      "score": 731,
+      "comments": 222,
+      "date": "2026-11-11T18:21:38.000Z"
     },
     {
-      "id": "hn-50442736",
-      "title": ".name Grandfathered",
-      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "id": "hn-50455394",
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
       "source": "HackerNews",
-      "score": 697,
-      "comments": 163,
-      "date": "2026-11-10T16:37:44.000Z"
+      "score": 435,
+      "comments": 222,
+      "date": "2026-11-11T16:38:44.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Why OpenSSH Accepts a Password It Shouldn’t | Patch Notes",
-      "url": "https://www.reddit.com/r/programming/comments/1xsqsrb/why_openssh_accepts_a_password_it_shouldnt_patch/",
-      "source": "Reddit",
-      "date": "2026-11-10T16:06:51.000Z"
-    },
-    {
-      "id": "hn-50441707",
-      "title": "Smart home devices should work without the internet",
-      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "id": "hn-50450488",
+      "title": "Tim Peters has died",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
       "source": "HackerNews",
-      "score": 732,
-      "comments": 260,
-      "date": "2026-11-10T15:25:20.000Z"
+      "score": 936,
+      "comments": 101,
+      "date": "2026-11-11T07:03:17.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Let Over Lambda book is now free to read online",
-      "url": "https://www.reddit.com/r/programming/comments/1xskt8m/let_over_lambda_book_is_now_free_to_read_online/",
-      "source": "Reddit",
-      "date": "2026-11-10T11:45:22.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Microservices can work for low-latency workloads",
-      "url": "https://www.reddit.com/r/programming/comments/1xskt6g/microservices_can_work_for_lowlatency_workloads/",
-      "source": "Reddit",
-      "date": "2026-11-10T11:45:16.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "A faster way to calculate the date of Easter",
-      "url": "https://www.reddit.com/r/programming/comments/1xsiojn/a_faster_way_to_calculate_the_date_of_easter/",
-      "source": "Reddit",
-      "date": "2026-11-10T09:36:42.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Decoding REXPaint Files in Odin",
-      "url": "https://www.reddit.com/r/programming/comments/1xse6zb/decoding_rexpaint_files_in_odin/",
-      "source": "Reddit",
-      "date": "2026-11-10T04:59:39.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How we reduced core unit boot time from hours to minutes",
-      "url": "https://www.reddit.com/r/programming/comments/1xs9ou9/how_we_reduced_core_unit_boot_time_from_hours_to/",
-      "source": "Reddit",
-      "date": "2026-11-10T01:13:15.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "C# 15: Union Types, Closed Hierarchies, and the One Value™ That Isn't Any of Them · cekrem.github.io",
-      "url": "https://www.reddit.com/r/programming/comments/1xrrmk7/c_15_union_types_closed_hierarchies_and_the_one/",
-      "source": "Reddit",
-      "date": "2026-11-09T13:27:16.000Z"
-    },
-    {
-      "id": "hn-50406224",
-      "title": "Hacking the Meta Ray-Ban smartglasses",
-      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+      "id": "hn-50428619",
+      "title": "Did Life Begin in an RNA World?",
+      "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
       "source": "HackerNews",
-      "score": 52,
-      "comments": 16,
-      "date": "2026-11-07T17:19:02.000Z"
+      "score": 16,
+      "comments": 2,
+      "date": "2026-11-09T17:27:24.000Z"
     }
   ]
 }
