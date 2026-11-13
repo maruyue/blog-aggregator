@@ -1,166 +1,236 @@
 {
-  "updatedAt": "2026-11-12T03:39:40.719Z",
-  "total": 20,
+  "updatedAt": "2026-11-13T03:15:07.072Z",
+  "total": 30,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Bring high-performance analytics to your lakehouse with ClickHouse and Amazon S3 Tables",
+      "url": "https://clickhouse.com/blog/clickhouse-amazon-s3-tables",
+      "source": "ClickHouse",
+      "date": "2026-11-13T03:15:06.542Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Announcing ClickHouse Observability - fully managed observability on ClickHouse Cloud",
       "url": "https://clickhouse.com/blog/announcing-clickhouse-observability",
       "source": "ClickHouse",
-      "date": "2026-11-12T03:39:40.719Z"
+      "date": "2026-11-13T03:15:06.542Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The largest expansion of ClickHouse yet",
       "url": "https://clickhouse.com/blog/announcing-clickhouse-platform-largest-expansion",
       "source": "ClickHouse",
-      "date": "2026-11-12T03:39:40.719Z"
+      "date": "2026-11-13T03:15:06.542Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Unifies Enterprise AI Data Stack with Launch of Expanded Platform",
       "url": "https://clickhouse.com/blog/clickhouse-unifies-enterprise-ai-data-stack",
       "source": "ClickHouse",
-      "date": "2026-11-12T03:39:40.719Z"
+      "date": "2026-11-13T03:15:06.542Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing ClickHouse Security in private preview, built on RunReveal",
       "url": "https://clickhouse.com/blog/introducing-clickhouse-security-agentic-siem",
       "source": "ClickHouse",
-      "date": "2026-11-12T03:39:40.719Z"
+      "date": "2026-11-13T03:15:06.542Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Langfuse launches AI Gateway",
       "url": "https://clickhouse.com/blog/langfuse-ai-gateway",
       "source": "ClickHouse",
-      "date": "2026-11-12T03:39:40.719Z"
+      "date": "2026-11-13T03:15:06.542Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The observability UI as we know it is dead. So what comes next?",
       "url": "https://clickhouse.com/blog/observability-ui-is-dead-whats-next",
       "source": "ClickHouse",
-      "date": "2026-11-12T03:39:40.719Z"
+      "date": "2026-11-13T03:15:06.542Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Managed Postgres goes GA and Xata acquisition brings agentic capabilities to the service",
       "url": "https://clickhouse.com/blog/managed-postgres-ga-xata-acquisition",
       "source": "ClickHouse",
-      "date": "2026-11-12T03:39:40.719Z"
+      "date": "2026-11-13T03:15:06.542Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "What I learned from a month with WalShadow on ClickHouse Managed Postgres",
       "url": "https://clickhouse.com/blog/a-month-with-walshadow-clickhouse-managed-postgres",
       "source": "ClickHouse",
-      "date": "2026-11-12T03:39:40.719Z"
+      "date": "2026-11-13T03:15:06.542Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse release 26.10",
       "url": "https://clickhouse.com/blog/clickhouse-release-26-10",
       "source": "ClickHouse",
-      "date": "2026-11-12T03:39:40.719Z"
+      "date": "2026-11-13T03:15:06.542Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "MongoDB CDC connector for ClickPipes is now generally available",
-      "url": "https://clickhouse.com/blog/mongodb-cdc-connector-clickpipes-ga",
-      "source": "ClickHouse",
-      "date": "2026-11-12T03:39:40.719Z"
-    },
-    {
-      "id": "hn-50462177",
-      "title": "Critical RCE Vulnerability in Apache HTTP Server",
-      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "id": "hn-50477331",
+      "title": "Africa's solar revolution is vast and speedy",
+      "url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy",
       "source": "HackerNews",
-      "score": 21,
-      "comments": 12,
-      "date": "2026-11-12T02:11:11.000Z"
+      "score": 45,
+      "comments": 2,
+      "date": "2026-11-13T02:28:15.000Z"
     },
     {
-      "id": "hn-50459745",
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "url": "https://www.mcmillen.dev/sigbovik/",
+      "id": "hn-50477231",
+      "title": "Nvidia employees petition to bring back Jensen Huang",
+      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "source": "HackerNews",
+      "score": 91,
+      "comments": 59,
+      "date": "2026-11-13T02:16:24.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "How Cloudflare uses QuePaxa—a leaderless, fault-detection-free consensus algorithm—for its global control plane",
+      "url": "https://www.reddit.com/r/programming/comments/1xuv4ux/how_cloudflare_uses_quepaxaa_leaderless/",
+      "source": "Reddit",
+      "date": "2026-11-13T01:45:17.000Z"
+    },
+    {
+      "id": "hn-50475713",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "source": "HackerNews",
+      "score": 84,
+      "comments": 19,
+      "date": "2026-11-12T23:06:17.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Proactive Measures Against Password Breaches and Cookie Hijacking",
+      "url": "https://www.reddit.com/r/programming/comments/1xupnmw/proactive_measures_against_password_breaches_and/",
+      "source": "Reddit",
+      "date": "2026-11-12T21:43:22.000Z"
+    },
+    {
+      "id": "hn-50474361",
+      "title": "Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "source": "HackerNews",
+      "score": 146,
+      "comments": 18,
+      "date": "2026-11-12T21:13:26.000Z"
+    },
+    {
+      "id": "hn-50472490",
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
       "source": "HackerNews",
       "score": 218,
-      "comments": 32,
-      "date": "2026-11-11T22:34:23.000Z"
+      "comments": 100,
+      "date": "2026-11-12T19:05:33.000Z"
     },
     {
-      "id": "hn-50459703",
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "id": "hn-50472260",
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
       "source": "HackerNews",
-      "score": 642,
-      "comments": 895,
-      "date": "2026-11-11T22:31:06.000Z"
+      "score": 331,
+      "comments": 82,
+      "date": "2026-11-12T18:52:01.000Z"
     },
     {
-      "id": "hn-50459485",
-      "title": "Lock Your GitHub Actions",
-      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "id": "hn-50472038",
+      "title": "Rust 1.100",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
       "source": "HackerNews",
-      "score": 165,
-      "comments": 27,
-      "date": "2026-11-11T22:16:41.000Z"
+      "score": 469,
+      "comments": 206,
+      "date": "2026-11-12T18:39:05.000Z"
     },
     {
-      "id": "hn-50458900",
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "id": "hn-50471731",
+      "title": "Service degradation on Microsoft 365",
+      "url": "https://status.cloud.microsoft/",
       "source": "HackerNews",
-      "score": 439,
-      "comments": 424,
-      "date": "2026-11-11T21:24:35.000Z"
+      "score": 566,
+      "comments": 527,
+      "date": "2026-11-12T18:20:48.000Z"
     },
     {
-      "id": "hn-50456791",
-      "title": "Gemini Decisions API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "source": "HackerNews",
-      "score": 306,
-      "comments": 98,
-      "date": "2026-11-11T18:32:42.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "exploit a 22 years old PostgreSQL composite-type vulnerability",
+      "url": "https://www.reddit.com/r/programming/comments/1xuk4d5/exploit_a_22_years_old_postgresql_compositetype/",
+      "source": "Reddit",
+      "date": "2026-11-12T18:12:49.000Z"
     },
     {
-      "id": "hn-50456631",
-      "title": "AWS emulator",
-      "url": "https://github.com/aws/aws-emulator",
+      "id": "hn-50470488",
+      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+      "url": "https://github.com/simpsoka/zigzag",
       "source": "HackerNews",
-      "score": 731,
-      "comments": 222,
-      "date": "2026-11-11T18:21:38.000Z"
+      "score": 369,
+      "comments": 146,
+      "date": "2026-11-12T17:02:42.000Z"
     },
     {
-      "id": "hn-50455394",
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "source": "HackerNews",
-      "score": 435,
-      "comments": 222,
-      "date": "2026-11-11T16:38:44.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Building Barista: Formal Verification and TLA+",
+      "url": "https://www.reddit.com/r/programming/comments/1xufafk/building_barista_formal_verification_and_tla/",
+      "source": "Reddit",
+      "date": "2026-11-12T15:12:25.000Z"
     },
     {
-      "id": "hn-50450488",
-      "title": "Tim Peters has died",
-      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "id": "hn-50467087",
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
       "source": "HackerNews",
-      "score": 936,
-      "comments": 101,
-      "date": "2026-11-11T07:03:17.000Z"
+      "score": 3076,
+      "comments": 2875,
+      "date": "2026-11-12T13:52:29.000Z"
     },
     {
-      "id": "hn-50428619",
-      "title": "Did Life Begin in an RNA World?",
-      "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
-      "source": "HackerNews",
-      "score": 16,
-      "comments": 2,
-      "date": "2026-11-09T17:27:24.000Z"
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "C3 0.8.6 released: Library fetching, 30% smaller safe-mode binaries, and stricter type rules",
+      "url": "https://www.reddit.com/r/programming/comments/1xuci0t/c3_086_released_library_fetching_30_smaller/",
+      "source": "Reddit",
+      "date": "2026-11-12T13:16:09.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "This Turkish Letter Keeps Breaking the World's Software - YouTube",
+      "url": "https://www.reddit.com/r/programming/comments/1xu79k2/this_turkish_letter_keeps_breaking_the_worlds/",
+      "source": "Reddit",
+      "date": "2026-11-12T08:15:24.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Lean explained with TypeScript",
+      "url": "https://www.reddit.com/r/programming/comments/1xu6252/lean_explained_with_typescript/",
+      "source": "Reddit",
+      "date": "2026-11-12T07:00:41.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Rust's Type System is All You Need",
+      "url": "https://www.reddit.com/r/programming/comments/1xtvkph/rusts_type_system_is_all_you_need/",
+      "source": "Reddit",
+      "date": "2026-11-11T22:22:44.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "eMudhra's official incident report on how they ended up with private key 4",
+      "url": "https://www.reddit.com/r/programming/comments/1xtrm8s/emudhras_official_incident_report_on_how_they/",
+      "source": "Reddit",
+      "date": "2026-11-11T19:46:16.000Z"
+    },
+    {
+      "id": "reddit-aHR0cHM6Ly93",
+      "title": "Google Search's foundational PageRank patent has expired. What will be the impact of this",
+      "url": "https://www.reddit.com/r/programming/comments/1xtmzs5/google_searchs_foundational_pagerank_patent_has/",
+      "source": "Reddit",
+      "date": "2026-11-11T16:56:23.000Z"
     }
   ]
 }
