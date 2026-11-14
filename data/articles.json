@@ -1,236 +1,166 @@
 {
-  "updatedAt": "2026-11-13T03:15:07.072Z",
-  "total": 30,
+  "updatedAt": "2026-11-14T02:56:12.646Z",
+  "total": 20,
   "articles": [
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Introducing Loom: agent memory that keeps up with your code",
+      "url": "https://clickhouse.com/blog/introducing-loom-agent-memory-that-keeps-up-with-your-code",
+      "source": "ClickHouse",
+      "date": "2026-11-14T02:56:12.646Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "SET allow_preview_features = 1: Self-service previews in ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/self-service-previews-in-clickhouse-cloud",
+      "source": "ClickHouse",
+      "date": "2026-11-14T02:56:12.646Z"
+    },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Bring high-performance analytics to your lakehouse with ClickHouse and Amazon S3 Tables",
       "url": "https://clickhouse.com/blog/clickhouse-amazon-s3-tables",
       "source": "ClickHouse",
-      "date": "2026-11-13T03:15:06.542Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "Announcing ClickHouse Observability - fully managed observability on ClickHouse Cloud",
-      "url": "https://clickhouse.com/blog/announcing-clickhouse-observability",
-      "source": "ClickHouse",
-      "date": "2026-11-13T03:15:06.542Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "The largest expansion of ClickHouse yet",
-      "url": "https://clickhouse.com/blog/announcing-clickhouse-platform-largest-expansion",
-      "source": "ClickHouse",
-      "date": "2026-11-13T03:15:06.542Z"
+      "date": "2026-11-14T02:56:12.646Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Unifies Enterprise AI Data Stack with Launch of Expanded Platform",
       "url": "https://clickhouse.com/blog/clickhouse-unifies-enterprise-ai-data-stack",
       "source": "ClickHouse",
-      "date": "2026-11-13T03:15:06.542Z"
+      "date": "2026-11-14T02:56:12.646Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "Announcing ClickHouse Observability - fully managed observability on ClickHouse Cloud",
+      "url": "https://clickhouse.com/blog/announcing-clickhouse-observability",
+      "source": "ClickHouse",
+      "date": "2026-11-14T02:56:12.646Z"
+    },
+    {
+      "id": "ch-aHR0cHM6Ly9j",
+      "title": "The largest expansion of ClickHouse yet",
+      "url": "https://clickhouse.com/blog/announcing-clickhouse-platform-largest-expansion",
+      "source": "ClickHouse",
+      "date": "2026-11-14T02:56:12.646Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Introducing ClickHouse Security in private preview, built on RunReveal",
       "url": "https://clickhouse.com/blog/introducing-clickhouse-security-agentic-siem",
       "source": "ClickHouse",
-      "date": "2026-11-13T03:15:06.542Z"
+      "date": "2026-11-14T02:56:12.646Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "Langfuse launches AI Gateway",
       "url": "https://clickhouse.com/blog/langfuse-ai-gateway",
       "source": "ClickHouse",
-      "date": "2026-11-13T03:15:06.542Z"
+      "date": "2026-11-14T02:56:12.646Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "The observability UI as we know it is dead. So what comes next?",
       "url": "https://clickhouse.com/blog/observability-ui-is-dead-whats-next",
       "source": "ClickHouse",
-      "date": "2026-11-13T03:15:06.542Z"
+      "date": "2026-11-14T02:56:12.646Z"
     },
     {
       "id": "ch-aHR0cHM6Ly9j",
       "title": "ClickHouse Managed Postgres goes GA and Xata acquisition brings agentic capabilities to the service",
       "url": "https://clickhouse.com/blog/managed-postgres-ga-xata-acquisition",
       "source": "ClickHouse",
-      "date": "2026-11-13T03:15:06.542Z"
+      "date": "2026-11-14T02:56:12.646Z"
     },
     {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "What I learned from a month with WalShadow on ClickHouse Managed Postgres",
-      "url": "https://clickhouse.com/blog/a-month-with-walshadow-clickhouse-managed-postgres",
-      "source": "ClickHouse",
-      "date": "2026-11-13T03:15:06.542Z"
-    },
-    {
-      "id": "ch-aHR0cHM6Ly9j",
-      "title": "ClickHouse release 26.10",
-      "url": "https://clickhouse.com/blog/clickhouse-release-26-10",
-      "source": "ClickHouse",
-      "date": "2026-11-13T03:15:06.542Z"
-    },
-    {
-      "id": "hn-50477331",
-      "title": "Africa's solar revolution is vast and speedy",
-      "url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy",
+      "id": "hn-50492860",
+      "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
+      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
       "source": "HackerNews",
-      "score": 45,
-      "comments": 2,
-      "date": "2026-11-13T02:28:15.000Z"
+      "score": 11,
+      "comments": 1,
+      "date": "2026-11-14T02:02:42.000Z"
     },
     {
-      "id": "hn-50477231",
-      "title": "Nvidia employees petition to bring back Jensen Huang",
-      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "id": "hn-50492601",
+      "title": "FAA lifted National Ground Stop at 0119Z",
+      "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
       "source": "HackerNews",
-      "score": 91,
-      "comments": 59,
-      "date": "2026-11-13T02:16:24.000Z"
+      "score": 152,
+      "comments": 144,
+      "date": "2026-11-14T01:30:01.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "How Cloudflare uses QuePaxa—a leaderless, fault-detection-free consensus algorithm—for its global control plane",
-      "url": "https://www.reddit.com/r/programming/comments/1xuv4ux/how_cloudflare_uses_quepaxaa_leaderless/",
-      "source": "Reddit",
-      "date": "2026-11-13T01:45:17.000Z"
-    },
-    {
-      "id": "hn-50475713",
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "id": "hn-50492456",
+      "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+      "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
       "source": "HackerNews",
-      "score": 84,
-      "comments": 19,
-      "date": "2026-11-12T23:06:17.000Z"
+      "score": 157,
+      "comments": 43,
+      "date": "2026-11-14T01:10:22.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Proactive Measures Against Password Breaches and Cookie Hijacking",
-      "url": "https://www.reddit.com/r/programming/comments/1xupnmw/proactive_measures_against_password_breaches_and/",
-      "source": "Reddit",
-      "date": "2026-11-12T21:43:22.000Z"
-    },
-    {
-      "id": "hn-50474361",
-      "title": "Foundation Models framework",
-      "url": "https://developer.apple.com/foundation-models-framework/",
+      "id": "hn-50492315",
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
       "source": "HackerNews",
-      "score": 146,
-      "comments": 18,
-      "date": "2026-11-12T21:13:26.000Z"
+      "score": 122,
+      "comments": 39,
+      "date": "2026-11-14T00:52:29.000Z"
     },
     {
-      "id": "hn-50472490",
-      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "id": "hn-50492141",
+      "title": "Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
+      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
       "source": "HackerNews",
-      "score": 218,
-      "comments": 100,
-      "date": "2026-11-12T19:05:33.000Z"
+      "score": 40,
+      "comments": 27,
+      "date": "2026-11-14T00:28:11.000Z"
     },
     {
-      "id": "hn-50472260",
-      "title": "Gemini 4 Hydrogen and Orchestrator",
-      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "id": "hn-50491830",
+      "title": "What Happened to 3Com?",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
       "source": "HackerNews",
-      "score": 331,
-      "comments": 82,
-      "date": "2026-11-12T18:52:01.000Z"
+      "score": 61,
+      "comments": 30,
+      "date": "2026-11-13T23:48:59.000Z"
     },
     {
-      "id": "hn-50472038",
-      "title": "Rust 1.100",
-      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "id": "hn-50491423",
+      "title": "Terminal borders that don't cost a cell",
+      "url": "https://www.joshka.net/cell-borders/",
       "source": "HackerNews",
-      "score": 469,
-      "comments": 206,
-      "date": "2026-11-12T18:39:05.000Z"
+      "score": 94,
+      "comments": 52,
+      "date": "2026-11-13T23:06:40.000Z"
     },
     {
-      "id": "hn-50471731",
-      "title": "Service degradation on Microsoft 365",
-      "url": "https://status.cloud.microsoft/",
+      "id": "hn-50490593",
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
       "source": "HackerNews",
-      "score": 566,
-      "comments": 527,
-      "date": "2026-11-12T18:20:48.000Z"
+      "score": 220,
+      "comments": 51,
+      "date": "2026-11-13T22:04:24.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "exploit a 22 years old PostgreSQL composite-type vulnerability",
-      "url": "https://www.reddit.com/r/programming/comments/1xuk4d5/exploit_a_22_years_old_postgresql_compositetype/",
-      "source": "Reddit",
-      "date": "2026-11-12T18:12:49.000Z"
-    },
-    {
-      "id": "hn-50470488",
-      "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-      "url": "https://github.com/simpsoka/zigzag",
+      "id": "hn-50489641",
+      "title": "FAA issues national ground stop",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
       "source": "HackerNews",
-      "score": 369,
-      "comments": 146,
-      "date": "2026-11-12T17:02:42.000Z"
+      "score": 1360,
+      "comments": 837,
+      "date": "2026-11-13T21:05:53.000Z"
     },
     {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Building Barista: Formal Verification and TLA+",
-      "url": "https://www.reddit.com/r/programming/comments/1xufafk/building_barista_formal_verification_and_tla/",
-      "source": "Reddit",
-      "date": "2026-11-12T15:12:25.000Z"
-    },
-    {
-      "id": "hn-50467087",
-      "title": "Jensen Huang resigns",
-      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "id": "hn-50474959",
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
       "source": "HackerNews",
-      "score": 3076,
-      "comments": 2875,
-      "date": "2026-11-12T13:52:29.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "C3 0.8.6 released: Library fetching, 30% smaller safe-mode binaries, and stricter type rules",
-      "url": "https://www.reddit.com/r/programming/comments/1xuci0t/c3_086_released_library_fetching_30_smaller/",
-      "source": "Reddit",
-      "date": "2026-11-12T13:16:09.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "This Turkish Letter Keeps Breaking the World's Software - YouTube",
-      "url": "https://www.reddit.com/r/programming/comments/1xu79k2/this_turkish_letter_keeps_breaking_the_worlds/",
-      "source": "Reddit",
-      "date": "2026-11-12T08:15:24.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Lean explained with TypeScript",
-      "url": "https://www.reddit.com/r/programming/comments/1xu6252/lean_explained_with_typescript/",
-      "source": "Reddit",
-      "date": "2026-11-12T07:00:41.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Rust's Type System is All You Need",
-      "url": "https://www.reddit.com/r/programming/comments/1xtvkph/rusts_type_system_is_all_you_need/",
-      "source": "Reddit",
-      "date": "2026-11-11T22:22:44.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "eMudhra's official incident report on how they ended up with private key 4",
-      "url": "https://www.reddit.com/r/programming/comments/1xtrm8s/emudhras_official_incident_report_on_how_they/",
-      "source": "Reddit",
-      "date": "2026-11-11T19:46:16.000Z"
-    },
-    {
-      "id": "reddit-aHR0cHM6Ly93",
-      "title": "Google Search's foundational PageRank patent has expired. What will be the impact of this",
-      "url": "https://www.reddit.com/r/programming/comments/1xtmzs5/google_searchs_foundational_pagerank_patent_has/",
-      "source": "Reddit",
-      "date": "2026-11-11T16:56:23.000Z"
+      "score": 688,
+      "comments": 200,
+      "date": "2026-11-12T22:03:09.000Z"
     }
   ]
 }
